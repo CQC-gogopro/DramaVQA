@@ -8,7 +8,7 @@ DramaVQA is a video question answering benchmark for evaluating detailed underst
 
 ## Overview
 
-The full single-point evaluation set contains **20,000 multiple-choice questions across 12 TV dramas**, covering approximately **466 hours** of video. Each question has one correct answer among 2–8 options. Questions are checked for uniqueness within the entire drama, allowing the same question to be evaluated with progressively longer video inputs. The project also provides a **2,000-question single-point Mini subset**, multi-point questions, a directory for multi-hop questions, and a training set covering **three additional TV dramas**.
+The full single-point evaluation set contains **20,000 multiple-choice questions across 12 TV dramas**, covering approximately **466 hours** of video. Each question has one correct answer among 2–8 options. Questions are checked for uniqueness within the entire drama, allowing the same question to be evaluated with progressively longer video inputs. The project also provides a **2,000-question single-point Mini subset**, multi-point questions, multi-hop questions, and a training set covering **three additional TV dramas**.
 
 Key features include:
 
@@ -71,7 +71,7 @@ All question-data paths below are relative to the project root:
 | Single-point Full | [`DramaVQA/Bench_Data/`](DramaVQA/Bench_Data/) | Full single-point evaluation set with **20,000 questions** |
 | Single-point Mini | [`DramaVQA/Bench_Data_mini_2000/`](DramaVQA/Bench_Data_mini_2000/) | Single-point Mini subset with **2,000 questions** |
 | Multi-point | [`DramaVQA/Multi-Point/`](DramaVQA/Multi-Point/) | Multi-point questions |
-| Multi-hop | [`DramaVQA/Multi-Hop/`](DramaVQA/Multi-Hop/) | Directory for multi-hop questions; question files are pending |
+| Multi-hop | [`DramaVQA/Multi-Hop/`](DramaVQA/Multi-Hop/) | Multi-hop questions |
 | Training | [`DramaVQA/Training_Set/`](DramaVQA/Training_Set/) | Training questions from **three additional dramas**, separate from the 12 evaluation dramas |
 
 The training set contains `downton_abbey.json` (*Downton Abbey*), `ren_shi_jian.json` (*A Lifelong Journey*), and `zhen_huan_zhuan.json` (*Empresses in the Palace*).
@@ -119,7 +119,7 @@ DramaVQA/
 │   ├── Bench_Data/           # Single-point Full set (20K questions)
 │   ├── Bench_Data_mini_2000/  # Single-point Mini subset (2K questions)
 │   ├── Multi-Point/          # Multi-point questions
-│   ├── Multi-Hop/            # Multi-hop questions (files pending)
+│   ├── Multi-Hop/            # Multi-hop questions
 │   └── Training_Set/         # Training questions from three additional dramas
 └── evaluation/               # Directory for evaluation code
     └── README.md             # Evaluation protocol and implementation status
