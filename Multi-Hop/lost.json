@@ -1,0 +1,3902 @@
+[
+  {
+    "Answer": "D",
+    "Dimension": "Position Comparison",
+    "Question": "In the diner, the character is identified by a green floral blouse and black-rimmed glasses. What color coat is this person wearing in the opening scene in the cozy living room?",
+    "Options": "A. Brown\nB. Gray\nC. Blue\nD. White\nE. Black\nF. Pink",
+    "src_questions_info": {
+      "Bridge_Character": "Cassidy Phillips",
+      "Question": [
+        "In the diner, who is the character identified by their green floral blouse and black-rimmed glasses?",
+        "In the opening scene in the cozy living room, what color coat is Cassidy Phillips wearing?"
+      ],
+      "Options": [
+        "A. A customer at the counter\nB. Diane Janssen\nC. The diner owner's wife\nD. Juliet Burke\nE. A woman in a food poster\nF. Kate Austen\nG. Cassidy Phillips",
+        "A. Brown\nB. Gray\nC. Blue\nD. White\nE. Black\nF. Pink"
+      ],
+      "Answers": [
+        "G",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Position Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0015-00:27:40.930_S3#0015-00:30:46.491",
+          "L2_frame": "S3#0015-39822_S3#0015-44271",
+          "L3_time": "S3#0015-00:23:52.953_S3#0015-00:30:46.491",
+          "L3_frame": "S3#0015-34356_S3#0015-44271"
+        },
+        {
+          "L2_time": "S3#0015-00:00:00.000_S3#0015-00:01:12.969",
+          "L2_frame": "S3#0015-00000_S3#0015-01749",
+          "L3_time": "S3#0015-00:00:00.000_S3#0015-00:07:50.658",
+          "L3_frame": "S3#0015-00000_S3#0015-11284"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Event Background",
+    "Question": "After Jin-Soo Kwon is stunned by the revelation of the year, a dark-haired character approaches and asks what's wrong. According to this person's attempt to calm Danielle down, what specific type of structure was the so-called 'monster' actually a security system for?",
+    "Options": "A. A military bunker\nB. A temple\nC. A research station\nD. A shipwreck\nE. A communications tower\nF. A lighthouse\nG. An underground hatch",
+    "src_questions_info": {
+      "Bridge_Character": "Robert",
+      "Question": [
+        "After Jin-Soo Kwon is stunned by the revelation of the year, which character with dark hair approaches and asks what's wrong?",
+        "According to Robert's attempt to calm Danielle down, what specific type of structure was the so-called 'monster' actually a security system for?"
+      ],
+      "Options": [
+        "A. A survivor sorting gear\nB. No one approaches him\nC. Robert\nD. Danielle\nE. The watchman\nF. Montand",
+        "A. A military bunker\nB. A temple\nC. A research station\nD. A shipwreck\nE. A communications tower\nF. A lighthouse\nG. An underground hatch"
+      ],
+      "Answers": [
+        "C",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Event Background"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0005-00:03:13.339_S5#0005-00:04:16.610",
+          "L2_frame": "S5#0005-04635_S5#0005-06152",
+          "L3_time": "S5#0005-00:00:53.157_S5#0005-00:05:37.525",
+          "L3_frame": "S5#0005-01274_S5#0005-08092"
+        },
+        {
+          "L2_time": "S5#0005-00:13:39.297_S5#0005-00:15:24.235",
+          "L2_frame": "S5#0005-19643_S5#0005-22159",
+          "L3_time": "S5#0005-00:13:39.297_S5#0005-00:18:47.438",
+          "L3_frame": "S5#0005-19643_S5#0005-27031"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Body Movement",
+    "Question": "During the golf game where betting escalates, a character is identified by a grey shirt with a specific foreign language printed on it. In the scene where Shannon is painting her toenails, what does this person do that shows his concern for her?",
+    "Options": "A. Bringing her a warmer blanket\nB. Sitting quietly beside her, watching her\nC. Offering her a drink of water\nD. Talking to her softly\nE. Standing guard over her",
+    "src_questions_info": {
+      "Bridge_Character": "Boone Carlyle",
+      "Question": [
+        "During the golf game where betting escalates, which character is identified by a grey shirt with a specific foreign language printed on it?",
+        "In the scene where Shannon is painting her toenails, what does Boone Carlyle do that shows his concern for her?"
+      ],
+      "Options": [
+        "A. Jack Shephard\nB. Michael Dawson\nC. Charlie Pace\nD. Sullivan\nE. James 'Sawyer' Ford\nF. Boone Carlyle\nG. Hugo 'Hurley' Reyes",
+        "A. Bringing her a warmer blanket\nB. Sitting quietly beside her, watching her\nC. Offering her a drink of water\nD. Talking to her softly\nE. Standing guard over her"
+      ],
+      "Answers": [
+        "F",
+        "B"
+      ],
+      "Dimension": [
+        "Character Clothing",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0009-00:40:17.061_S1#0009-00:41:01.647",
+          "L2_frame": "S1#0009-57951_S1#0009-59020",
+          "L3_time": "S1#0009-00:39:35.477_S1#0009-00:42:29.485",
+          "L3_frame": "S1#0009-56954_S1#0009-61126"
+        },
+        {
+          "L2_time": "S1#0001-00:15:02.297_S1#0001-00:15:44.381",
+          "L2_frame": "S1#0001-21633_S1#0001-22642",
+          "L3_time": "S1#0001-00:12:35.901_S1#0001-00:17:32.864",
+          "L3_frame": "S1#0001-18123_S1#0001-25243"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Event Summary",
+    "Question": "In the diner, a woman in a green floral blouse and black-rimmed glasses is identified. This person reveals her identity and the contents of her suitcase; what is her stated reason for being at Diane Janssen's home?",
+    "Options": "A. She is looking for a lost pet\nB. She is an old friend of Diane's\nC. She is a census taker\nD. She is selling bibles\nE. She is delivering a package\nF. She is a private investigator\nG. She has the wrong address",
+    "src_questions_info": {
+      "Bridge_Character": "Cassidy Phillips",
+      "Question": [
+        "In the diner, who is the character identified by their green floral blouse and black-rimmed glasses?",
+        "After the woman, Cassidy Phillips, reveals her identity and the contents of her suitcase, what is her stated reason for being at Diane Janssen's home?"
+      ],
+      "Options": [
+        "A. A customer at the counter\nB. Diane Janssen\nC. The diner owner's wife\nD. Juliet Burke\nE. A woman in a food poster\nF. Kate Austen\nG. Cassidy Phillips",
+        "A. She is looking for a lost pet\nB. She is an old friend of Diane's\nC. She is a census taker\nD. She is selling bibles\nE. She is delivering a package\nF. She is a private investigator\nG. She has the wrong address"
+      ],
+      "Answers": [
+        "G",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Event Summary"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0015-00:27:40.930_S3#0015-00:30:46.491",
+          "L2_frame": "S3#0015-39822_S3#0015-44271",
+          "L3_time": "S3#0015-00:23:52.953_S3#0015-00:30:46.491",
+          "L3_frame": "S3#0015-34356_S3#0015-44271"
+        },
+        {
+          "L2_time": "S3#0015-00:16:01.773_S3#0015-00:17:00.165",
+          "L2_frame": "S3#0015-23059_S3#0015-24459",
+          "L3_time": "S3#0015-00:13:51.143_S3#0015-00:23:52.911",
+          "L3_frame": "S3#0015-19927_S3#0015-34355"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Textual Content",
+    "Question": "As Ana Lucia creaks open the vine-concealed wooden door in the jungle, a person is revealed inside, peering out with a look of wary curiosity. This person steps forward in the shelter to correct Dr. Faraday—what is the first part of the actual Morse code message that he reveals to the group?",
+    "Options": "A. 'The doctor was fine.'\nB. 'Who is this?'\nC. 'We are coming back.'\nD. 'What are you talking about?'\nE. 'Stand by for instructions.'\nF. 'Help is on the way.'\nG. 'Do not trust him.'",
+    "src_questions_info": {
+      "Bridge_Character": "Bernard Nadler",
+      "Question": [
+        "As Ana Lucia creaks open the vine-concealed wooden door in the jungle, who is revealed inside, peering out with a look of wary curiosity?",
+        "After Bernard Nadler steps forward in the shelter to correct Dr. Faraday, what is the first part of the actual Morse code message that he reveals to the group?"
+      ],
+      "Options": [
+        "A. Mr. Eko\nB. Libby Smith\nC. Cindy Chandler\nD. Jin-Soo Kwon\nE. Bernard Nadler\nF. Michael Dawson",
+        "A. 'The doctor was fine.'\nB. 'Who is this?'\nC. 'We are coming back.'\nD. 'What are you talking about?'\nE. 'Stand by for instructions.'\nF. 'Help is on the way.'\nG. 'Do not trust him.'"
+      ],
+      "Answers": [
+        "E",
+        "D"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Textual Content"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0007-00:43:42.432_S2#0007-00:44:34.234",
+          "L2_frame": "S2#0007-62875_S2#0007-64117",
+          "L3_time": "S2#0007-00:37:37.151_S2#0007-00:44:34.234",
+          "L3_frame": "S2#0007-54117_S2#0007-64117"
+        },
+        {
+          "L2_time": "S4#0009-00:33:00.331_S4#0009-00:34:12.695",
+          "L2_frame": "S4#0009-47480_S4#0009-49215",
+          "L3_time": "S4#0009-00:27:45.517_S4#0009-00:34:12.695",
+          "L3_frame": "S4#0009-39932_S4#0009-49215"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Action Claim Subject",
+    "Question": "After realizing that the plan to return had succeeded, on the cliffside this person urgently demanded to know the whereabouts of Locke. In the jungle clearing, after he learns Mr. Eko's name and repeats it, what specific humorous comparison does he make?",
+    "Options": "A. He compares him to a character from a famous detective novel\nB. He compares him to a silent film star\nC. He compares him to a famous historical general\nD. He compares him to a robot from a science fiction show\nE. He compares him to a talking donkey from a children's movie\nF. He says his name sounds like Mr. ED\nG. He compares him to a magician from a fantasy epic",
+    "src_questions_info": {
+      "Bridge_Character": "James Sawyer Ford",
+      "Question": [
+        "After realizing that the plan to return had succeeded, which character on the cliffside urgently demanded to know the whereabouts of Locke?",
+        "In the jungle clearing, after James Sawyer Ford learns Mr. Eko's name and repeats it, what specific humorous comparison does he make?"
+      ],
+      "Options": [
+        "A. Jin-Soo Kwon\nB. Kate Austen\nC. The entire group simultaneously\nD. Dr. Jack Shephard\nE. James Sawyer Ford\nF. Hugo Hurley Reyes",
+        "A. He compares him to a character from a famous detective novel\nB. He compares him to a silent film star\nC. He compares him to a famous historical general\nD. He compares him to a robot from a science fiction show\nE. He compares him to a talking donkey from a children's movie\nF. He says his name sounds like Mr. ED\nG. He compares him to a magician from a fantasy epic"
+      ],
+      "Answers": [
+        "E",
+        "F"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Action Claim Subject"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0009-00:05:33.896_S5#0009-00:06:35.583",
+          "L2_frame": "S5#0009-08005_S5#0009-09484",
+          "L3_time": "S5#0009-00:04:33.294_S5#0009-00:10:51.755",
+          "L3_frame": "S5#0009-06552_S5#0009-15626"
+        },
+        {
+          "L2_time": "S2#0005-00:13:09.935_S2#0005-00:13:51.268",
+          "L2_frame": "S2#0005-18939_S2#0005-19930",
+          "L3_time": "S2#0005-00:11:48.562_S2#0005-00:20:03.849",
+          "L3_frame": "S2#0005-16988_S2#0005-28863"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Action Claim Subject",
+    "Question": "Amid the uproar in the temple courtyard after Sayid is taken, this person storms into the scene with a pistol raised in an attempt to restore order. This person was violently attacked following the revelation about the prison break in the jungle, with another character watching in shock — who struck him?",
+    "Options": "A. Jin-Soo Kwon\nB. Justin\nC. Hugo ‘Hurley’ Reyes\nD. Kate Austen\nE. An unseen assailant\nF. Sayid Jarrah",
+    "src_questions_info": {
+      "Bridge_Character": "Aldo",
+      "Question": [
+        "Amid the uproar in the temple courtyard after Sayid is taken, who storms into the scene with a pistol raised in an attempt to restore order?",
+        "Following the revelation about the prison break in the jungle, who violently attacked Aldo, striking him as another character watched in shock?"
+      ],
+      "Options": [
+        "A. Aldo\nB. Jin-Soo Kwon\nC. Sawyer\nD. Lennon\nE. A temple guard\nF. Dogen\nG. Jack Shephard",
+        "A. Jin-Soo Kwon\nB. Justin\nC. Hugo ‘Hurley’ Reyes\nD. Kate Austen\nE. An unseen assailant\nF. Sayid Jarrah"
+      ],
+      "Answers": [
+        "A",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Action Claim Subject"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0003-00:06:57.814_S6#0003-00:08:09.844",
+          "L2_frame": "S6#0003-10017_S6#0003-11744",
+          "L3_time": "S6#0003-00:04:14.901_S6#0003-00:08:09.844",
+          "L3_frame": "S6#0003-06111_S6#0003-11744"
+        },
+        {
+          "L2_time": "S6#0003-00:16:18.041_S6#0003-00:17:43.126",
+          "L2_frame": "S6#0003-23449_S6#0003-25489",
+          "L3_time": "S6#0003-00:15:11.266_S6#0003-00:20:24.371",
+          "L3_frame": "S6#0003-21848_S6#0003-29355"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Position Comparison",
+    "Question": "In the tense kitchen scene, after discussing the loan, the person who declares that Omer brought the situation upon himself is the one to identify. According to this person's testimony during the interrogation, on which part of her body were drills used as a method of torture?",
+    "Options": "A. On her hands\nB. On her feet\nC. On her shoulders\nD. On her knees\nE. On her back\nF. On her teeth",
+    "src_questions_info": {
+      "Bridge_Character": "Nadia",
+      "Question": [
+        "In the tense kitchen scene, after discussing the loan, who declares that Omer brought the situation upon himself?",
+        "According to Nadia's testimony during the interrogation, on which part of her body were drills used as a method of torture?"
+      ],
+      "Options": [
+        "A. Nadia\nB. Sayid\nC. Omer's doctor\nD. Sayid's father\nE. The narrator\nF. A debt collector\nG. The children",
+        "A. On her hands\nB. On her feet\nC. On her shoulders\nD. On her knees\nE. On her back\nF. On her teeth"
+      ],
+      "Answers": [
+        "A",
+        "A"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Position Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0006-00:21:27.976_S6#0006-00:22:06.598",
+          "L2_frame": "S6#0006-30880_S6#0006-31806",
+          "L3_time": "S6#0006-00:17:26.652_S6#0006-00:22:54.563",
+          "L3_frame": "S6#0006-25094_S6#0006-32956"
+        },
+        {
+          "L2_time": "S1#0009-00:14:55.582_S1#0009-00:15:46.633",
+          "L2_frame": "S1#0009-21472_S1#0009-22696",
+          "L3_time": "S1#0009-00:12:26.850_S1#0009-00:20:09.438",
+          "L3_frame": "S1#0009-17906_S1#0009-28997"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Temporal Sequence",
+    "Question": "As Ana Lucia creaks open the vine-concealed wooden door in the jungle, a person is revealed inside, peering out with a look of wary curiosity. Before this person stepped forward to expose the lie in the jungle shelter, what specific claim had Dr. Faraday just made to the group?",
+    "Options": "A. That everyone needed to remain calm\nB. That the Morse code message was a promise of rescue\nC. That the helicopter would return in the morning\nD. That he knew where to find fresh water\nE. That the doctor on the other end was a friend\nF. That he had fixed the radio",
+    "src_questions_info": {
+      "Bridge_Character": "Bernard Nadler",
+      "Question": [
+        "As Ana Lucia creaks open the vine-concealed wooden door in the jungle, who is revealed inside, peering out with a look of wary curiosity?",
+        "Before Bernard Nadler stepped forward to expose the lie in the jungle shelter, what specific claim had Dr. Faraday just made to the group?"
+      ],
+      "Options": [
+        "A. Mr. Eko\nB. Libby Smith\nC. Cindy Chandler\nD. Jin-Soo Kwon\nE. Bernard Nadler\nF. Michael Dawson",
+        "A. That everyone needed to remain calm\nB. That the Morse code message was a promise of rescue\nC. That the helicopter would return in the morning\nD. That he knew where to find fresh water\nE. That the doctor on the other end was a friend\nF. That he had fixed the radio"
+      ],
+      "Answers": [
+        "E",
+        "C"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Temporal Sequence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0007-00:43:42.432_S2#0007-00:44:34.234",
+          "L2_frame": "S2#0007-62875_S2#0007-64117",
+          "L3_time": "S2#0007-00:37:37.151_S2#0007-00:44:34.234",
+          "L3_frame": "S2#0007-54117_S2#0007-64117"
+        },
+        {
+          "L2_time": "S4#0009-00:33:00.331_S4#0009-00:34:12.695",
+          "L2_frame": "S4#0009-47480_S4#0009-49215",
+          "L3_time": "S4#0009-00:27:45.517_S4#0009-00:34:12.695",
+          "L3_frame": "S4#0009-39932_S4#0009-49215"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Human-Object Relation",
+    "Question": "After Locke dismisses the idea of a rescue, this person is left standing alone and confused on the trail, echoing the word \"bear.\" When he is first seen by James Sawyer Ford, what is he using a piece of driftwood for?",
+    "Options": "A. To hang clothes on\nB. As a bench to sit on\nC. To build a shelter\nD. As a weapon for defense\nE. To stoke a fire\nF. To draw in the sand",
+    "src_questions_info": {
+      "Bridge_Character": "Hugo Hurley Reyes",
+      "Question": [
+        "After Locke dismisses the idea of a rescue, who is left standing alone and confused on the trail, echoing the word 'bear'?",
+        "When Hugo Hurley Reyes is first seen by James Sawyer Ford, what is he using a piece of driftwood for?"
+      ],
+      "Options": [
+        "A. Kate Austen\nB. John Locke\nC. Henry\nD. Mr. Eko\nE. Jack Shephard\nF. Charlie Pace\nG. Hugo Hurley Reyes",
+        "A. To hang clothes on\nB. As a bench to sit on\nC. To build a shelter\nD. As a weapon for defense\nE. To stoke a fire\nF. To draw in the sand"
+      ],
+      "Answers": [
+        "G",
+        "A"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Human-Object Relation"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0003-00:20:59.112_S3#0003-00:22:04.302",
+          "L2_frame": "S3#0003-30188_S3#0003-31751",
+          "L3_time": "S3#0003-00:16:16.455_S3#0003-00:22:58.189",
+          "L3_frame": "S3#0003-23411_S3#0003-33043"
+        },
+        {
+          "L2_time": "S3#0015-00:11:59.949_S3#0015-00:13:51.101",
+          "L2_frame": "S3#0015-17261_S3#0015-19926",
+          "L3_time": "S3#0015-00:07:50.700_S3#0015-00:13:51.101",
+          "L3_frame": "S3#0015-11285_S3#0015-19926"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Object Counting",
+    "Question": "When Ilana Verdansky burst through the wooden door, she immediately confronted and interrogated a disoriented and trembling individual. After Dr. Faraday and this person arrive, what is the total number of people present in the living room?",
+    "Options": "A. 6\nB. 5\nC. 7\nD. 8\nE. 9\nF. 10",
+    "src_questions_info": {
+      "Bridge_Character": "Miles Straume",
+      "Question": [
+        "When Ilana Verdansky burst through the wooden door, who was the disoriented and trembling individual she immediately confronted and interrogated?",
+        "After Dr. Faraday and Miles Straume arrive, what is the total number of people present in the living room?"
+      ],
+      "Options": [
+        "A. Kate Austen\nB. Sayid Jarrah\nC. Ben Linus\nD. A temple guard\nE. Frank Lapidus\nF. Miles Straume",
+        "A. 6\nB. 5\nC. 7\nD. 8\nE. 9\nF. 10"
+      ],
+      "Answers": [
+        "F",
+        "D"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Object Counting"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0006-00:36:57.156_S6#0006-00:38:10.563",
+          "L2_frame": "S6#0006-53158_S6#0006-54918",
+          "L3_time": "S6#0006-00:33:04.882_S6#0007-00:01:01.207",
+          "L3_frame": "S6#0006-47589_S6#0007-01467"
+        },
+        {
+          "L2_time": "S5#0014-00:15:49.302_S5#0014-00:16:49.487",
+          "L2_frame": "S5#0014-22760_S5#0014-24203",
+          "L3_time": "S5#0014-00:13:54.896_S5#0014-00:21:02.364",
+          "L3_frame": "S5#0014-20017_S5#0014-30266"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Character Clothing",
+    "Question": "In the storage room scene, this person finds a sparkly purple top and playfully asks for an opinion on it. When this person appears in the doorway of the bunker, what color shirt is Anna wearing?",
+    "Options": "A. A black tank top\nB. A white t-shirt\nC. A dark plaid shirt\nD. A yellow jacket\nE. A blue polo shirt\nF. A red blouse\nG. A green shirt",
+    "src_questions_info": {
+      "Bridge_Character": "Libby Smith",
+      "Question": [
+        "In the storage room scene, who finds a sparkly purple top and playfully asks for an opinion on it?",
+        "When Libby Smith appears in the doorway of the bunker, what color shirt is Anna wearing?"
+      ],
+      "Options": [
+        "A. Libby Smith\nB. A character not mentioned in the scene\nC. Hugo 'Hurley' Reyes\nD. One of Charlie's bandmates\nE. A flight attendant from the plane\nF. Charlie Pace\nG. The woman who handed the director a bottle",
+        "A. A black tank top\nB. A white t-shirt\nC. A dark plaid shirt\nD. A yellow jacket\nE. A blue polo shirt\nF. A red blouse\nG. A green shirt"
+      ],
+      "Answers": [
+        "A",
+        "A"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Character Clothing"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0012-00:17:07.005_S2#0012-00:18:34.051",
+          "L2_frame": "S2#0012-24623_S2#0012-26710",
+          "L3_time": "S2#0012-00:13:16.442_S2#0012-00:19:18.845",
+          "L3_frame": "S2#0012-19095_S2#0012-27784"
+        },
+        {
+          "L2_time": "S2#0020-00:41:02.147_S2#0020-00:41:44.106",
+          "L2_frame": "S2#0020-59032_S2#0020-60038",
+          "L3_time": "S2#0020-00:35:27.146_S2#0020-00:41:44.106",
+          "L3_frame": "S2#0020-51000_S2#0020-60038"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Action Claim Subject",
+    "Question": "When Ben Linus stepped out of his tent into the jungle clearing, the first person he called out to and asked about his missing recorder was this person. After Bia translates Kate's accusation to him but before he removes his disguise, what is this person's initial verbal response to Kate?",
+    "Options": "A. He sarcastically thanks her\nB. He tells Bia to be quiet\nC. He threatens to harm her\nD. He asks who told her\nE. He laughs genuinely\nF. He remains completely silent\nG. He angrily denies it",
+    "src_questions_info": {
+      "Bridge_Character": "Tom Friendly",
+      "Question": [
+        "When Ben Linus stepped out of his tent into the jungle clearing, who was the first person he called out to and inquired about his missing recorder?",
+        "After Bia translates Kate's accusation to Tom Friendly but before he removes his disguise, what is Tom Friendly's initial verbal response to Kate?"
+      ],
+      "Options": [
+        "A. Horace Goodspeed\nB. Juliet\nC. John Locke\nD. Olivia\nE. Richard Alpert\nF. Tom Friendly",
+        "A. He sarcastically thanks her\nB. He tells Bia to be quiet\nC. He threatens to harm her\nD. He asks who told her\nE. He laughs genuinely\nF. He remains completely silent\nG. He angrily denies it"
+      ],
+      "Answers": [
+        "F",
+        "A"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Action Claim Subject"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0020-00:02:55.738_S3#0020-00:04:44.055",
+          "L2_frame": "S3#0020-04213_S3#0020-06810",
+          "L3_time": "S3#0020-00:02:55.738_S3#0020-00:09:10.237",
+          "L3_frame": "S3#0020-04213_S3#0020-13192"
+        },
+        {
+          "L2_time": "S2#0024-00:22:11.685_S2#0024-00:22:54.895",
+          "L2_frame": "S2#0024-31928_S2#0024-32964",
+          "L3_time": "S2#0024-00:22:11.685_S2#0024-00:26:30.568",
+          "L3_frame": "S2#0024-31928_S2#0024-38135"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Position Comparison",
+    "Question": "During the jungle march on Day 15, the Survivor line had Anna with someone positioned between her and Bernard. This person is the one Goodwin helps out of the pit and gives directions to before he flees — where does Goodwin tell him to go, and what is the estimated distance?",
+    "Options": "A. Towards the wreckage, about eight miles away\nB. Towards the other side of the island, about two miles away\nC. Towards the beach, about five miles away\nD. Towards the mountains, about ten miles away\nE. Towards the camp, about one mile away\nF. Towards the river, about three miles away\nG. Towards the caves, about five miles away",
+    "src_questions_info": {
+      "Bridge_Character": "Nathan",
+      "Question": [
+        "During the jungle march on Day 15, who was positioned between Anna and Bernard in the Survivor line?",
+        "After Goodwin helps Nathan out of the pit and gives him directions, Nathan flees. Where does Goodwin tell Nathan to go, and what is the estimated distance?"
+      ],
+      "Options": [
+        "A. Nathan\nB. No one was between them\nC. Goodwin\nD. Both Ana Lucia and Goodwin\nE. Ana Lucia\nF. The entire group was between them\nG. Libby",
+        "A. Towards the wreckage, about eight miles away\nB. Towards the other side of the island, about two miles away\nC. Towards the beach, about five miles away\nD. Towards the mountains, about ten miles away\nE. Towards the camp, about one mile away\nF. Towards the river, about three miles away\nG. Towards the caves, about five miles away"
+      ],
+      "Answers": [
+        "A",
+        "C"
+      ],
+      "Dimension": [
+        "Position Comparison",
+        "Position Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0007-00:19:32.025_S2#0007-00:20:27.581",
+          "L2_frame": "S2#0007-28100_S2#0007-29432",
+          "L3_time": "S2#0007-00:15:35.956_S2#0007-00:21:53.291",
+          "L3_frame": "S2#0007-22440_S2#0007-31487"
+        },
+        {
+          "L2_time": "S2#0007-00:26:48.962_S2#0007-00:28:03.328",
+          "L2_frame": "S2#0007-38576_S2#0007-40359",
+          "L3_time": "S2#0007-00:26:48.962_S2#0007-00:31:14.769",
+          "L3_frame": "S2#0007-38576_S2#0007-44949"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Temporal Sequence",
+    "Question": "When the group is in the dim, torch-lit cavern finalizing their risky plan, this person closes Faraday’s journal and hands it back to Jack Shephard. What happened immediately after he placed the finished bomb into the light-colored canvas bag?",
+    "Options": "A. He began to speak to Eloise.\nB. He checked his surroundings.\nC. He closed his eyes for a moment of reflection.\nD. He declared that time was short.\nE. He handed the bag to Jack.\nF. He started to run.",
+    "src_questions_info": {
+      "Bridge_Character": "Sayid Jarrah",
+      "Question": [
+        "When the group is in the dim, torch-lit cavern finalizing their risky plan, who is the character that closes Faraday’s journal and hands it back to Jack Shephard?",
+        "What happened immediately after Sayid Jarrah placed the finished bomb into the light-colored canvas bag?"
+      ],
+      "Options": [
+        "A. Sayid Jarrah\nB. Eloise Hawking\nC. Dr. Jack Shephard\nD. Richard Alpert\nE. Faraday himself\nF. An unnamed Worker",
+        "A. He began to speak to Eloise.\nB. He checked his surroundings.\nC. He closed his eyes for a moment of reflection.\nD. He declared that time was short.\nE. He handed the bag to Jack.\nF. He started to run."
+      ],
+      "Answers": [
+        "A",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Sequence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0016-00:07:29.136_S5#0016-00:08:15.766",
+          "L2_frame": "S5#0016-10768_S5#0016-11886",
+          "L3_time": "S5#0016-00:00:42.397_S5#0016-00:09:21.874",
+          "L3_frame": "S5#0016-01016_S5#0016-13471"
+        },
+        {
+          "L2_time": "S5#0016-00:22:23.821_S5#0016-00:23:03.485",
+          "L2_frame": "S5#0016-32219_S5#0016-33170",
+          "L3_time": "S5#0016-00:18:38.346_S5#0016-00:23:03.485",
+          "L3_frame": "S5#0016-26813_S5#0016-33170"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Textual Content",
+    "Question": "In the tense kitchen scene, after discussing the loan, the person who declares that Omer brought the situation upon himself is the one who gave Sayid the photograph. While lying wounded in the Iraqi prison, just before the flashback fades, what does this person’s photograph prompt Sayid to do in relation to it?",
+    "Options": "A. He tears it in half\nB. He kisses the image\nC. He hides it under his uniform\nD. He reads her note written on the back\nE. He drops it as he loses consciousness\nF. He presses it against his wound\nG. He shows it to the arriving soldiers",
+    "src_questions_info": {
+      "Bridge_Character": "Nadia",
+      "Question": [
+        "In the tense kitchen scene, after discussing the loan, who declares that Omer brought the situation upon himself?",
+        "While lying wounded in the Iraqi prison, just before the flashback fades, what does Sayid do in relation to the photograph Nadia gave him?"
+      ],
+      "Options": [
+        "A. Nadia\nB. Sayid\nC. Omer's doctor\nD. Sayid's father\nE. The narrator\nF. A debt collector\nG. The children",
+        "A. He tears it in half\nB. He kisses the image\nC. He hides it under his uniform\nD. He reads her note written on the back\nE. He drops it as he loses consciousness\nF. He presses it against his wound\nG. He shows it to the arriving soldiers"
+      ],
+      "Answers": [
+        "A",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Textual Content"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0006-00:21:27.976_S6#0006-00:22:06.598",
+          "L2_frame": "S6#0006-30880_S6#0006-31806",
+          "L3_time": "S6#0006-00:17:26.652_S6#0006-00:22:54.563",
+          "L3_frame": "S6#0006-25094_S6#0006-32956"
+        },
+        {
+          "L2_time": "S1#0009-00:33:39.539_S1#0009-00:36:17.988",
+          "L2_frame": "S1#0009-48420_S1#0009-52219",
+          "L3_time": "S1#0009-00:31:32.412_S1#0009-00:39:35.436",
+          "L3_frame": "S1#0009-45372_S1#0009-56953"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Action Claim Subject",
+    "Question": "When Ana Lucia organizes the foraging party in the clearing, Aiko is instructed to pair up with this person. When this person offered the extra liquor bottles, who joked that her generosity was likely a violation of FAA rules?",
+    "Options": "A. Jack\nB. this person herself\nC. The narrator\nD. Charlie Pace\nE. The passenger in the adjacent seat\nF. An unseen passenger\nG. Rose Nadler",
+    "src_questions_info": {
+      "Bridge_Character": "Cindy Chandler",
+      "Question": [
+        "When Ana Lucia organizes the foraging party in the clearing, who is Aiko instructed to pair up with?",
+        "When Cindy Chandler offered the extra liquor bottles, who joked that her generosity was likely a violation of FAA rules?"
+      ],
+      "Options": [
+        "A. Cindy Chandler\nB. He is told to work alone\nC. James Sawyer Ford\nD. Jin-Soo Kwon\nE. Libby Smith\nF. Michael Dawson",
+        "A. Jack\nB. Cindy Chandler herself\nC. The narrator\nD. Charlie Pace\nE. The passenger in the adjacent seat\nF. An unseen passenger\nG. Rose Nadler"
+      ],
+      "Answers": [
+        "A",
+        "A"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Action Claim Subject"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0005-00:06:06.429_S2#0005-00:07:13.621",
+          "L2_frame": "S2#0005-08785_S2#0005-10396",
+          "L3_time": "S2#0005-00:05:12.124_S2#0005-00:11:48.520",
+          "L3_frame": "S2#0005-07483_S2#0005-16987"
+        },
+        {
+          "L2_time": "S1#0001-00:20:59.905_S1#0001-00:22:08.598",
+          "L2_frame": "S1#0001-30207_S1#0001-31854",
+          "L3_time": "S1#0001-00:17:32.906_S1#0001-00:23:13.705",
+          "L3_frame": "S1#0001-25244_S1#0001-33415"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Object Appearance",
+    "Question": "After the fight near the bar entrance, someone is found collapsed and unconscious or injured against a brick wall. This person used a notebook to collect messages during the farewells on the beach — what color was the notebook?",
+    "Options": "A. Yellow\nB. Purple\nC. Blue\nD. Red\nE. Black\nF. Green",
+    "src_questions_info": {
+      "Bridge_Character": "Shannon Rutherford",
+      "Question": [
+        "After the fight near the bar entrance, who is found collapsed and unconscious or injured against a brick wall?",
+        "During the farewells on the beach, what color was the notebook Shannon Rutherford used to collect messages?"
+      ],
+      "Options": [
+        "A. Boone Carlyle\nB. A bystander\nC. Shannon Rutherford\nD. One of the attackers\nE. Hugo 'Hurley' Reyes\nF. Sayid Jarrah",
+        "A. Yellow\nB. Purple\nC. Blue\nD. Red\nE. Black\nF. Green"
+      ],
+      "Answers": [
+        "C",
+        "B"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Object Appearance"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0017-00:33:43.876_S6#0017-00:35:03.039",
+          "L2_frame": "S6#0017-48524_S6#0017-50422",
+          "L3_time": "S6#0017-00:33:43.876_S6#0017-00:39:08.951",
+          "L3_frame": "S6#0017-48524_S6#0017-56318"
+        },
+        {
+          "L2_time": "S1#0023-00:38:52.601_S1#0023-00:40:12.598",
+          "L2_frame": "S1#0023-55926_S1#0023-57844",
+          "L3_time": "S1#0023-00:35:57.468_S1#0023-00:42:35.199",
+          "L3_frame": "S1#0023-51727_S1#0023-61263"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Object Appearance",
+    "Question": "While sitting alone on the bamboo platform, this person retrieves a black wallet and a worn photograph from a green canvas bag. What material is the chair that she leans on or touches during her conversation with Boone Carlyle made of?",
+    "Options": "A. Plastic\nB. Leather\nC. Upholstered fabric\nD. Wicker\nE. Metal\nF. Wood",
+    "src_questions_info": {
+      "Bridge_Character": "Shannon Rutherford",
+      "Question": [
+        "While sitting alone on the bamboo platform, who retrieves a black wallet and a worn photograph from a green canvas bag?",
+        "What material is the chair that Shannon Rutherford leans on or touches during her conversation with Boone Carlyle made of?"
+      ],
+      "Options": [
+        "A. Jin-Soo Kwon\nB. Sayid Jarrah\nC. Michael Dawson\nD. Shannon Rutherford\nE. Essam Tasir\nF. Walt Lloyd",
+        "A. Plastic\nB. Leather\nC. Upholstered fabric\nD. Wicker\nE. Metal\nF. Wood"
+      ],
+      "Answers": [
+        "D",
+        "F"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Object Appearance"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0021-00:29:10.019_S1#0021-00:31:00.213",
+          "L2_frame": "S1#0021-41958_S1#0021-44600",
+          "L3_time": "S1#0021-00:24:12.931_S1#0021-00:36:49.895",
+          "L3_frame": "S1#0021-34835_S1#0021-52984"
+        },
+        {
+          "L2_time": "S2#0006-00:36:19.615_S2#0006-00:37:14.086",
+          "L2_frame": "S2#0006-52258_S2#0006-53564",
+          "L3_time": "S2#0006-00:33:11.636_S2#0006-00:42:02.374",
+          "L3_frame": "S2#0006-47751_S2#0006-60476"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Textual Content",
+    "Question": "In the scene in the sunlit field, Miles repeatedly and unsuccessfully tries to contact this person. During the sequence where he is shown stranded in the vast, barren landscape of the Sahara Desert, which of these actors' names is credited on screen?",
+    "Options": "A. Henry Ian Cusick\nB. Michael Emerson\nC. Ken Leung\nD. Elizabeth Mitchell\nE. Emilie de Ravin\nF. Jeff Fahey\nG. Yunjin Kim",
+    "src_questions_info": {
+      "Bridge_Character": "Ben Linus",
+      "Question": [
+        "In the scene in the sunlit field, who is the character that Miles repeatedly and unsuccessfully tries to contact?",
+        "During the sequence where Ben Linus is shown stranded in the vast, barren landscape of the Sahara Desert, which of these actors' names is credited on screen?"
+      ],
+      "Options": [
+        "A. The inhabitants of the yellow house\nB. The pilot of the plane\nC. His commanding officer\nD. John Locke\nE. Richard Alpert\nF. Ben Linus",
+        "A. Henry Ian Cusick\nB. Michael Emerson\nC. Ken Leung\nD. Elizabeth Mitchell\nE. Emilie de Ravin\nF. Jeff Fahey\nG. Yunjin Kim"
+      ],
+      "Answers": [
+        "F",
+        "A"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Textual Content"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0017-00:16:38.810_S6#0017-00:17:27.526",
+          "L2_frame": "S6#0017-23947_S6#0017-25115",
+          "L3_time": "S6#0017-00:15:49.303_S6#0017-00:21:46.326",
+          "L3_frame": "S6#0017-22760_S6#0017-31320"
+        },
+        {
+          "L2_time": "S4#0009-00:06:02.383_S4#0009-00:06:52.474",
+          "L2_frame": "S4#0009-08688_S4#0009-09889",
+          "L3_time": "S4#0009-00:03:42.785_S4#0009-00:07:29.762",
+          "L3_frame": "S4#0009-05341_S4#0009-10783"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Object Presence",
+    "Question": "When Hugo pleads for his friends on the pier, this person coldly extinguishes his hope by announcing the others' fate. In the detailed description of the interrogation scene between Sayid and this person, is there any mention of a chair for Henry to sit on?",
+    "Options": "A. Yes, he is tied to a wooden chair\nB. No, there is no mention of a chair",
+    "src_questions_info": {
+      "Bridge_Character": "Henry Gale",
+      "Question": [
+        "When Hugo pleads for his friends on the pier, who is the person that coldly extinguishes his hope by announcing the others' fate?",
+        "In the detailed description of the interrogation scene between Sayid and Henry Gale, is there any mention of a chair for Henry to sit on?"
+      ],
+      "Options": [
+        "A. James Sawyer Ford\nB. Tom Friendly\nC. Henry Gale\nD. Bea Klugh\nE. An unnamed follower",
+        "A. Yes, he is tied to a wooden chair\nB. No, there is no mention of a chair"
+      ],
+      "Answers": [
+        "C",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Object Presence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0024-00:37:15.504_S2#0024-00:38:14.939",
+          "L2_frame": "S2#0024-53598_S2#0024-55023",
+          "L3_time": "S2#0024-00:34:31.090_S2#0024-00:42:27.900",
+          "L3_frame": "S2#0024-49656_S2#0024-61088"
+        },
+        {
+          "L2_time": "S2#0014-00:27:40.930_S2#0014-00:29:27.704",
+          "L2_frame": "S2#0014-39822_S2#0014-42382",
+          "L3_time": "S2#0014-00:27:40.930_S2#0014-00:36:31.460",
+          "L3_frame": "S2#0014-39822_S2#0014-52542"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Textual Content",
+    "Question": "During Jack's poll of the group on the deck, after Kate gives her hesitant consent, the next person to agree to the plan is this person. Upon meeting Jack at the security checkpoint, what teasing question did this person ask him?",
+    "Options": "A. 'Are you traveling alone?'\nB. 'Did you miss your flight?'\nC. 'Are you surprised to see me?'\nD. 'Why the long face?'\nE. 'Are you lost?'\nF. 'Do you have the time?'",
+    "src_questions_info": {
+      "Bridge_Character": "Sun-Hwa Kwon",
+      "Question": [
+        "During Jack's poll of the group on the deck, after Kate gives her hesitant consent, who is the next person to agree to the plan?",
+        "Upon meeting Jack at the security checkpoint, what teasing question did Sun-Hwa Kwon ask him?"
+      ],
+      "Options": [
+        "A. Desmond\nB. Sayid\nC. Sun-Hwa Kwon\nD. Hurley\nE. Frank\nF. Penny",
+        "A. 'Are you traveling alone?'\nB. 'Did you miss your flight?'\nC. 'Are you surprised to see me?'\nD. 'Why the long face?'\nE. 'Are you lost?'\nF. 'Do you have the time?'"
+      ],
+      "Answers": [
+        "C",
+        "C"
+      ],
+      "Dimension": [
+        "Temporal Sequence",
+        "Textual Content"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0002-00:00:20.792_S5#0002-00:01:11.926",
+          "L2_frame": "S5#0002-00498_S5#0002-01724",
+          "L3_time": "S5#0002-00:00:20.792_S5#0002-00:06:02.174",
+          "L3_frame": "S5#0002-00498_S5#0002-08683"
+        },
+        {
+          "L2_time": "S5#0006-00:27:54.025_S5#0006-00:28:57.505",
+          "L2_frame": "S5#0006-40136_S5#0006-41658",
+          "L3_time": "S5#0006-00:23:25.257_S5#0006-00:32:30.134",
+          "L3_frame": "S5#0006-33692_S5#0006-46756"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Causal Inference",
+    "Question": "Outside the hotel, when a pink rose is unpinned and handed over as an object of polite submission, it identifies this person. During the confrontation in his luxurious office, what specific reason does Woo-Jung Paik give to Jin-Soo Kwon for wanting to permanently eliminate this person?",
+    "Options": "A. Lee had threatened his family\nB. Lee was a political opponent\nC. Lee betrayed a family secret\nD. Lee was a competitor in business\nE. Lee had been stealing from him\nF. Lee failed to repay a large debt",
+    "src_questions_info": {
+      "Bridge_Character": "Jae-Hyeok Lee",
+      "Question": [
+        "Who is the object of polite submission when a pink rose is unpinned and handed over outside the hotel?",
+        "During the confrontation in his luxurious office, what specific reason does Woo-Jung Paik give to Jin-Soo Kwon for wanting to permanently eliminate Jae-Hyeok Lee?"
+      ],
+      "Options": [
+        "A. The hotel manager\nB. A valet driver\nC. A security guard\nD. Jae-Hyeok Lee\nE. Sun-Hwa Kwon\nF. Jin-Soo Kwon",
+        "A. Lee had threatened his family\nB. Lee was a political opponent\nC. Lee betrayed a family secret\nD. Lee was a competitor in business\nE. Lee had been stealing from him\nF. Lee failed to repay a large debt"
+      ],
+      "Answers": [
+        "D",
+        "E"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Causal Inference"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0005-00:24:45.630_S2#0005-00:26:24.771",
+          "L2_frame": "S2#0005-35619_S2#0005-37996",
+          "L3_time": "S2#0005-00:20:03.890_S2#0005-00:28:19.636",
+          "L3_frame": "S2#0005-28864_S2#0005-40750"
+        },
+        {
+          "L2_time": "S3#0002-00:12:14.380_S3#0002-00:13:11.562",
+          "L2_frame": "S3#0002-17607_S3#0002-18978",
+          "L3_time": "S3#0002-00:12:14.380_S3#0002-00:16:43.065",
+          "L3_frame": "S3#0002-17607_S3#0002-24049"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Event Background",
+    "Question": "In the scene on the ship deck, Ray states this person's profession, which makes the morse code message so disturbing to him. During the flashback in his office, after Jack asks when the wedding is, how far in the future does this person say it was scheduled to be?",
+    "Options": "A. One month away\nB. A year away\nC. Two weeks away\nD. Eight months away\nE. Six months away\nF. Three months away",
+    "src_questions_info": {
+      "Bridge_Character": "Doctor",
+      "Question": [
+        "In the scene on the ship deck, what is Ray's stated profession that makes the morse code message so disturbing to him?",
+        "During the flashback in the doctor's office, after Jack asks when the wedding is, how far in the future does Kevin say it was scheduled to be?"
+      ],
+      "Options": [
+        "A. Geologist\nB. Soldier\nC. Navigator\nD. Pilot\nE. Linguist\nF. Doctor\nG. Engineer",
+        "A. One month away\nB. A year away\nC. Two weeks away\nD. Eight months away\nE. Six months away\nF. Three months away"
+      ],
+      "Answers": [
+        "F",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Event Background"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0011-00:31:45.048_S4#0011-00:32:41.396",
+          "L2_frame": "S4#0011-45675_S4#0011-47026",
+          "L3_time": "S4#0011-00:31:45.048_S4#0011-00:36:50.227",
+          "L3_frame": "S4#0011-45675_S4#0011-52992"
+        },
+        {
+          "L2_time": "S2#0001-00:21:28.975_S2#0001-00:22:35.584",
+          "L2_frame": "S2#0001-30904_S2#0001-32501",
+          "L3_time": "S2#0001-00:15:18.147_S2#0001-00:22:35.584",
+          "L3_frame": "S2#0001-22013_S2#0001-32501"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Temporal Sequence",
+    "Question": "On the beach, when an idea needed to be communicated, this person used animated gestures of miming oysters to get it across. Before he/she stepped forward to expose the lie in the jungle shelter, what specific claim had Dr. Faraday just made to the group?",
+    "Options": "A. That everyone needed to remain calm\nB. That the Morse code message was a promise of rescue\nC. That the helicopter would return in the morning\nD. That he knew where to find fresh water\nE. That the doctor on the other end was a friend\nF. That he had fixed the radio",
+    "src_questions_info": {
+      "Bridge_Character": "Bernard Nadler",
+      "Question": [
+        "On the beach, who uses animated gestures of miming oysters to communicate an idea?",
+        "Before Bernard Nadler stepped forward to expose the lie in the jungle shelter, what specific claim had Dr. Faraday just made to the group?"
+      ],
+      "Options": [
+        "A. James Sawyer Ford\nB. No one uses gestures\nC. Rose Nadler\nD. Bernard Nadler\nE. Jin-Soo Kwon\nF. Sun-Hwa Kwon",
+        "A. That everyone needed to remain calm\nB. That the Morse code message was a promise of rescue\nC. That the helicopter would return in the morning\nD. That he knew where to find fresh water\nE. That the doctor on the other end was a friend\nF. That he had fixed the radio"
+      ],
+      "Answers": [
+        "D",
+        "C"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Sequence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0016-00:30:59.337_S2#0016-00:32:06.612",
+          "L2_frame": "S2#0016-44579_S2#0016-46192",
+          "L3_time": "S2#0016-00:30:59.337_S2#0016-00:37:02.116",
+          "L3_frame": "S2#0016-44579_S2#0016-53277"
+        },
+        {
+          "L2_time": "S4#0009-00:33:00.331_S4#0009-00:34:12.695",
+          "L2_frame": "S4#0009-47480_S4#0009-49215",
+          "L3_time": "S4#0009-00:27:45.517_S4#0009-00:34:12.695",
+          "L3_frame": "S4#0009-39932_S4#0009-49215"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Causal Inference",
+    "Question": "At the beginning of the eulogy, when this person is emotional and struggling to speak, Kate Austen comforts him with a supportive touch on the arm. What was the specific reason he gave for his conviction that the descending light was a person and not a supply drop?",
+    "Options": "A. He had a prior warning that someone was coming\nB. He found a piece of wreckage on the beach\nC. He saw a parachute deploy\nD. He had a dream about it the night before\nE. He recognized the sound of a helicopter engine\nF. Jin-Soo convinced him it was a pilot",
+    "src_questions_info": {
+      "Bridge_Character": "Hugo Hurley Reyes",
+      "Question": [
+        "When emotional and struggling to speak at the beginning of the eulogy, whom does Kate Austen comfort with a supportive touch on the arm?",
+        "What was the specific reason Hugo Hurley Reyes gave for his conviction that the descending light was a person and not a supply drop?"
+      ],
+      "Options": [
+        "A. Michael Dawson\nB. Jack Shephard\nC. Claire Littleton\nD. James Sawyer Ford\nE. Hugo Hurley Reyes\nF. Sayid Jarrah",
+        "A. He had a prior warning that someone was coming\nB. He found a piece of wreckage on the beach\nC. He saw a parachute deploy\nD. He had a dream about it the night before\nE. He recognized the sound of a helicopter engine\nF. Jin-Soo convinced him it was a pilot"
+      ],
+      "Answers": [
+        "E",
+        "A"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Causal Inference"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0022-00:42:31.111_S2#0022-00:44:03.495",
+          "L2_frame": "S2#0022-61165_S2#0022-63380",
+          "L3_time": "S2#0022-00:40:11.597_S2#0022-00:44:29.188",
+          "L3_frame": "S2#0022-57820_S2#0022-63996"
+        },
+        {
+          "L2_time": "S3#0017-00:21:11.124_S3#0017-00:21:55.919",
+          "L2_frame": "S3#0017-30476_S3#0017-31550",
+          "L3_time": "S3#0017-00:17:31.989_S3#0017-00:21:55.919",
+          "L3_frame": "S3#0017-25222_S3#0017-31550"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "G",
+    "Dimension": "Character Change",
+    "Question": "When Sayid took charge on the beach, he questioned this person as he tried to get details about the abductor. After initially dismissing Christian with rage and telling him to leave in the public concourse, what significant emotional shift does this person experience after taking a few steps away?",
+    "Options": "A. Her anger intensifies into a physical outburst\nB. She feels a sudden surge of affection and forgiveness\nC. Her rage turns into bitter sarcasm\nD. She is overcome with fear and tries to run\nE. She becomes completely indifferent and apathetic\nF. She decides to call the police for help\nG. Her fury fades to deep contemplation",
+    "src_questions_info": {
+      "Bridge_Character": "Claire Littleton",
+      "Question": [
+        "When Sayid took charge on the beach, who was the subject of his questioning as he tried to get details about the abductor?",
+        "After initially dismissing Christian with rage and telling him to leave in the public concourse, what significant emotional shift does Claire Littleton experience after taking a few steps away?"
+      ],
+      "Options": [
+        "A. Claire Littleton\nB. Sun-Hwa Kwon\nC. Rousseau\nD. Shannon Rutherford\nE. Charlie Pace\nF. The other survivors",
+        "A. Her anger intensifies into a physical outburst\nB. She feels a sudden surge of affection and forgiveness\nC. Her rage turns into bitter sarcasm\nD. She is overcome with fear and tries to run\nE. She becomes completely indifferent and apathetic\nF. She decides to call the police for help\nG. Her fury fades to deep contemplation"
+      ],
+      "Answers": [
+        "A",
+        "G"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Character Change"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0024-00:23:25.050_S1#0024-00:25:17.245",
+          "L2_frame": "S1#0024-33687_S1#0024-36377",
+          "L3_time": "S1#0024-00:23:25.050_S1#0024-00:29:38.631",
+          "L3_frame": "S1#0024-33687_S1#0024-42644"
+        },
+        {
+          "L2_time": "S3#0012-00:31:28.658_S3#0012-00:32:33.097",
+          "L2_frame": "S3#0012-45282_S3#0012-46827",
+          "L3_time": "S3#0012-00:28:29.520_S3#0012-00:35:39.575",
+          "L3_frame": "S3#0012-40987_S3#0012-51298"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Character Clothing",
+    "Question": "During Jack's poll of the group on the deck, after Kate gives her hesitant consent, the next person to agree to the plan is identified. This person paused before the overturned baby bassinet at the beach camp — what was the color of the backpack she was carrying?",
+    "Options": "A. Brown\nB. Green\nC. Red\nD. Grey\nE. Black\nF. Blue",
+    "src_questions_info": {
+      "Bridge_Character": "Sun-Hwa Kwon",
+      "Question": [
+        "During Jack's poll of the group on the deck, after Kate gives her hesitant consent, who is the next person to agree to the plan?",
+        "When Sun-Hwa Kwon paused before the overturned baby bassinet at the beach camp, what was the color of the backpack she was carrying?"
+      ],
+      "Options": [
+        "A. Desmond\nB. Sayid\nC. Sun-Hwa Kwon\nD. Hurley\nE. Frank\nF. Penny",
+        "A. Brown\nB. Green\nC. Red\nD. Grey\nE. Black\nF. Blue"
+      ],
+      "Answers": [
+        "C",
+        "F"
+      ],
+      "Dimension": [
+        "Temporal Sequence",
+        "Character Clothing"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0002-00:00:20.792_S5#0002-00:01:11.926",
+          "L2_frame": "S5#0002-00498_S5#0002-01724",
+          "L3_time": "S5#0002-00:00:20.792_S5#0002-00:06:02.174",
+          "L3_frame": "S5#0002-00498_S5#0002-08683"
+        },
+        {
+          "L2_time": "S5#0016-00:38:45.884_S5#0016-00:41:31.008",
+          "L2_frame": "S5#0016-55765_S5#0016-59724",
+          "L3_time": "S5#0016-00:35:44.996_S5#0017-00:00:54.534",
+          "L3_frame": "S5#0016-51428_S5#0017-01307"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Temporal Comparison",
+    "Question": "In the fortified desert passage during the wartime flashback, this person is seen smirking with satisfaction at the progress being made. In the Orchid station tunnels, what is the chronological order of these three events: Faraday apologizes to the person he bumped into, Faraday passes an injured man, and Faraday hears this person's mockery?",
+    "Options": "A. Hears mockery -> Apology -> Passes injured man.\nB. Apology -> Passes injured man -> Hears mockery.\nC. Passes injured man -> Hears mockery -> Apology.\nD. Hears mockery -> Passes injured man -> Apology.\nE. Passes injured man -> Apology -> Hears mockery.\nF. Apology -> Hears mockery -> Passes injured man.",
+    "src_questions_info": {
+      "Bridge_Character": "Tony",
+      "Question": [
+        "In the fortified desert passage during the wartime flashback, who is seen smirking with satisfaction at the progress being made?",
+        "In the Orchid station tunnels, what is the chronological order of these three events: Faraday passes an injured man, Faraday apologizes to the person he bumped into, and Faraday hears Tony's mockery?"
+      ],
+      "Options": [
+        "A. Tariq\nB. The commander of the base\nC. Sgt. Austen\nD. A random guard\nE. Tony\nF. A captured insurgent\nG. Sayid Jarrah",
+        "A. Hears mockery -> Apology -> Passes injured man.\nB. Apology -> Passes injured man -> Hears mockery.\nC. Passes injured man -> Hears mockery -> Apology.\nD. Hears mockery -> Passes injured man -> Apology.\nE. Passes injured man -> Apology -> Hears mockery.\nF. Apology -> Hears mockery -> Passes injured man."
+      ],
+      "Answers": [
+        "E",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0014-00:04:03.514_S2#0014-00:05:19.465",
+          "L2_frame": "S2#0014-05838_S2#0014-07659",
+          "L3_time": "S2#0014-00:04:03.514_S2#0014-00:09:08.778",
+          "L3_frame": "S2#0014-05838_S2#0014-13157"
+        },
+        {
+          "L2_time": "S5#0014-00:07:35.434_S5#0014-00:08:28.737",
+          "L2_frame": "S5#0014-10919_S5#0014-12197",
+          "L3_time": "S5#0014-00:01:20.601_S5#0014-00:08:28.737",
+          "L3_frame": "S5#0014-01932_S5#0014-12197"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Temporal Sequence",
+    "Question": "In the conversation about the need for more supplies for the jungle traps, someone confirms that the operation will be ready within twenty-four hours. At the school entrance, what did this person do right after Alex asked if they could give Dr. Linus a ride?",
+    "Options": "A. She rolled down the window to speak with them.\nB. She immediately agreed and got out of the car.\nC. She asked Alex to explain who Dr. Linus was.\nD. She honked the horn for them to hurry.\nE. She checked the time on her watch.\nF. She told them she was in a hurry.",
+    "src_questions_info": {
+      "Bridge_Character": "Danielle Rousseau",
+      "Question": [
+        "In the conversation about the need for more supplies for the jungle traps, who confirms that the operation will be ready within twenty-four hours?",
+        "At the school entrance, what did Danielle Rousseau do right after Alex asked if they could give Dr. Linus a ride?"
+      ],
+      "Options": [
+        "A. Sayid Jarrah\nB. Desmond Hume\nC. Danielle Rousseau\nD. Dr. Jack Shephard\nE. Naomi Dorrit\nF. Dr. Juliet Burke",
+        "A. She rolled down the window to speak with them.\nB. She immediately agreed and got out of the car.\nC. She asked Alex to explain who Dr. Linus was.\nD. She honked the horn for them to hurry.\nE. She checked the time on her watch.\nF. She told them she was in a hurry."
+      ],
+      "Answers": [
+        "C",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Sequence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0021-00:06:11.475_S3#0021-00:07:28.803",
+          "L2_frame": "S3#0021-08906_S3#0021-10760",
+          "L3_time": "S3#0021-00:06:11.475_S3#0021-00:13:06.390",
+          "L3_frame": "S3#0021-08906_S3#0021-18854"
+        },
+        {
+          "L2_time": "S6#0016-00:20:22.995_S6#0016-00:22:04.805",
+          "L2_frame": "S6#0016-29322_S6#0016-31763",
+          "L3_time": "S6#0016-00:15:35.707_S6#0016-00:26:16.432",
+          "L3_frame": "S6#0016-22434_S6#0016-37796"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "State Transition",
+    "Question": "During the tense confrontation on the beach initiated by Montand, one character steps forward to intervene and urges the aggressive questioner to stop. What is John Locke's facial expression at the moment he decides to help this person inside the Black Rock?",
+    "Options": "A. A look of deep concern\nB. A faint smirk\nC. A wide, friendly smile\nD. A frown of disapproval\nE. A grimace of pain\nF. A blank, emotionless stare",
+    "src_questions_info": {
+      "Bridge_Character": "Danielle Rousseau",
+      "Question": [
+        "During the tense confrontation on the beach initiated by Montand, which character steps forward to intervene and urges the aggressive questioner to stop?",
+        "What is John Locke's facial expression at the moment he decides to help Danielle Rousseau inside the Black Rock?"
+      ],
+      "Options": [
+        "A. Lacombe\nB. Danielle Rousseau\nC. Brennan\nD. Robert\nE. A nearby stranger\nF. Jin-Soo Kwon",
+        "A. A look of deep concern\nB. A faint smirk\nC. A wide, friendly smile\nD. A frown of disapproval\nE. A grimace of pain\nF. A blank, emotionless stare"
+      ],
+      "Answers": [
+        "B",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "State Transition"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0004-00:41:20.664_S5#0004-00:42:20.974",
+          "L2_frame": "S5#0004-59476_S5#0004-60922",
+          "L3_time": "S5#0004-00:36:27.788_S5#0005-00:00:53.116",
+          "L3_frame": "S5#0004-52454_S5#0005-01273"
+        },
+        {
+          "L2_time": "S3#0019-00:24:55.849_S3#0019-00:25:50.820",
+          "L2_frame": "S3#0019-35864_S3#0019-37182",
+          "L3_time": "S3#0019-00:23:59.834_S3#0019-00:28:07.832",
+          "L3_frame": "S3#0019-34521_S3#0019-40467"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Character Change",
+    "Question": "After stepping out of the jeep near the pylon, Jack checked with this person to confirm the availability of a necessary code. In the photograph held by Sgt. Austen inside the truck, what specific headwear is this person wearing?",
+    "Options": "A. A blue sun hat\nB. A pair of sunglasses on her head\nC. A yellow ribbon\nD. A white cap\nE. A black beanie\nF. A red bandana\nG. A green helmet",
+    "src_questions_info": {
+      "Bridge_Character": "Kate Austen",
+      "Question": [
+        "After stepping out of the jeep near the pylon, who did Jack check with to confirm the availability of a necessary code?",
+        "In the photograph held by Sgt. Austen inside the truck, what specific headwear is the young Kate Austen wearing?"
+      ],
+      "Options": [
+        "A. Eloise Hawking\nB. His superiors via radio\nC. Dr. Daniel Faraday\nD. A written manual\nE. He did not check with anyone\nF. Kate Austen",
+        "A. A blue sun hat\nB. A pair of sunglasses on her head\nC. A yellow ribbon\nD. A white cap\nE. A black beanie\nF. A red bandana\nG. A green helmet"
+      ],
+      "Answers": [
+        "F",
+        "D"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Character Change"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0014-00:30:02.070_S5#0014-00:31:06.009",
+          "L2_frame": "S5#0014-43206_S5#0014-44739",
+          "L3_time": "S5#0014-00:27:32.796_S5#0014-00:36:45.473",
+          "L3_frame": "S5#0014-39627_S5#0014-52878"
+        },
+        {
+          "L2_time": "S2#0014-00:40:01.754_S2#0014-00:40:41.377",
+          "L2_frame": "S2#0014-57584_S2#0014-58534",
+          "L3_time": "S2#0014-00:36:31.502_S2#0014-00:43:54.027",
+          "L3_frame": "S2#0014-52543_S2#0014-63153"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Human-Object Relation",
+    "Question": "In the scene where a prayer’s words about abundance and goodness are used to underscore a gesture of compassion, Jin-Soo Kwon directs that gesture toward this person. When this person is informed of an urgent call in the large room, what specific object is she holding at the doorway?",
+    "Options": "A. A weapon\nB. A personal bag\nC. A coffee mug\nD. Her new assignment\nE. A cell phone\nF. A book",
+    "src_questions_info": {
+      "Bridge_Character": "Ana Lucia Cortez",
+      "Question": [
+        "The prayer's words about abundance and goodness are used to underscore a gesture of compassion, towards whom is Jin-Soo Kwon directing this gesture?",
+        "When Ana Lucia Cortez is informed of an urgent call in the large room, what specific object is she holding at the doorway?"
+      ],
+      "Options": [
+        "A. Mr. Eko\nB. Sun-Hwa Kwon\nC. Ana Lucia Cortez\nD. Charlie Pace\nE. Jin-Soo Kwon\nF. The entire Survivor group",
+        "A. A weapon\nB. A personal bag\nC. A coffee mug\nD. Her new assignment\nE. A cell phone\nF. A book"
+      ],
+      "Answers": [
+        "C",
+        "D"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Human-Object Relation"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0010-00:38:13.729_S2#0010-00:39:20.963",
+          "L2_frame": "S2#0010-54994_S2#0010-56606",
+          "L3_time": "S2#0010-00:33:55.680_S2#0010-00:42:25.397",
+          "L3_frame": "S2#0010-48807_S2#0010-61028"
+        },
+        {
+          "L2_time": "S2#0008-00:06:21.569_S2#0008-00:07:45.945",
+          "L2_frame": "S2#0008-09148_S2#0008-11171",
+          "L3_time": "S2#0008-00:05:01.572_S2#0008-00:09:55.157",
+          "L3_frame": "S2#0008-07230_S2#0008-14269"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "G",
+    "Dimension": "Event Background",
+    "Question": "After the fight near the bar entrance, a person is found collapsed and unconscious or injured against a brick wall. When this person is first seen on the beach after the jungle flashback, what is the color of the book she is reading?",
+    "Options": "A. Green\nB. Yellow\nC. Purple\nD. Black\nE. Blue\nF. White\nG. Red",
+    "src_questions_info": {
+      "Bridge_Character": "Shannon Rutherford",
+      "Question": [
+        "After the fight near the bar entrance, who is found collapsed and unconscious or injured against a brick wall?",
+        "When Shannon Rutherford is first seen on the beach after the jungle flashback, what is the color of the book she is reading?"
+      ],
+      "Options": [
+        "A. Boone Carlyle\nB. A bystander\nC. Shannon Rutherford\nD. One of the attackers\nE. Hugo 'Hurley' Reyes\nF. Sayid Jarrah",
+        "A. Green\nB. Yellow\nC. Purple\nD. Black\nE. Blue\nF. White\nG. Red"
+      ],
+      "Answers": [
+        "C",
+        "G"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Event Background"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0017-00:33:43.876_S6#0017-00:35:03.039",
+          "L2_frame": "S6#0017-48524_S6#0017-50422",
+          "L3_time": "S6#0017-00:33:43.876_S6#0017-00:39:08.951",
+          "L3_frame": "S6#0017-48524_S6#0017-56318"
+        },
+        {
+          "L2_time": "S1#0013-00:01:17.181_S1#0013-00:02:10.943",
+          "L2_frame": "S1#0013-01850_S1#0013-03139",
+          "L3_time": "S1#0012-00:40:07.801_S1#0013-00:05:09.497",
+          "L3_frame": "S1#0012-57729_S1#0013-07420"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Body Movement",
+    "Question": "When the group is in the dim, torch-lit cavern finalizing their risky plan, the character who closes Faraday’s journal and hands it back to Jack Shephard is the one in question. When this person appears in the alley, what is his immediate action with his gun just before firing it?",
+    "Options": "A. He cocks the gun\nB. He shows the gun to Ben\nC. He raises his gun\nD. He presses it to Bakir's back\nE. He aims at Ben first\nF. He fires a warning shot",
+    "src_questions_info": {
+      "Bridge_Character": "Sayid Jarrah",
+      "Question": [
+        "When the group is in the dim, torch-lit cavern finalizing their risky plan, who is the character that closes Faraday’s journal and hands it back to Jack Shephard?",
+        "When Sayid Jarrah appears in the alley, what is his immediate action with his gun just before firing it?"
+      ],
+      "Options": [
+        "A. Sayid Jarrah\nB. Eloise Hawking\nC. Dr. Jack Shephard\nD. Richard Alpert\nE. Faraday himself\nF. An unnamed Worker",
+        "A. He cocks the gun\nB. He shows the gun to Ben\nC. He raises his gun\nD. He presses it to Bakir's back\nE. He aims at Ben first\nF. He fires a warning shot"
+      ],
+      "Answers": [
+        "A",
+        "C"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0016-00:07:29.136_S5#0016-00:08:15.766",
+          "L2_frame": "S5#0016-10768_S5#0016-11886",
+          "L3_time": "S5#0016-00:00:42.397_S5#0016-00:09:21.874",
+          "L3_frame": "S5#0016-01016_S5#0016-13471"
+        },
+        {
+          "L2_time": "S4#0009-00:26:21.058_S4#0009-00:27:45.475",
+          "L2_frame": "S4#0009-37907_S4#0009-39931",
+          "L3_time": "S4#0009-00:19:54.714_S4#0009-00:27:45.475",
+          "L3_frame": "S4#0009-28644_S4#0009-39931"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Action Claim Subject",
+    "Question": "On the beach on Day 45, Cindy Chandler urgently calls out to this person after seeing something alarming in the ocean. During their walk in the jungle, which classic cartoon show does this person ask Hurley if he ever watched?",
+    "Options": "A. Top Cat\nB. Yogi Bear\nC. The Flintstones\nD. Scooby-Doo\nE. The Jetsons\nF. Looney Tunes\nG. Tom and Jerry",
+    "src_questions_info": {
+      "Bridge_Character": "Libby Smith",
+      "Question": [
+        "On the beach on Day 45, who is the person Cindy Chandler urgently calls out to after seeing something alarming in the ocean?",
+        "During their walk in the jungle, Libby Smith asks Hurley if he ever watched which classic cartoon show?"
+      ],
+      "Options": [
+        "A. A group of survivors down the beach\nB. A passing ship\nC. Mr. Eko\nD. Ana Lucia Cortez\nE. Libby Smith\nF. No one in particular",
+        "A. Top Cat\nB. Yogi Bear\nC. The Flintstones\nD. Scooby-Doo\nE. The Jetsons\nF. Looney Tunes\nG. Tom and Jerry"
+      ],
+      "Answers": [
+        "E",
+        "C"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Action Claim Subject"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0007-00:40:33.953_S2#0007-00:41:29.425",
+          "L2_frame": "S2#0007-58356_S2#0007-59686",
+          "L3_time": "S2#0007-00:37:37.151_S2#0007-00:44:34.234",
+          "L3_frame": "S2#0007-54117_S2#0007-64117"
+        },
+        {
+          "L2_time": "S2#0020-00:29:41.801_S2#0020-00:31:51.472",
+          "L2_frame": "S2#0020-42720_S2#0020-45829",
+          "L3_time": "S2#0020-00:29:41.801_S2#0020-00:35:27.104",
+          "L3_frame": "S2#0020-42720_S2#0020-50999"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Scene and Location",
+    "Question": "During the initial tense moments when Jin-Soo Kwon appears to be a prisoner, one of the camp members is the first to react with shock and concern before running towards the approaching group. When this person is seen with Claire Littleton after the scene on the beach with Jack and Kate, where does their interaction involving cups take place?",
+    "Options": "A. Amid thick foliage in a dense, shadowed jungle\nB. At the entrance of a cave system\nC. Inside a large, hollow banyan tree\nD. In a field of tall grass near the coast\nE. Within a temporary shelter made of bamboo\nF. Beside a cascading waterfall\nG. On the sandy shoreline at dusk",
+    "src_questions_info": {
+      "Bridge_Character": "Charlie Pace",
+      "Question": [
+        "During the initial tense moments when Jin-Soo Kwon appears to be a prisoner, who is the first person from the camp to react with shock and concern before running towards the approaching group?",
+        "After the scene on the beach with Jack and Kate, when Charlie Pace is seen with Claire Littleton, where does their interaction involving cups take place?"
+      ],
+      "Options": [
+        "A. Libby Smith\nB. Bernard Nadler\nC. Rose Nadler\nD. An unnamed survivor by the fire\nE. Charlie Pace\nF. The woman washing clothes",
+        "A. Amid thick foliage in a dense, shadowed jungle\nB. At the entrance of a cave system\nC. Inside a large, hollow banyan tree\nD. In a field of tall grass near the coast\nE. Within a temporary shelter made of bamboo\nF. Beside a cascading waterfall\nG. On the sandy shoreline at dusk"
+      ],
+      "Answers": [
+        "E",
+        "A"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Scene and Location"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0008-00:38:13.103_S2#0008-00:39:03.821",
+          "L2_frame": "S2#0008-54979_S2#0008-56195",
+          "L3_time": "S2#0008-00:38:13.103_S2#0009-00:00:48.736",
+          "L3_frame": "S2#0008-54979_S2#0009-01168"
+        },
+        {
+          "L2_time": "S1#0010-00:09:27.671_S1#0010-00:10:26.772",
+          "L2_frame": "S1#0010-13610_S1#0010-15027",
+          "L3_time": "S1#0010-00:06:16.731_S1#0010-00:11:21.285",
+          "L3_frame": "S1#0010-09032_S1#0010-16334"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Object Appearance",
+    "Question": "While sitting alone on the bamboo platform, this person retrieves a black wallet and a worn photograph from a green canvas bag. During the farewells on the beach, what color was the notebook this person used to collect messages?",
+    "Options": "A. Yellow\nB. Purple\nC. Blue\nD. Red\nE. Black\nF. Green",
+    "src_questions_info": {
+      "Bridge_Character": "Shannon Rutherford",
+      "Question": [
+        "While sitting alone on the bamboo platform, who retrieves a black wallet and a worn photograph from a green canvas bag?",
+        "During the farewells on the beach, what color was the notebook Shannon Rutherford used to collect messages?"
+      ],
+      "Options": [
+        "A. Jin-Soo Kwon\nB. Sayid Jarrah\nC. Michael Dawson\nD. Shannon Rutherford\nE. Essam Tasir\nF. Walt Lloyd",
+        "A. Yellow\nB. Purple\nC. Blue\nD. Red\nE. Black\nF. Green"
+      ],
+      "Answers": [
+        "D",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Object Appearance"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0021-00:29:10.019_S1#0021-00:31:00.213",
+          "L2_frame": "S1#0021-41958_S1#0021-44600",
+          "L3_time": "S1#0021-00:24:12.931_S1#0021-00:36:49.895",
+          "L3_frame": "S1#0021-34835_S1#0021-52984"
+        },
+        {
+          "L2_time": "S1#0023-00:38:52.601_S1#0023-00:40:12.598",
+          "L2_frame": "S1#0023-55926_S1#0023-57844",
+          "L3_time": "S1#0023-00:35:57.468_S1#0023-00:42:35.199",
+          "L3_frame": "S1#0023-51727_S1#0023-61263"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Character Hairstyle",
+    "Question": "Toward the end of the surreal roadside encounter, a woman delivers the cryptic message \"Libby says hi\" before disappearing. This person is shown speaking on her phone in the opening scene—what is the specific style of her hair?",
+    "Options": "A. Braided pigtails\nB. Shoulder-length straight red hair\nC. Short blonde bob\nD. Long dark wavy hair\nE. Pulled back in a tight ponytail",
+    "src_questions_info": {
+      "Bridge_Character": "Ana Lucia Cortez",
+      "Question": [
+        "Towards the end of the surreal roadside encounter, who delivers the cryptic message 'Libby says hi' before disappearing?",
+        "In the opening scene, as Ana Lucia Cortez is shown speaking on her phone, what is the specific style of her hair?"
+      ],
+      "Options": [
+        "A. The driver of the dark van\nB. Ana Lucia Cortez\nC. A child on the sidewalk\nD. Hurley, hallucinating the words\nE. Sayid, muttering in his sleep\nF. A message on the car's display",
+        "A. Braided pigtails\nB. Shoulder-length straight red hair\nC. Short blonde bob\nD. Long dark wavy hair\nE. Pulled back in a tight ponytail"
+      ],
+      "Answers": [
+        "B",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Character Hairstyle"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0002-00:02:52.068_S5#0002-00:05:10.081",
+          "L2_frame": "S5#0002-04125_S5#0002-07434",
+          "L3_time": "S5#0002-00:00:20.792_S5#0002-00:06:02.174",
+          "L3_frame": "S5#0002-00498_S5#0002-08683"
+        },
+        {
+          "L2_time": "S2#0020-00:36:51.272_S2#0020-00:38:48.973",
+          "L2_frame": "S2#0020-53017_S2#0020-55839",
+          "L3_time": "S2#0020-00:35:27.146_S2#0020-00:41:44.106",
+          "L3_frame": "S2#0020-51000_S2#0020-60038"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Character Clothing",
+    "Question": "In the jungle, Anna points her gun at this person to help tie someone up with vines. While Hurley is preparing to leave for the caves from his shelter, what color is the shirt worn by this person, who is watching him with concern?",
+    "Options": "A. White\nB. Yellow\nC. Blue\nD. Brown\nE. Green\nF. Orange",
+    "src_questions_info": {
+      "Bridge_Character": "Libby Smith",
+      "Question": [
+        "In the jungle, which character does Anna point to with her gun to help tie someone up with vines?",
+        "While Hurley is preparing to leave for the caves from his shelter, what color is the shirt worn by Libby Smith, who is watching him with concern?"
+      ],
+      "Options": [
+        "A. Eko\nB. Michael\nC. Libby Smith\nD. Sawyer\nE. Bernard\nF. Jack",
+        "A. White\nB. Yellow\nC. Blue\nD. Brown\nE. Green\nF. Orange"
+      ],
+      "Answers": [
+        "C",
+        "E"
+      ],
+      "Dimension": [
+        "Event Outcome",
+        "Character Clothing"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0008-00:05:01.572_S2#0008-00:06:21.527",
+          "L2_frame": "S2#0008-07230_S2#0008-09147",
+          "L3_time": "S2#0008-00:05:01.572_S2#0008-00:09:55.157",
+          "L3_frame": "S2#0008-07230_S2#0008-14269"
+        },
+        {
+          "L2_time": "S2#0018-00:23:05.947_S2#0018-00:25:02.188",
+          "L2_frame": "S2#0018-33229_S2#0018-36016",
+          "L3_time": "S2#0018-00:15:13.809_S2#0018-00:25:02.188",
+          "L3_frame": "S2#0018-21909_S2#0018-36016"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Event Outcome",
+    "Question": "In the infirmary, when Ben falters while explaining who will judge him, someone provides the name \"the monster\" for this entity. This person was involved during the chaotic earthquake on the clifftop — what was the outcome regarding his location?",
+    "Options": "A. He was seen escaping down the wooden ladder.\nB. He was heard shouting for help from below the cliff.\nC. He was revealed to be among the group on the ground.\nD. He was found injured under a fallen rock.\nE. He was spotted on the sailboat in the distance.\nF. He was nowhere to be found after the shaking stopped.",
+    "src_questions_info": {
+      "Bridge_Character": "Ben Linus",
+      "Question": [
+        "In the infirmary, when Ben falters while explaining who will judge him, who provides the name 'the monster' for this entity?",
+        "During the chaotic earthquake on the clifftop, what was the outcome regarding Ben Linus's location?"
+      ],
+      "Options": [
+        "A. Bram\nB. The entity itself, speaking through Ben\nC. Ben Linus\nD. Ben Linus\nE. Ilana Verdansky\nF. John Locke\nG. A voice from off-screen",
+        "A. He was seen escaping down the wooden ladder.\nB. He was heard shouting for help from below the cliff.\nC. He was revealed to be among the group on the ground.\nD. He was found injured under a fallen rock.\nE. He was spotted on the sailboat in the distance.\nF. He was nowhere to be found after the shaking stopped."
+      ],
+      "Answers": [
+        "C",
+        "C"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Event Outcome"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0012-00:02:29.253_S5#0012-00:05:02.406",
+          "L2_frame": "S5#0012-03578_S5#0012-07250",
+          "L3_time": "S5#0012-00:02:29.253_S5#0012-00:08:51.969",
+          "L3_frame": "S5#0012-03578_S5#0012-12754"
+        },
+        {
+          "L2_time": "S6#0018-00:14:17.336_S6#0018-00:15:20.899",
+          "L2_frame": "S6#0018-20555_S6#0018-22079",
+          "L3_time": "S6#0018-00:11:04.393_S6#0018-00:16:04.401",
+          "L3_frame": "S6#0018-15929_S6#0018-23122"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Human-Object Relation",
+    "Question": "After Juliet Burke agreed to let Daniel Faraday assist with the surgery preparations, she took a decisive step to maintain control and handed a handgun to this person with specific instructions. During the interrogation in the hotel suite, what does he do that results in smashed furniture and glass?",
+    "Options": "A. He overturns a large table\nB. He throws a chair against the wall\nC. He kicks a television set\nD. He fires his gun at a lamp\nE. He punches a glass cabinet\nF. He shoves Lee across the room",
+    "src_questions_info": {
+      "Bridge_Character": "Jin-Soo Kwon",
+      "Question": [
+        "After Juliet Burke agreed to let Daniel Faraday assist with the surgery preparations, she took a decisive step to maintain control. Who did Juliet hand a handgun to with specific instructions?",
+        "During the interrogation in the hotel suite, what does Jin-Soo Kwon do that results in smashed furniture and glass?"
+      ],
+      "Options": [
+        "A. Jin-Soo Kwon\nB. Sun-Hwa Kwon\nC. A random survivor\nD. Kate Austen\nE. Herself\nF. Dr. Daniel Faraday\nG. Dr. Charlotte Lewis",
+        "A. He overturns a large table\nB. He throws a chair against the wall\nC. He kicks a television set\nD. He fires his gun at a lamp\nE. He punches a glass cabinet\nF. He shoves Lee across the room"
+      ],
+      "Answers": [
+        "A",
+        "F"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Human-Object Relation"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0010-00:10:27.981_S4#0010-00:11:36.550",
+          "L2_frame": "S4#0010-15056_S4#0010-16700",
+          "L3_time": "S4#0010-00:06:17.147_S4#0010-00:12:24.764",
+          "L3_frame": "S4#0010-09042_S4#0010-17856"
+        },
+        {
+          "L2_time": "S3#0002-00:26:01.748_S3#0002-00:27:52.817",
+          "L2_frame": "S3#0002-37444_S3#0002-40107",
+          "L3_time": "S3#0002-00:26:01.748_S3#0002-00:34:26.752",
+          "L3_frame": "S3#0002-37444_S3#0002-49552"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Temporal Sequence",
+    "Question": "In the dim, wood-paneled bar after the dinner, this person was the first to break the silence by demanding to know what Charlie had done. In the dimly lit indoor scene, what did he do immediately after Charlie shouted 'Carpe diem'?",
+    "Options": "A. He teased Charlie for using the phrase.\nB. He ignored the comment and continued talking.\nC. He agreed with the sentiment.\nD. He asked what the phrase meant.\nE. He corrected Charlie's pronunciation.\nF. He repeated the phrase thoughtfully.",
+    "src_questions_info": {
+      "Bridge_Character": "Tommy",
+      "Question": [
+        "In the dim, wood-paneled bar after the dinner, who was the first to break the silence by demanding to know what Charlie had done?",
+        "In the dimly lit indoor scene, what did Tommy do immediately after Charlie shouted 'Carpe diem'?"
+      ],
+      "Options": [
+        "A. A stranger at the bar\nB. Liam\nC. Charlie Pace\nD. The bartender\nE. Tommy\nF. Lucy\nG. Francis Heatherton",
+        "A. He teased Charlie for using the phrase.\nB. He ignored the comment and continued talking.\nC. He agreed with the sentiment.\nD. He asked what the phrase meant.\nE. He corrected Charlie's pronunciation.\nF. He repeated the phrase thoughtfully."
+      ],
+      "Answers": [
+        "E",
+        "A"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Sequence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0015-00:18:43.852_S1#0015-00:21:03.408",
+          "L2_frame": "S1#0015-26945_S1#0015-30291",
+          "L3_time": "S1#0015-00:11:14.612_S1#0015-00:22:39.588",
+          "L3_frame": "S1#0015-16174_S1#0015-32597"
+        },
+        {
+          "L2_time": "S1#0015-00:06:01.215_S1#0015-00:06:47.261",
+          "L2_frame": "S1#0015-08660_S1#0015-09764",
+          "L3_time": "S1#0015-00:06:01.215_S1#0015-00:11:14.570",
+          "L3_frame": "S1#0015-08660_S1#0015-16173"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "G",
+    "Dimension": "Human-Object Relation",
+    "Question": "When Ben Linus stepped out of his tent into the jungle clearing, he first called out to this person and asked about his missing recorder. After Michael sprints into the tall grass to escape, what specific action does this person take with an object to recapture him?",
+    "Options": "A. He throws a large rock at his back\nB. He uses a long pole to trip him\nC. He throws a net over him\nD. He fires a warning shot with a pistol\nE. He deploys a bola weapon\nF. He shoots a tranquilizer dart at him\nG. He throws a projectile that tangles his legs",
+    "src_questions_info": {
+      "Bridge_Character": "Tom Friendly",
+      "Question": [
+        "When Ben Linus stepped out of his tent into the jungle clearing, who was the first person he called out to and inquired about his missing recorder?",
+        "After Michael sprints into the tall grass to escape, what specific action does Tom Friendly take with an object to recapture him?"
+      ],
+      "Options": [
+        "A. Horace Goodspeed\nB. Juliet\nC. John Locke\nD. Olivia\nE. Richard Alpert\nF. Tom Friendly",
+        "A. He throws a large rock at his back\nB. He uses a long pole to trip him\nC. He throws a net over him\nD. He fires a warning shot with a pistol\nE. He deploys a bola weapon\nF. He shoots a tranquilizer dart at him\nG. He throws a projectile that tangles his legs"
+      ],
+      "Answers": [
+        "F",
+        "G"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Human-Object Relation"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0020-00:02:55.738_S3#0020-00:04:44.055",
+          "L2_frame": "S3#0020-04213_S3#0020-06810",
+          "L3_time": "S3#0020-00:02:55.738_S3#0020-00:09:10.237",
+          "L3_frame": "S3#0020-04213_S3#0020-13192"
+        },
+        {
+          "L2_time": "S2#0022-00:06:42.089_S2#0022-00:07:48.906",
+          "L2_frame": "S2#0022-09640_S2#0022-11242",
+          "L3_time": "S2#0022-00:03:26.269_S2#0022-00:07:48.906",
+          "L3_frame": "S2#0022-04945_S2#0022-11242"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Character Clothing",
+    "Question": "Inside the cramped sickbay, after Desmond is led in, this person tells him to relax in a patronizing tone. In the opening scene, when this person confronts Sun-Hwa Kwon at her front door, what is the specific color of the top she is wearing?",
+    "Options": "A. Sea green\nB. Black\nC. Pale yellow\nD. Light blue\nE. Lavender\nF. Dark red\nG. White",
+    "src_questions_info": {
+      "Bridge_Character": "Martin Keamy",
+      "Question": [
+        "Inside the cramped sickbay, after Desmond is led in, who tells him to relax in a patronizing tone?",
+        "In the opening scene, when Martin Keamy confronts Sun-Hwa Kwon at her front door, what is the specific color of the top she is wearing?"
+      ],
+      "Options": [
+        "A. A security guard\nB. The ship's engineer\nC. George Minkowski\nD. Desmond's friend\nE. The arriving doctor\nF. Omar Idris\nG. Martin Keamy",
+        "A. Sea green\nB. Black\nC. Pale yellow\nD. Light blue\nE. Lavender\nF. Dark red\nG. White"
+      ],
+      "Answers": [
+        "G",
+        "E"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Character Clothing"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0005-00:09:40.142_S4#0005-00:10:25.270",
+          "L2_frame": "S4#0005-13909_S4#0005-14991",
+          "L3_time": "S4#0005-00:03:29.730_S4#0005-00:10:25.270",
+          "L3_frame": "S4#0005-05028_S4#0005-14991"
+        },
+        {
+          "L2_time": "S6#0010-00:14:10.831_S6#0010-00:16:11.743",
+          "L2_frame": "S6#0010-20399_S6#0010-23298",
+          "L3_time": "S6#0010-00:06:14.270_S6#0010-00:16:11.743",
+          "L3_frame": "S6#0010-08973_S6#0010-23298"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Temporal Sequence",
+    "Question": "During the confrontation in the burned-out forest, the person who makes the sarcastic remark about preferring Mr. Eko when he was violent is identified indirectly by that exchange. Before this person stepped forward to expose the lie in the jungle shelter, what specific claim had Dr. Faraday just made to the group?",
+    "Options": "A. That everyone needed to remain calm\nB. That the Morse code message was a promise of rescue\nC. That the helicopter would return in the morning\nD. That he knew where to find fresh water\nE. That the doctor on the other end was a friend\nF. That he had fixed the radio",
+    "src_questions_info": {
+      "Bridge_Character": "Bernard Nadler",
+      "Question": [
+        "Who makes the sarcastic remark about preferring Mr. Eko when he was violent, during the confrontation in the burned-out forest?",
+        "Before Bernard Nadler stepped forward to expose the lie in the jungle shelter, what specific claim had Dr. Faraday just made to the group?"
+      ],
+      "Options": [
+        "A. Mr. Eko\nB. Charlie Pace\nC. Ana Lucia Cortez\nD. Bernard Nadler\nE. John Locke",
+        "A. That everyone needed to remain calm\nB. That the Morse code message was a promise of rescue\nC. That the helicopter would return in the morning\nD. That he knew where to find fresh water\nE. That the doctor on the other end was a friend\nF. That he had fixed the radio"
+      ],
+      "Answers": [
+        "D",
+        "C"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Sequence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0019-00:15:49.386_S2#0019-00:17:03.877",
+          "L2_frame": "S2#0019-22762_S2#0019-24548",
+          "L3_time": "S2#0019-00:15:01.839_S2#0019-00:19:13.423",
+          "L3_frame": "S2#0019-21622_S2#0019-27654"
+        },
+        {
+          "L2_time": "S4#0009-00:33:00.331_S4#0009-00:34:12.695",
+          "L2_frame": "S4#0009-47480_S4#0009-49215",
+          "L3_time": "S4#0009-00:27:45.517_S4#0009-00:34:12.695",
+          "L3_frame": "S4#0009-39932_S4#0009-49215"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Body Movement",
+    "Question": "Towards the end of the surreal roadside encounter, a person delivers the cryptic message \"Libby says hi\" before disappearing. This person received the payment and delivered a sarcastic remark at the harbor—what was their final action?",
+    "Options": "A. She waited by the prisoner van\nB. She made a phone call\nC. She shook hands with Desmond\nD. She walked away\nE. She got into the Hummer with Hugo\nF. She got into the red Camaro",
+    "src_questions_info": {
+      "Bridge_Character": "Ana Lucia Cortez",
+      "Question": [
+        "Towards the end of the surreal roadside encounter, who delivers the cryptic message 'Libby says hi' before disappearing?",
+        "After receiving the payment and delivering a sarcastic remark at the harbor, what was Ana Lucia Cortez's final action?"
+      ],
+      "Options": [
+        "A. The driver of the dark van\nB. Ana Lucia Cortez\nC. A child on the sidewalk\nD. Hurley, hallucinating the words\nE. Sayid, muttering in his sleep\nF. A message on the car's display",
+        "A. She waited by the prisoner van\nB. She made a phone call\nC. She shook hands with Desmond\nD. She walked away\nE. She got into the Hummer with Hugo\nF. She got into the red Camaro"
+      ],
+      "Answers": [
+        "B",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0002-00:02:52.068_S5#0002-00:05:10.081",
+          "L2_frame": "S5#0002-04125_S5#0002-07434",
+          "L3_time": "S5#0002-00:00:20.792_S5#0002-00:06:02.174",
+          "L3_frame": "S5#0002-00498_S5#0002-08683"
+        },
+        {
+          "L2_time": "S6#0016-00:39:40.653_S6#0016-00:40:22.528",
+          "L2_frame": "S6#0016-57078_S6#0016-58082",
+          "L3_time": "S6#0016-00:37:02.244_S6#0016-00:40:22.528",
+          "L3_frame": "S6#0016-53280_S6#0016-58082"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Action Claim Subject",
+    "Question": "In the tense kitchen scene, after discussing the loan, someone declares that Omer brought the situation upon himself. When this person and Sayid arrive, what is the subject of Sayid's humorous comment to Hugo?",
+    "Options": "A. The food being served\nB. The warm weather\nC. The number of guests at the party\nD. Hugo's choice of a grey hoodie\nE. The loud music being played by the DJ\nF. The party theme is quite interesting",
+    "src_questions_info": {
+      "Bridge_Character": "Nadia",
+      "Question": [
+        "In the tense kitchen scene, after discussing the loan, who declares that Omer brought the situation upon himself?",
+        "After Nadia and Sayid arrive, what is the subject of Sayid's humorous comment to Hugo?"
+      ],
+      "Options": [
+        "A. Nadia\nB. Sayid\nC. Omer's doctor\nD. Sayid's father\nE. The narrator\nF. A debt collector\nG. The children",
+        "A. The food being served\nB. The warm weather\nC. The number of guests at the party\nD. Hugo's choice of a grey hoodie\nE. The loud music being played by the DJ\nF. The party theme is quite interesting"
+      ],
+      "Answers": [
+        "A",
+        "F"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Action Claim Subject"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0006-00:21:27.976_S6#0006-00:22:06.598",
+          "L2_frame": "S6#0006-30880_S6#0006-31806",
+          "L3_time": "S6#0006-00:17:26.652_S6#0006-00:22:54.563",
+          "L3_frame": "S6#0006-25094_S6#0006-32956"
+        },
+        {
+          "L2_time": "S4#0012-00:24:47.506_S4#0012-00:25:45.105",
+          "L2_frame": "S4#0012-35664_S4#0012-37045",
+          "L3_time": "S4#0012-00:23:13.746_S4#0012-00:28:52.751",
+          "L3_frame": "S4#0012-33416_S4#0012-41544"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Spatial Location",
+    "Question": "In the diner, the character wearing a green floral blouse and black-rimmed glasses is present. This person was in the aftermath of the failed raid — where exactly was the small green sign reading 'Please Stay Off Grass' located relative to her?",
+    "Options": "A. Across the street\nB. Nearby her open suitcase\nC. Nailed to the porch of the house\nD. In her hand\nE. Nailed to a tree\nF. Tucked into her jacket",
+    "src_questions_info": {
+      "Bridge_Character": "Cassidy Phillips",
+      "Question": [
+        "In the diner, who is the character identified by their green floral blouse and black-rimmed glasses?",
+        "In the aftermath of the failed raid, where exactly was the small green sign reading 'Please Stay Off Grass' located relative to Cassidy Phillips?"
+      ],
+      "Options": [
+        "A. A customer at the counter\nB. Diane Janssen\nC. The diner owner's wife\nD. Juliet Burke\nE. A woman in a food poster\nF. Kate Austen\nG. Cassidy Phillips",
+        "A. Across the street\nB. Nearby her open suitcase\nC. Nailed to the porch of the house\nD. In her hand\nE. Nailed to a tree\nF. Tucked into her jacket"
+      ],
+      "Answers": [
+        "G",
+        "C"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Spatial Location"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0015-00:27:40.930_S3#0015-00:30:46.491",
+          "L2_frame": "S3#0015-39822_S3#0015-44271",
+          "L3_time": "S3#0015-00:23:52.953_S3#0015-00:30:46.491",
+          "L3_frame": "S3#0015-34356_S3#0015-44271"
+        },
+        {
+          "L2_time": "S3#0015-00:17:00.207_S3#0015-00:19:24.184",
+          "L2_frame": "S3#0015-24460_S3#0015-27912",
+          "L3_time": "S3#0015-00:13:51.143_S3#0015-00:23:52.911",
+          "L3_frame": "S3#0015-19927_S3#0015-34355"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Object Counting",
+    "Question": "Amid the uproar in the temple courtyard after Sayid is taken, this person storms into the scene with a pistol raised in an attempt to restore order. During the physical altercation in front of the house and the subsequent interrogation, how many distinct, successful physical attacks were inflicted upon this person?",
+    "Options": "A. 5\nB. 4\nC. 1\nD. 0\nE. 2\nF. 3",
+    "src_questions_info": {
+      "Bridge_Character": "Aldo",
+      "Question": [
+        "Amid the uproar in the temple courtyard after Sayid is taken, who storms into the scene with a pistol raised in an attempt to restore order?",
+        "During the physical altercation in front of the house and the subsequent interrogation, how many distinct, successful physical attacks were inflicted upon Aldo?"
+      ],
+      "Options": [
+        "A. Aldo\nB. Jin-Soo Kwon\nC. Sawyer\nD. Lennon\nE. A temple guard\nF. Dogen\nG. Jack Shephard",
+        "A. 5\nB. 4\nC. 1\nD. 0\nE. 2\nF. 3"
+      ],
+      "Answers": [
+        "A",
+        "F"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Object Counting"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0003-00:06:57.814_S6#0003-00:08:09.844",
+          "L2_frame": "S6#0003-10017_S6#0003-11744",
+          "L3_time": "S6#0003-00:04:14.901_S6#0003-00:08:09.844",
+          "L3_frame": "S6#0003-06111_S6#0003-11744"
+        },
+        {
+          "L2_time": "S3#0007-00:23:00.025_S3#0007-00:24:15.016",
+          "L2_frame": "S3#0007-33087_S3#0007-34885",
+          "L3_time": "S3#0007-00:20:34.963_S3#0007-00:25:53.782",
+          "L3_frame": "S3#0007-29609_S3#0007-37253"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Event Background",
+    "Question": "Following Locke's cryptic claim of looking for him in the jungle, someone accuses Locke of reckless behavior and siding with the enemy. When this person attempts to open the silver briefcase, what was the prevailing weather condition at the Survivior beach camp?",
+    "Options": "A. Dark and stormy\nB. Foggy\nC. Bright and sunny\nD. Clear night sky\nE. Overcast and cloudy\nF. Drizzling rain",
+    "src_questions_info": {
+      "Bridge_Character": "James Sawyer Ford",
+      "Question": [
+        "Following Locke's cryptic claim of looking for him in the jungle, who accuses Locke of reckless behavior and siding with the enemy?",
+        "In the scene where James Sawyer Ford attempts to open the silver briefcase, what was the prevailing weather condition at the Survivior beach camp?"
+      ],
+      "Options": [
+        "A. Desmond Hume\nB. James Sawyer Ford\nC. Jack Shephard\nD. Sayid Jarrah\nE. Juliet Burke\nF. Kate Austen\nG. Claire Littleton",
+        "A. Dark and stormy\nB. Foggy\nC. Bright and sunny\nD. Clear night sky\nE. Overcast and cloudy\nF. Drizzling rain"
+      ],
+      "Answers": [
+        "B",
+        "E"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Event Background"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0019-00:05:06.160_S3#0019-00:05:50.329",
+          "L2_frame": "S3#0019-07340_S3#0019-08399",
+          "L3_time": "S3#0019-00:00:00.000_S3#0019-00:06:46.802",
+          "L3_frame": "S3#0019-00000_S3#0019-09753"
+        },
+        {
+          "L2_time": "S1#0012-00:14:54.915_S1#0012-00:15:33.662",
+          "L2_frame": "S1#0012-21456_S1#0012-22385",
+          "L3_time": "S1#0012-00:14:54.915_S1#0012-00:22:02.968",
+          "L3_frame": "S1#0012-21456_S1#0012-31719"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Distinctive Features",
+    "Question": "Inside the cramped sickbay, after Desmond is led in, this person tells him to relax in a patronizing tone. When he confronts Ben Linus in the greenhouse, what is used to partially mask the faces of his soldiers?",
+    "Options": "A. Black ski masks\nB. Heavy scarves\nC. Dark bandanas\nD. Gas masks\nE. Camouflage paint\nF. Tactical goggles",
+    "src_questions_info": {
+      "Bridge_Character": "Martin Keamy",
+      "Question": [
+        "Inside the cramped sickbay, after Desmond is led in, who tells him to relax in a patronizing tone?",
+        "When Martin Keamy confronts Ben Linus in the greenhouse, what is used to partially mask the faces of his soldiers?"
+      ],
+      "Options": [
+        "A. A security guard\nB. The ship's engineer\nC. George Minkowski\nD. Desmond's friend\nE. The arriving doctor\nF. Omar Idris\nG. Martin Keamy",
+        "A. Black ski masks\nB. Heavy scarves\nC. Dark bandanas\nD. Gas masks\nE. Camouflage paint\nF. Tactical goggles"
+      ],
+      "Answers": [
+        "G",
+        "E"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Distinctive Features"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0005-00:09:40.142_S4#0005-00:10:25.270",
+          "L2_frame": "S4#0005-13909_S4#0005-14991",
+          "L3_time": "S4#0005-00:03:29.730_S4#0005-00:10:25.270",
+          "L3_frame": "S4#0005-05028_S4#0005-14991"
+        },
+        {
+          "L2_time": "S4#0012-00:41:44.730_S4#0012-00:42:14.426",
+          "L2_frame": "S4#0012-60053_S4#0012-60765",
+          "L3_time": "S4#0012-00:39:46.361_S4#0013-00:05:41.320",
+          "L3_frame": "S4#0012-57215_S4#0013-08183"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Body Movement",
+    "Question": "When Hugo was being questioned about his census on the beach, someone cynically compared his efforts to a personal version of the 'Patriot Act.' In the scene where Shannon is painting her toenails, what does this person do that shows his concern for her?",
+    "Options": "A. Bringing her a warmer blanket\nB. Sitting quietly beside her, watching her\nC. Offering her a drink of water\nD. Talking to her softly\nE. Standing guard over her",
+    "src_questions_info": {
+      "Bridge_Character": "Boone Carlyle",
+      "Question": [
+        "When Hugo was being questioned about his census on the beach, who cynically compared his efforts to a personal version of the 'Patriot Act'?",
+        "In the scene where Shannon is painting her toenails, what does Boone Carlyle do that shows his concern for her?"
+      ],
+      "Options": [
+        "A. Boone Carlyle\nB. Hugo 'Hurley' Reyes\nC. A suspicious survivor\nD. Charlie Pace\nE. James 'Sawyer' Ford\nF. Shannon Rutherford",
+        "A. Bringing her a warmer blanket\nB. Sitting quietly beside her, watching her\nC. Offering her a drink of water\nD. Talking to her softly\nE. Standing guard over her"
+      ],
+      "Answers": [
+        "A",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0010-00:29:13.815_S1#0010-00:30:14.959",
+          "L2_frame": "S1#0010-42049_S1#0010-43515",
+          "L3_time": "S1#0010-00:29:13.815_S1#0010-00:35:51.462",
+          "L3_frame": "S1#0010-42049_S1#0010-51583"
+        },
+        {
+          "L2_time": "S1#0001-00:15:02.297_S1#0001-00:15:44.381",
+          "L2_frame": "S1#0001-21633_S1#0001-22642",
+          "L3_time": "S1#0001-00:12:35.901_S1#0001-00:17:32.864",
+          "L3_frame": "S1#0001-18123_S1#0001-25243"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "G",
+    "Dimension": "Textual Content",
+    "Question": "In the interrogation room, the person who explicitly states that Sayid \"had his chance\" before taking further action is the one to identify. This person places a book on the counter for Desmond in the military processing room — who is the author of that book?",
+    "Options": "A. Mark Twain\nB. George Orwell\nC. Leo Tolstoy\nD. Fyodor Dostoevsky\nE. William Shakespeare\nF. Jane Austen\nG. Charles Dickens",
+    "src_questions_info": {
+      "Bridge_Character": "Sergeant",
+      "Question": [
+        "In the interrogation room, who explicitly states that Sayid 'had his chance' before taking further action?",
+        "In the military processing room, when the sergeant places a book on the counter for Desmond, who is the author of that book?"
+      ],
+      "Options": [
+        "A. Sayid Jarrah\nB. A superior officer off-screen\nC. Sergeant\nD. An unnamed guard\nE. James Sawyer Ford\nF. Tariq",
+        "A. Mark Twain\nB. George Orwell\nC. Leo Tolstoy\nD. Fyodor Dostoevsky\nE. William Shakespeare\nF. Jane Austen\nG. Charles Dickens"
+      ],
+      "Answers": [
+        "C",
+        "G"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Textual Content"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0014-00:08:21.188_S2#0014-00:09:08.778",
+          "L2_frame": "S2#0014-12016_S2#0014-13157",
+          "L3_time": "S2#0014-00:04:03.514_S2#0014-00:09:08.778",
+          "L3_frame": "S2#0014-05838_S2#0014-13157"
+        },
+        {
+          "L2_time": "S2#0023-00:05:23.678_S2#0023-00:07:20.920",
+          "L2_frame": "S2#0023-07760_S2#0023-10571",
+          "L3_time": "S2#0023-00:03:05.498_S2#0023-00:08:32.199",
+          "L3_frame": "S2#0023-04447_S2#0023-12280"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Event Background",
+    "Question": "At the city canal, when one person expresses relief that the other had arrived for their meeting, this person is the one being identified. When this person on the bench identifies Sun-Hwa's father, what is the name of the business she associates with him?",
+    "Options": "A. Paik Shipping\nB. Paik Trading Company\nC. Paik Electronics\nD. Paik Automotive\nE. Paik Construction\nF. Paik Industries\nG. Paik Hotels",
+    "src_questions_info": {
+      "Bridge_Character": "Older Woman",
+      "Question": [
+        "At the city canal, who expresses relief that the other person had arrived for their meeting?",
+        "When the older woman on the bench identifies Sun-Hwa's father, what is the name of the business she associates with him?"
+      ],
+      "Options": [
+        "A. A boat captain\nB. Jin-Soo Kwon\nC. A nearby witness\nD. Older Woman\nE. Dr. Juliet Burke\nF. Sun-Hwa Kwon",
+        "A. Paik Shipping\nB. Paik Trading Company\nC. Paik Electronics\nD. Paik Automotive\nE. Paik Construction\nF. Paik Industries\nG. Paik Hotels"
+      ],
+      "Answers": [
+        "D",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Event Background"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0018-00:36:02.306_S3#0018-00:37:11.375",
+          "L2_frame": "S3#0018-51843_S3#0018-53499",
+          "L3_time": "S3#0018-00:30:26.554_S3#0018-00:42:19.933",
+          "L3_frame": "S3#0018-43793_S3#0018-60897"
+        },
+        {
+          "L2_time": "S3#0018-00:02:30.630_S3#0018-00:04:25.161",
+          "L2_frame": "S3#0018-03611_S3#0018-06357",
+          "L3_time": "S3#0018-00:00:00.000_S3#0018-00:06:30.161",
+          "L3_frame": "S3#0018-00000_S3#0018-09354"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Object Appearance",
+    "Question": "After the fight near the bar entrance, a person is found collapsed and unconscious or injured against a brick wall. This person leans on or touches a chair during her conversation with Boone Carlyle — what material is the chair made of?",
+    "Options": "A. Plastic\nB. Leather\nC. Upholstered fabric\nD. Wicker\nE. Metal\nF. Wood",
+    "src_questions_info": {
+      "Bridge_Character": "Shannon Rutherford",
+      "Question": [
+        "After the fight near the bar entrance, who is found collapsed and unconscious or injured against a brick wall?",
+        "What material is the chair that Shannon Rutherford leans on or touches during her conversation with Boone Carlyle made of?"
+      ],
+      "Options": [
+        "A. Boone Carlyle\nB. A bystander\nC. Shannon Rutherford\nD. One of the attackers\nE. Hugo 'Hurley' Reyes\nF. Sayid Jarrah",
+        "A. Plastic\nB. Leather\nC. Upholstered fabric\nD. Wicker\nE. Metal\nF. Wood"
+      ],
+      "Answers": [
+        "C",
+        "F"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Object Appearance"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0017-00:33:43.876_S6#0017-00:35:03.039",
+          "L2_frame": "S6#0017-48524_S6#0017-50422",
+          "L3_time": "S6#0017-00:33:43.876_S6#0017-00:39:08.951",
+          "L3_frame": "S6#0017-48524_S6#0017-56318"
+        },
+        {
+          "L2_time": "S2#0006-00:36:19.615_S2#0006-00:37:14.086",
+          "L2_frame": "S2#0006-52258_S2#0006-53564",
+          "L3_time": "S2#0006-00:33:11.636_S2#0006-00:42:02.374",
+          "L3_frame": "S2#0006-47751_S2#0006-60476"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Temporal Sequence",
+    "Question": "During the tense conversation at the construction site, the person who told Sayid that he had stayed at the Westerfield Hotel was involved in that exchange. When this person prepares breakfast in a ritual-like manner in the kitchen, what does he do with one of the eggs immediately before cracking both of them into the pan?",
+    "Options": "A. He holds it up to the light\nB. He checks it for cracks\nC. He briefly smells it\nD. He draws a symbol on it\nE. He rolls it on the counter\nF. He weighs it in his hand\nG. He whispers a word to it",
+    "src_questions_info": {
+      "Bridge_Character": "John Locke",
+      "Question": [
+        "During the tense conversation at the construction site, who told Sayid that he had stayed at the Westerfield Hotel?",
+        "In the kitchen, when John Locke prepares breakfast in a ritual-like manner, what does he do with one of the eggs immediately before cracking both of them into the pan?"
+      ],
+      "Options": [
+        "A. John Locke\nB. Sayid Jarrah\nC. A construction worker\nD. Michael Dawson\nE. Helen Norwood\nF. Matthew Abaddon",
+        "A. He holds it up to the light\nB. He checks it for cracks\nC. He briefly smells it\nD. He draws a symbol on it\nE. He rolls it on the counter\nF. He weighs it in his hand\nG. He whispers a word to it"
+      ],
+      "Answers": [
+        "A",
+        "C"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Sequence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0007-00:18:40.139_S5#0007-00:19:46.247",
+          "L2_frame": "S5#0007-26856_S5#0007-28441",
+          "L3_time": "S5#0007-00:14:00.276_S5#0007-00:22:02.591",
+          "L3_frame": "S5#0007-20146_S5#0007-31710"
+        },
+        {
+          "L2_time": "S4#0004-00:00:00.000_S4#0004-00:01:22.228",
+          "L2_frame": "S4#0004-00000_S4#0004-01971",
+          "L3_time": "S4#0003-00:40:31.990_S4#0004-00:02:19.702",
+          "L3_frame": "S4#0003-58309_S4#0004-03349"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Quantity Comparison",
+    "Question": "Under the bed, Kate stayed hidden until the sight of a pair of legs made her come out from her hiding spot. This person appears in a quiet morning scene — what is the main color of their shorts?",
+    "Options": "A. Blue\nB. Yellow\nC. Green\nD. White\nE. Black\nF. Purple",
+    "src_questions_info": {
+      "Bridge_Character": "James Sawyer Ford",
+      "Question": [
+        "Who was the person whose presence, indicated by a pair of legs, caused Kate to emerge from her hiding spot under the bed?",
+        "In the quiet morning scene, what is the main color of James Sawyer Ford's shorts?"
+      ],
+      "Options": [
+        "A. Sayid Jarrah\nB. James Sawyer Ford\nC. Miles Straume\nD. Ben Linus\nE. John Locke\nF. Danielle Rousseau\nG. Hugo Hurley Reyes",
+        "A. Blue\nB. Yellow\nC. Green\nD. White\nE. Black\nF. Purple"
+      ],
+      "Answers": [
+        "B",
+        "A"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Quantity Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0003-00:25:52.487_S4#0003-00:26:50.253",
+          "L2_frame": "S4#0003-37222_S4#0003-38607",
+          "L3_time": "S4#0003-00:23:56.080_S4#0003-00:27:28.458",
+          "L3_frame": "S4#0003-34431_S4#0003-39523"
+        },
+        {
+          "L2_time": "S5#0008-00:39:14.204_S5#0008-00:41:05.732",
+          "L2_frame": "S5#0008-56444_S5#0008-59118",
+          "L3_time": "S5#0008-00:39:14.204_S5#0009-00:04:33.294",
+          "L3_frame": "S5#0008-56444_S5#0009-06552"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Temporal Comparison",
+    "Question": "In the prison cell, after Father Suarez entered, he offered a piece of bread to this person. When he explains that the boy will lose his innocence, what is the very next thing this person does?",
+    "Options": "A. He takes the boy from Sawyer.\nB. He asks for the boy's name.\nC. He makes the statement that the boy 'will always be one of us.'\nD. He turns and walks away.\nE. He asks Kate what she wants to do.\nF. He looks at Sawyer for a reaction.",
+    "src_questions_info": {
+      "Bridge_Character": "Richard Alpert",
+      "Question": [
+        "In the prison cell, after Father Suarez entered, to whom did he offer a piece of bread?",
+        "After Richard Alpert explains that the boy will lose his innocence, what is the very next thing he does?"
+      ],
+      "Options": [
+        "A. He offered it to God\nB. The man in the silhouette\nC. Richard Alpert\nD. Another prisoner\nE. The guard\nF. He kept it for himself\nG. A mouse on the floor",
+        "A. He takes the boy from Sawyer.\nB. He asks for the boy's name.\nC. He makes the statement that the boy 'will always be one of us.'\nD. He turns and walks away.\nE. He asks Kate what she wants to do.\nF. He looks at Sawyer for a reaction."
+      ],
+      "Answers": [
+        "C",
+        "C"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Temporal Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0009-00:11:16.490_S6#0009-00:12:07.332",
+          "L2_frame": "S6#0009-16219_S6#0009-17438",
+          "L3_time": "S6#0009-00:06:32.122_S6#0009-00:15:12.642",
+          "L3_frame": "S6#0009-09401_S6#0009-21881"
+        },
+        {
+          "L2_time": "S5#0011-00:38:55.102_S5#0011-00:40:38.705",
+          "L2_frame": "S5#0011-55986_S5#0011-58470",
+          "L3_time": "S5#0011-00:34:39.931_S5#0012-00:02:29.212",
+          "L3_frame": "S5#0011-49868_S5#0012-03577"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Temporal Comparison",
+    "Question": "Towards the end of the harrowing scene on the beach, someone proclaimed that it was time to stop listening to Jacob and start listening to someone else, hinting at a new allegiance. This person explains that the boy will lose his innocence—what is the very next thing he does?",
+    "Options": "A. He takes the boy from Sawyer.\nB. He asks for the boy's name.\nC. He makes the statement that the boy 'will always be one of us.'\nD. He turns and walks away.\nE. He asks Kate what she wants to do.\nF. He looks at Sawyer for a reaction.",
+    "src_questions_info": {
+      "Bridge_Character": "Richard Alpert",
+      "Question": [
+        "Towards the end of the harrowing scene on the beach, who proclaimed that it was time to stop listening to Jacob and start listening to someone else, hinting at a new allegiance?",
+        "After Richard Alpert explains that the boy will lose his innocence, what is the very next thing he does?"
+      ],
+      "Options": [
+        "A. The Man in Black\nB. Ilana Verdansky\nC. Jack Shephard\nD. Miles Straume\nE. Richard Alpert\nF. Hugo Hurley Reyes\nG. Ben Linus",
+        "A. He takes the boy from Sawyer.\nB. He asks for the boy's name.\nC. He makes the statement that the boy 'will always be one of us.'\nD. He turns and walks away.\nE. He asks Kate what she wants to do.\nF. He looks at Sawyer for a reaction."
+      ],
+      "Answers": [
+        "E",
+        "C"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0009-00:02:21.496_S6#0009-00:03:51.294",
+          "L2_frame": "S6#0009-03392_S6#0009-05545",
+          "L3_time": "S6#0009-00:00:00.000_S6#0009-00:06:32.080",
+          "L3_frame": "S6#0009-00000_S6#0009-09400"
+        },
+        {
+          "L2_time": "S5#0011-00:38:55.102_S5#0011-00:40:38.705",
+          "L2_frame": "S5#0011-55986_S5#0011-58470",
+          "L3_time": "S5#0011-00:34:39.931_S5#0012-00:02:29.212",
+          "L3_frame": "S5#0011-49868_S5#0012-03577"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Event Background",
+    "Question": "After Anna Lucia awakens in the pit, this person—the character with long blonde hair and a beard—asks if she is alright. In the scene where he attempts to open the silver briefcase, what was the prevailing weather condition at the Survivior beach camp?",
+    "Options": "A. Dark and stormy\nB. Foggy\nC. Bright and sunny\nD. Clear night sky\nE. Overcast and cloudy\nF. Drizzling rain",
+    "src_questions_info": {
+      "Bridge_Character": "James Sawyer Ford",
+      "Question": [
+        "After Anna Lucia awakens in the pit, who is the character with long blonde hair and a beard that asks if she is alright?",
+        "In the scene where James Sawyer Ford attempts to open the silver briefcase, what was the prevailing weather condition at the Survivior beach camp?"
+      ],
+      "Options": [
+        "A. James Sawyer Ford\nB. Dr. Jack Shephard\nC. Jin-Soo Kwon\nD. John Locke\nE. An unnamed Survivor\nF. Michael Dawson",
+        "A. Dark and stormy\nB. Foggy\nC. Bright and sunny\nD. Clear night sky\nE. Overcast and cloudy\nF. Drizzling rain"
+      ],
+      "Answers": [
+        "A",
+        "E"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Event Background"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0003-00:23:40.148_S2#0003-00:25:27.464",
+          "L2_frame": "S2#0003-34049_S2#0003-36622",
+          "L3_time": "S2#0003-00:18:08.025_S2#0003-00:25:27.464",
+          "L3_frame": "S2#0003-26086_S2#0003-36622"
+        },
+        {
+          "L2_time": "S1#0012-00:14:54.915_S1#0012-00:15:33.662",
+          "L2_frame": "S1#0012-21456_S1#0012-22385",
+          "L3_time": "S1#0012-00:14:54.915_S1#0012-00:22:02.968",
+          "L3_frame": "S1#0012-21456_S1#0012-31719"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Body Movement",
+    "Question": "Based on the video's narrative, there is a character who is present in the scenes taking place in the dimly lit cave and the corporate environment, but not in the dense island jungle. This person, in the immediate aftermath of Boone's funeral on the sun-drenched beach, as Jack struggles violently, what specific action does he take to restrain him?",
+    "Options": "A. He holds him tightly.\nB. He stands in front of him as a barrier.\nC. He pushes Jack away from Locke.\nD. He puts him in a headlock.\nE. He tackles him to the sand.\nF. He grabs his arms from behind.",
+    "src_questions_info": {
+      "Bridge_Character": "Charlie Pace",
+      "Question": [
+        "Based on the video's narrative, which character is present in the scenes taking place in the dimly lit cave and the corporate environment, but not in the dense island jungle?",
+        "In the immediate aftermath of Boone's funeral on the sun-drenched beach, as Jack struggles violently, what specific action does Charlie Pace take to restrain him?"
+      ],
+      "Options": [
+        "A. Claire Littleton\nB. Charlie Pace\nC. Sayid Jarrah\nD. Jack Shephard\nE. John Locke\nF. Ethan",
+        "A. He holds him tightly.\nB. He stands in front of him as a barrier.\nC. He pushes Jack away from Locke.\nD. He puts him in a headlock.\nE. He tackles him to the sand.\nF. He grabs his arms from behind."
+      ],
+      "Answers": [
+        "B",
+        "C"
+      ],
+      "Dimension": [
+        "Position Comparison",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0015-00:28:09.918_S1#0015-00:30:23.760",
+          "L2_frame": "S1#0015-40517_S1#0015-43726",
+          "L3_time": "S1#0015-00:22:39.629_S1#0015-00:37:23.763",
+          "L3_frame": "S1#0015-32598_S1#0015-53796"
+        },
+        {
+          "L2_time": "S1#0021-00:09:58.119_S1#0021-00:11:38.052",
+          "L2_frame": "S1#0021-14340_S1#0021-16736",
+          "L3_time": "S1#0021-00:02:35.426_S1#0021-00:11:38.052",
+          "L3_frame": "S1#0021-03726_S1#0021-16736"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Action Claim Subject",
+    "Question": "In the orientation film, after Dr. Halliwax explains the experiment, a brief cutaway shows someone disappearing from a brightly lit chamber. During their tense conversation in the bunker, what philosophical topic does this person speak about?",
+    "Options": "A. The morality of survival\nB. The nature of time and destiny\nC. Leadership and the failure of rational decisions under pressure\nD. The meaning of sacrifice\nE. The difference between science and faith\nF. The importance of friendship and loyalty",
+    "src_questions_info": {
+      "Bridge_Character": "Ben Linus",
+      "Question": [
+        "In the orientation film, after Dr. Halliwax explains the experiment, who is shown in a brief cutaway disappearing from a brightly lit chamber?",
+        "During their tense conversation in the bunker, what philosophical topic does Ben Linus speak about?"
+      ],
+      "Options": [
+        "A. The technician\nB. A lab animal\nC. The camera operator\nD. A metallic robot\nE. Ben Linus\nF. Dr. Halliwax\nG. John Locke",
+        "A. The morality of survival\nB. The nature of time and destiny\nC. Leadership and the failure of rational decisions under pressure\nD. The meaning of sacrifice\nE. The difference between science and faith\nF. The importance of friendship and loyalty"
+      ],
+      "Answers": [
+        "E",
+        "C"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Action Claim Subject"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0013-00:27:29.876_S4#0013-00:28:11.751",
+          "L2_frame": "S4#0013-39557_S4#0013-40561",
+          "L3_time": "S4#0013-00:24:40.999_S4#0013-00:28:59.924",
+          "L3_frame": "S4#0013-35508_S4#0013-41716"
+        },
+        {
+          "L2_time": "S4#0014-00:12:44.284_S4#0014-00:13:44.803",
+          "L2_frame": "S4#0014-18324_S4#0014-19775",
+          "L3_time": "S4#0014-00:10:00.704_S4#0014-00:14:40.150",
+          "L3_frame": "S4#0014-14402_S4#0014-21102"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Body Movement",
+    "Question": "On the desolate beach, while the bottle of tequila is being opened, this person watches. After receiving the payment and delivering a sarcastic remark at the harbor, what was this person's final action?",
+    "Options": "A. She waited by the prisoner van\nB. She made a phone call\nC. She shook hands with Desmond\nD. She walked away\nE. She got into the Hummer with Hugo\nF. She got into the red Camaro",
+    "src_questions_info": {
+      "Bridge_Character": "Ana Lucia Cortez",
+      "Question": [
+        "On the desolate beach, who watches as the bottle of tequila is being opened?",
+        "After receiving the payment and delivering a sarcastic remark at the harbor, what was Ana Lucia Cortez's final action?"
+      ],
+      "Options": [
+        "A. No one is described as watching\nB. A group of seagulls\nC. John Locke hiding in the trees\nD. Kate Austen from a distance\nE. Dr. Jack Shephard\nF. Ana Lucia Cortez\nG. The camera's perspective",
+        "A. She waited by the prisoner van\nB. She made a phone call\nC. She shook hands with Desmond\nD. She walked away\nE. She got into the Hummer with Hugo\nF. She got into the red Camaro"
+      ],
+      "Answers": [
+        "F",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0009-00:42:00.414_S2#0009-00:42:44.333",
+          "L2_frame": "S2#0009-60429_S2#0009-61482",
+          "L3_time": "S2#0009-00:34:01.602_S2#0009-00:42:44.333",
+          "L3_frame": "S2#0009-48949_S2#0009-61482"
+        },
+        {
+          "L2_time": "S6#0016-00:39:40.653_S6#0016-00:40:22.528",
+          "L2_frame": "S6#0016-57078_S6#0016-58082",
+          "L3_time": "S6#0016-00:37:02.244_S6#0016-00:40:22.528",
+          "L3_frame": "S6#0016-53280_S6#0016-58082"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Human-Object Relation",
+    "Question": "In the jungle scene after the initial confrontation, a character is seen climbing a crude bamboo ladder to enter the crashed airplane through an open emergency exit. This person is the one whose hut Charlie Pace waits outside while holding and dropping what specific object?",
+    "Options": "A. A walkie-talkie\nB. A notepad\nC. A water bottle\nD. A guitar\nE. A religious statue\nF. A knife\nG. A map of the island",
+    "src_questions_info": {
+      "Bridge_Character": "John Locke",
+      "Question": [
+        "In the jungle scene after the initial confrontation, which character is seen climbing a crude bamboo ladder to enter the crashed airplane through an open emergency exit?",
+        "What specific object is Charlie Pace holding and then subsequently drops while he waits outside John Locke's hut?"
+      ],
+      "Options": [
+        "A. The bearded man\nB. The black dog\nC. Wheeler\nD. A rescue worker\nE. A new character not yet introduced\nF. John Locke\nG. The blond man",
+        "A. A walkie-talkie\nB. A notepad\nC. A water bottle\nD. A guitar\nE. A religious statue\nF. A knife\nG. A map of the island"
+      ],
+      "Answers": [
+        "F",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Human-Object Relation"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0014-00:14:15.168_S6#0014-00:15:28.992",
+          "L2_frame": "S6#0014-20503_S6#0014-22273",
+          "L3_time": "S6#0014-00:08:22.357_S6#0014-00:16:52.367",
+          "L3_frame": "S6#0014-12044_S6#0014-24272"
+        },
+        {
+          "L2_time": "S3#0003-00:09:54.573_S3#0003-00:11:50.522",
+          "L2_frame": "S3#0003-14255_S3#0003-17035",
+          "L3_time": "S3#0003-00:06:07.096_S3#0003-00:16:16.413",
+          "L3_frame": "S3#0003-08801_S3#0003-23410"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Body Movement",
+    "Question": "When Hugo pleads for his friends on the pier, this person coldly extinguishes his hope by announcing the others' fate. When Eko first sees him inside the safe, what is the first action he takes to interact with him?",
+    "Options": "A. He tells Locke to stand back\nB. He closes the door again\nC. He offers him food\nD. He steps forward and greets him\nE. He remains silent and just stares\nF. He immediately starts questioning him\nG. He shines a light on him",
+    "src_questions_info": {
+      "Bridge_Character": "Henry Gale",
+      "Question": [
+        "When Hugo pleads for his friends on the pier, who is the person that coldly extinguishes his hope by announcing the others' fate?",
+        "When Eko first sees Henry Gale inside the safe, what is the first action he takes to interact with him?"
+      ],
+      "Options": [
+        "A. James Sawyer Ford\nB. Tom Friendly\nC. Henry Gale\nD. Bea Klugh\nE. An unnamed follower",
+        "A. He tells Locke to stand back\nB. He closes the door again\nC. He offers him food\nD. He steps forward and greets him\nE. He remains silent and just stares\nF. He immediately starts questioning him\nG. He shines a light on him"
+      ],
+      "Answers": [
+        "C",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0024-00:37:15.504_S2#0024-00:38:14.939",
+          "L2_frame": "S2#0024-53598_S2#0024-55023",
+          "L3_time": "S2#0024-00:34:31.090_S2#0024-00:42:27.900",
+          "L3_frame": "S2#0024-49656_S2#0024-61088"
+        },
+        {
+          "L2_time": "S2#0015-00:37:29.268_S2#0015-00:40:15.225",
+          "L2_frame": "S2#0015-53928_S2#0015-57907",
+          "L3_time": "S2#0015-00:32:23.004_S2#0015-00:42:59.389",
+          "L3_frame": "S2#0015-46585_S2#0015-61843"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Human-Object Relation",
+    "Question": "During the brutal fight that erupts in the cluttered room of the Dharma station, this person is slammed onto the concrete floor and left bloodied. When he was first seen observing the group from a ridge in the mist-covered jungle, what object was he holding in his hand?",
+    "Options": "A. A map\nB. A water canteen\nC. Nothing in hand\nD. A machete\nE. A communication radio\nF. A pair of binoculars",
+    "src_questions_info": {
+      "Bridge_Character": "Mikhail Bakunin",
+      "Question": [
+        "During the brutal fight that erupts in the cluttered room of the Dharma station, who is slammed onto the concrete floor and left bloodied?",
+        "In the mist-covered jungle, when Mikhail Bakunin was first seen observing the group from a ridge, what object was he holding in his hand?"
+      ],
+      "Options": [
+        "A. Sayid Jarrah\nB. The person who owned the sailboat\nC. A Dharma station worker\nD. Mikhail Bakunin\nE. Kate Austen\nF. An ally of Sayid's",
+        "A. A map\nB. A water canteen\nC. Nothing in hand\nD. A machete\nE. A communication radio\nF. A pair of binoculars"
+      ],
+      "Answers": [
+        "D",
+        "C"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Human-Object Relation"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0011-00:20:23.368_S3#0011-00:21:14.795",
+          "L2_frame": "S3#0011-29331_S3#0011-30564",
+          "L3_time": "S3#0011-00:19:06.583_S3#0011-00:29:38.006",
+          "L3_frame": "S3#0011-27490_S3#0011-42629"
+        },
+        {
+          "L2_time": "S3#0012-00:09:57.785_S3#0012-00:12:14.797",
+          "L2_frame": "S3#0012-14332_S3#0012-17617",
+          "L3_time": "S3#0012-00:03:58.050_S3#0012-00:13:44.094",
+          "L3_frame": "S3#0012-05707_S3#0012-19758"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Quantity Comparison",
+    "Question": "On the beach on Day 45, Cindy Chandler urgently calls out to this person after seeing something alarming in the ocean. In the scene at Spanish Johnnys, is the number of clothing items mentioned for this person greater than, less than, or equal to the number of clothing items mentioned for the waiter?",
+    "Options": "A. Equal; both have 2 items mentioned.\nB. Less; Libby has 2 items and the waiter has 3.\nC. Greater; Libby has 2 items and the waiter has 1.\nD. Equal; both have 1 item mentioned.\nE. Greater; Libby has 3 items and the waiter has 2.\nF. Less; Libby has 1 item and the waiter has 2.",
+    "src_questions_info": {
+      "Bridge_Character": "Libby Smith",
+      "Question": [
+        "On the beach on Day 45, who is the person Cindy Chandler urgently calls out to after seeing something alarming in the ocean?",
+        "In the scene at Spanish Johnnys, is the number of clothing items mentioned for Libby Smith greater than, less than, or equal to the number of clothing items mentioned for the waiter?"
+      ],
+      "Options": [
+        "A. A group of survivors down the beach\nB. A passing ship\nC. Mr. Eko\nD. Ana Lucia Cortez\nE. Libby Smith\nF. No one in particular",
+        "A. Equal; both have 2 items mentioned.\nB. Less; Libby has 2 items and the waiter has 3.\nC. Greater; Libby has 2 items and the waiter has 1.\nD. Equal; both have 1 item mentioned.\nE. Greater; Libby has 3 items and the waiter has 2.\nF. Less; Libby has 1 item and the waiter has 2."
+      ],
+      "Answers": [
+        "E",
+        "A"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Quantity Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0007-00:40:33.953_S2#0007-00:41:29.425",
+          "L2_frame": "S2#0007-58356_S2#0007-59686",
+          "L3_time": "S2#0007-00:37:37.151_S2#0007-00:44:34.234",
+          "L3_frame": "S2#0007-54117_S2#0007-64117"
+        },
+        {
+          "L2_time": "S6#0012-00:06:23.571_S6#0012-00:07:28.136",
+          "L2_frame": "S6#0012-09196_S6#0012-10744",
+          "L3_time": "S6#0012-00:06:23.571_S6#0012-00:11:46.812",
+          "L3_frame": "S6#0012-09196_S6#0012-16946"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Event Background",
+    "Question": "When Ana Lucia organizes the foraging party in the clearing, Aiko is instructed to pair up with this person. This person carried a large duffel bag down the aisle that likely contained medical equipment — what color was it?",
+    "Options": "A. Red\nB. Black\nC. Green\nD. Blue\nE. Grey\nF. Yellow",
+    "src_questions_info": {
+      "Bridge_Character": "Cindy Chandler",
+      "Question": [
+        "When Ana Lucia organizes the foraging party in the clearing, who is Aiko instructed to pair up with?",
+        "What color was the large duffel bag that Cindy Chandler carried down the aisle, which likely contained medical equipment?"
+      ],
+      "Options": [
+        "A. Cindy Chandler\nB. He is told to work alone\nC. James Sawyer Ford\nD. Jin-Soo Kwon\nE. Libby Smith\nF. Michael Dawson",
+        "A. Red\nB. Black\nC. Green\nD. Blue\nE. Grey\nF. Yellow"
+      ],
+      "Answers": [
+        "A",
+        "D"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Event Background"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0005-00:06:06.429_S2#0005-00:07:13.621",
+          "L2_frame": "S2#0005-08785_S2#0005-10396",
+          "L3_time": "S2#0005-00:05:12.124_S2#0005-00:11:48.520",
+          "L3_frame": "S2#0005-07483_S2#0005-16987"
+        },
+        {
+          "L2_time": "S6#0001-00:26:42.622_S6#0001-00:27:42.056",
+          "L2_frame": "S6#0001-38424_S6#0001-39849",
+          "L3_time": "S6#0001-00:25:13.658_S6#0001-00:31:52.932",
+          "L3_frame": "S6#0001-36291_S6#0001-45864"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Object Appearance",
+    "Question": "During the golf game where the betting escalates, a character is identified by a grey shirt with a specific foreign language printed on it. This person is the one Shannon Rutherford leans on or touches during their conversation — what material is the chair made of?",
+    "Options": "A. Plastic\nB. Leather\nC. Upholstered fabric\nD. Wicker\nE. Metal\nF. Wood",
+    "src_questions_info": {
+      "Bridge_Character": "Boone Carlyle",
+      "Question": [
+        "During the golf game where betting escalates, which character is identified by a grey shirt with a specific foreign language printed on it?",
+        "What material is the chair that Shannon Rutherford leans on or touches during her conversation with Boone Carlyle made of?"
+      ],
+      "Options": [
+        "A. Jack Shephard\nB. Michael Dawson\nC. Charlie Pace\nD. Sullivan\nE. James 'Sawyer' Ford\nF. Boone Carlyle\nG. Hugo 'Hurley' Reyes",
+        "A. Plastic\nB. Leather\nC. Upholstered fabric\nD. Wicker\nE. Metal\nF. Wood"
+      ],
+      "Answers": [
+        "F",
+        "F"
+      ],
+      "Dimension": [
+        "Character Clothing",
+        "Object Appearance"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0009-00:40:17.061_S1#0009-00:41:01.647",
+          "L2_frame": "S1#0009-57951_S1#0009-59020",
+          "L3_time": "S1#0009-00:39:35.477_S1#0009-00:42:29.485",
+          "L3_frame": "S1#0009-56954_S1#0009-61126"
+        },
+        {
+          "L2_time": "S2#0006-00:36:19.615_S2#0006-00:37:14.086",
+          "L2_frame": "S2#0006-52258_S2#0006-53564",
+          "L3_time": "S2#0006-00:33:11.636_S2#0006-00:42:02.374",
+          "L3_frame": "S2#0006-47751_S2#0006-60476"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Object Appearance",
+    "Question": "After the fight near the bar entrance, the person who is found collapsed and unconscious or injured against a brick wall is the one in question. This person uses a flip phone in the sunlit dance studio changing room—what color is it?",
+    "Options": "A. Silver\nB. Red\nC. Gold\nD. Black\nE. Blue\nF. White",
+    "src_questions_info": {
+      "Bridge_Character": "Shannon Rutherford",
+      "Question": [
+        "After the fight near the bar entrance, who is found collapsed and unconscious or injured against a brick wall?",
+        "What is the color of the flip phone that Shannon Rutherford uses in the sunlit dance studio changing room?"
+      ],
+      "Options": [
+        "A. Boone Carlyle\nB. A bystander\nC. Shannon Rutherford\nD. One of the attackers\nE. Hugo 'Hurley' Reyes\nF. Sayid Jarrah",
+        "A. Silver\nB. Red\nC. Gold\nD. Black\nE. Blue\nF. White"
+      ],
+      "Answers": [
+        "C",
+        "D"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Object Appearance"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0017-00:33:43.876_S6#0017-00:35:03.039",
+          "L2_frame": "S6#0017-48524_S6#0017-50422",
+          "L3_time": "S6#0017-00:33:43.876_S6#0017-00:39:08.951",
+          "L3_frame": "S6#0017-48524_S6#0017-56318"
+        },
+        {
+          "L2_time": "S2#0006-00:09:52.446_S2#0006-00:11:00.723",
+          "L2_frame": "S2#0006-14204_S2#0006-15841",
+          "L3_time": "S2#0006-00:09:52.446_S2#0006-00:15:54.516",
+          "L3_frame": "S2#0006-14204_S2#0006-22885"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Event Background",
+    "Question": "In the chaotic temple courtyard, when a confused Miles Straume questions who they are, this person affirms the grim reality that everyone will die. Inside the yellow vehicle on the rainy night, where is this person specifically located?",
+    "Options": "A. Lying down in the cargo area\nB. In the passenger seat\nC. Leaning against the vehicle's exterior\nD. In the back seat, middle\nE. In the back seat, left side\nF. In the driver's seat",
+    "src_questions_info": {
+      "Bridge_Character": "Sayid Jarrah",
+      "Question": [
+        "In the chaotic temple courtyard, who affirms the grim reality that everyone will die when questioned by a confused Miles Straume?",
+        "Inside the yellow vehicle on the rainy night, where is Sayid Jarrah specifically located?"
+      ],
+      "Options": [
+        "A. A temple elder\nB. Jacob's ghost\nC. Lennon\nD. Cindy Chandler\nE. Sayid Jarrah\nF. A disembodied voice",
+        "A. Lying down in the cargo area\nB. In the passenger seat\nC. Leaning against the vehicle's exterior\nD. In the back seat, middle\nE. In the back seat, left side\nF. In the driver's seat"
+      ],
+      "Answers": [
+        "E",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Event Background"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0006-00:26:15.055_S6#0006-00:27:00.142",
+          "L2_frame": "S6#0006-37763_S6#0006-38844",
+          "L3_time": "S6#0006-00:22:54.605_S6#0006-00:33:04.840",
+          "L3_frame": "S6#0006-32957_S6#0006-47588"
+        },
+        {
+          "L2_time": "S6#0017-00:32:36.642_S6#0017-00:33:43.834",
+          "L2_frame": "S6#0017-46912_S6#0017-48523",
+          "L3_time": "S6#0017-00:26:43.373_S6#0017-00:33:43.834",
+          "L3_frame": "S6#0017-38442_S6#0017-48523"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Object Appearance",
+    "Question": "When Hugo was being questioned about his census on the beach, someone cynically compared his efforts to a personal version of the 'Patriot Act.' This person is the one Shannon Rutherford leans on or touches during their conversation — what material is the chair made of?",
+    "Options": "A. Plastic\nB. Leather\nC. Upholstered fabric\nD. Wicker\nE. Metal\nF. Wood",
+    "src_questions_info": {
+      "Bridge_Character": "Boone Carlyle",
+      "Question": [
+        "When Hugo was being questioned about his census on the beach, who cynically compared his efforts to a personal version of the 'Patriot Act'?",
+        "What material is the chair that Shannon Rutherford leans on or touches during her conversation with Boone Carlyle made of?"
+      ],
+      "Options": [
+        "A. Boone Carlyle\nB. Hugo 'Hurley' Reyes\nC. A suspicious survivor\nD. Charlie Pace\nE. James 'Sawyer' Ford\nF. Shannon Rutherford",
+        "A. Plastic\nB. Leather\nC. Upholstered fabric\nD. Wicker\nE. Metal\nF. Wood"
+      ],
+      "Answers": [
+        "A",
+        "F"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Object Appearance"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0010-00:29:13.815_S1#0010-00:30:14.959",
+          "L2_frame": "S1#0010-42049_S1#0010-43515",
+          "L3_time": "S1#0010-00:29:13.815_S1#0010-00:35:51.462",
+          "L3_frame": "S1#0010-42049_S1#0010-51583"
+        },
+        {
+          "L2_time": "S2#0006-00:36:19.615_S2#0006-00:37:14.086",
+          "L2_frame": "S2#0006-52258_S2#0006-53564",
+          "L3_time": "S2#0006-00:33:11.636_S2#0006-00:42:02.374",
+          "L3_frame": "S2#0006-47751_S2#0006-60476"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Spatial Location",
+    "Question": "After Juliet Burke agreed to let Daniel Faraday assist with the surgery preparations, she took a decisive step to maintain control and handed a handgun to this person with specific instructions. In the opening scene, where on the M/V Kahana do Michael, Sun-Hwa Kwon, and this person's reactions take place?",
+    "Options": "A. In the engine room\nB. On the worn deck\nC. Inside a shipping container\nD. On the bridge\nE. In a narrow corridor\nF. In the radio room",
+    "src_questions_info": {
+      "Bridge_Character": "Jin-Soo Kwon",
+      "Question": [
+        "After Juliet Burke agreed to let Daniel Faraday assist with the surgery preparations, she took a decisive step to maintain control. Who did Juliet hand a handgun to with specific instructions?",
+        "In the opening scene, where on the M/V Kahana do Michael, Sun-Hwa Kwon, and Jin-Soo Kwon's reactions take place?"
+      ],
+      "Options": [
+        "A. Jin-Soo Kwon\nB. Sun-Hwa Kwon\nC. A random survivor\nD. Kate Austen\nE. Herself\nF. Dr. Daniel Faraday\nG. Dr. Charlotte Lewis",
+        "A. In the engine room\nB. On the worn deck\nC. Inside a shipping container\nD. On the bridge\nE. In a narrow corridor\nF. In the radio room"
+      ],
+      "Answers": [
+        "A",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Spatial Location"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0010-00:10:27.981_S4#0010-00:11:36.550",
+          "L2_frame": "S4#0010-15056_S4#0010-16700",
+          "L3_time": "S4#0010-00:06:17.147_S4#0010-00:12:24.764",
+          "L3_frame": "S4#0010-09042_S4#0010-17856"
+        },
+        {
+          "L2_time": "S4#0012-00:30:08.076_S4#0012-00:31:00.879",
+          "L2_frame": "S4#0012-43350_S4#0012-44616",
+          "L3_time": "S4#0012-00:28:52.792_S4#0012-00:32:56.744",
+          "L3_frame": "S4#0012-41545_S4#0012-47394"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Object Presence",
+    "Question": "Inside the cramped sickbay, after Desmond is led in, someone tells him to relax in a patronizing tone. In the scene where Ben Linus attacks this person in the industrial corridor, is there any mention of a firearm being present or used by any of the three characters?",
+    "Options": "A. Yes, a gunshot is heard in the distance\nB. Yes, Keamy threatens Locke with a gun\nC. Yes, Keamy has a pistol in a holster\nD. No, there is no mention of any firearms\nE. Yes, Locke is carrying a rifle\nF. Yes, Ben uses a hidden gun",
+    "src_questions_info": {
+      "Bridge_Character": "Martin Keamy",
+      "Question": [
+        "Inside the cramped sickbay, after Desmond is led in, who tells him to relax in a patronizing tone?",
+        "In the scene where Ben Linus attacks Martin Keamy in the industrial corridor, is there any mention of a firearm being present or used by any of the three characters?"
+      ],
+      "Options": [
+        "A. A security guard\nB. The ship's engineer\nC. George Minkowski\nD. Desmond's friend\nE. The arriving doctor\nF. Omar Idris\nG. Martin Keamy",
+        "A. Yes, a gunshot is heard in the distance\nB. Yes, Keamy threatens Locke with a gun\nC. Yes, Keamy has a pistol in a holster\nD. No, there is no mention of any firearms\nE. Yes, Locke is carrying a rifle\nF. Yes, Ben uses a hidden gun"
+      ],
+      "Answers": [
+        "G",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Object Presence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0005-00:09:40.142_S4#0005-00:10:25.270",
+          "L2_frame": "S4#0005-13909_S4#0005-14991",
+          "L3_time": "S4#0005-00:03:29.730_S4#0005-00:10:25.270",
+          "L3_frame": "S4#0005-05028_S4#0005-14991"
+        },
+        {
+          "L2_time": "S4#0013-00:39:56.747_S4#0013-00:41:10.737",
+          "L2_frame": "S4#0013-57464_S4#0013-59238",
+          "L3_time": "S4#0013-00:37:49.161_S4#0014-00:05:00.071",
+          "L3_frame": "S4#0013-54405_S4#0014-07194"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Character Change",
+    "Question": "In the Pearl station scene where Sayid repairs the console, a character is wearing a button-down shirt. When this person is first seen running through the jungle, what is the specific expression he has when he briefly glances back?",
+    "Options": "A. A look of terror\nB. A face of pure confusion\nC. A grimace of pain\nD. A blank, emotionless stare\nE. A determined scowl\nF. A wild grin\nG. A sorrowful frown",
+    "src_questions_info": {
+      "Bridge_Character": "Desmond Hume",
+      "Question": [
+        "In the Pearl station scene where Sayid repairs the console, which character is wearing a button-down shirt?",
+        "When Desmond Hume is first seen running through the jungle, what is the specific expression he has when he briefly glances back?"
+      ],
+      "Options": [
+        "A. Paulo\nB. Sayid Jarrah\nC. Desmond Hume\nD. John Locke\nE. All of them are wearing button-down shirts\nF. No one is wearing a button-down shirt\nG. Nikki Fernandez",
+        "A. A look of terror\nB. A face of pure confusion\nC. A grimace of pain\nD. A blank, emotionless stare\nE. A determined scowl\nF. A wild grin\nG. A sorrowful frown"
+      ],
+      "Answers": [
+        "C",
+        "F"
+      ],
+      "Dimension": [
+        "Character Clothing",
+        "Character Change"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0005-00:31:02.173_S3#0005-00:31:37.208",
+          "L2_frame": "S3#0005-44647_S3#0005-45487",
+          "L3_time": "S3#0005-00:29:34.294_S3#0005-00:35:05.666",
+          "L3_frame": "S3#0005-42540_S3#0005-50485"
+        },
+        {
+          "L2_time": "S3#0008-00:00:00.000_S3#0008-00:00:45.942",
+          "L2_frame": "S3#0008-00000_S3#0008-01101",
+          "L3_time": "S3#0007-00:40:41.877_S3#0008-00:06:23.362",
+          "L3_frame": "S3#0007-58546_S3#0008-09191"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Temporal Comparison",
+    "Question": "Inside the cramped sickbay, after Desmond is led in, someone tells him to relax in a patronizing tone. After this person places the plate of food in front of Sayid in the kitchen, what is the next significant action he performs?",
+    "Options": "A. He turns off the stove burner.\nB. He begins eating the meal himself.\nC. He asks Omar to leave the room.\nD. He offers Sayid a drink.\nE. He threatens Sayid's brother.\nF. He introduces himself to Sayid.",
+    "src_questions_info": {
+      "Bridge_Character": "Martin Keamy",
+      "Question": [
+        "Inside the cramped sickbay, after Desmond is led in, who tells him to relax in a patronizing tone?",
+        "After Martin Keamy places the plate of food in front of Sayid in the kitchen, what is the next significant action he performs?"
+      ],
+      "Options": [
+        "A. A security guard\nB. The ship's engineer\nC. George Minkowski\nD. Desmond's friend\nE. The arriving doctor\nF. Omar Idris\nG. Martin Keamy",
+        "A. He turns off the stove burner.\nB. He begins eating the meal himself.\nC. He asks Omar to leave the room.\nD. He offers Sayid a drink.\nE. He threatens Sayid's brother.\nF. He introduces himself to Sayid."
+      ],
+      "Answers": [
+        "G",
+        "F"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0005-00:09:40.142_S4#0005-00:10:25.270",
+          "L2_frame": "S4#0005-13909_S4#0005-14991",
+          "L3_time": "S4#0005-00:03:29.730_S4#0005-00:10:25.270",
+          "L3_frame": "S4#0005-05028_S4#0005-14991"
+        },
+        {
+          "L2_time": "S6#0006-00:27:00.184_S6#0006-00:29:14.318",
+          "L2_frame": "S6#0006-38845_S6#0006-42061",
+          "L3_time": "S6#0006-00:22:54.605_S6#0006-00:33:04.840",
+          "L3_frame": "S6#0006-32957_S6#0006-47588"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "G",
+    "Dimension": "Character Change",
+    "Question": "At the Survivor camp, after Sayid receives the lost photograph on the sunlit beach, he offers sincere thanks for its return to this person. After initially dismissing Christian with rage and telling him to leave in the public concourse, what significant emotional shift does this person experience after taking a few steps away?",
+    "Options": "A. Her anger intensifies into a physical outburst\nB. She feels a sudden surge of affection and forgiveness\nC. Her rage turns into bitter sarcasm\nD. She is overcome with fear and tries to run\nE. She becomes completely indifferent and apathetic\nF. She decides to call the police for help\nG. Her fury fades to deep contemplation",
+    "src_questions_info": {
+      "Bridge_Character": "Claire Littleton",
+      "Question": [
+        "At the Survivor camp, after Sayid receives the lost photograph on the sunlit beach, who is the recipient of his sincere thanks for its return?",
+        "After initially dismissing Christian with rage and telling him to leave in the public concourse, what significant emotional shift does Claire Littleton experience after taking a few steps away?"
+      ],
+      "Options": [
+        "A. Nadia\nB. The universe\nC. The person who took the photo\nD. The other Survivors nearby\nE. Claire Littleton\nF. An unseen character",
+        "A. Her anger intensifies into a physical outburst\nB. She feels a sudden surge of affection and forgiveness\nC. Her rage turns into bitter sarcasm\nD. She is overcome with fear and tries to run\nE. She becomes completely indifferent and apathetic\nF. She decides to call the police for help\nG. Her fury fades to deep contemplation"
+      ],
+      "Answers": [
+        "E",
+        "G"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Character Change"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0004-00:23:50.909_S1#0004-00:24:37.872",
+          "L2_frame": "S1#0004-34307_S1#0004-35433",
+          "L3_time": "S1#0004-00:19:49.960_S1#0004-00:24:37.872",
+          "L3_frame": "S1#0004-28530_S1#0004-35433"
+        },
+        {
+          "L2_time": "S3#0012-00:31:28.658_S3#0012-00:32:33.097",
+          "L2_frame": "S3#0012-45282_S3#0012-46827",
+          "L3_time": "S3#0012-00:28:29.520_S3#0012-00:35:39.575",
+          "L3_frame": "S3#0012-40987_S3#0012-51298"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Position Comparison",
+    "Question": "Upon discovering the canisters in the jungle, the first person to kneel down, pick one up, and notice the black label with the DHARMA symbol is the one to identify here. This person is seen during the scene on the beach wearing an unbuttoned white shirt—what is the specific color of the t-shirt she is wearing beneath it?",
+    "Options": "A. Green\nB. Black\nC. Grey\nD. White\nE. Orange\nF. Blue",
+    "src_questions_info": {
+      "Bridge_Character": "Kate Austen",
+      "Question": [
+        "Upon discovering the canisters in the jungle, who was the first person to kneel down, pick one up, and notice the black label with the DHARMA symbol?",
+        "During the scene on the beach, what is the specific color of the t-shirt Kate Austen is wearing beneath her unbuttoned white shirt?"
+      ],
+      "Options": [
+        "A. Kate Austen\nB. Jack Shephard\nC. John Locke\nD. Charlie Pace\nE. Hurley Reyes\nF. Sawyer Ford\nG. Michael Dawson",
+        "A. Green\nB. Black\nC. Grey\nD. White\nE. Orange\nF. Blue"
+      ],
+      "Answers": [
+        "A",
+        "E"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Position Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0024-00:12:49.456_S2#0024-00:14:06.658",
+          "L2_frame": "S2#0024-18448_S2#0024-20299",
+          "L3_time": "S2#0024-00:07:05.029_S2#0024-00:15:03.674",
+          "L3_frame": "S2#0024-10190_S2#0024-21666"
+        },
+        {
+          "L2_time": "S1#0004-00:09:41.977_S1#0004-00:10:53.674",
+          "L2_frame": "S1#0004-13953_S1#0004-15672",
+          "L3_time": "S1#0004-00:06:03.843_S1#0004-00:10:53.674",
+          "L3_frame": "S1#0004-08723_S1#0004-15672"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Body Movement",
+    "Question": "During the compassionate interaction in the ruined garden, someone retrieves a small, plaid-patterned cloth from their pocket to offer comfort. At the boarding gate, what is this person's immediate reaction to the proposal from Flight Attendant 2?",
+    "Options": "A. He asks to speak to a manager\nB. He refuses out of pride\nC. He ignores the offer\nD. He agrees\nE. He begins to cry\nF. He hesitates and asks for another option",
+    "src_questions_info": {
+      "Bridge_Character": "John Locke",
+      "Question": [
+        "During the compassionate interaction in the ruined garden, who retrieves a small, plaid-patterned cloth from their pocket to offer comfort?",
+        "At the boarding gate, what is John Locke's immediate reaction to the proposal from Flight Attendant 2?"
+      ],
+      "Options": [
+        "A. Kate Austen\nB. Sun-Hwa Kwon\nC. Sayid Jarrah\nD. Jin-Soo Kwon\nE. Jack Shephard\nF. A rescuer from off-island\nG. John Locke",
+        "A. He asks to speak to a manager\nB. He refuses out of pride\nC. He ignores the offer\nD. He agrees\nE. He begins to cry\nF. He hesitates and asks for another option"
+      ],
+      "Answers": [
+        "G",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0005-00:22:47.053_S2#0005-00:24:45.588",
+          "L2_frame": "S2#0005-32776_S2#0005-35618",
+          "L3_time": "S2#0005-00:20:03.890_S2#0005-00:28:19.636",
+          "L3_frame": "S2#0005-28864_S2#0005-40750"
+        },
+        {
+          "L2_time": "S1#0025-00:19:27.729_S1#0025-00:20:21.950",
+          "L2_frame": "S1#0025-27997_S1#0025-29297",
+          "L3_time": "S1#0025-00:16:19.791_S1#0025-00:24:22.774",
+          "L3_frame": "S1#0025-23491_S1#0025-35071"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Scene and Location",
+    "Question": "On the beach, Ana Lucia impatiently asks who doesn't have dry matches for the fire, and the target of her question is the person to identify here. When this person first assesses the mysterious underground bunker, what type of facility does he suggest it looks like?",
+    "Options": "A. A vehicle depot\nB. A medical clinic\nC. A storage facility\nD. A power station\nE. A communications hub\nF. A residential shelter",
+    "src_questions_info": {
+      "Bridge_Character": "Goodwin Stanhope",
+      "Question": [
+        "On the beach, who was the target of Ana Lucia's impatient question regarding the absence of dry matches for the fire?",
+        "When Goodwin Stanhope first assesses the mysterious underground bunker, what type of facility does he suggest it looks like?"
+      ],
+      "Options": [
+        "A. Zach\nB. The woman with dreadlocks\nC. Goodwin Stanhope\nD. Libby Smith\nE. Mr. Eko\nF. All Survivior",
+        "A. A vehicle depot\nB. A medical clinic\nC. A storage facility\nD. A power station\nE. A communications hub\nF. A residential shelter"
+      ],
+      "Answers": [
+        "C",
+        "C"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Scene and Location"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0007-00:07:17.708_S2#0007-00:08:09.927",
+          "L2_frame": "S2#0007-10494_S2#0007-11746",
+          "L3_time": "S2#0007-00:07:17.708_S2#0007-00:11:15.571",
+          "L3_frame": "S2#0007-10494_S2#0007-16197"
+        },
+        {
+          "L2_time": "S2#0007-00:30:10.121_S2#0007-00:31:14.769",
+          "L2_frame": "S2#0007-43399_S2#0007-44949",
+          "L3_time": "S2#0007-00:26:48.962_S2#0007-00:31:14.769",
+          "L3_frame": "S2#0007-38576_S2#0007-44949"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Action Claim Subject",
+    "Question": "During the confrontation outside the industrial building, a person is forcefully thrown onto a stretcher that is partially covered by a light sheet. Inside the Swan Station, while this person is working on computer circuitry, who breaks the silence by questioning him about the orientation film's makers?",
+    "Options": "A. Dr. Jack Shephard\nB. James \"Sawyer\" Ford\nC. John Locke\nD. Michael Dawson\nE. Jin-Soo Kwon\nF. Kelvin, his former partner",
+    "src_questions_info": {
+      "Bridge_Character": "Desmond Hume",
+      "Question": [
+        "During the confrontation outside the industrial building, who is forcefully thrown onto a stretcher that is partially covered by a light sheet?",
+        "Inside the Swan Station, while Desmond Hume is working on computer circuitry, who breaks the silence by questioning him about the orientation film's makers?"
+      ],
+      "Options": [
+        "A. Jin-Soo Kwon\nB. Zoe\nC. Charles Widmore\nD. An armed guard\nE. Desmond Hume\nF. One of Widmore's men",
+        "A. Dr. Jack Shephard\nB. James \"Sawyer\" Ford\nC. John Locke\nD. Michael Dawson\nE. Jin-Soo Kwon\nF. Kelvin, his former partner"
+      ],
+      "Answers": [
+        "E",
+        "A"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Action Claim Subject"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0011-00:04:54.566_S6#0011-00:05:41.363",
+          "L2_frame": "S6#0011-07062_S6#0011-08184",
+          "L3_time": "S6#0011-00:02:11.444_S6#0011-00:07:43.818",
+          "L3_frame": "S6#0011-03151_S6#0011-11120"
+        },
+        {
+          "L2_time": "S2#0003-00:25:27.505_S2#0003-00:27:46.144",
+          "L2_frame": "S2#0003-36623_S2#0003-39947",
+          "L3_time": "S2#0003-00:25:27.505_S2#0003-00:32:59.248",
+          "L3_frame": "S2#0003-36623_S2#0003-47454"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Character Clothing",
+    "Question": "After leaving the room where Libby is being treated, Dr. Jack Shephard confronts this person in the small gym area. As the Survivors make their way through the dense jungle, with Ana Lucia leading, what is the specific color of the top worn by this person?",
+    "Options": "A. Dirt-stained white\nB. Sky blue\nC. Orange\nD. Navy blue\nE. Forest green\nF. Charcoal grey\nG. Bright yellow",
+    "src_questions_info": {
+      "Bridge_Character": "Michael Dawson",
+      "Question": [
+        "After leaving the room where Libby is being treated, who does Dr. Jack Shephard confront in the small gym area?",
+        "As the Survivors make their way through the dense jungle, with Ana Lucia leading, what is the specific color of the top worn by Michael Dawson?"
+      ],
+      "Options": [
+        "A. A security guard\nB. Mr. Eko\nC. Michael Dawson\nD. Himself in a mirror\nE. John Locke\nF. Kate Austen",
+        "A. Dirt-stained white\nB. Sky blue\nC. Orange\nD. Navy blue\nE. Forest green\nF. Charcoal grey\nG. Bright yellow"
+      ],
+      "Answers": [
+        "C",
+        "C"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Character Clothing"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0021-00:06:28.784_S2#0021-00:07:39.230",
+          "L2_frame": "S2#0021-09321_S2#0021-11010",
+          "L3_time": "S2#0021-00:04:13.274_S2#0021-00:08:29.113",
+          "L3_frame": "S2#0021-06072_S2#0021-12206"
+        },
+        {
+          "L2_time": "S2#0004-00:27:51.149_S2#0004-00:29:11.312",
+          "L2_frame": "S2#0004-40067_S2#0004-41989",
+          "L3_time": "S2#0004-00:24:32.283_S2#0004-00:30:49.327",
+          "L3_frame": "S2#0004-35299_S2#0004-44339"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Body Movement",
+    "Question": "During the camp conversation, when Sayid questioned how the map was obtained, this person claimed to have acquired it by simply saying, \"I used the soft approach.\" After receiving the payment and delivering a sarcastic remark at the harbor, what was this person's final action?",
+    "Options": "A. She waited by the prisoner van\nB. She made a phone call\nC. She shook hands with Desmond\nD. She walked away\nE. She got into the Hummer with Hugo\nF. She got into the red Camaro",
+    "src_questions_info": {
+      "Bridge_Character": "Ana Lucia Cortez",
+      "Question": [
+        "When Sayid questioned how the map was obtained during the camp conversation, who claimed to have acquired it by simply 'I used the soft approach'?",
+        "After receiving the payment and delivering a sarcastic remark at the harbor, what was Ana Lucia Cortez's final action?"
+      ],
+      "Options": [
+        "A. Jack Shephard\nB. Henry Gale\nC. Sayid Jarrah\nD. Ana Lucia Cortez\nE. Charlie Pace\nF. John Locke",
+        "A. She waited by the prisoner van\nB. She made a phone call\nC. She shook hands with Desmond\nD. She walked away\nE. She got into the Hummer with Hugo\nF. She got into the red Camaro"
+      ],
+      "Answers": [
+        "D",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0016-00:20:27.581_S2#0016-00:21:22.260",
+          "L2_frame": "S2#0016-29432_S2#0016-30743",
+          "L3_time": "S2#0016-00:18:49.608_S2#0016-00:22:39.212",
+          "L3_frame": "S2#0016-27083_S2#0016-32588"
+        },
+        {
+          "L2_time": "S6#0016-00:39:40.653_S6#0016-00:40:22.528",
+          "L2_frame": "S6#0016-57078_S6#0016-58082",
+          "L3_time": "S6#0016-00:37:02.244_S6#0016-00:40:22.528",
+          "L3_frame": "S6#0016-53280_S6#0016-58082"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "G",
+    "Dimension": "Causal Inference",
+    "Question": "After Frank Lapidus breaks the silence at the campfire by asking for a plan, this person becomes the immediate focus of everyone's attention. During the tense conversation at the survivor camp built from fuselage pieces, what specific statement by this person initially causes Sun-Hwa Kwon to be surprised?",
+    "Options": "A. That there are other survivors on the other side of the island\nB. That the camp they built is only a temporary shelter\nC. That Ilana has a metal case full of strange equipment\nD. That a mysterious figure named Jacob is watching them\nE. That Ilana does not know how long they will be stranded\nF. That Ilana has a bandage on her wrist from the crash\nG. That Ilana is also eager to find Jin",
+    "src_questions_info": {
+      "Bridge_Character": "Ilana Verdansky",
+      "Question": [
+        "After Frank Lapidus breaks the silence at the campfire by asking for a plan, who becomes the immediate focus of everyone's attention?",
+        "During the tense conversation at the survivor camp built from fuselage pieces, what specific statement by Ilana Verdansky initially causes Sun-Hwa Kwon to be surprised?"
+      ],
+      "Options": [
+        "A. Hugo Hurley Reyes\nB. The campfire itself\nC. Ilana Verdansky\nD. Frank Lapidus\nE. Sun-Hwa Kwon\nF. Jack Shephard",
+        "A. That there are other survivors on the other side of the island\nB. That the camp they built is only a temporary shelter\nC. That Ilana has a metal case full of strange equipment\nD. That a mysterious figure named Jacob is watching them\nE. That Ilana does not know how long they will be stranded\nF. That Ilana has a bandage on her wrist from the crash\nG. That Ilana is also eager to find Jin"
+      ],
+      "Answers": [
+        "C",
+        "G"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Causal Inference"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0009-00:01:42.415_S6#0009-00:02:21.454",
+          "L2_frame": "S6#0009-02455_S6#0009-03391",
+          "L3_time": "S6#0009-00:00:00.000_S6#0009-00:06:32.080",
+          "L3_frame": "S6#0009-00000_S6#0009-09400"
+        },
+        {
+          "L2_time": "S6#0007-00:10:33.238_S6#0007-00:11:41.640",
+          "L2_frame": "S6#0007-15182_S6#0007-16822",
+          "L3_time": "S6#0007-00:10:33.238_S6#0007-00:17:53.136",
+          "L3_frame": "S6#0007-15182_S6#0007-25729"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Temporal Sequence",
+    "Question": "Towards the end of the harrowing scene on the beach, someone proclaimed that it was time to stop listening to Jacob and start listening to someone else, hinting at a new allegiance. During this person's presentation to Juliet, what is shown on the screen immediately after the images of the idyllic company campus?",
+    "Options": "A. A map of Portland, Oregon\nB. A list of job responsibilities\nC. A detailed organigram of the research department\nD. The company's financial reports\nE. A collage of employees engaged in outdoor activities\nF. The metallic company logo\nG. A video message from the company's founder",
+    "src_questions_info": {
+      "Bridge_Character": "Richard Alpert",
+      "Question": [
+        "Towards the end of the harrowing scene on the beach, who proclaimed that it was time to stop listening to Jacob and start listening to someone else, hinting at a new allegiance?",
+        "During Richard Alpert's presentation to Juliet, what is shown on the screen immediately after the images of the idyllic company campus?"
+      ],
+      "Options": [
+        "A. The Man in Black\nB. Ilana Verdansky\nC. Jack Shephard\nD. Miles Straume\nE. Richard Alpert\nF. Hugo Hurley Reyes\nG. Ben Linus",
+        "A. A map of Portland, Oregon\nB. A list of job responsibilities\nC. A detailed organigram of the research department\nD. The company's financial reports\nE. A collage of employees engaged in outdoor activities\nF. The metallic company logo\nG. A video message from the company's founder"
+      ],
+      "Answers": [
+        "E",
+        "E"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Sequence"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0009-00:02:21.496_S6#0009-00:03:51.294",
+          "L2_frame": "S6#0009-03392_S6#0009-05545",
+          "L3_time": "S6#0009-00:00:00.000_S6#0009-00:06:32.080",
+          "L3_frame": "S6#0009-00000_S6#0009-09400"
+        },
+        {
+          "L2_time": "S3#0007-00:19:34.695_S3#0007-00:20:09.646",
+          "L2_frame": "S3#0007-28164_S3#0007-29002",
+          "L3_time": "S3#0007-00:14:48.867_S3#0007-00:20:34.921",
+          "L3_frame": "S3#0007-21311_S3#0007-29608"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Character Clothing",
+    "Question": "In the jungle encampment scene, as Ben Linus prepared for a journey, this person was observed casually peeling and eating a yellow fruit with a knife. In the school staff lounge, what color is the button-down shirt worn by this person under his suspenders?",
+    "Options": "A. Green plaid\nB. Light\nC. Striped\nD. Black\nE. Dark blue\nF. Red",
+    "src_questions_info": {
+      "Bridge_Character": "John Locke",
+      "Question": [
+        "In the jungle encampment scene, as Ben Linus prepared for a journey, who was observed casually peeling and eating a yellow fruit with a knife?",
+        "In the school staff lounge, what color is the button-down shirt worn by John Locke under his suspenders?"
+      ],
+      "Options": [
+        "A. Ben Linus\nB. Richard Alpert\nC. John Locke\nD. James \"Sawyer\" Ford\nE. Alex Rousseau\nF. Tom Friendly\nG. Mikhail Bakunin",
+        "A. Green plaid\nB. Light\nC. Striped\nD. Black\nE. Dark blue\nF. Red"
+      ],
+      "Answers": [
+        "C",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Character Clothing"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0020-00:16:09.615_S3#0020-00:17:14.596",
+          "L2_frame": "S3#0020-23247_S3#0020-24805",
+          "L3_time": "S3#0020-00:09:10.279_S3#0020-00:19:24.976",
+          "L3_frame": "S3#0020-13193_S3#0020-27931"
+        },
+        {
+          "L2_time": "S6#0007-00:03:32.692_S6#0007-00:06:19.359",
+          "L2_frame": "S6#0007-05099_S6#0007-09095",
+          "L3_time": "S6#0007-00:01:01.207_S6#0007-00:10:33.196",
+          "L3_frame": "S6#0007-01467_S6#0007-15181"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Spatial Location",
+    "Question": "In the sickbay, this person physically brings the satellite phone into the room. Where does this person’s argument with Naomi Dorrit occur, with Mike as a silent observer?",
+    "Options": "A. In the captain's quarters\nB. On a larger cargo ship\nC. In a military briefing room\nD. At the harbor's main office\nE. Inside a helicopter\nF. In a dimly lit modern room",
+    "src_questions_info": {
+      "Bridge_Character": "Frank Lapidus",
+      "Question": [
+        "In the sickbay, who is the character that physically brings the satellite phone into the room?",
+        "Where does the argument between Frank Lapidus and Naomi Dorrit occur, with Mike as a silent observer?"
+      ],
+      "Options": [
+        "A. Doctor Ray\nB. Frank Lapidus\nC. Daniel Faraday\nD. Desmond Hume\nE. Sayid Jarrah\nF. Penelope Widmore",
+        "A. In the captain's quarters\nB. On a larger cargo ship\nC. In a military briefing room\nD. At the harbor's main office\nE. Inside a helicopter\nF. In a dimly lit modern room"
+      ],
+      "Answers": [
+        "B",
+        "B"
+      ],
+      "Dimension": [
+        "Position Comparison",
+        "Spatial Location"
+      ],
+      "Time": [
+        {
+          "L2_time": "S4#0005-00:15:19.063_S4#0005-00:16:25.505",
+          "L2_frame": "S4#0005-22035_S4#0005-23628",
+          "L3_time": "S4#0005-00:10:25.312_S4#0005-00:16:25.505",
+          "L3_frame": "S4#0005-14992_S4#0005-23628"
+        },
+        {
+          "L2_time": "S4#0008-00:27:23.328_S4#0008-00:28:11.751",
+          "L2_frame": "S4#0008-39400_S4#0008-40561",
+          "L3_time": "S4#0008-00:26:42.329_S4#0008-00:31:35.413",
+          "L3_frame": "S4#0008-38417_S4#0008-45444"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "A",
+    "Dimension": "Body Movement",
+    "Question": "At the beginning of the events in the dimly lit control room, while flipping through a magazine, this person receives an urgent call on a walkie-talkie. When he asks Dr. Chang about a missing body, what is Dr. Chang's reaction before driving off?",
+    "Options": "A. He is confused\nB. He ignores the question.\nC. He becomes angry.\nD. He looks at Hugo for an explanation.\nE. He laughs it off.\nF. He immediately provides an answer.",
+    "src_questions_info": {
+      "Bridge_Character": "Miles Straume",
+      "Question": [
+        "At the beginning of the events in the dimly lit control room, while flipping through a magazine, who is the person that receives an urgent call on a walkie-talkie?",
+        "When Miles Straume asks Dr. Chang about a missing body, what is Dr. Chang's reaction before driving off?"
+      ],
+      "Options": [
+        "A. Sayid Jarrah\nB. Miles Straume\nC. Juliet Burke\nD. Ben Linus\nE. James Sawyer Ford\nF. An unnamed security guard\nG. Kate Austen",
+        "A. He is confused\nB. He ignores the question.\nC. He becomes angry.\nD. He looks at Hugo for an explanation.\nE. He laughs it off.\nF. He immediately provides an answer."
+      ],
+      "Answers": [
+        "B",
+        "A"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0013-00:02:33.841_S5#0013-00:03:32.775",
+          "L2_frame": "S5#0013-03688_S5#0013-05101",
+          "L3_time": "S5#0013-00:02:33.841_S5#0013-00:12:18.717",
+          "L3_frame": "S5#0013-03688_S5#0013-17711"
+        },
+        {
+          "L2_time": "S5#0013-00:24:42.960_S5#0013-00:25:47.566",
+          "L2_frame": "S5#0013-35555_S5#0013-37104",
+          "L3_time": "S5#0013-00:22:54.059_S5#0013-00:30:06.699",
+          "L3_frame": "S5#0013-32944_S5#0013-43317"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Textual Content",
+    "Question": "During the confrontation in the burned-out forest, the person who makes the sarcastic remark about preferring Mr. Eko when he was violent is the one to identify here. This person steps forward in the shelter to correct Dr. Faraday — what is the first part of the actual Morse code message that he reveals to the group?",
+    "Options": "A. 'The doctor was fine.'\nB. 'Who is this?'\nC. 'We are coming back.'\nD. 'What are you talking about?'\nE. 'Stand by for instructions.'\nF. 'Help is on the way.'\nG. 'Do not trust him.'",
+    "src_questions_info": {
+      "Bridge_Character": "Bernard Nadler",
+      "Question": [
+        "Who makes the sarcastic remark about preferring Mr. Eko when he was violent, during the confrontation in the burned-out forest?",
+        "After Bernard Nadler steps forward in the shelter to correct Dr. Faraday, what is the first part of the actual Morse code message that he reveals to the group?"
+      ],
+      "Options": [
+        "A. Mr. Eko\nB. Charlie Pace\nC. Ana Lucia Cortez\nD. Bernard Nadler\nE. John Locke",
+        "A. 'The doctor was fine.'\nB. 'Who is this?'\nC. 'We are coming back.'\nD. 'What are you talking about?'\nE. 'Stand by for instructions.'\nF. 'Help is on the way.'\nG. 'Do not trust him.'"
+      ],
+      "Answers": [
+        "D",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Textual Content"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0019-00:15:49.386_S2#0019-00:17:03.877",
+          "L2_frame": "S2#0019-22762_S2#0019-24548",
+          "L3_time": "S2#0019-00:15:01.839_S2#0019-00:19:13.423",
+          "L3_frame": "S2#0019-21622_S2#0019-27654"
+        },
+        {
+          "L2_time": "S4#0009-00:33:00.331_S4#0009-00:34:12.695",
+          "L2_frame": "S4#0009-47480_S4#0009-49215",
+          "L3_time": "S4#0009-00:27:45.517_S4#0009-00:34:12.695",
+          "L3_frame": "S4#0009-39932_S4#0009-49215"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "C",
+    "Dimension": "Scene and Location",
+    "Question": "After Jack asked why she didn't go with Locke, this person articulated a resolute lack of trust in Locke as the reason for her decision. After she has a tense interaction with her husband Jin-Soo Kwon in the living room, to which specific part of the apartment does this person lead the interior decorator to continue their discussion?",
+    "Options": "A. The balcony\nB. The guest room\nC. The bedroom\nD. The dining room\nE. The kitchen\nF. The study\nG. The hallway",
+    "src_questions_info": {
+      "Bridge_Character": "Sun-Hwa Kwon",
+      "Question": [
+        "After Jack asked why she didn't go with Locke, who articulated a resolute lack of trust in Locke as the reason for her decision?",
+        "After Sun-Hwa Kwon has a tense interaction with her husband Jin-Soo Kwon in the living room, to which specific part of the apartment does she lead the interior decorator to continue their discussion?"
+      ],
+      "Options": [
+        "A. Sun-Hwa Kwon\nB. Jin-Soo Kwon\nC. A character not mentioned\nD. James 'Sawyer' Ford\nE. Dr. Jack Shephard\nF. Kate Austen",
+        "A. The balcony\nB. The guest room\nC. The bedroom\nD. The dining room\nE. The kitchen\nF. The study\nG. The hallway"
+      ],
+      "Answers": [
+        "A",
+        "C"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Scene and Location"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0010-00:38:40.009_S6#0010-00:40:33.789",
+          "L2_frame": "S6#0010-55624_S6#0010-58352",
+          "L3_time": "S6#0010-00:36:43.893_S6#0011-00:02:11.402",
+          "L3_frame": "S6#0010-52840_S6#0011-03150"
+        },
+        {
+          "L2_time": "S1#0006-00:29:06.349_S1#0006-00:29:55.898",
+          "L2_frame": "S1#0006-41870_S1#0006-43058",
+          "L3_time": "S1#0006-00:28:18.343_S1#0006-00:32:21.586",
+          "L3_frame": "S1#0006-40719_S1#0006-46551"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Action Recipient",
+    "Question": "After Frank Lapidus breaks the silence at the campfire by asking for a plan, this person becomes the immediate focus of everyone's attention. When she burst through the wooden door, who was the disoriented and trembling individual she immediately confronted and interrogated?",
+    "Options": "A. Kate Austen\nB. Sayid Jarrah\nC. Ben Linus\nD. A temple guard\nE. Frank Lapidus\nF. Miles Straume",
+    "src_questions_info": {
+      "Bridge_Character": "Ilana Verdansky",
+      "Question": [
+        "After Frank Lapidus breaks the silence at the campfire by asking for a plan, who becomes the immediate focus of everyone's attention?",
+        "When Ilana Verdansky burst through the wooden door, who was the disoriented and trembling individual she immediately confronted and interrogated?"
+      ],
+      "Options": [
+        "A. Hugo Hurley Reyes\nB. The campfire itself\nC. Ilana Verdansky\nD. Frank Lapidus\nE. Sun-Hwa Kwon\nF. Jack Shephard",
+        "A. Kate Austen\nB. Sayid Jarrah\nC. Ben Linus\nD. A temple guard\nE. Frank Lapidus\nF. Miles Straume"
+      ],
+      "Answers": [
+        "C",
+        "F"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Action Recipient"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0009-00:01:42.415_S6#0009-00:02:21.454",
+          "L2_frame": "S6#0009-02455_S6#0009-03391",
+          "L3_time": "S6#0009-00:00:00.000_S6#0009-00:06:32.080",
+          "L3_frame": "S6#0009-00000_S6#0009-09400"
+        },
+        {
+          "L2_time": "S6#0006-00:36:57.156_S6#0006-00:38:10.563",
+          "L2_frame": "S6#0006-53158_S6#0006-54918",
+          "L3_time": "S6#0006-00:33:04.882_S6#0007-00:01:01.207",
+          "L3_frame": "S6#0006-47589_S6#0007-01467"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "D",
+    "Dimension": "Causal Inference",
+    "Question": "During the tense confrontation on the beach initiated by Montand, the character who steps forward to intervene and urges the aggressive questioner to stop is this person. What action by Walt directly led to his discovery of this person in the first place?",
+    "Options": "A. He was setting up camp away from the main group\nB. He was trying to find a high point for a signal\nC. He was chasing after his dog\nD. He ventured alone into the dense jungle\nE. He was searching for food with other survivors\nF. He was following his father's instructions",
+    "src_questions_info": {
+      "Bridge_Character": "Danielle Rousseau",
+      "Question": [
+        "During the tense confrontation on the beach initiated by Montand, which character steps forward to intervene and urges the aggressive questioner to stop?",
+        "What action by Walt directly led to his discovery of Danielle Rousseau in the first place?"
+      ],
+      "Options": [
+        "A. Lacombe\nB. Danielle Rousseau\nC. Brennan\nD. Robert\nE. A nearby stranger\nF. Jin-Soo Kwon",
+        "A. He was setting up camp away from the main group\nB. He was trying to find a high point for a signal\nC. He was chasing after his dog\nD. He ventured alone into the dense jungle\nE. He was searching for food with other survivors\nF. He was following his father's instructions"
+      ],
+      "Answers": [
+        "B",
+        "D"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Causal Inference"
+      ],
+      "Time": [
+        {
+          "L2_time": "S5#0004-00:41:20.664_S5#0004-00:42:20.974",
+          "L2_frame": "S5#0004-59476_S5#0004-60922",
+          "L3_time": "S5#0004-00:36:27.788_S5#0005-00:00:53.116",
+          "L3_frame": "S5#0004-52454_S5#0005-01273"
+        },
+        {
+          "L2_time": "S1#0023-00:02:49.148_S1#0023-00:04:03.639",
+          "L2_frame": "S1#0023-04055_S1#0023-05841",
+          "L3_time": "S1#0023-00:00:00.000_S1#0023-00:04:03.639",
+          "L3_frame": "S1#0023-00000_S1#0023-05841"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Temporal Comparison",
+    "Question": "When Desmond returns to the bedroom smelling of the pub, the one to insist that failing to impress Penelope's father is not something to celebrate is this person. What is the correct chronological order of these three actions during the sequence of events at the banquet tent: this person confirming they are at the right table, Kate Austen reacting to Claire's arrival, and Dr Pierre Chang introducing the band?",
+    "Options": "A. Kate's reaction -> Desmond's confirmation -> Dr Pierre Chang's introduction\nB. Desmond's confirmation -> Kate's reaction -> Dr Pierre Chang's introduction\nC. Dr Pierre Chang's introduction -> Kate's reaction -> Desmond's confirmation\nD. Kate's reaction -> Dr Pierre Chang's introduction -> Desmond's confirmation\nE. Desmond's confirmation -> Dr Pierre Chang's introduction -> Kate's reaction\nF. Dr Pierre Chang's introduction -> Desmond's confirmation -> Kate's reaction",
+    "src_questions_info": {
+      "Bridge_Character": "Desmond Hume",
+      "Question": [
+        "When Desmond returns to the bedroom smelling of the pub, who is the one to insist that failing to impress Penelope's father is not something to celebrate?",
+        "During the sequence of events at the banquet tent, what is the correct chronological order of these three actions: Dr Pierre Chang introducing the band, Kate Austen reacting to Claire's arrival, and Desmond Hume confirming they are at the right table?"
+      ],
+      "Options": [
+        "A. A friend who accompanied him\nB. A critic of Widmore Industries\nC. Penelope Penny Widmore\nD. Desmond Hume\nE. The narrator's voice\nF. Penelope's father in a flashback",
+        "A. Kate's reaction -> Desmond's confirmation -> Dr Pierre Chang's introduction\nB. Desmond's confirmation -> Kate's reaction -> Dr Pierre Chang's introduction\nC. Dr Pierre Chang's introduction -> Kate's reaction -> Desmond's confirmation\nD. Kate's reaction -> Dr Pierre Chang's introduction -> Desmond's confirmation\nE. Desmond's confirmation -> Dr Pierre Chang's introduction -> Kate's reaction\nF. Dr Pierre Chang's introduction -> Desmond's confirmation -> Kate's reaction"
+      ],
+      "Answers": [
+        "D",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0008-00:24:09.594_S3#0008-00:25:38.683",
+          "L2_frame": "S3#0008-34755_S3#0008-36891",
+          "L3_time": "S3#0008-00:20:36.673_S3#0008-00:35:20.056",
+          "L3_frame": "S3#0008-29650_S3#0008-50830"
+        },
+        {
+          "L2_time": "S6#0017-00:40:46.924_S6#0017-00:42:07.880",
+          "L2_frame": "S6#0017-58667_S6#0017-60608",
+          "L3_time": "S6#0017-00:39:08.993_S6#0017-00:46:03.323",
+          "L3_frame": "S6#0017-56319_S6#0017-66252"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Body Movement",
+    "Question": "During the voice-over sequence, Jack diagnoses a patient as septic. After receiving the blanket and advice from Hugo Hurley Reyes, what action does this person take?",
+    "Options": "A. He immediately falls asleep\nB. He argues further with Reyes\nC. He goes to his own shelter\nD. He throws the blanket into the fire\nE. He goes to find Claire to talk to\nF. He sets off through the camp\nG. He stays by the fire to think",
+    "src_questions_info": {
+      "Bridge_Character": "James Sawyer Ford",
+      "Question": [
+        "During the voice-over sequence, what is the full name of the patient Jack diagnoses as septic?",
+        "After receiving the blanket and advice from Hugo Hurley Reyes, what action does James Sawyer Ford take?"
+      ],
+      "Options": [
+        "A. James Sawyer Ford\nB. John Locke\nC. Desmond Hume\nD. Mr. Eko\nE. Jack Shephard\nF. The video does not state the patient's full name",
+        "A. He immediately falls asleep\nB. He argues further with Reyes\nC. He goes to his own shelter\nD. He throws the blanket into the fire\nE. He goes to find Claire to talk to\nF. He sets off through the camp\nG. He stays by the fire to think"
+      ],
+      "Answers": [
+        "A",
+        "E"
+      ],
+      "Dimension": [
+        "Distinctive Features",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0008-00:23:42.484_S2#0008-00:25:41.936",
+          "L2_frame": "S2#0008-34105_S2#0008-36969",
+          "L3_time": "S2#0008-00:14:20.631_S2#0008-00:26:56.511",
+          "L3_frame": "S2#0008-20634_S2#0008-38757"
+        },
+        {
+          "L2_time": "S3#0015-00:22:27.450_S3#0015-00:23:52.911",
+          "L2_frame": "S3#0015-32306_S3#0015-34355",
+          "L3_time": "S3#0015-00:13:51.143_S3#0015-00:23:52.911",
+          "L3_frame": "S3#0015-19927_S3#0015-34355"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "E",
+    "Dimension": "Object Counting",
+    "Question": "In the flashback scene at Howard's home, Nikki first compliments the delicious frittata and directs her praise toward this person. During the lighthearted conversation between this person and Nikki after her wrap is announced, how many implausible plot twists does Zukerman jokingly propose to explain how Corvette could have survived?",
+    "Options": "A. Four\nB. Three\nC. Five\nD. One\nE. Two\nF. None",
+    "src_questions_info": {
+      "Bridge_Character": "Howard Zukerman",
+      "Question": [
+        "In the flashback scene at Howard's home, when Nikki first compliments the delicious frittata, who does she direct her praise toward?",
+        "During the lighthearted conversation between Howard Zukerman and Nikki after her wrap is announced, how many implausible plot twists does Zukerman jokingly propose to explain how Corvette could have survived?"
+      ],
+      "Options": [
+        "A. Herself, for choosing the house\nB. The kitchen staff in general\nC. Howard Zukerman\nD. The housekeeper\nE. Paulo\nF. The grocery delivery person",
+        "A. Four\nB. Three\nC. Five\nD. One\nE. Two\nF. None"
+      ],
+      "Answers": [
+        "C",
+        "E"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Object Counting"
+      ],
+      "Time": [
+        {
+          "L2_time": "S3#0014-00:04:20.531_S3#0014-00:05:38.484",
+          "L2_frame": "S3#0014-06246_S3#0014-08115",
+          "L3_time": "S3#0014-00:02:56.698_S3#0014-00:08:41.250",
+          "L3_frame": "S3#0014-04236_S3#0014-12497"
+        },
+        {
+          "L2_time": "S3#0014-00:01:47.420_S3#0014-00:02:56.698",
+          "L2_frame": "S3#0014-02575_S3#0014-04236",
+          "L3_time": "S3#0013-00:37:53.209_S3#0014-00:02:56.698",
+          "L3_frame": "S3#0013-54502_S3#0014-04236"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Action Claim Subject",
+    "Question": "At the Survivor camp, on the sunlit beach, Sayid receives the lost photograph and offers sincere thanks for its return, identifying this person indirectly. On the quiet sandy beach, after this person doubled over with nausea, who quickly moved to hold her arm and show support?",
+    "Options": "A. Desmond Hume\nB. Charlie\nC. No one, she recovered on her own\nD. Jin-Soo Kwon\nE. The boar\nF. Sun-Hwa Kwon",
+    "src_questions_info": {
+      "Bridge_Character": "Claire Littleton",
+      "Question": [
+        "At the Survivor camp, after Sayid receives the lost photograph on the sunlit beach, who is the recipient of his sincere thanks for its return?",
+        "On the quiet sandy beach, after Claire Littleton doubled over with nausea, who quickly moved to hold her arm and show support?"
+      ],
+      "Options": [
+        "A. Nadia\nB. The universe\nC. The person who took the photo\nD. The other Survivors nearby\nE. Claire Littleton\nF. An unseen character",
+        "A. Desmond Hume\nB. Charlie\nC. No one, she recovered on her own\nD. Jin-Soo Kwon\nE. The boar\nF. Sun-Hwa Kwon"
+      ],
+      "Answers": [
+        "E",
+        "F"
+      ],
+      "Dimension": [
+        "Action Recipient",
+        "Action Claim Subject"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0004-00:23:50.909_S1#0004-00:24:37.872",
+          "L2_frame": "S1#0004-34307_S1#0004-35433",
+          "L3_time": "S1#0004-00:19:49.960_S1#0004-00:24:37.872",
+          "L3_frame": "S1#0004-28530_S1#0004-35433"
+        },
+        {
+          "L2_time": "S3#0012-00:17:25.065_S3#0012-00:18:30.005",
+          "L2_frame": "S3#0012-25056_S3#0012-26613",
+          "L3_time": "S3#0012-00:13:44.136_S3#0012-00:22:10.976",
+          "L3_frame": "S3#0012-19759_S3#0012-31911"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Temporal Comparison",
+    "Question": "In the jungle clearing, after Walt Lloyd reported that his father was sick, someone took charge and instructed Sun-Hwa Kwon to take Walt back to Michael. This person reacting to Claire's arrival is one of three actions at the banquet tent alongside Dr Pierre Chang introducing the band and Desmond Hume confirming they are at the right table—what is the correct chronological order of those three actions?",
+    "Options": "A. Kate's reaction -> Desmond's confirmation -> Dr Pierre Chang's introduction\nB. Desmond's confirmation -> Kate's reaction -> Dr Pierre Chang's introduction\nC. Dr Pierre Chang's introduction -> Kate's reaction -> Desmond's confirmation\nD. Kate's reaction -> Dr Pierre Chang's introduction -> Desmond's confirmation\nE. Desmond's confirmation -> Dr Pierre Chang's introduction -> Kate's reaction\nF. Dr Pierre Chang's introduction -> Desmond's confirmation -> Kate's reaction",
+    "src_questions_info": {
+      "Bridge_Character": "Kate Austen",
+      "Question": [
+        "In the jungle clearing, after Walt Lloyd reported that his father was sick, who took charge and instructed Sun-Hwa Kwon to take Walt back to Michael?",
+        "During the sequence of events at the banquet tent, what is the correct chronological order of these three actions: Dr Pierre Chang introducing the band, Kate Austen reacting to Claire's arrival, and Desmond Hume confirming they are at the right table?"
+      ],
+      "Options": [
+        "A. Sun-Hwa Kwon\nB. Sayid Jarrah\nC. Walt Lloyd\nD. John Locke\nE. Jack Shephard\nF. Kate Austen",
+        "A. Kate's reaction -> Desmond's confirmation -> Dr Pierre Chang's introduction\nB. Desmond's confirmation -> Kate's reaction -> Dr Pierre Chang's introduction\nC. Dr Pierre Chang's introduction -> Kate's reaction -> Desmond's confirmation\nD. Kate's reaction -> Dr Pierre Chang's introduction -> Desmond's confirmation\nE. Desmond's confirmation -> Dr Pierre Chang's introduction -> Kate's reaction\nF. Dr Pierre Chang's introduction -> Desmond's confirmation -> Kate's reaction"
+      ],
+      "Answers": [
+        "F",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Temporal Comparison"
+      ],
+      "Time": [
+        {
+          "L2_time": "S1#0022-00:12:01.492_S1#0022-00:14:33.435",
+          "L2_frame": "S1#0022-17298_S1#0022-20941",
+          "L3_time": "S1#0022-00:12:01.492_S1#0022-00:18:19.828",
+          "L3_frame": "S1#0022-17298_S1#0022-26369"
+        },
+        {
+          "L2_time": "S6#0017-00:40:46.924_S6#0017-00:42:07.880",
+          "L2_frame": "S6#0017-58667_S6#0017-60608",
+          "L3_time": "S6#0017-00:39:08.993_S6#0017-00:46:03.323",
+          "L3_frame": "S6#0017-56319_S6#0017-66252"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "B",
+    "Dimension": "Event Background",
+    "Question": "In the jungle scene that follows the tense exchange in the shelter, this person is shown working alone with disciplined intensity, methodically cracking coconuts. In the final sequence that links two time frames, what is the setting where he is seen with longer hair and a beard?",
+    "Options": "A. A police interrogation room\nB. A lush jungle\nC. A desert hideout\nD. A mountain cabin\nE. A prison cell\nF. A city apartment\nG. A boat at sea",
+    "src_questions_info": {
+      "Bridge_Character": "Sayid Jarrah",
+      "Question": [
+        "In the jungle scene that follows the tense exchange in the shelter, who is shown working alone with disciplined intensity, methodically cracking coconuts?",
+        "In the final sequence that links two time frames, what is the setting where Sayid Jarrah is seen with longer hair and a beard?"
+      ],
+      "Options": [
+        "A. James 'Sawyer' Ford\nB. John Locke\nC. Boone Carlyle\nD. Jack Shephard\nE. Sayid Jarrah\nF. Michael Dawson",
+        "A. A police interrogation room\nB. A lush jungle\nC. A desert hideout\nD. A mountain cabin\nE. A prison cell\nF. A city apartment\nG. A boat at sea"
+      ],
+      "Answers": [
+        "E",
+        "B"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Event Background"
+      ],
+      "Time": [
+        {
+          "L2_time": "S2#0013-00:08:46.005_S2#0013-00:09:21.832",
+          "L2_frame": "S2#0013-12611_S2#0013-13470",
+          "L3_time": "S2#0013-00:07:08.157_S2#0013-00:14:50.035",
+          "L3_frame": "S2#0013-10265_S2#0013-21339"
+        },
+        {
+          "L2_time": "S6#0013-00:10:46.877_S6#0013-00:11:36.676",
+          "L2_frame": "S6#0013-15509_S6#0013-16703",
+          "L3_time": "S6#0013-00:07:32.766_S6#0013-00:11:36.676",
+          "L3_frame": "S6#0013-10855_S6#0013-16703"
+        }
+      ]
+    }
+  },
+  {
+    "Answer": "F",
+    "Dimension": "Body Movement",
+    "Question": "In the middle of the journey to the decayed houses, someone initiated the conversation about explosives by asking how much C-4 the leader still possessed. In the underwater sequence that follows Sawyer boarding the submarine, what is this person shown doing?",
+    "Options": "A. Tying a rope to the submarine\nB. Floating lifelessly\nC. Hiding behind a rock\nD. Searching for something on the seabed\nE. Operating an underwater vehicle\nF. Swimming with purpose\nG. Struggling for air",
+    "src_questions_info": {
+      "Bridge_Character": "Richard Alpert",
+      "Question": [
+        "In the middle of the journey to the decayed houses, who initiated the conversation about explosives by asking how much C-4 the leader still possessed?",
+        "In the underwater sequence that follows Sawyer boarding the submarine, what is Richard Alpert shown doing?"
+      ],
+      "Options": [
+        "A. Richard Alpert\nB. Miles Straume\nC. Themselves in unison\nD. Ben Linus\nE. No one, the topic came up randomly\nF. An unseen character",
+        "A. Tying a rope to the submarine\nB. Floating lifelessly\nC. Hiding behind a rock\nD. Searching for something on the seabed\nE. Operating an underwater vehicle\nF. Swimming with purpose\nG. Struggling for air"
+      ],
+      "Answers": [
+        "A",
+        "F"
+      ],
+      "Dimension": [
+        "Action Claim Subject",
+        "Body Movement"
+      ],
+      "Time": [
+        {
+          "L2_time": "S6#0016-00:06:51.766_S6#0016-00:07:47.364",
+          "L2_frame": "S6#0016-09872_S6#0016-11205",
+          "L3_time": "S6#0016-00:04:56.568_S6#0016-00:11:13.820",
+          "L3_frame": "S6#0016-07110_S6#0016-16155"
+        },
+        {
+          "L2_time": "S5#0015-00:30:12.163_S5#0015-00:31:37.123",
+          "L2_frame": "S5#0015-43448_S5#0015-45485",
+          "L3_time": "S5#0015-00:28:59.174_S5#0015-00:33:58.306",
+          "L3_frame": "S5#0015-41698_S5#0015-48870"
+        }
+      ]
+    }
+  }
+]

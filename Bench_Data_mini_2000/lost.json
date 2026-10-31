@@ -1,0 +1,3710 @@
+{
+  "1": {
+    "L2_time": "S1#0001-00:00:40.645_S1#0001-00:02:11.235",
+    "L2_frame": "S1#0001-00974_S1#0001-03146",
+    "L3_time": "S1#0001-00:00:00.000_S1#0001-00:07:38.104",
+    "L3_frame": "S1#0001-00000_S1#0001-10983",
+    "L4_time": "S1#0001-00:00:00.000_S1#0002-00:03:50.960",
+    "L4_frame": "S1#0001-00000_S1#0002-05537",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Event Outcome",
+        "Options": "A. He hides behind a bamboo stalk.\nB. He climbs a tree to get a better view.\nC. He shouts in the direction of the sound.\nD. He continues running.\nE. He stands perfectly still to listen more closely.\nF. He begins to walk slowly and cautiously.\nG. He drops the bottle and falls to the ground.",
+        "Question": "Following the appearance of white shoes in the bamboo forest, what is Jack's immediate physical reaction?"
+      }
+    ]
+  },
+  "1009": {
+    "L2_time": "S2#0006-00:16:41.021_S2#0006-00:18:04.896",
+    "L2_frame": "S2#0006-24000_S2#0006-26011",
+    "L3_time": "S2#0006-00:15:54.558_S2#0006-00:19:49.042",
+    "L3_frame": "S2#0006-22886_S2#0006-28508",
+    "L4_time": "S2#0006-00:00:00.000_S2#0006-00:33:11.594",
+    "L4_frame": "S2#0006-00000_S2#0006-47750",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Event Background",
+        "Options": "A. Martha Graham Dance Company\nB. The American Ballet Theatre\nC. The Alvin Ailey American Dance Theater\nD. The New York City Ballet\nE. The Joffrey Ballet",
+        "Question": "What is the specific name of the dance company that Shannon dreams of joining, as mentioned in her conversation with Boone?"
+      }
+    ]
+  },
+  "1051": {
+    "L2_time": "S2#0007-00:23:47.113_S2#0007-00:24:50.885",
+    "L2_frame": "S2#0007-34216_S2#0007-35745",
+    "L3_time": "S2#0007-00:21:53.333_S2#0007-00:26:48.920",
+    "L3_frame": "S2#0007-31488_S2#0007-38575",
+    "L4_time": "S2#0006-00:33:11.636_S2#0007-00:37:37.109",
+    "L4_frame": "S2#0006-47751_S2#0007-54116",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. She threatens him with a weapon\nB. She calls for a guard\nC. She asks him about the children again\nD. She demands to see what he is concealing\nE. She shines the torch in his eyes\nF. She offers him a drink of water",
+        "Question": "In the sequence of events during the dawn interrogation, what does Ana Lucia do just before ordering Nathan to stand?"
+      }
+    ]
+  },
+  "1057": {
+    "L2_time": "S2#0007-00:30:10.121_S2#0007-00:31:14.769",
+    "L2_frame": "S2#0007-43399_S2#0007-44949",
+    "L3_time": "S2#0007-00:26:48.962_S2#0007-00:31:14.769",
+    "L3_frame": "S2#0007-38576_S2#0007-44949",
+    "L4_time": "S2#0006-00:33:11.636_S2#0007-00:37:37.109",
+    "L4_frame": "S2#0006-47751_S2#0007-54116",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Scene and Location",
+        "Options": "A. A vehicle depot\nB. A medical clinic\nC. A storage facility\nD. A power station\nE. A communications hub\nF. A residential shelter",
+        "Question": "When Goodwin Stanhope first assesses the mysterious underground bunker, what type of facility does he suggest it looks like?"
+      }
+    ]
+  },
+  "1088": {
+    "L2_time": "S2#0008-00:21:59.965_S2#0008-00:23:42.442",
+    "L2_frame": "S2#0008-31647_S2#0008-34104",
+    "L3_time": "S2#0008-00:14:20.631_S2#0008-00:26:56.511",
+    "L3_frame": "S2#0008-20634_S2#0008-38757",
+    "L4_time": "S2#0008-00:14:20.631_S2#0009-00:11:34.173",
+    "L4_frame": "S2#0008-20634_S2#0009-16643",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Counting",
+        "Options": "A. Six\nB. Seven\nC. Three\nD. Four\nE. Five\nF. Two",
+        "Question": "When Locke asks Eko about the tail section survivors in the armory, what number does Eko correct his count to?"
+      }
+    ]
+  },
+  "1113": {
+    "L2_time": "S2#0009-00:16:42.981_S2#0009-00:17:38.829",
+    "L2_frame": "S2#0009-24047_S2#0009-25386",
+    "L3_time": "S2#0009-00:11:34.215_S2#0009-00:17:38.829",
+    "L3_frame": "S2#0009-16644_S2#0009-25386",
+    "L4_time": "S2#0009-00:11:34.215_S2#0009-00:42:44.333",
+    "L4_frame": "S2#0009-16644_S2#0009-61482",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. 'We need to find the projector.'\nB. 'Only if you help me with this equipment.'\nC. 'I'm not sure it's a good idea.'\nD. 'Let's get this over with.'\nE. 'Fine, but I'll watch it first.'\nF. 'The more people involved, the better.'",
+        "Question": "At the end of the scene, after Eko expresses interest in the film, what is Locke's final remark that solidifies their alliance?"
+      }
+    ]
+  },
+  "1178": {
+    "L2_time": "S2#0011-00:12:58.924_S2#0011-00:14:14.958",
+    "L2_frame": "S2#0011-18675_S2#0011-20498",
+    "L3_time": "S2#0011-00:12:13.963_S2#0011-00:16:08.947",
+    "L3_frame": "S2#0011-17597_S2#0011-23231",
+    "L4_time": "S2#0011-00:08:25.276_S2#0011-00:36:20.991",
+    "L4_frame": "S2#0011-12114_S2#0011-52291",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. The ocean\nB. A cave system\nC. The sun\nD. A large river\nE. A specific mountain peak\nF. A waterfall",
+        "Question": "When Locke poses his crucial navigational question to Sawyer, what large natural feature of the island does he use as a reference point?"
+      }
+    ]
+  },
+  "1184": {
+    "L2_time": "S2#0011-00:20:11.064_S2#0011-00:21:37.776",
+    "L2_frame": "S2#0011-29036_S2#0011-31115",
+    "L3_time": "S2#0011-00:16:08.989_S2#0011-00:25:20.790",
+    "L3_frame": "S2#0011-23232_S2#0011-36462",
+    "L4_time": "S2#0011-00:08:25.276_S2#0011-00:36:20.991",
+    "L4_frame": "S2#0011-12114_S2#0011-52291",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Distinctive Features",
+        "Options": "A. That she had been abducted by the Others\nB. That she was the one who led the Others to them\nC. That she had found a way off the island\nD. That she had died in the jungle\nE. That she had stolen the manifest\nF. That she had willingly joined the Others\nG. That she was hiding near their camp",
+        "Question": "In the tense argument following the chase, what grim information did Sawyer reveal about a character named Cindy?"
+      }
+    ]
+  },
+  "1216": {
+    "L2_time": "S2#0012-00:16:03.817_S2#0012-00:17:06.964",
+    "L2_frame": "S2#0012-23108_S2#0012-24622",
+    "L3_time": "S2#0012-00:13:16.442_S2#0012-00:19:18.845",
+    "L3_frame": "S2#0012-19095_S2#0012-27784",
+    "L4_time": "S2#0011-00:36:21.033_S2#0012-00:19:18.845",
+    "L4_frame": "S2#0011-52292_S2#0012-27784",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Counting",
+        "Options": "A. Four\nB. Seven\nC. Five\nD. Two\nE. Six\nF. Three",
+        "Question": "During the high-angle shot that captures the absurdity of the commercial, how many adult men are seen dancing inside the playpen?"
+      }
+    ]
+  },
+  "1222": {
+    "L2_time": "S2#0012-00:25:06.609_S2#0012-00:28:30.980",
+    "L2_frame": "S2#0012-36122_S2#0012-41022",
+    "L3_time": "S2#0012-00:19:18.887_S2#0012-00:31:50.721",
+    "L3_frame": "S2#0012-27785_S2#0012-45811",
+    "L4_time": "S2#0012-00:19:18.887_S2#0013-00:07:08.115",
+    "L4_frame": "S2#0012-27785_S2#0013-10264",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Action Recipient",
+        "Options": "A. Sawyer\nB. Ben Linus\nC. Himself\nD. Jack\nE. Kate\nF. Claire\nG. Charlie",
+        "Question": "In the jungle, who does Locke state that he once allowed to choose but no longer trusts?"
+      }
+    ]
+  },
+  "1234": {
+    "L2_time": "S2#0013-00:00:52.198_S2#0013-00:02:52.276",
+    "L2_frame": "S2#0013-01251_S2#0013-04130",
+    "L3_time": "S2#0013-00:00:52.198_S2#0013-00:07:08.115",
+    "L3_frame": "S2#0013-01251_S2#0013-10264",
+    "L4_time": "S2#0012-00:19:18.887_S2#0013-00:07:08.115",
+    "L4_frame": "S2#0012-27785_S2#0013-10264",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Counting",
+        "Options": "A. 1\nB. 5\nC. He provides no justification.\nD. 3\nE. 2\nF. 4",
+        "Question": "When Locke explains his confiscation of the heroin, how many distinct justifications does he provide for his actions?"
+      }
+    ]
+  },
+  "1241": {
+    "L2_time": "S2#0013-00:10:07.211_S2#0013-00:10:54.341",
+    "L2_frame": "S2#0013-14558_S2#0013-15688",
+    "L3_time": "S2#0013-00:07:08.157_S2#0013-00:14:50.035",
+    "L3_frame": "S2#0013-10265_S2#0013-21339",
+    "L4_time": "S2#0013-00:07:08.157_S2#0013-00:42:03.167",
+    "L4_frame": "S2#0013-10265_S2#0013-60495",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Counting",
+        "Options": "A. 1\nB. 6\nC. 5\nD. 2\nE. 4\nF. 0\nG. 3",
+        "Question": "Across the two described jungle scenes, one featuring Sayid and Hurley and the other Jack and Ana Lucia, how many distinct, tangible objects are explicitly mentioned as being either carried by a character or left behind?"
+      }
+    ]
+  },
+  "13": {
+    "L2_time": "S1#0001-00:15:02.297_S1#0001-00:15:44.381",
+    "L2_frame": "S1#0001-21633_S1#0001-22642",
+    "L3_time": "S1#0001-00:12:35.901_S1#0001-00:17:32.864",
+    "L3_frame": "S1#0001-18123_S1#0001-25243",
+    "L4_time": "S1#0001-00:00:00.000_S1#0002-00:03:50.960",
+    "L4_frame": "S1#0001-00000_S1#0002-05537",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Body Movement",
+        "Options": "A. Bringing her a warmer blanket\nB. Sitting quietly beside her, watching her\nC. Offering her a drink of water\nD. Talking to her softly\nE. Standing guard over her",
+        "Question": "In the scene where Shannon is painting her toenails, what does Boone Carlyle do that shows his concern for her?"
+      }
+    ]
+  },
+  "1371": {
+    "L2_time": "S2#0017-00:04:33.461_S2#0017-00:05:32.728",
+    "L2_frame": "S2#0017-06556_S2#0017-07977",
+    "L3_time": "S2#0017-00:02:43.685_S2#0017-00:07:43.317",
+    "L3_frame": "S2#0017-03924_S2#0017-11108",
+    "L4_time": "S2#0016-00:37:02.158_S2#0017-00:33:43.209",
+    "L4_frame": "S2#0016-53278_S2#0017-48508",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Counting",
+        "Options": "A. 0\nB. 2\nC. 3\nD. 1\nE. 5\nF. 4",
+        "Question": "When the team discovers the hot air balloon tangled in the jungle canopy, how many distinct colors of the balloon's fabric are there?"
+      }
+    ]
+  },
+  "1379": {
+    "L2_time": "S2#0017-00:12:52.793_S2#0017-00:13:49.224",
+    "L2_frame": "S2#0017-18528_S2#0017-19881",
+    "L3_time": "S2#0017-00:12:52.793_S2#0017-00:18:30.922",
+    "L3_frame": "S2#0017-18528_S2#0017-26635",
+    "L4_time": "S2#0016-00:37:02.158_S2#0017-00:33:43.209",
+    "L4_frame": "S2#0016-53278_S2#0017-48508",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Appearance",
+        "Options": "A. Silver\nB. White\nC. Black\nD. Red\nE. Green\nF. Blue",
+        "Question": "In the flashback scene where Locke meets Nadia, what is the specified color of her sedan?"
+      }
+    ]
+  },
+  "1394": {
+    "L2_time": "S2#0017-00:32:49.071_S2#0017-00:33:43.209",
+    "L2_frame": "S2#0017-47210_S2#0017-48508",
+    "L3_time": "S2#0017-00:26:12.008_S2#0017-00:33:43.209",
+    "L3_frame": "S2#0017-37690_S2#0017-48508",
+    "L4_time": "S2#0016-00:37:02.158_S2#0017-00:33:43.209",
+    "L4_frame": "S2#0016-53278_S2#0017-48508",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Position Comparison",
+        "Options": "A. The kitchen area\nB. The area near the window\nC. The bathroom\nD. The balcony\nE. The closet by the entrance\nF. The main sleeping area",
+        "Question": "When Anthony Cooper prepares to leave the motel room, towards which area of the room does he move to retrieve his belongings?"
+      }
+    ]
+  },
+  "1419": {
+    "L2_time": "S2#0018-00:17:11.635_S2#0018-00:19:27.646",
+    "L2_frame": "S2#0018-24734_S2#0018-27995",
+    "L3_time": "S2#0018-00:15:13.809_S2#0018-00:25:02.188",
+    "L3_frame": "S2#0018-21909_S2#0018-36016",
+    "L4_time": "S2#0017-00:33:43.251_S2#0019-00:02:41.057",
+    "L4_frame": "S2#0017-48509_S2#0019-03861",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Counting",
+        "Options": "A. Gray\nB. Brown\nC. Blue\nD. White\nE. Pink\nF. Black",
+        "Question": "In the Santa Rosa hospital scene, what color is Douglas's suit jacket?"
+      }
+    ]
+  },
+  "1443": {
+    "L2_time": "S2#0019-00:06:10.766_S2#0019-00:07:14.330",
+    "L2_frame": "S2#0019-08889_S2#0019-10413",
+    "L3_time": "S2#0019-00:02:41.099_S2#0019-00:08:09.760",
+    "L3_frame": "S2#0019-03862_S2#0019-11742",
+    "L4_time": "S2#0019-00:02:41.099_S2#0020-00:01:42.165",
+    "L4_frame": "S2#0019-03862_S2#0020-02449",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. To buy snow chains\nB. To avoid that road in the future\nC. To drive carefully\nD. To get her tires checked\nE. To let the engine warm up\nF. To call a tow truck next time",
+        "Question": "Before Bernard starts to walk away during their first meeting, what specific advice does he give to Rose?"
+      }
+    ]
+  },
+  "1453": {
+    "L2_time": "S2#0019-00:19:13.465_S2#0019-00:20:48.727",
+    "L2_frame": "S2#0019-27655_S2#0019-29939",
+    "L3_time": "S2#0019-00:19:13.465_S2#0019-00:23:14.998",
+    "L3_frame": "S2#0019-27655_S2#0019-33446",
+    "L4_time": "S2#0019-00:02:41.099_S2#0020-00:01:42.165",
+    "L4_frame": "S2#0019-03862_S2#0020-02449",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Counting",
+        "Options": "A. Five\nB. One\nC. Two\nD. Three\nE. Seven\nF. Four\nG. Six",
+        "Question": "In the description of the flashback scene in the Australian outback, how many specific articles of clothing or accessories are mentioned as being worn by Rose?"
+      }
+    ]
+  },
+  "1458": {
+    "L2_time": "S2#0019-00:24:13.264_S2#0019-00:26:23.520",
+    "L2_frame": "S2#0019-34843_S2#0019-37966",
+    "L3_time": "S2#0019-00:23:15.040_S2#0019-00:31:53.891",
+    "L3_frame": "S2#0019-33447_S2#0019-45887",
+    "L4_time": "S2#0019-00:02:41.099_S2#0020-00:01:42.165",
+    "L4_frame": "S2#0019-03862_S2#0020-02449",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Recipient",
+        "Options": "A. Her father\nB. Jack\nC. An unknown rescuer\nD. Herself, sarcastically\nE. No one was praised\nF. Rousseau",
+        "Question": "After they crashed to the jungle floor, who was the recipient of Kate's praise for their excellent marksmanship?"
+      }
+    ]
+  },
+  "1471": {
+    "L2_time": "S2#0019-00:41:45.107_S2#0019-00:42:26.398",
+    "L2_frame": "S2#0019-60062_S2#0019-61052",
+    "L3_time": "S2#0019-00:39:36.896_S2#0020-00:01:42.165",
+    "L3_frame": "S2#0019-56988_S2#0020-02449",
+    "L4_time": "S2#0019-00:02:41.099_S2#0020-00:01:42.165",
+    "L4_frame": "S2#0019-03862_S2#0020-02449",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Character Motivation",
+        "Options": "A. Frustration\nB. Surprise\nC. Anger\nD. Joy\nE. Fear\nF. Pain\nG. Confusion",
+        "Question": "When Kate cries out Mike's name in the jungle, what is the primary emotion driving her outcry?"
+      }
+    ]
+  },
+  "1531": {
+    "L2_time": "S2#0021-00:26:53.341_S2#0021-00:29:05.598",
+    "L2_frame": "S2#0021-38681_S2#0021-41852",
+    "L3_time": "S2#0021-00:20:49.478_S2#0021-00:33:10.009",
+    "L3_frame": "S2#0021-29957_S2#0021-47712",
+    "L4_time": "S2#0021-00:14:12.706_S2#0022-00:27:50.982",
+    "L4_frame": "S2#0021-20444_S2#0022-40063",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Body Movement",
+        "Options": "A. He sharpens the axe on a rock.\nB. He gives the axe to Locke.\nC. He throws the axe into the jungle in frustration.\nD. He continues striking the hatch relentlessly.\nE. He begins striking the hatch handle with powerful blows.\nF. He uses the axe to pry at the edges.",
+        "Question": "When Mr. John initially attempts to break the large metallic hatch, what action does Eko take with his axe?"
+      }
+    ]
+  },
+  "1543": {
+    "L2_time": "S2#0021-00:43:50.023_S2#0021-00:44:46.955",
+    "L2_frame": "S2#0021-63057_S2#0021-64422",
+    "L3_time": "S2#0021-00:41:20.791_S2#0022-00:03:26.227",
+    "L3_frame": "S2#0021-59479_S2#0022-04944",
+    "L4_time": "S2#0021-00:14:12.706_S2#0022-00:27:50.982",
+    "L4_frame": "S2#0021-20444_S2#0022-40063",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Event Background",
+        "Options": "A. Camouflage\nB. Green\nC. Blue\nD. Red\nE. Black\nF. Grey",
+        "Question": "When Jack Shephard is in the bathroom, what color is the duffel bag he is sorting through?"
+      }
+    ]
+  },
+  "1579": {
+    "L2_time": "S2#0022-00:40:11.597_S2#0022-00:41:41.770",
+    "L2_frame": "S2#0022-57820_S2#0022-59982",
+    "L3_time": "S2#0022-00:40:11.597_S2#0022-00:44:29.188",
+    "L3_frame": "S2#0022-57820_S2#0022-63996",
+    "L4_time": "S2#0022-00:27:51.024_S2#0023-00:03:05.456",
+    "L4_frame": "S2#0022-40064_S2#0023-04446",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Spatial Location",
+        "Options": "A. Right leg\nB. Left leg\nC. Left arm\nD. Head\nE. Right arm",
+        "Question": "While on the beach, which part of John Locke's body was injured and only secured with a simple wooden board?"
+      }
+    ]
+  },
+  "1612": {
+    "L2_time": "S2#0023-00:34:48.983_S2#0023-00:35:43.287",
+    "L2_frame": "S2#0023-50085_S2#0023-51387",
+    "L3_time": "S2#0023-00:29:29.580_S2#0023-00:35:43.287",
+    "L3_frame": "S2#0023-42427_S2#0023-51387",
+    "L4_time": "S2#0023-00:29:29.580_S2#0024-00:42:27.900",
+    "L4_frame": "S2#0023-42427_S2#0024-61088",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Appearance",
+        "Options": "A. Red\nB. Yellow\nC. Gray\nD. Black\nE. Green\nF. Blue\nG. White",
+        "Question": "When Kelvin retrieves the injector from a compartment in the bunker to give to Desmond, what color is this Dharma-marked compartment?"
+      }
+    ]
+  },
+  "1621": {
+    "L2_time": "S2#0024-00:00:29.384_S2#0024-00:02:46.229",
+    "L2_frame": "S2#0024-00704_S2#0024-03985",
+    "L3_time": "S2#0023-00:41:33.387_S2#0024-00:07:04.987",
+    "L3_frame": "S2#0023-59781_S2#0024-10189",
+    "L4_time": "S2#0023-00:29:29.580_S2#0024-00:42:27.900",
+    "L4_frame": "S2#0023-42427_S2#0024-61088",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. Equal; there are 4 of each.\nB. Less than; there are 4 names and 5 people.\nC. Greater; there are 4 names and 3 people.\nD. Greater; there are 5 names and 3 people.\nE. Equal; there are 3 of each.\nF. Less than; there are 3 names and 4 people.",
+        "Question": "Is the number of names on the crumpled paper seen in Mike's captivity greater than, less than, or equal to the number of people present in the bunker computer room when Charlie arrives with his warning?"
+      }
+    ]
+  },
+  "1626": {
+    "L2_time": "S2#0024-00:07:49.532_S2#0024-00:08:40.583",
+    "L2_frame": "S2#0024-11257_S2#0024-12481",
+    "L3_time": "S2#0024-00:07:05.029_S2#0024-00:15:03.674",
+    "L3_frame": "S2#0024-10190_S2#0024-21666",
+    "L4_time": "S2#0023-00:29:29.580_S2#0024-00:42:27.900",
+    "L4_frame": "S2#0023-42427_S2#0024-61088",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Spatial Location",
+        "Options": "A. Held firmly in Kelvin's hand\nB. Lying next to the button\nC. Inserted into a lock on the compartment cover\nD. On the other side of the room\nE. Dangling ominously above it\nF. Hidden inside the button itself\nG. Tucked into a slot on the wall",
+        "Question": "In the memory sequence, where is the ornate key positioned relative to the fail-safe button?"
+      }
+    ]
+  },
+  "163": {
+    "L2_time": "S1#0005-00:36:49.145_S1#0005-00:38:07.807",
+    "L2_frame": "S1#0005-52966_S1#0005-54852",
+    "L3_time": "S1#0005-00:36:49.145_S1#0005-00:41:44.189",
+    "L3_frame": "S1#0005-52966_S1#0005-60040",
+    "L4_time": "S1#0004-00:32:28.217_S1#0005-00:41:44.189",
+    "L4_frame": "S1#0004-46710_S1#0005-60040",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Boone Carlyle\nB. Jack Shephard\nC. Michael Dawson\nD. Kate Austen\nE. Charlie Pace\nF. Claire Littleton",
+        "Question": "On the sixth night after the crash, who was the character that initiated a moment of kindness by a bonfire, which inadvertently triggered a major conflict within the group?"
+      }
+    ]
+  },
+  "1630": {
+    "L2_time": "S2#0024-00:12:49.456_S2#0024-00:14:06.658",
+    "L2_frame": "S2#0024-18448_S2#0024-20299",
+    "L3_time": "S2#0024-00:07:05.029_S2#0024-00:15:03.674",
+    "L3_frame": "S2#0024-10190_S2#0024-21666",
+    "L4_time": "S2#0023-00:29:29.580_S2#0024-00:42:27.900",
+    "L4_frame": "S2#0023-42427_S2#0024-61088",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Kate Austen\nB. Jack Shephard\nC. John Locke\nD. Charlie Pace\nE. Hurley Reyes\nF. Sawyer Ford\nG. Michael Dawson",
+        "Question": "Upon discovering the canisters in the jungle, who was the first person to kneel down, pick one up, and notice the black label with the DHARMA symbol?"
+      }
+    ]
+  },
+  "1636": {
+    "L2_time": "S2#0024-00:20:59.279_S2#0024-00:21:30.393",
+    "L2_frame": "S2#0024-30192_S2#0024-30938",
+    "L3_time": "S2#0024-00:15:03.674_S2#0024-00:22:11.643",
+    "L3_frame": "S2#0024-21666_S2#0024-31927",
+    "L4_time": "S2#0023-00:29:29.580_S2#0024-00:42:27.900",
+    "L4_frame": "S2#0023-42427_S2#0024-61088",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Character Clothing",
+        "Options": "A. Bright red\nB. Navy blue\nC. Tan\nD. Camouflage\nE. Black\nF. Army green",
+        "Question": "As Desmond sits in the eerie stillness of the computer room after the storm, what is the color of the backpack he has on?"
+      }
+    ]
+  },
+  "1643": {
+    "L2_time": "S2#0024-00:28:38.529_S2#0024-00:29:36.045",
+    "L2_frame": "S2#0024-41203_S2#0024-42582",
+    "L3_time": "S2#0024-00:26:30.610_S2#0024-00:34:31.048",
+    "L3_frame": "S2#0024-38136_S2#0024-49655",
+    "L4_time": "S2#0023-00:29:29.580_S2#0024-00:42:27.900",
+    "L4_frame": "S2#0023-42427_S2#0024-61088",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A maintenance worker\nB. A security guard responding to an alarm\nC. An escaping prisoner\nD. A DHARMA Initiative leader\nE. John Locke\nF. Desmond Hume",
+        "Question": "After discovering a hidden metallic key inside a book, who is depicted striding down the facility's corridors with a triumphant expression and renewed determination?"
+      }
+    ]
+  },
+  "1651": {
+    "L2_time": "S2#0024-00:40:52.304_S2#0024-00:42:27.483",
+    "L2_frame": "S2#0024-58796_S2#0024-61078",
+    "L3_time": "S2#0024-00:34:31.090_S2#0024-00:42:27.900",
+    "L3_frame": "S2#0024-49656_S2#0024-61088",
+    "L4_time": "S2#0023-00:29:29.580_S2#0024-00:42:27.900",
+    "L4_frame": "S2#0023-42427_S2#0024-61088",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Appearance",
+        "Options": "A. Red\nB. Clear\nC. White\nD. Beige\nE. Black\nF. Silver",
+        "Question": "In the scene where Penelope is awakened in the early morning, what is the color of the telephone ringing by her bed?"
+      }
+    ]
+  },
+  "1655": {
+    "L2_time": "S3#0001-00:01:37.702_S3#0001-00:02:25.792",
+    "L2_frame": "S3#0001-02342_S3#0001-03495",
+    "L3_time": "S3#0001-00:00:00.000_S3#0001-00:04:03.306",
+    "L3_frame": "S3#0001-00000_S3#0001-05833",
+    "L4_time": "S3#0001-00:00:00.000_S3#0002-00:07:45.945",
+    "L4_frame": "S3#0001-00000_S3#0002-11171",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Body Movement",
+        "Options": "A. She smiles\nB. She shakes her head in disapproval\nC. She looks down at her book\nD. She pats Adam's arm reassuringly\nE. She stands up to leave\nF. She gasps in shock",
+        "Question": "During the book club meeting, after Juliet sarcastically tells Adam she's thrilled he hates her favorite book, what is Amelia's physical reaction?"
+      }
+    ]
+  },
+  "1679": {
+    "L2_time": "S3#0001-00:35:44.330_S3#0001-00:36:40.094",
+    "L2_frame": "S3#0001-51412_S3#0001-52749",
+    "L3_time": "S3#0001-00:34:02.019_S3#0001-00:38:24.615",
+    "L3_frame": "S3#0001-48959_S3#0001-55255",
+    "L4_time": "S3#0001-00:00:00.000_S3#0002-00:07:45.945",
+    "L4_frame": "S3#0001-00000_S3#0002-11171",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Event Summary",
+        "Options": "A. The specific name and nature of the facility\nB. The identity of Juliet's superior\nC. The history of the Dharma Initiative\nD. The date and time\nE. The location of Kate and Sawyer\nF. The reason for his capture\nG. The way to escape the station",
+        "Question": "What is the central piece of information that Jack successfully extracts from Juliet during their conversation in the industrial room?"
+      }
+    ]
+  },
+  "1743": {
+    "L2_time": "S3#0003-00:33:00.541_S3#0003-00:34:06.691",
+    "L2_frame": "S3#0003-47485_S3#0003-49071",
+    "L3_time": "S3#0003-00:29:46.764_S3#0003-00:36:37.258",
+    "L3_frame": "S3#0003-42839_S3#0003-52681",
+    "L4_time": "S3#0002-00:34:26.794_S3#0004-00:07:26.384",
+    "L4_frame": "S3#0002-49553_S3#0004-10702",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Recipient",
+        "Options": "A. Desmond Hume\nB. Charlie Pace\nC. Mr. Eko\nD. The man with the rifle\nE. Boone Carlyle\nF. Hugo Reyes",
+        "Question": "When Locke declares his intention to clean up his mistakes, who is the person he is physically carrying to safety as this act of atonement?"
+      }
+    ]
+  },
+  "1785": {
+    "L2_time": "S3#0005-00:05:48.411_S3#0005-00:08:26.652",
+    "L2_frame": "S3#0005-08353_S3#0005-12147",
+    "L3_time": "S3#0005-00:00:54.325_S3#0005-00:09:23.793",
+    "L3_frame": "S3#0005-01302_S3#0005-13517",
+    "L4_time": "S3#0004-00:35:56.008_S3#0005-00:29:34.252",
+    "L4_frame": "S3#0004-51692_S3#0005-42539",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Appearance",
+        "Options": "A. A rope tied between two pillars\nB. A thick wooden beam\nC. A concrete ledge\nD. A thin, rusty metal pipe\nE. A hanging vine\nF. A smooth, polished steel bar\nG. A twisted piece of airplane fuselage",
+        "Question": "While Jack is imprisoned in the green-lit cell, what kind of beam is he using to perform pull-ups?"
+      }
+    ]
+  },
+  "1797": {
+    "L2_time": "S3#0005-00:22:29.286_S3#0005-00:25:01.479",
+    "L2_frame": "S3#0005-32350_S3#0005-35999",
+    "L3_time": "S3#0005-00:22:29.286_S3#0005-00:29:34.252",
+    "L3_frame": "S3#0005-32350_S3#0005-42539",
+    "L4_time": "S3#0004-00:35:56.008_S3#0005-00:29:34.252",
+    "L4_frame": "S3#0004-51692_S3#0005-42539",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. Yes, he interacts with three people in both scenes.\nB. No, he interacts with one person in the clinic and two at the bar.\nC. Yes, he interacts with one person in both scenes.\nD. Yes, he interacts with two people in both scenes.\nE. No, he interacts with one person in the clinic and a large group at the bar.\nF. No, he interacts with two people in the clinic and one at the bar.",
+        "Question": "Comparing Eko's two flashback scenes, is the number of people he interacts with in the clinic the same as the number he interacts with at the bar?"
+      }
+    ]
+  },
+  "1816": {
+    "L2_time": "S3#0006-00:07:12.870_S3#0006-00:08:18.310",
+    "L2_frame": "S3#0006-10378_S3#0006-11947",
+    "L3_time": "S3#0006-00:00:00.000_S3#0006-00:09:09.403",
+    "L3_frame": "S3#0006-00000_S3#0006-13172",
+    "L4_time": "S3#0005-00:29:34.294_S3#0006-00:25:21.541",
+    "L4_frame": "S3#0005-42540_S3#0006-36480",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Character Relation",
+        "Options": "A. He wants to use the walk to argue about the burial decision.\nB. He is concerned for Locke's safety on the journey.\nC. He believes Locke is not strong enough to carry the shovels alone.\nD. He wants to challenge Locke's authority in front of the group.\nE. He is simply following standard island protocol for travel.\nF. He is bored and looking for something to do.\nG. He suspects Locke is hiding something and wants to watch him.",
+        "Question": "During the discussion in the forest after Locke decides to get shovels, what does Sayid Jarrah's offer to accompany him reveal about his attitude towards Locke at that moment?"
+      }
+    ]
+  },
+  "1888": {
+    "L2_time": "S3#0008-00:11:49.521_S3#0008-00:14:35.062",
+    "L2_frame": "S3#0008-17011_S3#0008-20980",
+    "L3_time": "S3#0008-00:06:23.404_S3#0008-00:14:35.062",
+    "L3_frame": "S3#0008-09192_S3#0008-20980",
+    "L4_time": "S3#0007-00:20:34.963_S3#0008-00:20:36.631",
+    "L4_frame": "S3#0007-29609_S3#0008-29649",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Character Clothing",
+        "Options": "A. Navy blue\nB. Orange\nC. Beige\nD. Grey\nE. White\nF. Dark green",
+        "Question": "What color is the jumpsuit Desmond is wearing when he is found on the floor after his painting accident?"
+      }
+    ]
+  },
+  "1892": {
+    "L2_time": "S3#0008-00:18:17.743_S3#0008-00:19:38.865",
+    "L2_frame": "S3#0008-26319_S3#0008-28264",
+    "L3_time": "S3#0008-00:14:35.104_S3#0008-00:20:36.631",
+    "L3_frame": "S3#0008-20981_S3#0008-29649",
+    "L4_time": "S3#0007-00:20:34.963_S3#0008-00:20:36.631",
+    "L4_frame": "S3#0007-29609_S3#0008-29649",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Body Movement",
+        "Options": "A. Indifferent\nB. Energetic\nC. Angry\nD. Calm\nE. Overwhelmed\nF. Joyful",
+        "Question": "What is the emotional state of Desmond Hume when he discards his tie, symbolizing rejection?"
+      }
+    ]
+  },
+  "190": {
+    "L2_time": "S1#0006-00:27:31.129_S1#0006-00:28:18.301",
+    "L2_frame": "S1#0006-39587_S1#0006-40718",
+    "L3_time": "S1#0006-00:22:20.318_S1#0006-00:28:18.301",
+    "L3_frame": "S1#0006-32135_S1#0006-40718",
+    "L4_time": "S1#0006-00:00:00.000_S1#0006-00:39:16.500",
+    "L4_frame": "S1#0006-00000_S1#0006-56499",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. The pessimists\nB. The realists\nC. The optimists\nD. The adventurers\nE. The cowards\nF. The workers\nG. The leaders",
+        "Question": "In his cynical discussion with Kate on the beach, what label does Sawyer apply to the group of survivors who advocate for moving to the caves?"
+      }
+    ]
+  },
+  "1914": {
+    "L2_time": "S3#0009-00:07:37.812_S3#0009-00:08:46.714",
+    "L2_frame": "S3#0009-10976_S3#0009-12628",
+    "L3_time": "S3#0009-00:07:37.812_S3#0009-00:15:40.127",
+    "L3_frame": "S3#0009-10976_S3#0009-22540",
+    "L4_time": "S3#0008-00:20:36.673_S3#0009-00:42:23.312",
+    "L4_frame": "S3#0008-29650_S3#0009-60978",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Event Background",
+        "Options": "A. A heavy wool sweater\nB. A tattered brown shirt\nC. A long-sleeved green shirt\nD. A floral-patterned tank top\nE. A grey tank top\nF. A waterproof jacket\nG. A white t-shirt",
+        "Question": "What specific type of clothing is Kate Austen wearing on the sailboat, which is also shown again when she arrives at the jungle camp?"
+      }
+    ]
+  },
+  "1917": {
+    "L2_time": "S3#0009-00:12:05.037_S3#0009-00:13:49.266",
+    "L2_frame": "S3#0009-17383_S3#0009-19882",
+    "L3_time": "S3#0009-00:07:37.812_S3#0009-00:15:40.127",
+    "L3_frame": "S3#0009-10976_S3#0009-22540",
+    "L4_time": "S3#0008-00:20:36.673_S3#0009-00:42:23.312",
+    "L4_frame": "S3#0008-29650_S3#0009-60978",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Body Movement",
+        "Options": "A. She reaches across the table to touch his hand\nB. She laughs loudly at a joke\nC. She stands up and stretches\nD. She starts eating her food enthusiastically\nE. She takes a slow sip from her drink\nF. She reapplies her lipstick\nG. She waves to the waiter",
+        "Question": "After the tense silence about Jack's father, what action does Achara take that signals she is softening again?"
+      }
+    ]
+  },
+  "193": {
+    "L2_time": "S1#0006-00:29:55.940_S1#0006-00:31:01.255",
+    "L2_frame": "S1#0006-43059_S1#0006-44625",
+    "L3_time": "S1#0006-00:28:18.343_S1#0006-00:32:21.586",
+    "L3_frame": "S1#0006-40719_S1#0006-46551",
+    "L4_time": "S1#0006-00:00:00.000_S1#0006-00:39:16.500",
+    "L4_frame": "S1#0006-00000_S1#0006-56499",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Sun-Hwa's husband\nB. Sun-Hwa Kwon\nC. The Decorator\nD. A private investigator\nE. A government official\nF. A third-party messenger\nG. Sun-Hwa's lawyer",
+        "Question": "In the luxurious bedroom, as the escape plan is being detailed, who opens the manila envelope containing the red passport and other documents?"
+      }
+    ]
+  },
+  "1935": {
+    "L2_time": "S3#0009-00:34:06.649_S3#0009-00:35:27.688",
+    "L2_frame": "S3#0009-49070_S3#0009-51013",
+    "L3_time": "S3#0009-00:29:23.324_S3#0009-00:42:23.312",
+    "L3_frame": "S3#0009-42277_S3#0009-60978",
+    "L4_time": "S3#0008-00:20:36.673_S3#0009-00:42:23.312",
+    "L4_frame": "S3#0008-29650_S3#0009-60978",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Spatial Location",
+        "Options": "A. At the edge of the jungle\nB. Next to a large bonfire\nC. In the shallow water\nD. On a wooden pier\nE. Inside a beach cave\nF. Near a rustic hut",
+        "Question": "Where on the tropical beach does the initial tense standoff between Jack and Chet's group occur?"
+      }
+    ]
+  },
+  "1945": {
+    "L2_time": "S3#0010-00:07:57.915_S3#0010-00:09:53.197",
+    "L2_frame": "S3#0010-11458_S3#0010-14222",
+    "L3_time": "S3#0010-00:06:31.954_S3#0010-00:17:12.761",
+    "L3_frame": "S3#0010-09397_S3#0010-24761",
+    "L4_time": "S3#0010-00:00:00.000_S3#0010-00:39:07.658",
+    "L4_frame": "S3#0010-00000_S3#0010-56287",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Event Outcome",
+        "Options": "A. The stock price of Mr. Cluck's plummets.\nB. The news station offers him support.\nC. The interview is cancelled and filming is stopped.\nD. Randy gets angry at Hugo for being negative.\nE. Tricia becomes sympathetic and offers help.\nF. A crowd gathers to offer condolences.",
+        "Question": "What is the direct consequence of Hugo recounting his series of misfortunes to Tricia Tanaka on camera?"
+      }
+    ]
+  },
+  "1976": {
+    "L2_time": "S3#0011-00:06:13.811_S3#0011-00:06:59.565",
+    "L2_frame": "S3#0011-08962_S3#0011-10059",
+    "L3_time": "S3#0011-00:04:34.462_S3#0011-00:09:13.699",
+    "L3_frame": "S3#0011-06580_S3#0011-13275",
+    "L4_time": "S3#0010-00:39:07.700_S3#0011-00:40:22.483",
+    "L4_frame": "S3#0010-56288_S3#0011-58081",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Counting",
+        "Options": "A. All of them\nB. 4\nC. 2\nD. 0\nE. 3\nF. 1",
+        "Question": "When the scouting party discussed the occupant of the isolated house, how many members of the party confirmed they had previously seen the man on surveillance footage?"
+      }
+    ]
+  },
+  "1987": {
+    "L2_time": "S3#0011-00:19:06.583_S3#0011-00:20:23.326",
+    "L2_frame": "S3#0011-27490_S3#0011-29330",
+    "L3_time": "S3#0011-00:19:06.583_S3#0011-00:29:38.006",
+    "L3_frame": "S3#0011-27490_S3#0011-42629",
+    "L4_time": "S3#0010-00:39:07.700_S3#0011-00:40:22.483",
+    "L4_frame": "S3#0010-56288_S3#0011-58081",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Hugo Hurley Reyes\nB. Sun-Hwa Kwon\nC. Sayid Jarrah\nD. James Sawyer Ford\nE. Kate Austen\nF. Mikhail Bakunin\nG. Nikki Fernandez",
+        "Question": "In the Dharma station, after Mikhail offers them refreshments, who makes the sly observation about how long it has been since they have seen ice?"
+      }
+    ]
+  },
+  "1988": {
+    "L2_time": "S3#0011-00:20:23.368_S3#0011-00:21:14.795",
+    "L2_frame": "S3#0011-29331_S3#0011-30564",
+    "L3_time": "S3#0011-00:19:06.583_S3#0011-00:29:38.006",
+    "L3_frame": "S3#0011-27490_S3#0011-42629",
+    "L4_time": "S3#0010-00:39:07.700_S3#0011-00:40:22.483",
+    "L4_frame": "S3#0010-56288_S3#0011-58081",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Recipient",
+        "Options": "A. Sayid Jarrah\nB. The person who owned the sailboat\nC. A Dharma station worker\nD. Mikhail Bakunin\nE. Kate Austen\nF. An ally of Sayid's",
+        "Question": "During the brutal fight that erupts in the cluttered room of the Dharma station, who is slammed onto the concrete floor and left bloodied?"
+      }
+    ]
+  },
+  "2022": {
+    "L2_time": "S3#0012-00:23:33.224_S3#0012-00:24:45.005",
+    "L2_frame": "S3#0012-33883_S3#0012-35604",
+    "L3_time": "S3#0012-00:22:11.017_S3#0012-00:28:29.479",
+    "L3_frame": "S3#0012-31912_S3#0012-40986",
+    "L4_time": "S3#0011-00:40:22.524_S3#0012-00:35:39.575",
+    "L4_frame": "S3#0011-58082_S3#0012-51298",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Call for a specialist\nB. Tell Claire the truth\nC. Stop being so angry\nD. Forgive him\nE. Go get some coffee\nF. Let him speak to Claire alone\nG. Respect Carole's wishes",
+        "Question": "As the scene ends in unresolved tension, Christian deflects Lindsey's command for him to leave. What does he calmly urge Lindsey to do instead?"
+      }
+    ]
+  },
+  "2037": {
+    "L2_time": "S3#0013-00:01:18.516_S3#0013-00:01:41.164",
+    "L2_frame": "S3#0013-01882_S3#0013-02425",
+    "L3_time": "S3#0013-00:01:18.516_S3#0013-00:05:21.717",
+    "L3_frame": "S3#0013-01882_S3#0013-07713",
+    "L4_time": "S3#0012-00:35:39.617_S3#0013-00:37:53.167",
+    "L4_frame": "S3#0012-51299_S3#0013-54501",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. She spills coffee on it.\nB. She reviews it.\nC. She shreds it.\nD. She hands it to John Locke.\nE. She closes it and puts it away.\nF. She adds new pages to it.",
+        "Question": "During the disability assessment, what specific action does Tamara Fry take with John Locke's file while questioning him about his therapy bills?"
+      }
+    ]
+  },
+  "2059": {
+    "L2_time": "S3#0013-00:33:53.844_S3#0013-00:34:59.118",
+    "L2_frame": "S3#0013-48763_S3#0013-50328",
+    "L3_time": "S3#0013-00:31:14.310_S3#0013-00:37:53.167",
+    "L3_frame": "S3#0013-44938_S3#0013-54501",
+    "L4_time": "S3#0012-00:35:39.617_S3#0013-00:37:53.167",
+    "L4_frame": "S3#0012-51299_S3#0013-54501",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Counting",
+        "Options": "A. An unspecified number\nB. 0\nC. 3\nD. 1\nE. 2\nF. 4",
+        "Question": "In the scene inside apartment 3801, how many people does John Locke accuse his father of having killed?"
+      }
+    ]
+  },
+  "2069": {
+    "L2_time": "S3#0014-00:05:38.526_S3#0014-00:06:34.874",
+    "L2_frame": "S3#0014-08116_S3#0014-09467",
+    "L3_time": "S3#0014-00:02:56.698_S3#0014-00:08:41.250",
+    "L3_frame": "S3#0014-04236_S3#0014-12497",
+    "L4_time": "S3#0013-00:37:53.209_S3#0014-00:19:54.172",
+    "L4_frame": "S3#0013-54502_S3#0014-28631",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. Yes, 3 people present vs 2 wearing pajamas\nB. No, 2 people present vs 2 wearing pajamas",
+        "Question": "In the richly lit dining room, is the number of people present before Paulo enters greater than the number of people who are explicitly described as wearing pajamas?"
+      }
+    ]
+  },
+  "2073": {
+    "L2_time": "S3#0014-00:10:04.750_S3#0014-00:11:21.535",
+    "L2_frame": "S3#0014-14499_S3#0014-16340",
+    "L3_time": "S3#0014-00:08:41.292_S3#0014-00:14:30.057",
+    "L3_frame": "S3#0014-12498_S3#0014-20860",
+    "L4_time": "S3#0013-00:37:53.209_S3#0014-00:19:54.172",
+    "L4_frame": "S3#0013-54502_S3#0014-28631",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. An unnamed Survivor\nB. Nikki Fernandez\nC. Paulo\nD. John Locke\nE. Leslie\nF. Boone Carlyle",
+        "Question": "When Nikki found Leslie injured on the beach, who was it that gripped her hand and asked if they had survived the crash?"
+      }
+    ]
+  },
+  "2084": {
+    "L2_time": "S3#0014-00:21:58.672_S3#0014-00:22:50.515",
+    "L2_frame": "S3#0014-31616_S3#0014-32859",
+    "L3_time": "S3#0014-00:19:54.214_S3#0014-00:24:45.338",
+    "L3_frame": "S3#0014-28632_S3#0014-35612",
+    "L4_time": "S3#0014-00:19:54.214_S3#0014-00:41:39.143",
+    "L4_frame": "S3#0014-28632_S3#0014-59919",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. He stood silently next to Jin\nB. He tried to reassure the group that the Others were not nearby\nC. He watched Charlie thoughtfully\nD. He suggested they cover the bodies\nE. He helped lay the bodies on the blanket\nF. He argued with Sawyer about the gun",
+        "Question": "In the sequence of events in the jungle clearing, what did Hurley do just before Sun gave her harrowing account of being kidnapped?"
+      }
+    ]
+  },
+  "2094": {
+    "L2_time": "S3#0014-00:33:28.778_S3#0014-00:34:25.376",
+    "L2_frame": "S3#0014-48162_S3#0014-49519",
+    "L3_time": "S3#0014-00:30:29.849_S3#0014-00:34:25.376",
+    "L3_frame": "S3#0014-43872_S3#0014-49519",
+    "L4_time": "S3#0014-00:19:54.214_S3#0014-00:41:39.143",
+    "L4_frame": "S3#0014-28632_S3#0014-59919",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Character Clothing",
+        "Options": "A. Green cargo shorts\nB. White linen shorts\nC. Blue denim shorts\nD. Plaid Bermuda shorts\nE. Light-colored athletic shorts\nF. Dark shorts",
+        "Question": "In the same beach scene, when Nikki finds the gum pack, what kind of shorts is she wearing?"
+      }
+    ]
+  },
+  "2129": {
+    "L2_time": "S3#0016-00:03:07.750_S3#0016-00:05:11.165",
+    "L2_frame": "S3#0016-04501_S3#0016-07460",
+    "L3_time": "S3#0016-00:02:08.900_S3#0016-00:08:35.286",
+    "L3_frame": "S3#0016-03090_S3#0016-12354",
+    "L4_time": "S3#0015-00:00:00.000_S3#0016-00:25:45.857",
+    "L4_frame": "S3#0015-00000_S3#0016-37063",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. Rachel received a text message.\nB. Dr. Ethan Rom interrupted their conversation.\nC. Juliet drove through the gate.\nD. Richard Alpert greeted them.\nE. The security guard asked them to move forward.\nF. Juliet said she would never be like them.",
+        "Question": "During the arrival at Mittelos Bioscience, what happened right after Rachel made her wry comment about surveillance?"
+      }
+    ]
+  },
+  "2144": {
+    "L2_time": "S3#0016-00:27:03.643_S3#0016-00:29:21.281",
+    "L2_frame": "S3#0016-38928_S3#0016-42228",
+    "L3_time": "S3#0016-00:25:45.899_S3#0016-00:36:10.147",
+    "L3_frame": "S3#0016-37064_S3#0016-52031",
+    "L4_time": "S3#0016-00:25:45.899_S3#0017-00:27:10.942",
+    "L4_frame": "S3#0016-37064_S3#0017-39103",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Character Clothing",
+        "Options": "A. Black-and-white checkered\nB. Orange paisley\nC. Purple polka-dotted\nD. Solid navy blue\nE. Red-and-white patterned\nF. Blue-and-yellow striped\nG. Green floral",
+        "Question": "When Dr. Juliet Burke arrives at Ben's door clutching a manila folder with devastating news, what is the distinct pattern of the blouse she is wearing?"
+      }
+    ]
+  },
+  "2145": {
+    "L2_time": "S3#0016-00:29:21.322_S3#0016-00:30:17.462",
+    "L2_frame": "S3#0016-42229_S3#0016-43575",
+    "L3_time": "S3#0016-00:25:45.899_S3#0016-00:36:10.147",
+    "L3_frame": "S3#0016-37064_S3#0016-52031",
+    "L4_time": "S3#0016-00:25:45.899_S3#0017-00:27:10.942",
+    "L4_frame": "S3#0016-37064_S3#0017-39103",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Counting",
+        "Options": "A. 5\nB. 2\nC. The number is not specified\nD. 3\nE. A series of symbols\nF. 1\nG. 0",
+        "Question": "When Juliet is digging at the base of the ancient tree, how many carved symbols are described as being etched into its trunk?"
+      }
+    ]
+  },
+  "2179": {
+    "L2_time": "S3#0017-00:28:12.545_S3#0017-00:28:42.951",
+    "L2_frame": "S3#0017-40580_S3#0017-41309",
+    "L3_time": "S3#0017-00:27:10.984_S3#0017-00:30:07.744",
+    "L3_frame": "S3#0017-39104_S3#0017-43342",
+    "L4_time": "S3#0017-00:27:10.984_S3#0018-00:42:19.933",
+    "L4_frame": "S3#0017-39104_S3#0018-60897",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Body Movement",
+        "Options": "A. He activates the phone\nB. He gives it back to Desmond\nC. He shakes it vigorously\nD. He throws it against a tree\nE. He tries to take it apart\nF. He hides it in his pocket\nG. He uses it to hit a rock",
+        "Question": "After the satellite phone is identified and handed to Hugo in the jungle, what is the first action he takes with the device?"
+      }
+    ]
+  },
+  "2181": {
+    "L2_time": "S3#0017-00:29:31.374_S3#0017-00:30:07.744",
+    "L2_frame": "S3#0017-42470_S3#0017-43342",
+    "L3_time": "S3#0017-00:27:10.984_S3#0017-00:30:07.744",
+    "L3_frame": "S3#0017-39104_S3#0017-43342",
+    "L4_time": "S3#0017-00:27:10.984_S3#0018-00:42:19.933",
+    "L4_frame": "S3#0017-39104_S3#0018-60897",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. James calls her 'Freckles'\nB. James's demeanor softens into teasing\nC. James grows serious and confronts her\nD. James gives her instructions about Bernard\nE. The camera transitions to a view of the island\nF. Kate dismisses an accusation as absurd",
+        "Question": "During the conversation on the beach, what event immediately follows Kate warmly thanking James?"
+      }
+    ]
+  },
+  "2198": {
+    "L2_time": "S3#0018-00:10:38.284_S3#0018-00:11:42.848",
+    "L2_frame": "S3#0018-15303_S3#0018-16851",
+    "L3_time": "S3#0018-00:10:38.284_S3#0018-00:20:19.531",
+    "L3_frame": "S3#0018-15303_S3#0018-29239",
+    "L4_time": "S3#0017-00:27:10.984_S3#0018-00:42:19.933",
+    "L4_frame": "S3#0017-39104_S3#0018-60897",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. Mikhail emerged from the jungle.\nB. He tried to treat Naomi's wound himself.\nC. He showed the group the photograph.\nD. Charlie apologized to him.\nE. Hurley told everyone to calm down.\nF. He attempted to leave the scene.",
+        "Question": "In the jungle, what happened immediately after Desmond proclaimed that he understood the situation better than anyone and had wasted enough time?"
+      }
+    ]
+  },
+  "2235": {
+    "L2_time": "S3#0019-00:17:11.885_S3#0019-00:19:13.173",
+    "L2_frame": "S3#0019-24740_S3#0019-27648",
+    "L3_time": "S3#0019-00:14:11.872_S3#0019-00:23:59.793",
+    "L3_frame": "S3#0019-20424_S3#0019-34520",
+    "L4_time": "S3#0019-00:00:00.000_S3#0020-00:02:55.697",
+    "L4_frame": "S3#0019-00000_S3#0020-04212",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Scene and Location",
+        "Options": "A. Pine trees\nB. Colorful tropical flowers\nC. Large palm trees\nD. Lush ferns\nE. Thorny bushes\nF. Tall bamboo stalks\nG. Hanging vines",
+        "Question": "What type of vegetation is specifically mentioned as surrounding the tranquil stream where Locke and Sawyer stop?"
+      }
+    ]
+  },
+  "2284": {
+    "L2_time": "S3#0021-00:06:11.475_S3#0021-00:07:28.803",
+    "L2_frame": "S3#0021-08906_S3#0021-10760",
+    "L3_time": "S3#0021-00:06:11.475_S3#0021-00:13:06.390",
+    "L3_frame": "S3#0021-08906_S3#0021-18854",
+    "L4_time": "S3#0021-00:00:00.000_S3#0022-00:06:15.771",
+    "L4_frame": "S3#0021-00000_S3#0022-09009",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Sayid Jarrah\nB. Desmond Hume\nC. Danielle Rousseau\nD. Dr. Jack Shephard\nE. Naomi Dorrit\nF. Dr. Juliet Burke",
+        "Question": "In the conversation about the need for more supplies for the jungle traps, who confirms that the operation will be ready within twenty-four hours?"
+      }
+    ]
+  },
+  "2289": {
+    "L2_time": "S3#0021-00:13:06.432_S3#0021-00:13:58.525",
+    "L2_frame": "S3#0021-18855_S3#0021-20104",
+    "L3_time": "S3#0021-00:13:06.432_S3#0021-00:16:47.945",
+    "L3_frame": "S3#0021-18855_S3#0021-24166",
+    "L4_time": "S3#0021-00:00:00.000_S3#0022-00:06:15.771",
+    "L4_frame": "S3#0021-00000_S3#0022-09009",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Charlie Pace\nB. Sayid Jarrah\nC. Ben Linus\nD. Jack\nE. Claire Littleton\nF. Hugo\nG. Desmond Hume",
+        "Question": "During the campfire discussion about the Looking Glass, which character is specifically described as challenging Juliet's account and expressing skepticism?"
+      }
+    ]
+  },
+  "229": {
+    "L2_time": "S1#0007-00:31:08.262_S1#0007-00:34:07.942",
+    "L2_frame": "S1#0007-44793_S1#0007-49101",
+    "L3_time": "S1#0007-00:31:08.262_S1#0007-00:37:37.735",
+    "L3_frame": "S1#0007-44793_S1#0007-54131",
+    "L4_time": "S1#0006-00:39:16.542_S1#0007-00:42:35.699",
+    "L4_frame": "S1#0006-56500_S1#0007-61275",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Event Background",
+        "Options": "A. Sydney\nB. Los Angeles\nC. New York\nD. London\nE. Tokyo",
+        "Question": "In which city is the first show of the tour supposed to take place, according to Charlie, as mentioned in the video?"
+      }
+    ]
+  },
+  "2290": {
+    "L2_time": "S3#0021-00:13:58.567_S3#0021-00:14:34.561",
+    "L2_frame": "S3#0021-20105_S3#0021-20968",
+    "L3_time": "S3#0021-00:13:06.432_S3#0021-00:16:47.945",
+    "L3_frame": "S3#0021-18855_S3#0021-24166",
+    "L4_time": "S3#0021-00:00:00.000_S3#0022-00:06:15.771",
+    "L4_frame": "S3#0021-00000_S3#0022-09009",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Counting",
+        "Options": "A. 2\nB. 1\nC. 4\nD. 3\nE. 6\nF. 5",
+        "Question": "During the tense strategy meeting on the beach at dusk where Sayid explains the plan for the Looking Glass station, how many individual characters are explicitly identified by their full or first names?"
+      }
+    ]
+  },
+  "2296": {
+    "L2_time": "S3#0021-00:20:25.162_S3#0021-00:21:31.394",
+    "L2_frame": "S3#0021-29374_S3#0021-30962",
+    "L3_time": "S3#0021-00:16:47.986_S3#0021-00:21:31.394",
+    "L3_frame": "S3#0021-24167_S3#0021-30962",
+    "L4_time": "S3#0021-00:00:00.000_S3#0022-00:06:15.771",
+    "L4_frame": "S3#0021-00000_S3#0022-09009",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. A submachine gun\nB. A flare gun\nC. A shotgun\nD. A pistol\nE. A rifle\nF. A revolver",
+        "Question": "In the plan to defend the beach camp, what specific type of firearm does Karl Martin contribute?"
+      }
+    ]
+  },
+  "230": {
+    "L2_time": "S1#0007-00:34:07.984_S1#0007-00:35:30.024",
+    "L2_frame": "S1#0007-49102_S1#0007-51069",
+    "L3_time": "S1#0007-00:31:08.262_S1#0007-00:37:37.735",
+    "L3_frame": "S1#0007-44793_S1#0007-54131",
+    "L4_time": "S1#0006-00:39:16.542_S1#0007-00:42:35.699",
+    "L4_frame": "S1#0006-56500_S1#0007-61275",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. 'Listen'\nB. 'Wait'\nC. 'Look'\nD. 'There's'\nE. 'Jack'\nF. 'What'\nG. 'Help'",
+        "Question": "What is the first word Charlie whispers when his focus abruptly shifts from his confession to the creature on the wall?"
+      }
+    ]
+  },
+  "2339": {
+    "L2_time": "S3#0022-00:32:46.110_S3#0022-00:33:55.972",
+    "L2_frame": "S3#0022-47139_S3#0022-48814",
+    "L3_time": "S3#0022-00:32:46.110_S3#0022-00:40:07.760",
+    "L3_frame": "S3#0022-47139_S3#0022-57728",
+    "L4_time": "S3#0022-00:06:15.813_S3#0022-00:40:07.760",
+    "L4_frame": "S3#0022-09010_S3#0022-57728",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Ben\nB. Bonnie\nC. The person behind the grate\nD. Mikhail Bakunin\nE. Greta\nF. Charlie",
+        "Question": "When Mikhail Bakunin surfaces and asks about a second person, who explains that he had been shooting at Charlie's now-missing companion?"
+      }
+    ]
+  },
+  "2341": {
+    "L2_time": "S3#0022-00:35:05.041_S3#0022-00:35:54.298",
+    "L2_frame": "S3#0022-50470_S3#0022-51651",
+    "L3_time": "S3#0022-00:32:46.110_S3#0022-00:40:07.760",
+    "L3_frame": "S3#0022-47139_S3#0022-57728",
+    "L4_time": "S3#0022-00:06:15.813_S3#0022-00:40:07.760",
+    "L4_frame": "S3#0022-09010_S3#0022-57728",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Distinctive Features",
+        "Options": "A. Angry and demanding\nB. Calm and reassuring\nC. Distressed and seeking help\nD. Confused and lost",
+        "Question": "At the very beginning of his communication with Mikhail from the jungle, what is Ben Linus's initial tone when he mentions fixing a mistake?"
+      }
+    ]
+  },
+  "2349": {
+    "L2_time": "S3#0023-00:01:58.681_S3#0023-00:02:50.942",
+    "L2_frame": "S3#0023-02845_S3#0023-04098",
+    "L3_time": "S3#0022-00:40:07.801_S3#0023-00:02:50.942",
+    "L3_frame": "S3#0022-57729_S3#0023-04098",
+    "L4_time": "S3#0022-00:40:07.801_S3#0023-00:42:21.226",
+    "L4_frame": "S3#0022-57729_S3#0023-60928",
+    "L5_time": "S3#0001-00:00:00.000_S3#0023-00:42:21.226",
+    "L5_frame": "S3#0001-00000_S3#0023-60928",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. He informs Jack that nobody came to the viewing.\nB. He adjusts the flowers in the vase.\nC. He withdraws from the room.\nD. He offers Jack his condolences.\nE. He offers to open the coffin.\nF. He asks Jack if he is a friend or family.",
+        "Question": "In the funeral parlor, what does the funeral director do immediately after setting the silver vase on a stand near the coffin?"
+      }
+    ]
+  },
+  "2378": {
+    "L2_time": "S4#0001-00:00:49.654_S4#0001-00:01:59.932",
+    "L2_frame": "S4#0001-01190_S4#0001-02875",
+    "L3_time": "S4#0001-00:00:00.000_S4#0001-00:04:27.496",
+    "L3_frame": "S4#0001-00000_S4#0001-06413",
+    "L4_time": "S4#0001-00:00:00.000_S4#0002-00:12:52.792",
+    "L4_frame": "S4#0001-00000_S4#0002-18528",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Event Background",
+        "Options": "A. A bottle opener\nB. A fruit bowl\nC. A coffee mug\nD. A plate of food\nE. A glass of ice\nF. A cutting board",
+        "Question": "In the apartment kitchen, what item is placed next to the bottle of 'NO PULP' orange juice and the keys?"
+      }
+    ]
+  },
+  "2379": {
+    "L2_time": "S4#0001-00:01:59.974_S4#0001-00:03:02.203",
+    "L2_frame": "S4#0001-02876_S4#0001-04368",
+    "L3_time": "S4#0001-00:00:00.000_S4#0001-00:04:27.496",
+    "L3_frame": "S4#0001-00000_S4#0001-06413",
+    "L4_time": "S4#0001-00:00:00.000_S4#0002-00:12:52.792",
+    "L4_frame": "S4#0001-00000_S4#0002-18528",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Appearance",
+        "Options": "A. Green\nB. Blue\nC. Silver\nD. Brown\nE. White\nF. Black\nG. Red",
+        "Question": "After the red sedan becomes airborne and crashes through a chain-link fence at the intersection, what is the color of the parked van it violently collides with?"
+      }
+    ]
+  },
+  "2397": {
+    "L2_time": "S4#0001-00:21:56.794_S4#0001-00:23:27.384",
+    "L2_frame": "S4#0001-31571_S4#0001-33743",
+    "L3_time": "S4#0001-00:19:37.363_S4#0001-00:27:32.003",
+    "L3_frame": "S4#0001-28228_S4#0001-39608",
+    "L4_time": "S4#0001-00:00:00.000_S4#0002-00:12:52.792",
+    "L4_frame": "S4#0001-00000_S4#0002-18528",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Action Recipient",
+        "Options": "A. Her own rescue team\nB. George Minkowski from bad news\nC. Her sister from worry\nD. Herself from disciplinary action\nE. John Locke exclusively\nF. The island's other inhabitants\nG. Kate's group",
+        "Question": "During the phone call, after Naomi explained her parachute injury, who was she trying to protect by claiming they were afraid to tell the truth?"
+      }
+    ]
+  },
+  "2411": {
+    "L2_time": "S4#0001-00:41:59.953_S4#0001-00:42:22.267",
+    "L2_frame": "S4#0001-60418_S4#0001-60953",
+    "L3_time": "S4#0001-00:38:05.052_S4#0002-00:00:50.530",
+    "L3_frame": "S4#0001-54786_S4#0002-01211",
+    "L4_time": "S4#0001-00:00:00.000_S4#0002-00:12:52.792",
+    "L4_frame": "S4#0001-00000_S4#0002-18528",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Counting",
+        "Options": "A. 2\nB. 3\nC. 4\nD. 1\nE. 0\nF. 5",
+        "Question": "During the tense encounter in the jungle clearing amidst the storm, how many of the characters are explicitly described as wearing some form of headgear?"
+      }
+    ]
+  },
+  "2427": {
+    "L2_time": "S4#0002-00:14:54.956_S4#0002-00:16:27.382",
+    "L2_frame": "S4#0002-21457_S4#0002-23673",
+    "L3_time": "S4#0002-00:12:52.834_S4#0002-00:17:06.129",
+    "L3_frame": "S4#0002-18529_S4#0002-24602",
+    "L4_time": "S4#0002-00:12:52.834_S4#0003-00:09:21.498",
+    "L4_frame": "S4#0002-18529_S4#0003-13462",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Appearance",
+        "Options": "A. A blue fabric satchel\nB. A white cardboard shoebox\nC. A locked metal box\nD. A black velvet pouch\nE. A crumpled brown paper bag\nF. A sealed plastic container\nG. A wooden cigar box",
+        "Question": "When Miles follows the psychic guidance to the shelving unit and retrieves a hidden item, what is the specific appearance of the container he finds?"
+      }
+    ]
+  },
+  "244": {
+    "L2_time": "S1#0008-00:07:55.371_S1#0008-00:08:55.806",
+    "L2_frame": "S1#0008-11397_S1#0008-12846",
+    "L3_time": "S1#0008-00:06:55.603_S1#0008-00:14:31.350",
+    "L3_frame": "S1#0008-09964_S1#0008-20891",
+    "L4_time": "S1#0008-00:00:00.000_S1#0008-00:37:31.437",
+    "L4_frame": "S1#0008-00000_S1#0008-53980",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Body Movement",
+        "Options": "A. Reading a book\nB. Packing his suitcase\nC. Getting dressed\nD. Looking out the window\nE. Making a phone call\nF. Sitting on the bed and crying\nG. Making the bed",
+        "Question": "In the bedroom scene, while Sawyer is initially trying to reassure Jessica about his trip, what is he doing?"
+      }
+    ]
+  },
+  "2473": {
+    "L2_time": "S4#0003-00:25:52.487_S4#0003-00:26:50.253",
+    "L2_frame": "S4#0003-37222_S4#0003-38607",
+    "L3_time": "S4#0003-00:23:56.080_S4#0003-00:27:28.458",
+    "L3_frame": "S4#0003-34431_S4#0003-39523",
+    "L4_time": "S4#0003-00:09:21.540_S4#0004-00:02:19.702",
+    "L4_frame": "S4#0003-13463_S4#0004-03349",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Textual Content",
+        "Options": "A. 1968\nB. 1962\nC. 1960\nD. 1964\nE. 1958\nF. 1970\nG. 1966",
+        "Question": "When Sayid Jarrah is inspecting the documents in the house, what specific year of birth is listed on the Swiss passport bearing Ben Linus's photograph?"
+      }
+    ]
+  },
+  "2479": {
+    "L2_time": "S4#0003-00:32:38.351_S4#0003-00:34:24.498",
+    "L2_frame": "S4#0003-46953_S4#0003-49498",
+    "L3_time": "S4#0003-00:27:28.500_S4#0003-00:36:03.723",
+    "L3_frame": "S4#0003-39524_S4#0003-51877",
+    "L4_time": "S4#0003-00:09:21.540_S4#0004-00:02:19.702",
+    "L4_frame": "S4#0003-13463_S4#0004-03349",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Counting",
+        "Options": "A. 3\nB. 0\nC. 4\nD. 5\nE. 1\nF. 2",
+        "Question": "How many items of clothing does Elsa put on when she picks up the ringing object after getting out of bed?"
+      }
+    ]
+  },
+  "2485": {
+    "L2_time": "S4#0003-00:39:45.319_S4#0003-00:40:31.949",
+    "L2_frame": "S4#0003-57190_S4#0003-58308",
+    "L3_time": "S4#0003-00:36:03.764_S4#0003-00:40:31.949",
+    "L3_frame": "S4#0003-51878_S4#0003-58308",
+    "L4_time": "S4#0003-00:09:21.540_S4#0004-00:02:19.702",
+    "L4_frame": "S4#0003-13463_S4#0004-03349",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Spatial Location",
+        "Options": "A. On the floor in front of him\nB. On a door to the left\nC. On a desk to the right\nD. Hanging on the wall to the left of the corridor\nE. On the side of a cage\nF. On the far wall at the intersection",
+        "Question": "In the second scene, after Sayid enters the facility, a sign is visible. Where is this sign, which reads 'OPERATIONS HALL', positioned?"
+      }
+    ]
+  },
+  "2490": {
+    "L2_time": "S4#0004-00:02:19.744_S4#0004-00:03:16.217",
+    "L2_frame": "S4#0004-03350_S4#0004-04704",
+    "L3_time": "S4#0004-00:02:19.744_S4#0004-00:06:22.820",
+    "L3_frame": "S4#0004-03350_S4#0004-09178",
+    "L4_time": "S4#0004-00:02:19.744_S4#0004-00:42:18.263",
+    "L4_frame": "S4#0004-03350_S4#0004-60857",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Character Change",
+        "Options": "A. From confused to certain\nB. From scared to brave\nC. It remains completely blank\nD. From angry to joyful\nE. From sad to amused\nF. From composed to angry",
+        "Question": "As John Locke walks down the dark corridor after leaving Ben's cell, how does his expression transform?"
+      }
+    ]
+  },
+  "2503": {
+    "L2_time": "S4#0004-00:17:50.673_S4#0004-00:19:14.548",
+    "L2_frame": "S4#0004-25670_S4#0004-27681",
+    "L3_time": "S4#0004-00:14:41.985_S4#0004-00:19:14.548",
+    "L3_frame": "S4#0004-21146_S4#0004-27681",
+    "L4_time": "S4#0004-00:02:19.744_S4#0004-00:42:18.263",
+    "L4_frame": "S4#0004-03350_S4#0004-60857",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. He comments on the wine's quality\nB. He calls her 'Freckles'\nC. He starts pouring wine\nD. He asks her to sit on the counter\nE. He asks if she wants to use him\nF. He opens the white cabinet",
+        "Question": "During the conversation in the kitchen, what does James do immediately after Kate mentions that the baby Aaron is a good sleeper?"
+      }
+    ]
+  },
+  "2506": {
+    "L2_time": "S4#0004-00:21:12.208_S4#0004-00:21:51.038",
+    "L2_frame": "S4#0004-30502_S4#0004-31433",
+    "L3_time": "S4#0004-00:19:14.590_S4#0004-00:30:22.757",
+    "L3_frame": "S4#0004-27682_S4#0004-43702",
+    "L4_time": "S4#0004-00:02:19.744_S4#0004-00:42:18.263",
+    "L4_frame": "S4#0004-03350_S4#0004-60857",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. A pool of blood\nB. Discarded ropes\nC. A set of keys\nD. A written note",
+        "Question": "Inside the boathouse, after Sawyer and Locke enter, what do their flashlight beams ultimately reveal on an empty chair?"
+      }
+    ]
+  },
+  "2533": {
+    "L2_time": "S4#0005-00:15:19.063_S4#0005-00:16:25.505",
+    "L2_frame": "S4#0005-22035_S4#0005-23628",
+    "L3_time": "S4#0005-00:10:25.312_S4#0005-00:16:25.505",
+    "L3_frame": "S4#0005-14992_S4#0005-23628",
+    "L4_time": "S4#0005-00:00:00.000_S4#0005-00:42:23.101",
+    "L4_frame": "S4#0005-00000_S4#0005-60973",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Position Comparison",
+        "Options": "A. Doctor Ray\nB. Frank Lapidus\nC. Daniel Faraday\nD. Desmond Hume\nE. Sayid Jarrah\nF. Penelope Widmore",
+        "Question": "In the sickbay, who is the character that physically brings the satellite phone into the room?"
+      }
+    ]
+  },
+  "2544": {
+    "L2_time": "S4#0005-00:29:54.354_S4#0005-00:32:15.495",
+    "L2_frame": "S4#0005-43021_S4#0005-46405",
+    "L3_time": "S4#0005-00:23:59.958_S4#0005-00:32:15.495",
+    "L3_frame": "S4#0005-34524_S4#0005-46405",
+    "L4_time": "S4#0005-00:00:00.000_S4#0005-00:42:23.101",
+    "L4_frame": "S4#0005-00000_S4#0005-60973",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Position Comparison",
+        "Options": "A. Standing behind the auctioneer's podium.\nB. In the corridor outside the auction room.\nC. In the back of the room on the phone.\nD. Next to the woman in the black-and-white dress.\nE. Seated in the front row next to Widmore.\nF. Near the doorway of the auction room.",
+        "Question": "During the auction, where is Desmond Hume positioned when he first attempts to approach Charles Widmore?"
+      }
+    ]
+  },
+  "2560": {
+    "L2_time": "S4#0006-00:07:21.962_S4#0006-00:08:15.349",
+    "L2_frame": "S4#0006-10596_S4#0006-11876",
+    "L3_time": "S4#0006-00:07:21.962_S4#0006-00:13:06.181",
+    "L3_frame": "S4#0006-10596_S4#0006-18849",
+    "L4_time": "S4#0006-00:00:00.000_S4#0007-00:03:27.144",
+    "L4_frame": "S4#0006-00000_S4#0007-04966",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Goodwin shows burn -> Goodwin recognizes her -> Juliet asks if he is okay\nB. Juliet asks if he is okay -> Goodwin shows burn -> Goodwin recognizes her\nC. Goodwin shows burn -> Juliet asks if he is okay -> Goodwin recognizes her\nD. Juliet asks if he is okay -> Goodwin recognizes her -> Goodwin shows burn\nE. Goodwin recognizes her -> Juliet asks if he is okay -> Goodwin shows burn\nF. Goodwin recognizes her -> Goodwin shows burn -> Juliet asks if he is okay",
+        "Question": "In the flashback, what is the order in which these three things happen: Goodwin shows his blistered burn, Juliet asks if he is okay, Goodwin recognizes her as the 'pediatric doctor'?"
+      }
+    ]
+  },
+  "2576": {
+    "L2_time": "S4#0006-00:29:59.401_S4#0006-00:31:17.979",
+    "L2_frame": "S4#0006-43142_S4#0006-45026",
+    "L3_time": "S4#0006-00:23:05.112_S4#0006-00:31:17.979",
+    "L3_frame": "S4#0006-33209_S4#0006-45026",
+    "L4_time": "S4#0006-00:00:00.000_S4#0007-00:03:27.144",
+    "L4_frame": "S4#0006-00000_S4#0007-04966",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Appearance",
+        "Options": "A. Blue\nB. Red\nC. Green\nD. Black\nE. White\nF. Gold",
+        "Question": "What color is the tablecloth on the elegantly set dining table in Ben's home?"
+      }
+    ]
+  },
+  "26": {
+    "L2_time": "S1#0001-00:28:30.188_S1#0001-00:29:33.209",
+    "L2_frame": "S1#0001-41003_S1#0001-42514",
+    "L3_time": "S1#0001-00:23:13.705_S1#0001-00:29:33.209",
+    "L3_frame": "S1#0001-33415_S1#0001-42514",
+    "L4_time": "S1#0001-00:00:00.000_S1#0002-00:03:50.960",
+    "L4_frame": "S1#0001-00000_S1#0002-05537",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Event Background",
+        "Options": "A. A black leather jacket\nB. A white and blue checkered shirt\nC. A dark grey hoodie\nD. He was shirtless.\nE. A light purple shirt\nF. A sleeveless tank top",
+        "Question": "When John Locke was seen on the beach embracing the storm, what was he wearing on his upper body?"
+      }
+    ]
+  },
+  "2602": {
+    "L2_time": "S4#0007-00:23:03.235_S4#0007-00:23:50.657",
+    "L2_frame": "S4#0007-33164_S4#0007-34301",
+    "L3_time": "S4#0007-00:23:03.235_S4#0007-00:27:52.232",
+    "L3_frame": "S4#0007-33164_S4#0007-40093",
+    "L4_time": "S4#0007-00:03:27.186_S4#0007-00:27:52.232",
+    "L4_frame": "S4#0007-04967_S4#0007-40093",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Counting",
+        "Options": "A. Two\nB. Four\nC. Three\nD. Five\nE. One\nF. The entire crew",
+        "Question": "After Ray delivers the message from the captain in the sickbay, how many people does he lead through the 'Restricted Area' door?"
+      }
+    ]
+  },
+  "2671": {
+    "L2_time": "S4#0009-00:23:52.451_S4#0009-00:24:54.680",
+    "L2_frame": "S4#0009-34344_S4#0009-35836",
+    "L3_time": "S4#0009-00:19:54.714_S4#0009-00:27:45.475",
+    "L3_frame": "S4#0009-28644_S4#0009-39931",
+    "L4_time": "S4#0009-00:03:42.785_S4#0009-00:34:12.695",
+    "L4_frame": "S4#0009-05341_S4#0009-49215",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Body Movement",
+        "Options": "A. He disappears into the jungle\nB. He checks her pulse\nC. He signals to his team\nD. He reports back on his radio\nE. He reloads his weapon\nF. He stands over her body triumphantly\nG. He shouts a warning to Ben",
+        "Question": "Immediately after executing Alex in the sunlit clearing, what does Martin Keamy do?"
+      }
+    ]
+  },
+  "2677": {
+    "L2_time": "S4#0009-00:32:12.200_S4#0009-00:33:00.289",
+    "L2_frame": "S4#0009-46326_S4#0009-47479",
+    "L3_time": "S4#0009-00:27:45.517_S4#0009-00:34:12.695",
+    "L3_frame": "S4#0009-39932_S4#0009-49215",
+    "L4_time": "S4#0009-00:03:42.785_S4#0009-00:34:12.695",
+    "L4_frame": "S4#0009-05341_S4#0009-49215",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Character Motivation",
+        "Options": "A. Hope\nB. Anger\nC. Skepticism\nD. Sadness\nE. Impatience\nF. Indifference\nG. Fear",
+        "Question": "As Kate Austen watched Dr. Faraday work on the device in the shelter, before the message was sent, what was her dominant emotion?"
+      }
+    ]
+  },
+  "2678": {
+    "L2_time": "S4#0009-00:33:00.331_S4#0009-00:34:12.695",
+    "L2_frame": "S4#0009-47480_S4#0009-49215",
+    "L3_time": "S4#0009-00:27:45.517_S4#0009-00:34:12.695",
+    "L3_frame": "S4#0009-39932_S4#0009-49215",
+    "L4_time": "S4#0009-00:03:42.785_S4#0009-00:34:12.695",
+    "L4_frame": "S4#0009-05341_S4#0009-49215",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. That everyone needed to remain calm\nB. That the Morse code message was a promise of rescue\nC. That the helicopter would return in the morning\nD. That he knew where to find fresh water\nE. That the doctor on the other end was a friend\nF. That he had fixed the radio",
+        "Question": "Before Bernard Nadler stepped forward to expose the lie in the jungle shelter, what specific claim had Dr. Faraday just made to the group?"
+      }
+    ]
+  },
+  "2683": {
+    "L2_time": "S4#0009-00:39:34.558_S4#0009-00:41:59.953",
+    "L2_frame": "S4#0009-56932_S4#0009-60418",
+    "L3_time": "S4#0009-00:34:12.737_S4#0009-00:41:59.953",
+    "L3_frame": "S4#0009-49216_S4#0009-60418",
+    "L4_time": "S4#0009-00:34:12.737_S4#0010-00:42:22.350",
+    "L4_frame": "S4#0009-49216_S4#0010-60955",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Body Movement",
+        "Options": "A. Kneeling on the floor\nB. Adjusting the lamp on the nightstand\nC. Sitting on the edge of the bed\nD. Pacing in front of the bed\nE. Leaning against the wall\nF. Standing over the bed\nG. Pausing in the doorway",
+        "Question": "Just before delivering his final chilling curse to Charles Widmore, what is Ben's position in the bedroom?"
+      }
+    ]
+  },
+  "2698": {
+    "L2_time": "S4#0010-00:14:36.604_S4#0010-00:15:53.723",
+    "L2_frame": "S4#0010-21017_S4#0010-22866",
+    "L3_time": "S4#0010-00:12:24.806_S4#0010-00:19:31.565",
+    "L3_frame": "S4#0010-17857_S4#0010-28089",
+    "L4_time": "S4#0009-00:34:12.737_S4#0010-00:42:22.350",
+    "L4_frame": "S4#0009-49216_S4#0010-60955",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. Jack's discussion with Dr. Stevenson about an x-ray.\nB. Jack approaching the reception desk.\nC. Dr. Stevenson calling out Jack's name.\nD. Jack wishing Mrs. Berenberg a pleasant evening.\nE. Mrs. Berenberg thanking Jack warmly.\nF. Jack walking down the corridor alone.",
+        "Question": "In the scene at the first hospital, what event immediately precedes the receptionist informing Jack about the phone call from Santa Rosa Hospital?"
+      }
+    ]
+  },
+  "2713": {
+    "L2_time": "S4#0010-00:32:31.678_S4#0010-00:33:25.690",
+    "L2_frame": "S4#0010-46793_S4#0010-48088",
+    "L3_time": "S4#0010-00:32:31.678_S4#0010-00:42:22.350",
+    "L3_frame": "S4#0010-46793_S4#0010-60955",
+    "L4_time": "S4#0009-00:34:12.737_S4#0010-00:42:22.350",
+    "L4_frame": "S4#0009-49216_S4#0010-60955",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Counting",
+        "Options": "A. A handful\nB. Two\nC. Three\nD. It is not specified\nE. Four\nF. One\nG. None",
+        "Question": "After Kate leaves the kitchen, how many pharmacy bags does Jack take out of his jacket?"
+      }
+    ]
+  },
+  "2775": {
+    "L2_time": "S4#0012-00:26:34.363_S4#0012-00:27:15.278",
+    "L2_frame": "S4#0012-38226_S4#0012-39207",
+    "L3_time": "S4#0012-00:23:13.746_S4#0012-00:28:52.751",
+    "L3_frame": "S4#0012-33416_S4#0012-41544",
+    "L4_time": "S4#0012-00:23:13.746_S4#0013-00:28:59.924",
+    "L4_frame": "S4#0012-33416_S4#0013-41716",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Body Movement",
+        "Options": "A. He slumps over the steering wheel\nB. He tries to scratch the numbers off the odometer\nC. He calmly gets out and closes the door\nD. He exits the car abruptly and storms out\nE. He throws the keys at his father\nF. He starts the car's engine and revs it",
+        "Question": "After becoming overwhelmed and declaring he doesn't want this, what is Hugo's immediate action inside the garage?"
+      }
+    ]
+  },
+  "2778": {
+    "L2_time": "S4#0012-00:30:08.076_S4#0012-00:31:00.879",
+    "L2_frame": "S4#0012-43350_S4#0012-44616",
+    "L3_time": "S4#0012-00:28:52.792_S4#0012-00:32:56.744",
+    "L3_frame": "S4#0012-41545_S4#0012-47394",
+    "L4_time": "S4#0012-00:23:13.746_S4#0013-00:28:59.924",
+    "L4_frame": "S4#0012-33416_S4#0013-41716",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Spatial Location",
+        "Options": "A. In the engine room\nB. On the worn deck\nC. Inside a shipping container\nD. On the bridge\nE. In a narrow corridor\nF. In the radio room",
+        "Question": "In the opening scene, where on the M/V Kahana do Michael, Sun-Hwa Kwon, and Jin-Soo Kwon's reactions take place?"
+      }
+    ]
+  },
+  "2811": {
+    "L2_time": "S4#0013-00:26:27.189_S4#0013-00:27:29.835",
+    "L2_frame": "S4#0013-38054_S4#0013-39556",
+    "L3_time": "S4#0013-00:24:40.999_S4#0013-00:28:59.924",
+    "L3_frame": "S4#0013-35508_S4#0013-41716",
+    "L4_time": "S4#0012-00:23:13.746_S4#0013-00:28:59.924",
+    "L4_frame": "S4#0012-33416_S4#0013-41716",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Textual Content",
+        "Options": "A. 42\nB. 75\nC. 06\nD. 15\nE. 108\nF. 23\nG. 16",
+        "Question": "In the orientation film, what number is marked on the white rabbit that Dr. Halliwax holds up?"
+      }
+    ]
+  },
+  "2827": {
+    "L2_time": "S4#0014-00:03:04.830_S4#0014-00:04:11.063",
+    "L2_frame": "S4#0014-04431_S4#0014-06019",
+    "L3_time": "S4#0013-00:37:49.161_S4#0014-00:05:00.071",
+    "L3_frame": "S4#0013-54405_S4#0014-07194",
+    "L4_time": "S4#0013-00:28:59.966_S4#0014-00:21:19.882",
+    "L4_frame": "S4#0013-41717_S4#0014-30686",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Scene and Location",
+        "Options": "A. On the deck of the freighter\nB. On a deserted beach\nC. At an airport runway\nD. In a military command center\nE. In the cockpit of a helicopter\nF. On a rescue boat",
+        "Question": "After the scene where Hugo leaves the mental institute, where does the majority of the subsequent action take place?"
+      }
+    ]
+  },
+  "2835": {
+    "L2_time": "S4#0014-00:12:44.284_S4#0014-00:13:44.803",
+    "L2_frame": "S4#0014-18324_S4#0014-19775",
+    "L3_time": "S4#0014-00:10:00.704_S4#0014-00:14:40.150",
+    "L3_frame": "S4#0014-14402_S4#0014-21102",
+    "L4_time": "S4#0013-00:28:59.966_S4#0014-00:21:19.882",
+    "L4_frame": "S4#0013-41717_S4#0014-30686",
+    "L5_time": "S4#0001-00:00:00.000_S4#0014-00:42:23.185",
+    "L5_frame": "S4#0001-00000_S4#0014-60975",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. The radio\nB. The computer\nC. The boat\nD. The generator\nE. The hatch door\nF. The water purifier",
+        "Question": "During the initial confrontation in the bunker, what object does John Locke accuse Ben Linus of destroying through his actions?"
+      }
+    ]
+  },
+  "2864": {
+    "L2_time": "S5#0001-00:04:18.863_S5#0001-00:05:10.122",
+    "L2_frame": "S5#0001-06206_S5#0001-07435",
+    "L3_time": "S5#0001-00:00:00.000_S5#0001-00:05:10.122",
+    "L3_frame": "S5#0001-00000_S5#0001-07435",
+    "L4_time": "S5#0001-00:00:00.000_S5#0001-00:22:43.424",
+    "L4_frame": "S5#0001-00000_S5#0001-32689",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Recipient",
+        "Options": "A. Faraday's companion\nB. A Dharma Initiative medic\nC. The injured worker\nD. The Foreman, who fainted\nE. Dr. Pierre Chang\nF. Dr. Daniel Faraday\nG. A worker who panicked",
+        "Question": "After the Foreman orders the evacuation, who is carefully placed on a makeshift stretcher by the other men in the tunnel?"
+      }
+    ]
+  },
+  "2889": {
+    "L2_time": "S5#0001-00:29:30.205_S5#0001-00:30:34.686",
+    "L2_frame": "S5#0001-42442_S5#0001-43988",
+    "L3_time": "S5#0001-00:27:00.222_S5#0001-00:34:56.572",
+    "L3_frame": "S5#0001-38846_S5#0001-50267",
+    "L4_time": "S5#0001-00:22:43.465_S5#0002-00:10:36.239",
+    "L4_frame": "S5#0001-32690_S5#0002-15254",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Spatial Location",
+        "Options": "A. Inside the cabin\nB. Hanging upside down from the ceiling\nC. In the pilot's seat in the cockpit\nD. On the lawn\nE. In the cargo hold\nF. Lying on the floor among the luggage",
+        "Question": "During Locke's meticulous search inside the mangled aircraft at night, where does he discover the decayed skeleton?"
+      }
+    ]
+  },
+  "2895": {
+    "L2_time": "S5#0001-00:39:21.712_S5#0001-00:40:41.333",
+    "L2_frame": "S5#0001-56624_S5#0001-58533",
+    "L3_time": "S5#0001-00:34:56.614_S5#0002-00:00:20.750",
+    "L3_frame": "S5#0001-50268_S5#0002-00497",
+    "L4_time": "S5#0001-00:22:43.465_S5#0002-00:10:36.239",
+    "L4_frame": "S5#0001-32690_S5#0002-15254",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Character Clothing",
+        "Options": "A. A military-grade bomb suit\nB. A deep-sea diving suit\nC. A radiation suit\nD. A hazmat suit\nE. A firefighter's turnout gear\nF. A cleanroom bunny suit",
+        "Question": "What specific type of protective clothing is Desmond Hume wearing when he emerges from the void to confront Faraday?"
+      }
+    ]
+  },
+  "2930": {
+    "L2_time": "S5#0003-00:02:09.859_S5#0003-00:03:40.032",
+    "L2_frame": "S5#0003-03113_S5#0003-05275",
+    "L3_time": "S5#0002-00:40:39.790_S5#0003-00:05:39.443",
+    "L3_frame": "S5#0002-58496_S5#0003-08138",
+    "L4_time": "S5#0002-00:40:39.790_S5#0003-00:28:25.640",
+    "L4_frame": "S5#0002-58496_S5#0003-40894",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Event Background",
+        "Options": "A. A patterned cotton sheet\nB. A blue wool shawl\nC. A yellow-green towel\nD. A white hospital blanket\nE. A pink silk cloth\nF. A dark navy peacoat\nG. A grey fleece blanket",
+        "Question": "When Dr. Salonga lifts the newborn baby in the sailboat cabin to announce its gender, what specific item is the baby wrapped in?"
+      }
+    ]
+  },
+  "2948": {
+    "L2_time": "S5#0003-00:24:33.784_S5#0003-00:25:44.313",
+    "L2_frame": "S5#0003-35335_S5#0003-37026",
+    "L3_time": "S5#0003-00:24:33.784_S5#0003-00:28:25.640",
+    "L3_frame": "S5#0003-35335_S5#0003-40894",
+    "L4_time": "S5#0002-00:40:39.790_S5#0003-00:28:25.640",
+    "L4_frame": "S5#0002-58496_S5#0003-40894",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Miles Straume\nB. A guard outside the tent\nC. A character not physically present\nD. Ellie, the soldier\nE. A radio operator\nF. Dr. Charlotte Lewis\nG. Dr. Daniel Faraday",
+        "Question": "During the tense discussion about the hydrogen bomb plan in the military tent, which character brings up past hydrogen bomb tests?"
+      }
+    ]
+  },
+  "2993": {
+    "L2_time": "S5#0005-00:00:00.000_S5#0005-00:00:53.116",
+    "L2_frame": "S5#0005-00000_S5#0005-01273",
+    "L3_time": "S5#0004-00:36:27.788_S5#0005-00:00:53.116",
+    "L3_frame": "S5#0004-52454_S5#0005-01273",
+    "L4_time": "S5#0004-00:17:08.548_S5#0005-00:13:39.255",
+    "L4_frame": "S5#0004-24660_S5#0005-19642",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Presence",
+        "Options": "A. Yes, it is a sliding glass door.\nB. Yes, it is a screen door.\nC. Yes, it is a red-painted door.\nD. Yes, it is a wooden door.\nE. Yes, it is a metal security door.\nF. No, the material of the door is not mentioned.",
+        "Question": "In the recap scene where Kate Austen is visited by lawyers, is there any indication of what kind of door she opens?"
+      }
+    ]
+  },
+  "3024": {
+    "L2_time": "S5#0006-00:00:00.000_S5#0006-00:01:18.141",
+    "L2_frame": "S5#0006-00000_S5#0006-01873",
+    "L3_time": "S5#0006-00:00:00.000_S5#0006-00:05:08.746",
+    "L3_frame": "S5#0006-00000_S5#0006-07402",
+    "L4_time": "S5#0006-00:00:00.000_S5#0006-00:23:25.215",
+    "L4_frame": "S5#0006-00000_S5#0006-33691",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Causal Inference",
+        "Options": "A. He pulls out a weapon.\nB. He collapses from exhaustion.\nC. He gets into the silver car to drive away.\nD. He tries to start a physical fight with Ben.\nE. He starts shouting for help.\nF. He walks toward Kate.",
+        "Question": "In the wet parking lot, what action by Jack prompts Kate to raise her hand in an alarmed attempt to stop him?"
+      }
+    ]
+  },
+  "3042": {
+    "L2_time": "S5#0006-00:25:49.151_S5#0006-00:27:53.984",
+    "L2_frame": "S5#0006-37142_S5#0006-40135",
+    "L3_time": "S5#0006-00:23:25.257_S5#0006-00:32:30.134",
+    "L3_frame": "S5#0006-33692_S5#0006-46756",
+    "L4_time": "S5#0006-00:23:25.257_S5#0007-00:22:02.591",
+    "L4_frame": "S5#0006-33692_S5#0007-31710",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Object Appearance",
+        "Options": "A. Brown\nB. Green\nC. White\nD. Blue\nE. Red\nF. Grey\nG. Black",
+        "Question": "In the butcher shop scene, what color is the backpack Jack is holding and later sets aside?"
+      }
+    ]
+  },
+  "3043": {
+    "L2_time": "S5#0006-00:27:54.025_S5#0006-00:28:57.505",
+    "L2_frame": "S5#0006-40136_S5#0006-41658",
+    "L3_time": "S5#0006-00:23:25.257_S5#0006-00:32:30.134",
+    "L3_frame": "S5#0006-33692_S5#0006-46756",
+    "L4_time": "S5#0006-00:23:25.257_S5#0007-00:22:02.591",
+    "L4_frame": "S5#0006-33692_S5#0007-31710",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Textual Content",
+        "Options": "A. 'Are you traveling alone?'\nB. 'Did you miss your flight?'\nC. 'Are you surprised to see me?'\nD. 'Why the long face?'\nE. 'Are you lost?'\nF. 'Do you have the time?'",
+        "Question": "Upon meeting Jack at the security checkpoint, what teasing question did Sun-Hwa Kwon ask him?"
+      }
+    ]
+  },
+  "3044": {
+    "L2_time": "S5#0006-00:28:57.547_S5#0006-00:30:13.623",
+    "L2_frame": "S5#0006-41659_S5#0006-43483",
+    "L3_time": "S5#0006-00:23:25.257_S5#0006-00:32:30.134",
+    "L3_frame": "S5#0006-33692_S5#0006-46756",
+    "L4_time": "S5#0006-00:23:25.257_S5#0007-00:22:02.591",
+    "L4_frame": "S5#0006-33692_S5#0007-31710",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Spatial Location",
+        "Options": "A. Gate 31\nB. Gate 16\nC. Gate 15\nD. Gate 7\nE. Gate 23\nF. Gate 42\nG. Gate 8",
+        "Question": "The pivotal scene where Hurley confronts the gate agent Nalini about the standby passengers for Flight 316 takes place at which numbered gate?"
+      }
+    ]
+  },
+  "3052": {
+    "L2_time": "S5#0006-00:38:56.562_S5#0006-00:40:25.817",
+    "L2_frame": "S5#0006-56021_S5#0006-58161",
+    "L3_time": "S5#0006-00:32:30.176_S5#0006-00:42:23.685",
+    "L3_frame": "S5#0006-46757_S5#0006-60987",
+    "L4_time": "S5#0006-00:23:25.257_S5#0007-00:22:02.591",
+    "L4_frame": "S5#0006-33692_S5#0007-31710",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Caesar\nB. Kate Austen\nC. Rupa\nD. Jack Shephard\nE. Sun-Hwa Kwon\nF. Hugo Hurley Reyes\nG. Sayid Jarrah",
+        "Question": "Before the turbulence began on Ajira Flight 316, who was seen looking deeply uneasy?"
+      }
+    ]
+  },
+  "3071": {
+    "L2_time": "S5#0007-00:19:46.288_S5#0007-00:20:39.008",
+    "L2_frame": "S5#0007-28442_S5#0007-29706",
+    "L3_time": "S5#0007-00:14:00.276_S5#0007-00:22:02.591",
+    "L3_frame": "S5#0007-20146_S5#0007-31710",
+    "L4_time": "S5#0006-00:23:25.257_S5#0007-00:22:02.591",
+    "L4_frame": "S5#0006-33692_S5#0007-31710",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Character Clothing",
+        "Options": "A. Yellow\nB. White\nC. Navy\nD. Black\nE. Maroon\nF. Blue\nG. Gray",
+        "Question": "When Walt Lloyd is spotted by John Locke near his school in New York City, what color is the hoodie he is wearing beneath his puffer vest?"
+      }
+    ]
+  },
+  "3106": {
+    "L2_time": "S5#0008-00:22:26.615_S5#0008-00:23:40.856",
+    "L2_frame": "S5#0008-32286_S5#0008-34066",
+    "L3_time": "S5#0008-00:19:28.020_S5#0008-00:24:22.731",
+    "L3_frame": "S5#0008-28004_S5#0008-35070",
+    "L4_time": "S5#0008-00:19:28.020_S5#0009-00:04:33.294",
+    "L4_frame": "S5#0008-28004_S5#0009-06552",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Event Background",
+        "Options": "A. A scientific research vessel\nB. A naval submarine\nC. A fishing boat\nD. A luxury yacht\nE. A passenger cruise liner\nF. A cargo container ship\nG. A salvage ship",
+        "Question": "In the recreation room, what type of ship does Ford claim he and his companions were on before it wrecked?"
+      }
+    ]
+  },
+  "3158": {
+    "L2_time": "S5#0009-00:35:58.175_S5#0009-00:37:00.488",
+    "L2_frame": "S5#0009-51744_S5#0009-53238",
+    "L3_time": "S5#0009-00:35:15.049_S5#0009-00:40:57.808",
+    "L3_frame": "S5#0009-50710_S5#0009-58928",
+    "L4_time": "S5#0009-00:35:15.049_S5#0010-00:41:42.769",
+    "L4_frame": "S5#0009-50710_S5#0010-60006",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. Food.\nB. Books.\nC. Medical supplies.\nD. Water.\nE. Weapons.\nF. Blankets.",
+        "Question": "When James instructs Phil regarding Sayid, what specific item does he tell Phil to bring?"
+      }
+    ]
+  },
+  "3160": {
+    "L2_time": "S5#0009-00:37:46.200_S5#0009-00:39:43.942",
+    "L2_frame": "S5#0009-54334_S5#0009-57157",
+    "L3_time": "S5#0009-00:35:15.049_S5#0009-00:40:57.808",
+    "L3_frame": "S5#0009-50710_S5#0009-58928",
+    "L4_time": "S5#0009-00:35:15.049_S5#0010-00:41:42.769",
+    "L4_frame": "S5#0009-50710_S5#0010-60006",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Event Outcome",
+        "Options": "A. Jack ignores the offer and immediately asks about Sayid\nB. Jack politely declines the offer\nC. Jack accepts the beer but remains standing\nD. Jack accepts both and sits down\nE. Juliet returns and tells them there is no beer\nF. Jack angrily rejects the offer",
+        "Question": "When Sawyer offers Jack a seat and a beer after Juliet leaves, what is the immediate outcome of this offer?"
+      }
+    ]
+  },
+  "3173": {
+    "L2_time": "S5#0010-00:14:06.574_S5#0010-00:16:07.946",
+    "L2_frame": "S5#0010-20297_S5#0010-23207",
+    "L3_time": "S5#0010-00:14:06.574_S5#0010-00:21:38.984",
+    "L3_frame": "S5#0010-20297_S5#0010-31144",
+    "L4_time": "S5#0009-00:35:15.049_S5#0010-00:41:42.769",
+    "L4_frame": "S5#0009-50710_S5#0010-60006",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Character Motivation",
+        "Options": "A. The timing of the gesture.\nB. The cleanliness of the tray.\nC. Ben's nervous stutter.\nD. The way Ben is dressed.\nE. The quality of the sandwich.\nF. His son's independent thought.",
+        "Question": "When Roger mocks his son's compassion for Sayid, what does he specifically ridicule about Ben's action?"
+      }
+    ]
+  },
+  "3191": {
+    "L2_time": "S5#0010-00:38:40.129_S5#0010-00:40:03.796",
+    "L2_frame": "S5#0010-55627_S5#0010-57633",
+    "L3_time": "S5#0010-00:32:15.495_S5#0010-00:41:42.769",
+    "L3_frame": "S5#0010-46405_S5#0010-60006",
+    "L4_time": "S5#0009-00:35:15.049_S5#0010-00:41:42.769",
+    "L4_frame": "S5#0009-50710_S5#0010-60006",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "State Transition",
+        "Options": "A. From fighting aggressively to surrendering peacefully\nB. From leading the way to following behind\nC. From hiding silently to moving openly\nD. From being tired and subdued to being energetic and defiant\nE. From standing resignedly to fleeing frantically\nF. From running frantically to walking calmly",
+        "Question": "In the flashback sequence, how does Sayid's physical activity and demeanor change between the institutional corridor scene and the jungle escape scene?"
+      }
+    ]
+  },
+  "3199": {
+    "L2_time": "S5#0011-00:06:34.582_S5#0011-00:07:49.948",
+    "L2_frame": "S5#0011-09460_S5#0011-11267",
+    "L3_time": "S5#0011-00:04:20.114_S5#0011-00:13:12.687",
+    "L3_frame": "S5#0011-06236_S5#0011-19005",
+    "L4_time": "S5#0011-00:00:00.000_S5#0011-00:34:39.889",
+    "L4_frame": "S5#0011-00000_S5#0011-49867",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Cassidy offers to wake up her daughter.\nB. Kate explains Sawyer told her to find Cassidy and take care of Clementine.\nC. Cassidy asks why Sawyer didn't come himself.\nD. Cassidy asks Kate to leave her house.\nE. Kate immediately tells the story of the helicopter.\nF. Kate starts to cry.",
+        "Question": "In the sequence of the conversation at Cassidy's house, what happens immediately after Cassidy rejects the money by pushing the envelope back?"
+      }
+    ]
+  },
+  "3205": {
+    "L2_time": "S5#0011-00:16:06.444_S5#0011-00:17:06.504",
+    "L2_frame": "S5#0011-23171_S5#0011-24611",
+    "L3_time": "S5#0011-00:13:12.729_S5#0011-00:19:03.162",
+    "L3_frame": "S5#0011-19006_S5#0011-27408",
+    "L4_time": "S5#0011-00:00:00.000_S5#0011-00:34:39.889",
+    "L4_frame": "S5#0011-00000_S5#0011-49867",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Counting",
+        "Options": "A. 1\nB. 5\nC. 4\nD. 3\nE. 2\nF. 0",
+        "Question": "In the conversation between Juliet and Kate that takes place while the blood transfusion is underway, how many distinct past events or relationships from off the island are explicitly discussed?"
+      }
+    ]
+  },
+  "3213": {
+    "L2_time": "S5#0011-00:24:58.183_S5#0011-00:26:21.391",
+    "L2_frame": "S5#0011-35920_S5#0011-37915",
+    "L3_time": "S5#0011-00:19:03.204_S5#0011-00:26:21.391",
+    "L3_frame": "S5#0011-27409_S5#0011-37915",
+    "L4_time": "S5#0011-00:00:00.000_S5#0011-00:34:39.889",
+    "L4_frame": "S5#0011-00000_S5#0011-49867",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Counting",
+        "Options": "A. 4\nB. 5\nC. 1\nD. 2\nE. 3\nF. 6",
+        "Question": "Based on the description of the scene where Kate first realizes Aaron is missing, how many specific articles of clothing are shown for the stock boy she approaches?"
+      }
+    ]
+  },
+  "3237": {
+    "L2_time": "S5#0012-00:17:47.670_S5#0012-00:19:20.554",
+    "L2_frame": "S5#0012-25598_S5#0012-27825",
+    "L3_time": "S5#0012-00:15:47.967_S5#0012-00:22:23.904",
+    "L3_frame": "S5#0012-22728_S5#0012-32221",
+    "L4_time": "S5#0011-00:34:39.931_S5#0012-00:28:53.293",
+    "L4_frame": "S5#0011-49868_S5#0012-41557",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Spatial Location",
+        "Options": "A. From the shadows\nB. From one of the houses\nC. From the playground area\nD. From behind a vehicle\nE. From the overgrown woods\nF. From an underground hatch",
+        "Question": "When Ben and Locke first appear in the scene, from where do they emerge before walking through the barracks?"
+      }
+    ]
+  },
+  "327": {
+    "L2_time": "S1#0010-00:29:13.815_S1#0010-00:30:14.959",
+    "L2_frame": "S1#0010-42049_S1#0010-43515",
+    "L3_time": "S1#0010-00:29:13.815_S1#0010-00:35:51.462",
+    "L3_frame": "S1#0010-42049_S1#0010-51583",
+    "L4_time": "S1#0010-00:00:00.000_S1#0010-00:40:11.347",
+    "L4_frame": "S1#0010-00000_S1#0010-57814",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Boone Carlyle\nB. Hugo 'Hurley' Reyes\nC. A suspicious survivor\nD. Charlie Pace\nE. James 'Sawyer' Ford\nF. Shannon Rutherford",
+        "Question": "When Hugo was being questioned about his census on the beach, who cynically compared his efforts to a personal version of the 'Patriot Act'?"
+      }
+    ]
+  },
+  "3276": {
+    "L2_time": "S5#0013-00:24:42.960_S5#0013-00:25:47.566",
+    "L2_frame": "S5#0013-35555_S5#0013-37104",
+    "L3_time": "S5#0013-00:22:54.059_S5#0013-00:30:06.699",
+    "L3_frame": "S5#0013-32944_S5#0013-43317",
+    "L4_time": "S5#0013-00:17:05.962_S5#0013-00:40:11.011",
+    "L4_frame": "S5#0013-24598_S5#0013-57806",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Body Movement",
+        "Options": "A. He is confused\nB. He ignores the question.\nC. He becomes angry.\nD. He looks at Hugo for an explanation.\nE. He laughs it off.\nF. He immediately provides an answer.",
+        "Question": "When Miles Straume asks Dr. Chang about a missing body, what is Dr. Chang's reaction before driving off?"
+      }
+    ]
+  },
+  "3280": {
+    "L2_time": "S5#0013-00:30:06.741_S5#0013-00:30:54.289",
+    "L2_frame": "S5#0013-43318_S5#0013-44458",
+    "L3_time": "S5#0013-00:30:06.741_S5#0013-00:35:45.329",
+    "L3_frame": "S5#0013-43318_S5#0013-51436",
+    "L4_time": "S5#0013-00:17:05.962_S5#0013-00:40:11.011",
+    "L4_frame": "S5#0013-24598_S5#0013-57806",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Miles Straume\nB. Hugo Hurley Reyes\nC. The worker with the clipboard\nD. Dr Pierre Chang\nE. Stuart Radzinsky\nF. Glenn",
+        "Question": "At the Dharma worksite, after Glenn reads the first part of the sequence, who continues by reading '16, 23'?"
+      }
+    ]
+  },
+  "3281": {
+    "L2_time": "S5#0013-00:30:54.330_S5#0013-00:33:55.470",
+    "L2_frame": "S5#0013-44459_S5#0013-48802",
+    "L3_time": "S5#0013-00:30:06.741_S5#0013-00:35:45.329",
+    "L3_frame": "S5#0013-43318_S5#0013-51436",
+    "L4_time": "S5#0013-00:17:05.962_S5#0013-00:40:11.011",
+    "L4_frame": "S5#0013-24598_S5#0013-57806",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Motion",
+        "Options": "A. A parking lot sign\nB. The neon OPEN sign\nC. The LA VIDA TACOS sign\nD. A stop sign\nE. A street sign\nF. The barbershop sign",
+        "Question": "As the dark van drives off after abducting Miles, what specific sign from the earlier scene is it shown passing?"
+      }
+    ]
+  },
+  "3289": {
+    "L2_time": "S5#0013-00:40:11.053_S5#0013-00:41:32.092",
+    "L2_frame": "S5#0013-57807_S5#0013-59750",
+    "L3_time": "S5#0013-00:40:11.053_S5#0014-00:01:20.560",
+    "L3_frame": "S5#0013-57807_S5#0014-01931",
+    "L4_time": "S5#0013-00:40:11.053_S5#0014-00:27:32.754",
+    "L4_frame": "S5#0013-57807_S5#0014-39626",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Event Summary",
+        "Options": "A. An alarm sounding in the compound\nB. An urgent phone call for Dr. Chang\nC. A sudden power outage\nD. Dr. Chang finishing the book\nE. Hugo knocking on the door\nF. The baby starting to cry",
+        "Question": "What specific event abruptly interrupts the tranquil, intimate scene between Dr. Chang and baby Miles?"
+      }
+    ]
+  },
+  "330": {
+    "L2_time": "S1#0010-00:32:32.847_S1#0010-00:35:09.879",
+    "L2_frame": "S1#0010-46821_S1#0010-50586",
+    "L3_time": "S1#0010-00:29:13.815_S1#0010-00:35:51.462",
+    "L3_frame": "S1#0010-42049_S1#0010-51583",
+    "L4_time": "S1#0010-00:00:00.000_S1#0010-00:40:11.347",
+    "L4_frame": "S1#0010-00000_S1#0010-57814",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. A crack in a wooden door\nB. A beaded curtain\nC. A keyhole\nD. A glass window\nE. A telescope\nF. A set of Venetian blinds\nG. A white screen door",
+        "Question": "In the flashback where Claire sees Richard Malkin, what object is she peering through to see him in the dimly lit room?"
+      }
+    ]
+  },
+  "3301": {
+    "L2_time": "S5#0014-00:11:58.613_S5#0014-00:13:08.642",
+    "L2_frame": "S5#0014-17229_S5#0014-18908",
+    "L3_time": "S5#0014-00:08:28.737_S5#0014-00:13:54.854",
+    "L3_frame": "S5#0014-12197_S5#0014-20016",
+    "L4_time": "S5#0013-00:40:11.053_S5#0014-00:27:32.754",
+    "L4_frame": "S5#0013-57807_S5#0014-39626",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Recipient",
+        "Options": "A. A university colleague\nB. Daniel's father\nC. Charles Widmore\nD. Theresa\nE. An old family friend\nF. Daniel himself\nG. The restaurant staff",
+        "Question": "At the beginning of the tense lunch in the Indian restaurant, who is the subject of Eloise's rude treatment that Daniel confronts her about?"
+      }
+    ]
+  },
+  "3326": {
+    "L2_time": "S5#0015-00:03:04.914_S5#0015-00:04:13.149",
+    "L2_frame": "S5#0015-04433_S5#0015-06069",
+    "L3_time": "S5#0015-00:02:14.280_S5#0015-00:10:09.212",
+    "L3_frame": "S5#0015-03219_S5#0015-14606",
+    "L4_time": "S5#0014-00:27:32.796_S5#0015-00:15:57.685",
+    "L4_frame": "S5#0014-39627_S5#0015-22961",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Recipient",
+        "Options": "A. The rigging ropes\nB. The ship's anchor\nC. A sail\nD. The ship's figurehead\nE. The ship's wheel\nF. A miniature cannon",
+        "Question": "In the scene set thirty years later, what specific part of the model ship is Richard Alpert adjusting with his tweezers?"
+      }
+    ]
+  },
+  "3357": {
+    "L2_time": "S5#0016-00:00:00.000_S5#0016-00:00:42.355",
+    "L2_frame": "S5#0016-00000_S5#0016-01015",
+    "L3_time": "S5#0015-00:33:58.306_S5#0016-00:00:42.355",
+    "L3_frame": "S5#0015-48870_S5#0016-01015",
+    "L4_time": "S5#0015-00:15:57.727_S5#0016-00:13:33.416",
+    "L4_frame": "S5#0015-22962_S5#0016-19502",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. The order is not specified\nB. Feeding raw wool\nC. He first operates the spinning wheel\nD. He first turns the fibers into thread\nE. Powering the treadle\nF. Both happen simultaneously",
+        "Question": "When Jacob is working, which action occurs first: feeding raw wool or powering the treadle?"
+      }
+    ]
+  },
+  "3363": {
+    "L2_time": "S5#0016-00:07:29.136_S5#0016-00:08:15.766",
+    "L2_frame": "S5#0016-10768_S5#0016-11886",
+    "L3_time": "S5#0016-00:00:42.397_S5#0016-00:09:21.874",
+    "L3_frame": "S5#0016-01016_S5#0016-13471",
+    "L4_time": "S5#0015-00:15:57.727_S5#0016-00:13:33.416",
+    "L4_frame": "S5#0015-22962_S5#0016-19502",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Sayid closes Faraday’s journal – Richard Alpert grabs Sayid’s arm – Middle-Aged Eloise Ellie Hawking insists the plan must proceed\nB. Middle-Aged Eloise Ellie Hawking insists the plan must proceed – Dr. Jack Shephard closes Faraday’s journal – Richard Alpert grabs Sayid’s arm\nC. Middle-Aged Eloise Ellie Hawking insists the plan must proceed – Richard Alpert grabs Sayid’s arm – Dr. Jack Shephard closes Faraday’s journal\nD. Richard Alpert grabs Sayid’s arm – Dr. Jack Shephard closes Faraday’s journal – Middle-Aged Eloise Ellie Hawking insists the plan must proceed\nE. Richard Alpert grabs Sayid’s arm – Middle-Aged Eloise Ellie Hawking insists the plan must proceed – Dr. Jack Shephard closes Faraday’s journal\nF. Dr. Jack Shephard closes Faraday’s journal – Middle-Aged Eloise Ellie Hawking insists the plan must proceed – Richard Alpert grabs Sayid’s arm",
+        "Question": "When the group was finalizing the risky plan to use the hydrogen bomb core, what was the chronological order of actions taken by Dr. Jack Shephard, Richard Alpert, and Middle-Aged Eloise Ellie Hawking regarding the bomb and the plan?"
+      }
+    ]
+  },
+  "3369": {
+    "L2_time": "S5#0016-00:13:33.458_S5#0016-00:14:36.646",
+    "L2_frame": "S5#0016-19503_S5#0016-21018",
+    "L3_time": "S5#0016-00:13:33.458_S5#0016-00:18:38.304",
+    "L3_frame": "S5#0016-19503_S5#0016-26812",
+    "L4_time": "S5#0016-00:13:33.458_S5#0017-00:12:14.921",
+    "L4_frame": "S5#0016-19503_S5#0017-17620",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Position Comparison",
+        "Options": "A. To his left on the steps\nB. On his shoulder\nC. Inside his booklet\nD. Through the doorway behind him\nE. Above him on the church roof\nF. To his right on the steps\nG. In front of him on the steps\nH. Below him on the ground",
+        "Question": "When James is alone, where is the funeral wreath located relative to him?"
+      }
+    ]
+  },
+  "3375": {
+    "L2_time": "S5#0016-00:21:39.485_S5#0016-00:22:23.779",
+    "L2_frame": "S5#0016-31156_S5#0016-32218",
+    "L3_time": "S5#0016-00:18:38.346_S5#0016-00:23:03.485",
+    "L3_frame": "S5#0016-26813_S5#0016-33170",
+    "L4_time": "S5#0016-00:13:33.458_S5#0017-00:12:14.921",
+    "L4_frame": "S5#0016-19503_S5#0017-17620",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "State Transition",
+        "Options": "A. Tired and weary\nB. Sad and lost in thought\nC. Scared and looking around nervously\nD. Smiling and playful\nE. Anxious and impatient\nF. Angry and frustrated",
+        "Question": "Before the SUV appears, what is Nadia's emotional state as she stands at the crosswalk?"
+      }
+    ]
+  },
+  "3406": {
+    "L2_time": "S5#0017-00:20:48.184_S5#0017-00:21:57.670",
+    "L2_frame": "S5#0017-29926_S5#0017-31592",
+    "L3_time": "S5#0017-00:19:52.920_S5#0017-00:25:04.314",
+    "L3_frame": "S5#0017-28601_S5#0017-36067",
+    "L4_time": "S5#0017-00:12:14.963_S5#0017-00:42:22.684",
+    "L4_frame": "S5#0017-17621_S5#0017-60963",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Counting",
+        "Options": "A. 0\nB. 4\nC. 3\nD. 1\nE. 5\nF. 2",
+        "Question": "When Jacob is seen reading in the plaza, how many specific visual elements are mentioned as being on the cover of his book, 'Everything That Rises Must Converge'?"
+      }
+    ]
+  },
+  "3408": {
+    "L2_time": "S5#0017-00:22:57.730_S5#0017-00:25:04.314",
+    "L2_frame": "S5#0017-33032_S5#0017-36067",
+    "L3_time": "S5#0017-00:19:52.920_S5#0017-00:25:04.314",
+    "L3_frame": "S5#0017-28601_S5#0017-36067",
+    "L4_time": "S5#0017-00:12:14.963_S5#0017-00:42:22.684",
+    "L4_frame": "S5#0017-17621_S5#0017-60963",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Causal Inference",
+        "Options": "A. The corridor beginning to shake and crumble\nB. The sound of dripping water echoing loudly\nC. The air becoming difficult to breathe\nD. The torchlight creating sharp angles on their faces\nE. Locke beginning to threaten Ben verbally\nF. The sound of someone following them",
+        "Question": "What causes the tension to be amplified as Locke and Ben move through the corridor inside the statue?"
+      }
+    ]
+  },
+  "3414": {
+    "L2_time": "S5#0017-00:30:54.372_S5#0017-00:32:52.198",
+    "L2_frame": "S5#0017-44460_S5#0017-47285",
+    "L3_time": "S5#0017-00:30:54.372_S5#0017-00:36:15.526",
+    "L3_frame": "S5#0017-44460_S5#0017-52160",
+    "L4_time": "S5#0017-00:12:14.963_S5#0017-00:42:22.684",
+    "L4_frame": "S5#0017-17621_S5#0017-60963",
+    "L5_time": "S5#0001-00:00:00.000_S5#0017-00:42:22.684",
+    "L5_frame": "S5#0001-00000_S5#0017-60963",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. A helmet\nB. A shovel\nC. A rifle\nD. A toolbox\nE. A walkie-talkie\nF. A blueprint scroll\nG. A fire extinguisher",
+        "Question": "In the chaos of the Swan site disaster, after James Sawyer Ford witnesses the jeep crash, what object is lying discarded nearby?"
+      }
+    ]
+  },
+  "3453": {
+    "L2_time": "S6#0001-00:41:51.071_S6#0001-00:42:47.503",
+    "L2_frame": "S6#0001-60205_S6#0001-61558",
+    "L3_time": "S6#0001-00:31:52.974_S6#0002-00:01:04.502",
+    "L3_frame": "S6#0001-45865_S6#0002-01546",
+    "L4_time": "S6#0001-00:00:00.000_S6#0002-00:11:14.069",
+    "L4_frame": "S6#0001-00000_S6#0002-16161",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Recipient",
+        "Options": "A. Kate Austen's\nB. John Locke's\nC. Marshal Edward Mars's\nD. The flight attendant's\nE. Charlie Pace's\nF. Dr. Jack Shephard's\nG. Sayid Jarrah's",
+        "Question": "During the tense scene on the flight, whose bag becomes the subject of an inspection by two police officers and assisting flight attendants?"
+      }
+    ]
+  },
+  "3471": {
+    "L2_time": "S6#0002-00:19:16.885_S6#0002-00:20:12.190",
+    "L2_frame": "S6#0002-27737_S6#0002-29063",
+    "L3_time": "S6#0002-00:16:16.079_S6#0002-00:21:10.499",
+    "L3_frame": "S6#0002-23402_S6#0002-30461",
+    "L4_time": "S6#0002-00:11:14.111_S6#0003-00:20:24.371",
+    "L4_frame": "S6#0002-16162_S6#0003-29355",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. Jin and Kate exchange glances\nB. Jack affirms his decision to proceed\nC. Dogen places the red cloth on the pedestal\nD. Lennon warns Jack about the risks\nE. Lennon issues orders to the armed guards\nF. Jack gives his confession",
+        "Question": "During the events in the temple chamber, what action occurs when Dogen picks up the red cloth?"
+      }
+    ]
+  },
+  "3474": {
+    "L2_time": "S6#0002-00:23:40.231_S6#0002-00:24:29.280",
+    "L2_frame": "S6#0002-34051_S6#0002-35227",
+    "L3_time": "S6#0002-00:21:10.540_S6#0002-00:28:43.660",
+    "L3_frame": "S6#0002-30462_S6#0002-41326",
+    "L4_time": "S6#0002-00:11:14.111_S6#0003-00:20:24.371",
+    "L4_frame": "S6#0002-16162_S6#0003-29355",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. An airport announcer\nB. The woman in the dark blazer\nC. A flight attendant\nD. Dr. Leslie Arzt\nE. A customs inspector\nF. Kate Austen",
+        "Question": "While Sayid Jarrah is scanning the crowd at the baggage claim, which other character is mentioned as being present and waiting in the same area?"
+      }
+    ]
+  },
+  "3492": {
+    "L2_time": "S6#0003-00:08:09.886_S6#0003-00:09:42.312",
+    "L2_frame": "S6#0003-11745_S6#0003-13961",
+    "L3_time": "S6#0003-00:08:09.886_S6#0003-00:15:11.224",
+    "L3_frame": "S6#0003-11745_S6#0003-21847",
+    "L4_time": "S6#0002-00:11:14.111_S6#0003-00:20:24.371",
+    "L4_frame": "S6#0002-16162_S6#0003-29355",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Character Clothing",
+        "Options": "A. Khaki pants\nB. Leather trousers\nC. Gray sweatpants\nD. A long skirt\nE. Blue jeans\nF. Black leggings",
+        "Question": "As Kate walks through the cluttered garage to find the bathroom, what type of pants is she wearing as part of her initial outfit?"
+      }
+    ]
+  },
+  "3499": {
+    "L2_time": "S6#0003-00:17:43.168_S6#0003-00:18:49.735",
+    "L2_frame": "S6#0003-25490_S6#0003-27086",
+    "L3_time": "S6#0003-00:15:11.266_S6#0003-00:20:24.371",
+    "L3_frame": "S6#0003-21848_S6#0003-29355",
+    "L4_time": "S6#0002-00:11:14.111_S6#0003-00:20:24.371",
+    "L4_frame": "S6#0002-16162_S6#0003-29355",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Body Movement",
+        "Options": "A. He swallows the pill himself\nB. He hides the pill under a book\nC. He dissolves the pill in a cup of water\nD. He places the pill directly into Jack's hand\nE. He crushes the pill into a fine powder\nF. He wraps the pill in paper",
+        "Question": "After Lennon explains that Dogen has no sense of humor, what is Dogen's next deliberate action involving a pill?"
+      }
+    ]
+  },
+  "3507": {
+    "L2_time": "S6#0003-00:27:58.617_S6#0003-00:28:50.211",
+    "L2_frame": "S6#0003-40246_S6#0003-41483",
+    "L3_time": "S6#0003-00:27:58.617_S6#0003-00:33:55.766",
+    "L3_frame": "S6#0003-40246_S6#0003-48809",
+    "L4_time": "S6#0003-00:20:24.413_S6#0004-00:09:32.677",
+    "L4_frame": "S6#0003-29356_S6#0004-13730",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Season and Weather",
+        "Options": "A. A dark and stormy night\nB. An overcast and windy afternoon\nC. A snowy evening\nD. A foggy and cool morning\nE. A rainy and cold day\nF. A bright, sunny day\nG. A humid and cloudy day",
+        "Question": "What are the weather conditions when Kate and Claire arrive at the California hospital?"
+      }
+    ]
+  },
+  "3508": {
+    "L2_time": "S6#0003-00:28:50.252_S6#0003-00:29:39.134",
+    "L2_frame": "S6#0003-41484_S6#0003-42656",
+    "L3_time": "S6#0003-00:27:58.617_S6#0003-00:33:55.766",
+    "L3_frame": "S6#0003-40246_S6#0003-48809",
+    "L4_time": "S6#0003-00:20:24.413_S6#0004-00:09:32.677",
+    "L4_frame": "S6#0003-29356_S6#0004-13730",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Causal Inference",
+        "Options": "A. Claire suddenly lost consciousness.\nB. Claire explicitly stated she was not ready to give birth.\nC. Kate Austen insisted on the intervention.\nD. It was a standard procedure for all patients at 36 weeks.\nE. Dr. Ethan decided unilaterally without consulting Claire.\nF. The medical monitors began to alarm loudly.",
+        "Question": "In the hospital room scene, why did Dr. Ethan Goodspeed directly order an injection for Claire?"
+      }
+    ]
+  },
+  "3525": {
+    "L2_time": "S6#0004-00:06:20.026_S6#0004-00:07:22.339",
+    "L2_frame": "S6#0004-09111_S6#0004-10605",
+    "L3_time": "S6#0004-00:05:21.593_S6#0004-00:09:32.677",
+    "L3_frame": "S6#0004-07710_S6#0004-13730",
+    "L4_time": "S6#0003-00:20:24.413_S6#0004-00:09:32.677",
+    "L4_frame": "S6#0003-29356_S6#0004-13730",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Randy's supervisor\nB. John Locke\nC. A sympathetic coworker overhearing the conversation\nD. The HR department in an email\nE. Randy\nF. The company policy manual",
+        "Question": "In the office scene, when Locke was being questioned about his trip, who proposed the solution of classifying the trip as vacation time to resolve the issue?"
+      }
+    ]
+  },
+  "3532": {
+    "L2_time": "S6#0004-00:16:50.657_S6#0004-00:17:54.096",
+    "L2_frame": "S6#0004-24231_S6#0004-25752",
+    "L3_time": "S6#0004-00:16:50.657_S6#0004-00:22:40.466",
+    "L3_frame": "S6#0004-24231_S6#0004-32618",
+    "L4_time": "S6#0004-00:09:32.719_S6#0005-00:12:38.238",
+    "L4_frame": "S6#0004-13731_S6#0005-18179",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. She checks on Frank Lapidus\nB. She asks where the other Survivior have gone\nC. She tends to her bandaged wrist\nD. She confronts Sun about Jin\nE. She declares they are going to the temple\nF. She examines Locke's body",
+        "Question": "On the beach, what does Ilana Verdansky do right after she picks up a bag?"
+      }
+    ]
+  },
+  "3542": {
+    "L2_time": "S6#0004-00:29:09.897_S6#0004-00:30:03.117",
+    "L2_frame": "S6#0004-41955_S6#0004-43231",
+    "L3_time": "S6#0004-00:22:40.507_S6#0004-00:32:34.518",
+    "L3_frame": "S6#0004-32619_S6#0004-46861",
+    "L4_time": "S6#0004-00:09:32.719_S6#0005-00:12:38.238",
+    "L4_frame": "S6#0004-13731_S6#0005-18179",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Counting",
+        "Options": "A. Two\nB. Four\nC. One\nD. Five\nE. A full set of three\nF. Three\nG. Zero",
+        "Question": "When the courier from Oceanic arrives, how many pieces of lost luggage are delivered to the house?"
+      }
+    ]
+  },
+  "3548": {
+    "L2_time": "S6#0004-00:38:27.580_S6#0004-00:39:08.496",
+    "L2_frame": "S6#0004-55326_S6#0004-56307",
+    "L3_time": "S6#0004-00:32:34.560_S6#0004-00:42:22.482",
+    "L3_frame": "S6#0004-46862_S6#0004-60958",
+    "L4_time": "S6#0004-00:09:32.719_S6#0005-00:12:38.238",
+    "L4_frame": "S6#0004-13731_S6#0005-18179",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Event Background",
+        "Options": "A. White chalk\nB. Dried mud\nC. Etchings carved into the stone\nD. Blue ink\nE. Red paint\nF. Black charcoal",
+        "Question": "When Ford is studying the rock wall at the beginning, what material is described as being used for the chaotic names written on it?"
+      }
+    ]
+  },
+  "3565": {
+    "L2_time": "S6#0005-00:17:31.740_S6#0005-00:18:16.285",
+    "L2_frame": "S6#0005-25216_S6#0005-26284",
+    "L3_time": "S6#0005-00:12:38.280_S6#0005-00:18:16.285",
+    "L3_frame": "S6#0005-18180_S6#0005-26284",
+    "L4_time": "S6#0005-00:12:38.280_S6#0005-00:43:19.914",
+    "L4_frame": "S6#0005-18180_S6#0005-62335",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Textual Content",
+        "Options": "A. History encyclopedias\nB. Travel guides\nC. Classic literature\nD. Poetry collections\nE. Medical texts\nF. Financial ledgers\nG. Legal casebooks",
+        "Question": "When Margo turns her attention to the bookshelf in the study, what is the subject matter of the texts lining the shelves?"
+      }
+    ]
+  },
+  "3578": {
+    "L2_time": "S6#0005-00:34:59.914_S6#0005-00:36:27.209",
+    "L2_frame": "S6#0005-50347_S6#0005-52440",
+    "L3_time": "S6#0005-00:32:01.610_S6#0005-00:38:46.349",
+    "L3_frame": "S6#0005-46072_S6#0005-55776",
+    "L4_time": "S6#0005-00:12:38.280_S6#0005-00:43:19.914",
+    "L4_frame": "S6#0005-18180_S6#0005-62335",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Position Comparison",
+        "Options": "A. Hanging on the wall\nB. Handed to him by Hurley\nC. In Jack's backpack\nD. On the floor next to Hurley\nE. As part of the mechanism itself\nF. On a ledge near the archway",
+        "Question": "In the stone tower, where is the telescope-like object located just before Jack uses it to destroy the mechanism?"
+      }
+    ]
+  },
+  "3593": {
+    "L2_time": "S6#0006-00:07:53.328_S6#0006-00:09:46.316",
+    "L2_frame": "S6#0006-11348_S6#0006-14057",
+    "L3_time": "S6#0006-00:03:29.272_S6#0006-00:14:04.282",
+    "L3_frame": "S6#0006-05017_S6#0006-20242",
+    "L4_time": "S6#0006-00:00:00.000_S6#0006-00:22:54.563",
+    "L4_frame": "S6#0006-00000_S6#0006-32956",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Character Motivation",
+        "Options": "A. To buy a new car\nB. To cover gambling debts\nC. To invest in stocks\nD. To pay for medical bills\nE. To open a second store\nF. To pay for a family vacation",
+        "Question": "During their late-night conversation, after Omer confesses he borrowed money, what reason does he give for needing the loan in the first place?"
+      }
+    ]
+  },
+  "3622": {
+    "L2_time": "S6#0007-00:03:32.692_S6#0007-00:06:19.359",
+    "L2_frame": "S6#0007-05099_S6#0007-09095",
+    "L3_time": "S6#0007-00:01:01.207_S6#0007-00:10:33.196",
+    "L3_frame": "S6#0007-01467_S6#0007-15181",
+    "L4_time": "S6#0006-00:22:54.605_S6#0007-00:17:53.136",
+    "L4_frame": "S6#0006-32957_S6#0007-25729",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Character Clothing",
+        "Options": "A. Green plaid\nB. Light\nC. Striped\nD. Black\nE. Dark blue\nF. Red",
+        "Question": "In the school staff lounge, what color is the button-down shirt worn by John Locke under his suspenders?"
+      }
+    ]
+  },
+  "3655": {
+    "L2_time": "S6#0007-00:41:18.292_S6#0007-00:42:23.399",
+    "L2_frame": "S6#0007-59419_S6#0007-60980",
+    "L3_time": "S6#0007-00:41:18.292_S6#0008-00:04:24.953",
+    "L3_frame": "S6#0007-59419_S6#0008-06352",
+    "L4_time": "S6#0007-00:41:18.292_S6#0008-00:30:14.003",
+    "L4_frame": "S6#0007-59419_S6#0008-43492",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Frank Lapidus\nB. Richard Alpert\nC. Miles Straume\nD. Hugo Hurley Reyes\nE. Charles Widmore\nF. Ben Linus",
+        "Question": "Who reinforces the sense of camaraderie during the reunion by shaking hands with Jack and Sun-Hwa Kwon?"
+      }
+    ]
+  },
+  "3658": {
+    "L2_time": "S6#0008-00:02:53.319_S6#0008-00:04:24.953",
+    "L2_frame": "S6#0008-04155_S6#0008-06352",
+    "L3_time": "S6#0007-00:41:18.292_S6#0008-00:04:24.953",
+    "L3_frame": "S6#0007-59419_S6#0008-06352",
+    "L4_time": "S6#0007-00:41:18.292_S6#0008-00:30:14.003",
+    "L4_frame": "S6#0007-59419_S6#0008-43492",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Presence",
+        "Options": "A. Yes, a wooden desk\nB. No, there is no mention of a desk",
+        "Question": "Based on the description of the motel room where the sting operation takes place, is there a desk present in the scene?"
+      }
+    ]
+  },
+  "3662": {
+    "L2_time": "S6#0008-00:07:43.360_S6#0008-00:08:30.198",
+    "L2_frame": "S6#0008-11109_S6#0008-12232",
+    "L3_time": "S6#0008-00:04:24.994_S6#0008-00:12:00.325",
+    "L3_frame": "S6#0008-06353_S6#0008-17270",
+    "L4_time": "S6#0007-00:41:18.292_S6#0008-00:30:14.003",
+    "L4_frame": "S6#0007-59419_S6#0008-43492",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Presence",
+        "Options": "A. No, his relationship status is not discussed\nB. Yes, Miles reminds James that he already has a girlfriend\nC. No, it is implied he is trying to date the woman from the museum\nD. No, Miles states that he is single\nE. Yes, Miles says he and his girlfriend are breaking up\nF. Yes, James asks Miles about his girlfriend",
+        "Question": "During the conversation in the L.A.P.D. office, is there any mention of Miles Straume having a girlfriend?"
+      }
+    ]
+  },
+  "3672": {
+    "L2_time": "S6#0008-00:20:38.135_S6#0008-00:23:47.616",
+    "L2_frame": "S6#0008-29685_S6#0008-34228",
+    "L3_time": "S6#0008-00:12:00.367_S6#0008-00:23:47.616",
+    "L3_frame": "S6#0008-17271_S6#0008-34228",
+    "L4_time": "S6#0007-00:41:18.292_S6#0008-00:30:14.003",
+    "L4_frame": "S6#0007-59419_S6#0008-43492",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. Sawyer was back for one day, while Zoe spent three days.\nB. Sawyer was back for more days than Zoe spent moving bodies.\nC. Zoe spent more days moving bodies than Sawyer has been back.\nD. The duration for both events was one week.\nE. The description does not provide enough information to compare.\nF. The number of days is the same; both events occurred over two days.",
+        "Question": "How does the number of days James Sawyer Ford has been back from his trip to Sydney compare to the number of days Zoe spent moving the bodies of her deceased campmates?"
+      }
+    ]
+  },
+  "3702": {
+    "L2_time": "S6#0009-00:19:13.634_S6#0009-00:20:44.725",
+    "L2_frame": "S6#0009-27659_S6#0009-29843",
+    "L3_time": "S6#0009-00:15:12.684_S6#0009-00:34:31.302",
+    "L3_frame": "S6#0009-21882_S6#0009-49661",
+    "L4_time": "S6#0008-00:30:14.044_S6#0009-00:46:56.047",
+    "L4_frame": "S6#0008-43493_S6#0009-67517",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "State Transition",
+        "Options": "A. Terror\nB. Anger\nC. Hope\nD. Apathy\nE. Curiosity\nF. Confusion",
+        "Question": "When Richard Alpert first stares upward at the grated hatch as the massacre is interrupted, what is his emotional state?"
+      }
+    ]
+  },
+  "3744": {
+    "L2_time": "S6#0010-00:31:56.355_S6#0010-00:32:33.517",
+    "L2_frame": "S6#0010-45946_S6#0010-46837",
+    "L3_time": "S6#0010-00:31:06.430_S6#0010-00:36:43.851",
+    "L3_frame": "S6#0010-44749_S6#0010-52839",
+    "L4_time": "S6#0010-00:00:00.000_S6#0011-00:07:43.818",
+    "L4_frame": "S6#0010-00000_S6#0011-11120",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Character Clothing",
+        "Options": "A. Black\nB. White\nC. Yellow\nD. Purple\nE. Pink\nF. Blue\nG. Green",
+        "Question": "As Jin-Soo Kwon scrolls through the pictures on the camera in the industrial warehouse, what is the color of the dress Ji Yeon is seen wearing in the photos where she is playing outdoors and touching a dog?"
+      }
+    ]
+  },
+  "3752": {
+    "L2_time": "S6#0010-00:41:43.401_S6#0010-00:42:23.232",
+    "L2_frame": "S6#0010-60021_S6#0010-60976",
+    "L3_time": "S6#0010-00:36:43.893_S6#0011-00:02:11.402",
+    "L3_frame": "S6#0010-52840_S6#0011-03150",
+    "L4_time": "S6#0010-00:00:00.000_S6#0011-00:07:43.818",
+    "L4_frame": "S6#0010-00000_S6#0011-11120",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. The arrival of another person on the dock\nB. Sayid making a sudden noise in the water\nC. Desmond attempting to speak or cry out\nD. Zoe complaining about Desmond's weight\nE. Desmond collapsing onto the dock planks\nF. Sayid beginning to emerge from the water",
+        "Question": "In the scene on the wooden dock, what is the immediate event that prompts Seamus to demand to know how much sedative Zoe had used?"
+      }
+    ]
+  },
+  "3757": {
+    "L2_time": "S6#0011-00:04:54.566_S6#0011-00:05:41.363",
+    "L2_frame": "S6#0011-07062_S6#0011-08184",
+    "L3_time": "S6#0011-00:02:11.444_S6#0011-00:07:43.818",
+    "L3_frame": "S6#0011-03151_S6#0011-11120",
+    "L4_time": "S6#0010-00:00:00.000_S6#0011-00:07:43.818",
+    "L4_frame": "S6#0010-00000_S6#0011-11120",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Recipient",
+        "Options": "A. Jin-Soo Kwon\nB. Zoe\nC. Charles Widmore\nD. An armed guard\nE. Desmond Hume\nF. One of Widmore's men",
+        "Question": "During the confrontation outside the industrial building, who is forcefully thrown onto a stretcher that is partially covered by a light sheet?"
+      }
+    ]
+  },
+  "376": {
+    "L2_time": "S1#0012-00:10:30.526_S1#0012-00:11:16.614",
+    "L2_frame": "S1#0012-15117_S1#0012-16222",
+    "L3_time": "S1#0012-00:08:13.764_S1#0012-00:14:54.873",
+    "L3_frame": "S1#0012-11838_S1#0012-21455",
+    "L4_time": "S1#0011-00:33:29.862_S1#0012-00:40:07.801",
+    "L4_frame": "S1#0011-48188_S1#0012-57729",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Reporter\nB. Travel writer\nC. Film director\nD. Architect\nE. Historian\nF. Photographer\nG. Real estate agent",
+        "Question": "In the flashback, when bank manager Hutton asks Kate what brings her to New Mexico, what profession does she claim to have?"
+      }
+    ]
+  },
+  "3766": {
+    "L2_time": "S6#0011-00:14:32.936_S6#0011-00:16:51.575",
+    "L2_frame": "S6#0011-20929_S6#0011-24253",
+    "L3_time": "S6#0011-00:12:30.605_S6#0011-00:23:32.726",
+    "L3_frame": "S6#0011-17996_S6#0011-33871",
+    "L4_time": "S6#0011-00:07:43.860_S6#0011-00:40:42.840",
+    "L4_frame": "S6#0011-11121_S6#0011-58569",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Spatial Location",
+        "Options": "A. Across the aisle from him\nB. In the row behind him\nC. Two rows ahead of him\nD. In the seat directly next to him",
+        "Question": "In Charlie's story about the flight from Sydney, where was the handcuffed Woman sitting in relation to him?"
+      }
+    ]
+  },
+  "3768": {
+    "L2_time": "S6#0011-00:17:31.823_S6#0011-00:19:50.295",
+    "L2_frame": "S6#0011-25218_S6#0011-28538",
+    "L3_time": "S6#0011-00:12:30.605_S6#0011-00:23:32.726",
+    "L3_frame": "S6#0011-17996_S6#0011-33871",
+    "L4_time": "S6#0011-00:07:43.860_S6#0011-00:40:42.840",
+    "L4_frame": "S6#0011-11121_S6#0011-58569",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Causal Inference",
+        "Options": "A. The bar's music changing abruptly\nB. Desmond tapping him on the shoulder\nC. A stranger interrupting him with a question\nD. A sudden memory of his past\nE. Bartender shouting for last call\nF. The sound of a glass breaking\nG. His phone ringing loudly",
+        "Question": "During their conversation in the bar, what specific event does Charlie blame for breaking him out of his euphoric, peaceful vision?"
+      }
+    ]
+  },
+  "3771": {
+    "L2_time": "S6#0011-00:22:48.724_S6#0011-00:23:32.726",
+    "L2_frame": "S6#0011-32816_S6#0011-33871",
+    "L3_time": "S6#0011-00:12:30.605_S6#0011-00:23:32.726",
+    "L3_frame": "S6#0011-17996_S6#0011-33871",
+    "L4_time": "S6#0011-00:07:43.860_S6#0011-00:40:42.840",
+    "L4_frame": "S6#0011-11121_S6#0011-58569",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Character Relation",
+        "Options": "A. He laughs in disbelief.\nB. He advises Desmond to provide a family member instead.\nC. He smiles sympathetically at Desmond.\nD. He shows a look of surprise and confusion.\nE. He asks follow-up questions in a concerned tone.\nF. He makes note of the name without expression.",
+        "Question": "How does the technician react verbally or with his expression after Desmond provides the name of his employer, Charles Widmore, as an emergency contact?"
+      }
+    ]
+  },
+  "378": {
+    "L2_time": "S1#0012-00:13:20.571_S1#0012-00:14:54.873",
+    "L2_frame": "S1#0012-19194_S1#0012-21455",
+    "L3_time": "S1#0012-00:08:13.764_S1#0012-00:14:54.873",
+    "L3_frame": "S1#0012-11838_S1#0012-21455",
+    "L4_time": "S1#0011-00:33:29.862_S1#0012-00:40:07.801",
+    "L4_frame": "S1#0011-48188_S1#0012-57729",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Character Clothing",
+        "Options": "A. A small bow\nB. Silver rings\nC. Gold sequins\nD. White trim\nE. Green stripes\nF. Black lace\nG. Blue polka dots",
+        "Question": "When Shannon is lying on the beach before Sayid arrives, what decorative detail is mentioned on her red bikini top?"
+      }
+    ]
+  },
+  "3781": {
+    "L2_time": "S6#0011-00:34:27.715_S6#0011-00:36:04.729",
+    "L2_frame": "S6#0011-49575_S6#0011-51901",
+    "L3_time": "S6#0011-00:32:08.325_S6#0011-00:40:42.840",
+    "L3_frame": "S6#0011-46233_S6#0011-58569",
+    "L4_time": "S6#0011-00:07:43.860_S6#0011-00:40:42.840",
+    "L4_frame": "S6#0011-11121_S6#0011-58569",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. Equal to\nB. No clothing is mentioned for Desmond.\nC. No clothing is mentioned for Daniel.\nD. Greater than\nE. Less than\nF. No clothing is mentioned for either character.",
+        "Question": "In the description of the park bench scene, is the number of clothing items mentioned for Daniel greater than, less than, or equal to the number of clothing items mentioned for Desmond?"
+      }
+    ]
+  },
+  "3787": {
+    "L2_time": "S6#0012-00:00:42.772_S6#0012-00:01:34.866",
+    "L2_frame": "S6#0012-01025_S6#0012-02274",
+    "L3_time": "S6#0011-00:40:42.882_S6#0012-00:06:23.530",
+    "L3_frame": "S6#0011-58570_S6#0012-09195",
+    "L4_time": "S6#0011-00:40:42.882_S6#0012-00:36:52.234",
+    "L4_frame": "S6#0011-58570_S6#0012-53040",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Event Background",
+        "Options": "A. Reyes Philanthropy Center for Kids\nB. Hurley Home for Youth\nC. Hurley Children's Hospital\nD. Hugo Reyes Youth Foundation\nE. Happy Chicken Playground\nF. Cluck Cluck Kids Playground\nG. Chicken Shack Community Center",
+        "Question": "What is the specific name given to the children's center that Hugo established as part of his charitable efforts?"
+      }
+    ]
+  },
+  "379": {
+    "L2_time": "S1#0012-00:14:54.915_S1#0012-00:15:33.662",
+    "L2_frame": "S1#0012-21456_S1#0012-22385",
+    "L3_time": "S1#0012-00:14:54.915_S1#0012-00:22:02.968",
+    "L3_frame": "S1#0012-21456_S1#0012-31719",
+    "L4_time": "S1#0011-00:33:29.862_S1#0012-00:40:07.801",
+    "L4_frame": "S1#0011-48188_S1#0012-57729",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Mike's suggestion -> James's retort -> Hurley's wish\nB. Hurley's wish -> James's retort -> Mike's suggestion\nC. Hurley's wish -> Mike's suggestion -> James's retort\nD. James's retort -> Hugo's wish -> Mike's suggestion\nE. James's retort -> Mike's suggestion -> Hurley's wish\nF. Mike's suggestion -> Hurley's wish -> James's retort",
+        "Question": "In the conversation about the Halliburton briefcase, what is the correct sequence of these three events: Mike suggests using 'impact velocity', Hurley wishes James good luck, and James confidently retorts to Mike?"
+      }
+    ]
+  },
+  "3807": {
+    "L2_time": "S6#0012-00:25:54.785_S6#0012-00:26:38.996",
+    "L2_frame": "S6#0012-37277_S6#0012-38337",
+    "L3_time": "S6#0012-00:25:54.785_S6#0012-00:32:22.840",
+    "L3_frame": "S6#0012-37277_S6#0012-46581",
+    "L4_time": "S6#0011-00:40:42.882_S6#0012-00:36:52.234",
+    "L4_frame": "S6#0011-58570_S6#0012-53040",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Scene and Location",
+        "Options": "A. The caves by the waterfall\nB. The beach camp\nC. The radio tower\nD. The Orchid station\nE. The Flame station\nF. The Dharma barracks",
+        "Question": "During the tense discussion in the jungle clearing, after Richard retrieves his gear from the fire, what specific location does he insist they need to go to next?"
+      }
+    ]
+  },
+  "3812": {
+    "L2_time": "S6#0012-00:32:22.882_S6#0012-00:33:40.960",
+    "L2_frame": "S6#0012-46582_S6#0012-48454",
+    "L3_time": "S6#0012-00:32:22.882_S6#0012-00:36:52.234",
+    "L3_frame": "S6#0012-46582_S6#0012-53040",
+    "L4_time": "S6#0011-00:40:42.882_S6#0012-00:36:52.234",
+    "L4_frame": "S6#0011-58570_S6#0012-53040",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Appearance",
+        "Options": "A. Light green\nB. Dark grey\nC. Pale yellow\nD. Hot pink\nE. Navy blue\nF. Bright red",
+        "Question": "During the picnic on the shore, what is the specific color of the cardigan Libby is wearing?"
+      }
+    ]
+  },
+  "3831": {
+    "L2_time": "S6#0013-00:12:56.923_S6#0013-00:13:42.427",
+    "L2_frame": "S6#0013-18627_S6#0013-19718",
+    "L3_time": "S6#0013-00:11:36.718_S6#0013-00:17:33.700",
+    "L3_frame": "S6#0013-16704_S6#0013-25263",
+    "L4_time": "S6#0012-00:36:52.276_S6#0013-00:17:33.700",
+    "L4_frame": "S6#0012-53041_S6#0013-25263",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. His walking stick\nB. A smoldering fire\nC. A map\nD. A compass\nE. The radio\nF. A written note",
+        "Question": "In the scene at the survivors' camp, what object serves as the catalyst for Locke's silent rejection of Zoe's terms?"
+      }
+    ]
+  },
+  "3837": {
+    "L2_time": "S6#0013-00:22:07.099_S6#0013-00:22:52.770",
+    "L2_frame": "S6#0013-31818_S6#0013-32913",
+    "L3_time": "S6#0013-00:17:33.742_S6#0013-00:22:52.770",
+    "L3_frame": "S6#0013-25264_S6#0013-32913",
+    "L4_time": "S6#0013-00:17:33.742_S6#0014-00:42:24.067",
+    "L4_frame": "S6#0013-25264_S6#0014-60996",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Position Comparison",
+        "Options": "A. On the sofa next to Nadia.\nB. In Sayid's hands as he ran for the door.\nC. On the kitchen counter.\nD. On the floor next to the white front door.\nE. On the table in the living room.\nF. Partially hidden under a chair.",
+        "Question": "When Detective Miles Straume entered the house to question Nadia, where was the open black suitcase that suggested a hasty escape attempt located?"
+      }
+    ]
+  },
+  "3852": {
+    "L2_time": "S6#0014-00:01:46.377_S6#0014-00:02:57.574",
+    "L2_frame": "S6#0014-02550_S6#0014-04257",
+    "L3_time": "S6#0014-00:01:46.377_S6#0014-00:08:22.315",
+    "L3_frame": "S6#0014-02550_S6#0014-12043",
+    "L4_time": "S6#0013-00:17:33.742_S6#0014-00:42:24.067",
+    "L4_frame": "S6#0013-25264_S6#0014-60996",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Season and Weather",
+        "Options": "A. Dusk\nB. Noon\nC. Dawn\nD. Night\nE. Afternoon\nF. Mid-morning",
+        "Question": "Based on the lighting and environmental cues, what time of day is it when Jack Shephard awakens on Hydra Island and is greeted by Sayid?"
+      }
+    ]
+  },
+  "3856": {
+    "L2_time": "S6#0014-00:06:10.767_S6#0014-00:08:22.315",
+    "L2_frame": "S6#0014-08889_S6#0014-12043",
+    "L3_time": "S6#0014-00:01:46.377_S6#0014-00:08:22.315",
+    "L3_frame": "S6#0014-02550_S6#0014-12043",
+    "L4_time": "S6#0013-00:17:33.742_S6#0014-00:42:24.067",
+    "L4_frame": "S6#0013-25264_S6#0014-60996",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Causal Inference",
+        "Options": "A. The video description does not connect the two events causally\nB. Jack was abducted from the dental office\nC. A mortar attack occurred, leading to Jack being moved to the beach\nD. Bernard drugged Jack and transported him to the beach\nE. Jack fell asleep in his car and had a dream\nF. Jack decided to go for a night swim\nG. Jack took a flight that crashed on the island",
+        "Question": "What event directly caused the sharp transition from the bright, sterile dental office to the dark, chaotic beach scene where Jack was disoriented?"
+      }
+    ]
+  },
+  "3864": {
+    "L2_time": "S6#0014-00:16:52.409_S6#0014-00:18:09.987",
+    "L2_frame": "S6#0014-24273_S6#0014-26133",
+    "L3_time": "S6#0014-00:16:52.409_S6#0014-00:21:47.162",
+    "L3_frame": "S6#0014-24273_S6#0014-31340",
+    "L4_time": "S6#0013-00:17:33.742_S6#0014-00:42:24.067",
+    "L4_frame": "S6#0013-25264_S6#0014-60996",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Character Clothing",
+        "Options": "A. A white button-down shirt\nB. A tan safari shirt\nC. A grey t-shirt\nD. A black t-shirt\nE. A dark blue jacket\nF. A torn brown sweater\nG. A green long-sleeved shirt",
+        "Question": "In the tense moment after the discovery of C4 on the flight, as John Locke explains the nature of the trap, what specific attire is he described as wearing?"
+      }
+    ]
+  },
+  "3884": {
+    "L2_time": "S6#0015-00:00:00.000_S6#0015-00:01:04.669",
+    "L2_frame": "S6#0015-00000_S6#0015-01550",
+    "L3_time": "S6#0015-00:00:00.000_S6#0015-00:05:33.438",
+    "L3_frame": "S6#0015-00000_S6#0015-07994",
+    "L4_time": "S6#0015-00:00:00.000_S6#0015-00:40:26.491",
+    "L4_frame": "S6#0015-00000_S6#0015-58177",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Counting",
+        "Options": "A. 3\nB. 2\nC. 5\nD. 0\nE. 1\nF. 4",
+        "Question": "When Claudia is struggling to rise on the beach, how many parts of her body is she described as clutching or using for support?"
+      }
+    ]
+  },
+  "3917": {
+    "L2_time": "S6#0016-00:04:56.568_S6#0016-00:06:51.725",
+    "L2_frame": "S6#0016-07110_S6#0016-09871",
+    "L3_time": "S6#0016-00:04:56.568_S6#0016-00:11:13.820",
+    "L3_frame": "S6#0016-07110_S6#0016-16155",
+    "L4_time": "S6#0015-00:40:26.491_S6#0016-00:37:02.203",
+    "L4_frame": "S6#0015-58177_S6#0016-53279",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Appearance",
+        "Options": "A. Dark green\nB. Maroon\nC. Bright yellow\nD. White\nE. Black\nF. Light blue\nG. Silver",
+        "Question": "In the school parking lot, John Locke is sitting in his wheelchair next to a specific vehicle. What is the color of this van?"
+      }
+    ]
+  },
+  "3921": {
+    "L2_time": "S6#0016-00:11:13.862_S6#0016-00:13:18.153",
+    "L2_frame": "S6#0016-16156_S6#0016-19136",
+    "L3_time": "S6#0016-00:11:13.862_S6#0016-00:15:35.666",
+    "L3_frame": "S6#0016-16156_S6#0016-22433",
+    "L4_time": "S6#0015-00:40:26.491_S6#0016-00:37:02.203",
+    "L4_frame": "S6#0015-58177_S6#0016-53279",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Scene and Location",
+        "Options": "A. A security office\nB. The L.A.P.D. station\nC. A private investigator's office\nD. A 911 call center\nE. An F.B.I. headquarters\nF. A fire station\nG. A courthouse",
+        "Question": "Following the scene in the Nurse office, where does the video transition to show the other end of Locke's abandoned phone call?"
+      }
+    ]
+  },
+  "3926": {
+    "L2_time": "S6#0016-00:16:58.790_S6#0016-00:17:52.552",
+    "L2_frame": "S6#0016-24426_S6#0016-25715",
+    "L3_time": "S6#0016-00:15:35.707_S6#0016-00:26:16.432",
+    "L3_frame": "S6#0016-22434_S6#0016-37796",
+    "L4_time": "S6#0015-00:40:26.491_S6#0016-00:37:02.203",
+    "L4_frame": "S6#0015-58177_S6#0016-53279",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Position Comparison",
+        "Options": "A. Hidden among the mangroves.\nB. On the dock waiting for him.\nC. Inside the red outrigger canoe.\nD. Submerged in the calm waters.\nE. On John Locke's back.\nF. Strapped to his rifle.\nG. On the shore.",
+        "Question": "During the scene at the weathered wooden dock, where are the metallic or silver briefcases situated when John Locke steps onto the dock?"
+      }
+    ]
+  },
+  "3928": {
+    "L2_time": "S6#0016-00:20:22.995_S6#0016-00:22:04.805",
+    "L2_frame": "S6#0016-29322_S6#0016-31763",
+    "L3_time": "S6#0016-00:15:35.707_S6#0016-00:26:16.432",
+    "L3_frame": "S6#0016-22434_S6#0016-37796",
+    "L4_time": "S6#0015-00:40:26.491_S6#0016-00:37:02.203",
+    "L4_frame": "S6#0015-58177_S6#0016-53279",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Appearance",
+        "Options": "A. Silver\nB. Blue\nC. Black\nD. Red\nE. Green\nF. White",
+        "Question": "When Alex and Ben approach Danielle Rousseau at the school entrance, what is the color of the car she is with?"
+      }
+    ]
+  },
+  "3959": {
+    "L2_time": "S6#0017-00:13:51.685_S6#0017-00:15:49.261",
+    "L2_frame": "S6#0017-19940_S6#0017-22759",
+    "L3_time": "S6#0017-00:09:20.664_S6#0017-00:15:49.261",
+    "L3_frame": "S6#0017-13442_S6#0017-22759",
+    "L4_time": "S6#0016-00:37:02.244_S6#0017-00:21:46.326",
+    "L4_frame": "S6#0016-53280_S6#0017-31320",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. A large rock\nB. A fallen log\nC. A wooden stool\nD. A woven mat\nE. A folding chair\nF. A blanket",
+        "Question": "During the initial peaceful moment, what object serves as a seat for Desmond Hume outside the bamboo hut?"
+      }
+    ]
+  },
+  "3980": {
+    "L2_time": "S6#0017-00:40:46.924_S6#0017-00:42:07.880",
+    "L2_frame": "S6#0017-58667_S6#0017-60608",
+    "L3_time": "S6#0017-00:39:08.993_S6#0017-00:46:03.323",
+    "L3_frame": "S6#0017-56319_S6#0017-66252",
+    "L4_time": "S6#0017-00:21:46.368_S6#0017-00:46:03.323",
+    "L4_frame": "S6#0017-31321_S6#0017-66252",
+    "L5_time": "S6#0001-00:00:00.000_S6#0018-00:57:49.654",
+    "L5_frame": "S6#0001-00000_S6#0018-83188",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Kate's reaction -> Desmond's confirmation -> Dr Pierre Chang's introduction\nB. Desmond's confirmation -> Kate's reaction -> Dr Pierre Chang's introduction\nC. Dr Pierre Chang's introduction -> Kate's reaction -> Desmond's confirmation\nD. Kate's reaction -> Dr Pierre Chang's introduction -> Desmond's confirmation\nE. Desmond's confirmation -> Dr Pierre Chang's introduction -> Kate's reaction\nF. Dr Pierre Chang's introduction -> Desmond's confirmation -> Kate's reaction",
+        "Question": "During the sequence of events at the banquet tent, what is the correct chronological order of these three actions: Dr Pierre Chang introducing the band, Kate Austen reacting to Claire's arrival, and Desmond Hume confirming they are at the right table?"
+      }
+    ]
+  },
+  "40": {
+    "L2_time": "S1#0002-00:08:16.350_S1#0002-00:08:54.263",
+    "L2_frame": "S1#0002-11900_S1#0002-12809",
+    "L3_time": "S1#0002-00:03:50.960_S1#0002-00:08:54.263",
+    "L3_frame": "S1#0002-05537_S1#0002-12809",
+    "L4_time": "S1#0002-00:03:50.960_S1#0003-00:05:55.918",
+    "L4_frame": "S1#0002-05537_S1#0003-08533",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. He asks for more evidence\nB. He agrees with the logic\nC. He dismisses it as irrelevant\nD. He offers an alternative theory\nE. He mocks Sawyer’s deduction\nF. He expresses fear and panic\nG. He remains silent and thoughtful",
+        "Question": "On the beach, after Sawyer presents his theory about the marshal and prisoner, how does Sayid react to the deduction?"
+      }
+    ]
+  },
+  "414": {
+    "L2_time": "S1#0013-00:17:48.630_S1#0013-00:18:45.437",
+    "L2_frame": "S1#0013-25621_S1#0013-26983",
+    "L3_time": "S1#0013-00:15:33.871_S1#0013-00:24:17.268",
+    "L3_frame": "S1#0013-22390_S1#0013-34939",
+    "L4_time": "S1#0012-00:40:07.801_S1#0013-00:42:33.614",
+    "L4_frame": "S1#0012-57729_S1#0013-61225",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Appearance",
+        "Options": "A. Blue\nB. Black\nC. Red\nD. Silver\nE. Green\nF. Gold",
+        "Question": "In the marina scene, what is the color of the pen Boone Carlyle uses to write?"
+      }
+    ]
+  },
+  "430": {
+    "L2_time": "S1#0013-00:37:36.275_S1#0013-00:38:22.196",
+    "L2_frame": "S1#0013-54096_S1#0013-55197",
+    "L3_time": "S1#0013-00:36:08.979_S1#0013-00:42:33.614",
+    "L3_frame": "S1#0013-52003_S1#0013-61225",
+    "L4_time": "S1#0012-00:40:07.801_S1#0013-00:42:33.614",
+    "L4_frame": "S1#0012-57729_S1#0013-61225",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Position Comparison",
+        "Options": "A. The floor.\nB. A stool by the window.\nC. A nearby armchair.\nD. The edge of the bed.\nE. A sofa across the room.\nF. A desk chair.",
+        "Question": "When Shannon is planning their cover story in the Sydney hotel room, from what piece of furniture is she speaking?"
+      }
+    ]
+  },
+  "449": {
+    "L2_time": "S1#0014-00:17:36.910_S1#0014-00:19:25.477",
+    "L2_frame": "S1#0014-25340_S1#0014-27943",
+    "L3_time": "S1#0014-00:16:14.953_S1#0014-00:23:02.611",
+    "L3_frame": "S1#0014-23375_S1#0014-33149",
+    "L4_time": "S1#0014-00:00:00.000_S1#0014-00:35:18.596",
+    "L4_frame": "S1#0014-00000_S1#0014-50795",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Body Movement",
+        "Options": "A. Pacing back and forth in front of the fire\nB. Kneeling on the ground\nC. Sitting inside a makeshift tent\nD. Lying on his back looking at the stars\nE. Sitting on a rock\nF. Standing and leaning against the plane wreckage",
+        "Question": "At the beginning of the night scene in the camp, while John Locke is working intently near a metallic case, what is his initial physical posture?"
+      }
+    ]
+  },
+  "460": {
+    "L2_time": "S1#0014-00:32:10.658_S1#0014-00:33:02.168",
+    "L2_frame": "S1#0014-46289_S1#0014-47524",
+    "L3_time": "S1#0014-00:28:35.652_S1#0014-00:35:18.596",
+    "L3_frame": "S1#0014-41134_S1#0014-50795",
+    "L4_time": "S1#0014-00:00:00.000_S1#0014-00:35:18.596",
+    "L4_frame": "S1#0014-00000_S1#0014-50795",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Shooting Perspective",
+        "Options": "A. A shaky, handheld shot\nB. A low-angle shot looking up at him\nC. An extreme close-up on his eyes\nD. A fast-paced tracking shot\nE. An aerial shot from directly overhead\nF. A point-of-view shot from Walt's perspective\nG. A high-angle shot looking down on him",
+        "Question": "When Michael is left alone in the hallway after Dagne's departure, what specific camera shot is used to emphasize his loneliness beneath the ornate ceiling?"
+      }
+    ]
+  },
+  "476": {
+    "L2_time": "S1#0015-00:07:43.067_S1#0015-00:09:03.481",
+    "L2_frame": "S1#0015-11102_S1#0015-13030",
+    "L3_time": "S1#0015-00:06:01.215_S1#0015-00:11:14.570",
+    "L3_frame": "S1#0015-08660_S1#0015-16173",
+    "L4_time": "S1#0014-00:35:18.638_S1#0015-00:37:23.763",
+    "L4_frame": "S1#0014-50796_S1#0015-53796",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Character Motivation",
+        "Options": "A. His sad story\nB. His stylish clothes\nC. His charming personality\nD. His birthday\nE. A bet they lost\nF. To lure him home",
+        "Question": "In the pub, what humorous reason does Charlie joke is the reason Lucy and her friends are buying him drinks?"
+      }
+    ]
+  },
+  "481": {
+    "L2_time": "S1#0015-00:14:55.082_S1#0015-00:16:25.088",
+    "L2_frame": "S1#0015-21460_S1#0015-23618",
+    "L3_time": "S1#0015-00:11:14.612_S1#0015-00:22:39.588",
+    "L3_frame": "S1#0015-16174_S1#0015-32597",
+    "L4_time": "S1#0014-00:35:18.638_S1#0015-00:37:23.763",
+    "L4_frame": "S1#0014-50796_S1#0015-53796",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Event Background",
+        "Options": "A. Three\nB. Two\nC. One\nD. Six\nE. Four\nF. Five",
+        "Question": "According to Locke's plan explained on the beach at dusk, how many wire traps were going to be deployed around the camp?"
+      }
+    ]
+  },
+  "483": {
+    "L2_time": "S1#0015-00:18:43.852_S1#0015-00:21:03.408",
+    "L2_frame": "S1#0015-26945_S1#0015-30291",
+    "L3_time": "S1#0015-00:11:14.612_S1#0015-00:22:39.588",
+    "L3_frame": "S1#0015-16174_S1#0015-32597",
+    "L4_time": "S1#0014-00:35:18.638_S1#0015-00:37:23.763",
+    "L4_frame": "S1#0014-50796_S1#0015-53796",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A stranger at the bar\nB. Liam\nC. Charlie Pace\nD. The bartender\nE. Tommy\nF. Lucy\nG. Francis Heatherton",
+        "Question": "In the dim, wood-paneled bar after the dinner, who was the first to break the silence by demanding to know what Charlie had done?"
+      }
+    ]
+  },
+  "486": {
+    "L2_time": "S1#0015-00:25:10.155_S1#0015-00:26:49.003",
+    "L2_frame": "S1#0015-36207_S1#0015-38577",
+    "L3_time": "S1#0015-00:22:39.629_S1#0015-00:37:23.763",
+    "L3_frame": "S1#0015-32598_S1#0015-53796",
+    "L4_time": "S1#0014-00:35:18.638_S1#0015-00:37:23.763",
+    "L4_frame": "S1#0014-50796_S1#0015-53796",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Character Change",
+        "Options": "A. He says, 'Thank you, it's beautiful.'\nB. He says, 'I can't accept this.'\nC. He laughs nervously\nD. He murmurs Lucy's name\nE. He remains completely silent\nF. He exclaims, 'This is perfect!'\nG. He asks, 'What is this for?'",
+        "Question": "Upon being presented with the black briefcase by Lucy, what is Charlie's immediate verbal reaction, which shows his disbelief and conflict?"
+      }
+    ]
+  },
+  "504": {
+    "L2_time": "S1#0016-00:11:20.576_S1#0016-00:12:11.252",
+    "L2_frame": "S1#0016-16317_S1#0016-17532",
+    "L3_time": "S1#0016-00:09:04.106_S1#0016-00:14:20.255",
+    "L3_frame": "S1#0016-13045_S1#0016-20625",
+    "L4_time": "S1#0015-00:37:23.804_S1#0016-00:37:49.288",
+    "L4_frame": "S1#0015-53797_S1#0016-54408",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Spatial Location",
+        "Options": "A. Caught in a thicket of bushes\nB. Lying in the middle of a clearing\nC. Floating in a puddle\nD. At the base of a tree\nE. Half-buried in the dirt\nF. Hanging from a branch",
+        "Question": "In the sunlit jungle scene, after Sawyer halts his frantic movement, where is the large, crumpled blue tarp located when he first sees it?"
+      }
+    ]
+  },
+  "518": {
+    "L2_time": "S1#0016-00:26:11.174_S1#0016-00:28:20.470",
+    "L2_frame": "S1#0016-37670_S1#0016-40770",
+    "L3_time": "S1#0016-00:22:00.131_S1#0016-00:28:20.470",
+    "L3_frame": "S1#0016-31651_S1#0016-40770",
+    "L4_time": "S1#0015-00:37:23.804_S1#0016-00:37:49.288",
+    "L4_frame": "S1#0015-53797_S1#0016-54408",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. Counting the day's earnings\nB. Preparing a large order\nC. Closing up for the day\nD. Serving a customer\nE. Cleaning the grill\nF. Talking on the phone",
+        "Question": "As James Sawyer Ford approaches the food truck with resolute purpose, what task is the owner, Frank Sawyer Duckett, engaged in?"
+      }
+    ]
+  },
+  "58": {
+    "L2_time": "S1#0002-00:27:37.510_S1#0002-00:28:46.829",
+    "L2_frame": "S1#0002-39740_S1#0002-41402",
+    "L3_time": "S1#0002-00:23:50.867_S1#0002-00:31:15.937",
+    "L3_frame": "S1#0002-34306_S1#0002-44977",
+    "L4_time": "S1#0002-00:03:50.960_S1#0003-00:05:55.918",
+    "L4_frame": "S1#0002-05537_S1#0003-08533",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Scene and Location",
+        "Options": "A. At a tense makeshift beach camp\nB. On a high, windy cliff\nC. Deep within the jungle\nD. Inside the fuselage of the crashed plane\nE. Aboard a rescue raft\nF. In a properly constructed hut\nG. In a dark and damp cave",
+        "Question": "In the scene featuring Jack and Hurley, where does the emergency surgery take place?"
+      }
+    ]
+  },
+  "588": {
+    "L2_time": "S1#0018-00:22:47.178_S1#0018-00:24:07.550",
+    "L2_frame": "S1#0018-32779_S1#0018-34706",
+    "L3_time": "S1#0018-00:21:25.472_S1#0018-00:29:28.746",
+    "L3_frame": "S1#0018-30820_S1#0018-42407",
+    "L4_time": "S1#0018-00:15:39.501_S1#0018-00:42:26.148",
+    "L4_frame": "S1#0018-22525_S1#0018-61046",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Counting",
+        "Options": "A. Four\nB. Zero\nC. Three\nD. It is not specified.\nE. Two\nF. One",
+        "Question": "After the bridge collapses and the group is split, how many people are in the party led by Jack Shephard on the original side of the ravine?"
+      }
+    ]
+  },
+  "624": {
+    "L2_time": "S1#0019-00:28:25.225_S1#0019-00:29:32.041",
+    "L2_frame": "S1#0019-40884_S1#0019-42486",
+    "L3_time": "S1#0019-00:28:25.225_S1#0019-00:35:20.139",
+    "L3_frame": "S1#0019-40884_S1#0019-50832",
+    "L4_time": "S1#0019-00:00:00.000_S1#0019-00:41:57.995",
+    "L4_frame": "S1#0019-00000_S1#0019-60371",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Recipient",
+        "Options": "A. An older survivor sitting nearby\nB. The person who owned the book\nC. Kate Austen\nD. A character in the book\nE. Dr. Jack Shephard\nF. James Sawyer Ford",
+        "Question": "On the wind-swept beach, after Jack approached a survivor reading a book, who was the recipient of the unexpected diagnosis of hyperopia?"
+      }
+    ]
+  },
+  "671": {
+    "L2_time": "S1#0021-00:04:38.174_S1#0021-00:05:20.675",
+    "L2_frame": "S1#0021-06669_S1#0021-07688",
+    "L3_time": "S1#0021-00:02:35.426_S1#0021-00:11:38.052",
+    "L3_frame": "S1#0021-03726_S1#0021-16736",
+    "L4_time": "S1#0020-00:27:36.176_S1#0021-00:24:12.889",
+    "L4_frame": "S1#0020-39708_S1#0021-34834",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Character Clothing",
+        "Options": "A. Black\nB. Forest green\nC. Dark brown\nD. Maroon\nE. Charcoal grey\nF. Navy blue",
+        "Question": "In the interrogation room scene, as Agent Cole prepares to dictate her terms to Sayid, what is the color of the blazer she is wearing?"
+      }
+    ]
+  },
+  "703": {
+    "L2_time": "S1#0022-00:03:32.316_S1#0022-00:04:59.946",
+    "L2_frame": "S1#0022-05090_S1#0022-07191",
+    "L3_time": "S1#0022-00:00:00.000_S1#0022-00:06:32.079",
+    "L3_frame": "S1#0022-00000_S1#0022-09400",
+    "L4_time": "S1#0021-00:24:12.931_S1#0022-00:27:34.299",
+    "L4_frame": "S1#0021-34835_S1#0022-39663",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Causal Inference",
+        "Options": "A. The final deadline of 'yesterday'.\nB. The information that the monsoon was coming.\nC. The fact that the winds were currently blowing north.\nD. The revelation that he was a science Teacher.\nE. The news that they had to wait three or four months.\nF. The realization that being carried south meant heading towards Antarctica.",
+        "Question": "In the beach scene, which revelation from Dr. Arzt caused a profound silence to fall over the entire group of Survivior on the beach?"
+      }
+    ]
+  },
+  "75": {
+    "L2_time": "S1#0003-00:08:10.594_S1#0003-00:09:02.688",
+    "L2_frame": "S1#0003-11762_S1#0003-13011",
+    "L3_time": "S1#0003-00:05:55.960_S1#0003-00:14:43.070",
+    "L3_frame": "S1#0003-08534_S1#0003-21172",
+    "L4_time": "S1#0003-00:05:55.960_S1#0004-00:06:03.801",
+    "L4_frame": "S1#0003-08534_S1#0004-08722",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Ray extends his hand -> Kate notes she is left-handed -> Kate accepts the deal\nB. Kate notes she is left-handed -> Kate accepts the deal -> Ray extends his hand\nC. Kate accepts the deal -> Ray extends his hand -> Ray notes he is left-handed\nD. Kate notes she is left-handed -> Ray extends his hand -> Kate accepts the deal\nE. Kate accepts the deal -> Ray notes he is left-handed -> Ray extends his hand\nF. Ray extends his hand -> Kate accepts the deal -> Kate notes she is left-handed",
+        "Question": "During the final moments of the negotiation in Ray's kitchen, what is the order of these actions: Ray notes he is left-handed, Ray extends his hand, and Kate accepts the deal?"
+      }
+    ]
+  },
+  "783": {
+    "L2_time": "S1#0024-00:13:27.745_S1#0024-00:14:10.788",
+    "L2_frame": "S1#0024-19366_S1#0024-20398",
+    "L3_time": "S1#0024-00:12:29.436_S1#0024-00:17:08.924",
+    "L3_frame": "S1#0024-17968_S1#0024-24669",
+    "L4_time": "S1#0024-00:06:42.298_S1#0024-00:35:53.297",
+    "L4_frame": "S1#0024-09645_S1#0024-51627",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Body Movement",
+        "Options": "A. He rolls his eyes\nB. He glares at Jin-Soo Kwon\nC. He turns his back on Mike\nD. He starts singing loudly\nE. He smirks to himself\nF. He shrugs his shoulders",
+        "Question": "After Mike teases him about Bob Marley, what is the final described action of James before the raft continues its journey?"
+      }
+    ]
+  },
+  "792": {
+    "L2_time": "S1#0024-00:23:25.050_S1#0024-00:25:17.245",
+    "L2_frame": "S1#0024-33687_S1#0024-36377",
+    "L3_time": "S1#0024-00:23:25.050_S1#0024-00:29:38.631",
+    "L3_frame": "S1#0024-33687_S1#0024-42644",
+    "L4_time": "S1#0024-00:06:42.298_S1#0024-00:35:53.297",
+    "L4_frame": "S1#0024-09645_S1#0024-51627",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Recipient",
+        "Options": "A. Claire Littleton\nB. Sun-Hwa Kwon\nC. Rousseau\nD. Shannon Rutherford\nE. Charlie Pace\nF. The other survivors",
+        "Question": "When Sayid took charge on the beach, who was the subject of his questioning as he tried to get details about the abductor?"
+      }
+    ]
+  },
+  "818": {
+    "L2_time": "S1#0025-00:15:10.722_S1#0025-00:16:19.750",
+    "L2_frame": "S1#0025-21835_S1#0025-23490",
+    "L3_time": "S1#0025-00:10:58.262_S1#0025-00:16:19.750",
+    "L3_frame": "S1#0025-15782_S1#0025-23490",
+    "L4_time": "S1#0024-00:35:53.339_S1#0025-00:16:19.750",
+    "L4_frame": "S1#0024-51628_S1#0025-23490",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. A brown leather duffel bag\nB. A set of golf clubs\nC. A gray messenger bag\nD. A large green backpack\nE. A red carry-on bag\nF. A black rolling suitcase",
+        "Question": "Just before boarding the plane at Gate 23, after the Woman in a coat hands his ticket back, what specific item of luggage does Hugo grab?"
+      }
+    ]
+  },
+  "821": {
+    "L2_time": "S1#0025-00:19:27.729_S1#0025-00:20:21.950",
+    "L2_frame": "S1#0025-27997_S1#0025-29297",
+    "L3_time": "S1#0025-00:16:19.791_S1#0025-00:24:22.774",
+    "L3_frame": "S1#0025-23491_S1#0025-35071",
+    "L4_time": "S1#0025-00:16:19.791_S1#0025-00:42:34.406",
+    "L4_frame": "S1#0025-23491_S1#0025-61244",
+    "L5_time": "S1#0001-00:00:00.000_S1#0025-00:42:34.406",
+    "L5_frame": "S1#0001-00000_S1#0025-61244",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Body Movement",
+        "Options": "A. He asks to speak to a manager\nB. He refuses out of pride\nC. He ignores the offer\nD. He agrees\nE. He begins to cry\nF. He hesitates and asks for another option",
+        "Question": "At the boarding gate, what is John Locke's immediate reaction to the proposal from Flight Attendant 2?"
+      }
+    ]
+  },
+  "881": {
+    "L2_time": "S2#0002-00:12:46.370_S2#0002-00:14:54.706",
+    "L2_frame": "S2#0002-18374_S2#0002-21451",
+    "L3_time": "S2#0002-00:06:16.230_S2#0002-00:19:20.389",
+    "L3_frame": "S2#0002-09020_S2#0002-27821",
+    "L4_time": "S2#0001-00:00:00.000_S2#0002-00:19:20.389",
+    "L4_frame": "S2#0001-00000_S2#0002-27821",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Event Summary",
+        "Options": "A. His relationship with his own parents\nB. His educational background\nC. His criminal record\nD. His recent accident and subsequent medical expenses\nE. His employment history and income\nF. His social life and dating history",
+        "Question": "After grilling Michael about his separation from Walt, what new topic does Lizzy Calloway introduce to further challenge Michael's stability and competence as a parent?"
+      }
+    ]
+  },
+  "940": {
+    "L2_time": "S2#0004-00:11:52.191_S2#0004-00:12:40.155",
+    "L2_frame": "S2#0004-17075_S2#0004-18225",
+    "L3_time": "S2#0004-00:11:04.602_S2#0004-00:15:52.890",
+    "L3_frame": "S2#0004-15934_S2#0004-22846",
+    "L4_time": "S2#0004-00:11:04.602_S2#0004-00:38:50.641",
+    "L4_frame": "S2#0004-15934_S2#0004-55879",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Character Clothing",
+        "Options": "A. A short-sleeved t-shirt\nB. A long-sleeved sweater\nC. A sleeveless button-up shirt",
+        "Question": "In the dimly lit bunker pantry scene, when Rose Nadler expresses her astonishment, what type of shirt is Jack Shephard Doctor wearing?"
+      }
+    ]
+  },
+  "982": {
+    "L2_time": "S2#0005-00:26:24.813_S2#0005-00:27:22.495",
+    "L2_frame": "S2#0005-37997_S2#0005-39380",
+    "L3_time": "S2#0005-00:20:03.890_S2#0005-00:28:19.636",
+    "L3_frame": "S2#0005-28864_S2#0005-40750",
+    "L4_time": "S2#0004-00:38:50.683_S2#0005-00:41:38.183",
+    "L4_frame": "S2#0004-55880_S2#0005-59896",
+    "L5_time": "S2#0001-00:00:00.000_S2#0024-00:42:27.900",
+    "L5_frame": "S2#0001-00000_S2#0024-61088",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Event Background",
+        "Options": "A. A lit candle\nB. A menu\nC. A small plate of appetizers\nD. A bowl of fruit\nE. A single pink rose\nF. A silver nameplate\nG. Some wine glasses",
+        "Question": "In the scene where Sun-Hwa Kwon and Jae-Hyeok Lee are having an arranged date, what specific item is described as being on the small table between them, besides the red cloth and a lamp?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3818 @@
+{
+  "1008": {
+    "L2_time": "S3#0003-00:34:09.089_S3#0003-00:34:56.303",
+    "L2_frame": "S3#0003-49129_S3#0003-50261",
+    "L3_time": "S3#0003-00:31:12.579_S3#0003-00:35:37.135",
+    "L3_frame": "S3#0003-44897_S3#0003-51240",
+    "L4_time": "S3#0003-00:31:12.579_S3#0004-00:21:24.992",
+    "L4_frame": "S3#0003-44897_S3#0004-30809",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Recipient",
+        "Options": "A. The bald Bar Fighter\nB. A balding man in black\nC. An unconscious Bystander\nD. Tweaker\nE. A long-haired man with glasses\nF. Hank's partner",
+        "Question": "In the violent brawl that erupts in the dimly lit bar, after the bald Bar Fighter lands the first punch, who does Hank Schrader slam against the wooden bar?"
+      }
+    ]
+  },
+  "1010": {
+    "L2_time": "S3#0003-00:35:37.135_S3#0003-00:37:19.195",
+    "L2_frame": "S3#0003-51240_S3#0003-53687",
+    "L3_time": "S3#0003-00:35:37.135_S3#0003-00:41:23.064",
+    "L3_frame": "S3#0003-51240_S3#0003-59534",
+    "L4_time": "S3#0003-00:31:12.579_S3#0004-00:21:24.992",
+    "L4_frame": "S3#0003-44897_S3#0004-30809",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Distinctive Features",
+        "Options": "A. Sad and teary\nB. Fearful and wide\nC. Vacant and unfocused\nD. Sharp and focused\nE. Drowsy and heavy-lidded\nF. Shifty and nervous",
+        "Question": "Once Jesse has the respirator on in the RV lab, how does his gaze appear when viewed through the visor?"
+      }
+    ]
+  },
+  "103": {
+    "L2_time": "S1#0003-00:00:37.162_S1#0003-00:01:39.224",
+    "L2_frame": "S1#0003-00891_S1#0003-02379",
+    "L3_time": "S1#0002-00:44:15.027_S1#0003-00:03:18.198",
+    "L3_frame": "S1#0002-63657_S1#0003-04752",
+    "L4_time": "S1#0002-00:44:15.027_S1#0003-00:20:05.496",
+    "L4_frame": "S1#0002-63657_S1#0003-28903",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. The percentage of Oxygen is more than double the combined value.\nB. The description does not provide enough information.\nC. The percentage of Oxygen is slightly smaller.\nD. The combined percentage of Carbon, Nitrogen, and Calcium is greater.\nE. The percentage of Oxygen is greater.\nF. The two values are exactly equal.",
+        "Question": "When Gretchen provides the elemental values, which is greater: the percentage of Oxygen or the combined percentage of Carbon, Nitrogen, and Calcium?"
+      }
+    ]
+  },
+  "1039": {
+    "L2_time": "S3#0004-00:17:04.190_S3#0004-00:18:13.718",
+    "L2_frame": "S3#0004-24556_S3#0004-26223",
+    "L3_time": "S3#0004-00:17:04.190_S3#0004-00:21:24.992",
+    "L3_frame": "S3#0004-24556_S3#0004-30809",
+    "L4_time": "S3#0003-00:31:12.579_S3#0004-00:21:24.992",
+    "L4_frame": "S3#0003-44897_S3#0004-30809",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. His partner, Gomez\nB. His superior at the DEA\nC. An airport security officer\nD. His wife, Marie\nE. The sheriff on the phone\nF. An FBI agent\nG. The airline staff",
+        "Question": "Inside the airport terminal, after learning about the blue meth, who does Hank seek confirmation from before making his final decision?"
+      }
+    ]
+  },
+  "1044": {
+    "L2_time": "S3#0004-00:22:36.522_S3#0004-00:23:19.773",
+    "L2_frame": "S3#0004-32524_S3#0004-33561",
+    "L3_time": "S3#0004-00:21:25.034_S3#0004-00:25:08.590",
+    "L3_frame": "S3#0004-30810_S3#0004-36170",
+    "L4_time": "S3#0004-00:21:25.034_S3#0005-00:09:37.410",
+    "L4_frame": "S3#0004-30810_S3#0005-13844",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. No one, the supplies are already organized\nB. The office manager\nC. A janitor\nD. A female colleague\nE. Skyler's sister, Marie\nF. A male intern\nG. Skyler White",
+        "Question": "When an interruption occurs in the copy room, who is the person that busies herself with organizing supplies?"
+      }
+    ]
+  },
+  "105": {
+    "L2_time": "S1#0003-00:02:39.576_S1#0003-00:03:18.198",
+    "L2_frame": "S1#0003-03826_S1#0003-04752",
+    "L3_time": "S1#0002-00:44:15.027_S1#0003-00:03:18.198",
+    "L3_frame": "S1#0002-63657_S1#0003-04752",
+    "L4_time": "S1#0002-00:44:15.027_S1#0003-00:20:05.496",
+    "L4_frame": "S1#0002-63657_S1#0003-28903",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Appearance",
+        "Options": "A. Blue\nB. White\nC. Red\nD. Yellow\nE. Grey\nF. Green",
+        "Question": "In the present-day dimly lit bathroom, what color is the plastic bucket from which Walter White pours the thick, red, bloody liquid?"
+      }
+    ]
+  },
+  "1052": {
+    "L2_time": "S3#0004-00:30:20.152_S3#0004-00:30:56.480",
+    "L2_frame": "S3#0004-43640_S3#0004-44511",
+    "L3_time": "S3#0004-00:29:33.730_S3#0004-00:33:15.619",
+    "L3_frame": "S3#0004-42527_S3#0004-47847",
+    "L4_time": "S3#0004-00:21:25.034_S3#0005-00:09:37.410",
+    "L4_frame": "S3#0004-30810_S3#0005-13844",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. Gus refers to the cartel as 'animals'.\nB. Gus asks about Walter's lawyer.\nC. Gus ends the conversation.\nD. Gus drives away.\nE. Mike advises Gus to use his authority directly to make someone return to work.\nF. Gus calls Walter White.",
+        "Question": "What happens immediately after Gus Fring reviews file details in a car with methodical precision?"
+      }
+    ]
+  },
+  "1060": {
+    "L2_time": "S3#0004-00:37:09.102_S3#0004-00:38:03.156",
+    "L2_frame": "S3#0004-53445_S3#0004-54741",
+    "L3_time": "S3#0004-00:33:15.660_S3#0004-00:38:03.156",
+    "L3_frame": "S3#0004-47848_S3#0004-54741",
+    "L4_time": "S3#0004-00:21:25.034_S3#0005-00:09:37.410",
+    "L4_frame": "S3#0004-30810_S3#0005-13844",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. The ATM\nB. The convenience store entrance\nC. The advertisement sign\nD. The ice freezer\nE. The gas pumps\nF. His SUV",
+        "Question": "After Hank Schrader swung open his car door and walked purposefully across the sun-scorched lot at the Big Chief Gas Station Market, what was his immediate destination?"
+      }
+    ]
+  },
+  "1064": {
+    "L2_time": "S3#0004-00:41:13.554_S3#0004-00:42:18.244",
+    "L2_frame": "S3#0004-59306_S3#0004-60857",
+    "L3_time": "S3#0004-00:38:03.198_S3#0004-00:44:45.892",
+    "L3_frame": "S3#0004-54742_S3#0004-64397",
+    "L4_time": "S3#0004-00:21:25.034_S3#0005-00:09:37.410",
+    "L4_frame": "S3#0004-30810_S3#0005-13844",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. It reverses, then stops, then passes a dumpster.\nB. It stops, then reverses, then passes a dumpster.\nC. It stops, then passes a dumpster, then reverses.\nD. It passes a dumpster, then turns, then stops.\nE. It passes a dumpster, then reverses, then stops.\nF. It reverses, then passes a dumpster, then stops.",
+        "Question": "In the industrial area, after the silver Chevrolet first appears, what is the correct sequence of its movements leading up to Jesse's confrontation?"
+      }
+    ]
+  },
+  "1076": {
+    "L2_time": "S3#0005-00:06:16.209_S3#0005-00:06:59.002",
+    "L2_frame": "S3#0005-09020_S3#0005-10046",
+    "L3_time": "S3#0005-00:03:10.232_S3#0005-00:09:37.410",
+    "L3_frame": "S3#0005-04561_S3#0005-13844",
+    "L4_time": "S3#0004-00:21:25.034_S3#0005-00:09:37.410",
+    "L4_frame": "S3#0004-30810_S3#0005-13844",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. Clasping them together\nB. Adjusting her hair\nC. Holding a cup of coffee\nD. Waving them in the air\nE. Hanging naturally\nF. Touching the vanity\nG. Holding a book",
+        "Question": "When Skyler White is in the luxurious bathroom, what is she doing with her hands as she expresses her awe and pleasure for the floor?"
+      }
+    ]
+  },
+  "1080": {
+    "L2_time": "S3#0005-00:10:14.614_S3#0005-00:11:29.314",
+    "L2_frame": "S3#0005-14736_S3#0005-16527",
+    "L3_time": "S3#0005-00:09:37.452_S3#0005-00:12:53.106",
+    "L3_frame": "S3#0005-13845_S3#0005-18536",
+    "L4_time": "S3#0005-00:09:37.452_S3#0006-00:04:19.551",
+    "L4_frame": "S3#0005-13845_S3#0006-06223",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Distinctive Features",
+        "Options": "A. Making a phone call for backup\nB. Staring blankly out the window\nC. Tapping his fingers on the dashboard\nD. Checking his phone repeatedly\nE. Muttering to himself\nF. Polishing his badge",
+        "Question": "While sitting in the surveillance vehicle after his disagreement with Gomez, Hank's growing fixation on the situation was made apparent. What was he doing that demonstrated this?"
+      }
+    ]
+  },
+  "109": {
+    "L2_time": "S1#0003-00:07:10.263_S1#0003-00:07:53.765",
+    "L2_frame": "S1#0003-10316_S1#0003-11359",
+    "L3_time": "S1#0003-00:03:18.240_S1#0003-00:11:04.455",
+    "L3_frame": "S1#0003-04753_S1#0003-15931",
+    "L4_time": "S1#0002-00:44:15.027_S1#0003-00:20:05.496",
+    "L4_frame": "S1#0002-63657_S1#0003-28903",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Position Comparison",
+        "Options": "A. Krazy-8 sitting on the floor\nB. The wooden stairs leading out\nC. A filthy toilet filled with residue\nD. The vertical support post\nE. A small window letting in dim light\nF. A cluttered workbench\nG. A puddle of water on the floor",
+        "Question": "When Walter White enters the basement scene to deal with the chemical waste, what is he directly facing before he attempts to use the bucket?"
+      }
+    ]
+  },
+  "1096": {
+    "L2_time": "S3#0005-00:26:51.318_S3#0005-00:27:30.440",
+    "L2_frame": "S3#0005-38633_S3#0005-39571",
+    "L3_time": "S3#0005-00:25:25.899_S3#0005-00:29:37.609",
+    "L3_frame": "S3#0005-36585_S3#0005-42620",
+    "L4_time": "S3#0005-00:09:37.452_S3#0006-00:04:19.551",
+    "L4_frame": "S3#0005-13845_S3#0006-06223",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Object Appearance",
+        "Options": "A. A large brown satchel\nB. A small red handbag\nC. A standard-sized white tote\nD. A medium-sized black handbag\nE. A tiny blue clutch\nF. A compact yellow purse\nG. An oversized green handbag",
+        "Question": "In the quiet, modern bathroom, as Skyler White distractedly reaches for it, what is the described color and size of the handbag on the counter?"
+      }
+    ]
+  },
+  "11": {
+    "L2_time": "S1#0001-00:11:07.709_S1#0001-00:12:04.849",
+    "L2_frame": "S1#0001-16009_S1#0001-17379",
+    "L3_time": "S1#0001-00:10:05.271_S1#0001-00:16:03.838",
+    "L3_frame": "S1#0001-14512_S1#0001-23109",
+    "L4_time": "S1#0001-00:00:00.000_S1#0001-00:20:02.451",
+    "L4_frame": "S1#0001-00000_S1#0001-28830",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Character Clothing",
+        "Options": "A. A brown button-up shirt\nB. A black polo shirt\nC. A red Hawaiian shirt\nD. A white t-shirt\nE. A green plaid shirt\nF. A blue button-up shirt\nG. A striped long-sleeve shirt\nH. A grey hoodie",
+        "Question": "During Walter White's 50th birthday party, when Hank Schrader is displaying his Glock 22 to the group in the living room, what specific type of shirt is Hank wearing?"
+      }
+    ]
+  },
+  "111": {
+    "L2_time": "S1#0003-00:09:04.544_S1#0003-00:10:06.564",
+    "L2_frame": "S1#0003-13056_S1#0003-14543",
+    "L3_time": "S1#0003-00:03:18.240_S1#0003-00:11:04.455",
+    "L3_frame": "S1#0003-04753_S1#0003-15931",
+    "L4_time": "S1#0002-00:44:15.027_S1#0003-00:20:05.496",
+    "L4_frame": "S1#0002-63657_S1#0003-28903",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Event Background",
+        "Options": "A. Creating a small explosion with thermite\nB. Making grape soda to demonstrate carbon dioxide\nC. Showing the properties of alkali metals in water\nD. Demonstrating combustion with magnesium strips\nE. Crystallizing sugar to make rock candy\nF. Titrating an acid with a base\nG. Explaining chemical bonds with molecular models",
+        "Question": "When Krazy-8 recalls a memory from Walter's past as a teacher in the basement, what specific science demonstration does he mention to shock Walter?"
+      }
+    ]
+  },
+  "1114": {
+    "L2_time": "S3#0005-00:43:21.015_S3#0005-00:44:10.398",
+    "L2_frame": "S3#0005-62362_S3#0005-63546",
+    "L3_time": "S3#0005-00:39:10.515_S3#0005-00:44:10.398",
+    "L3_frame": "S3#0005-56356_S3#0005-63546",
+    "L4_time": "S3#0005-00:09:37.452_S3#0006-00:04:19.551",
+    "L4_frame": "S3#0005-13845_S3#0006-06223",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Season and Weather",
+        "Options": "A. Foggy\nB. Overcast\nC. Windy and dusty\nD. Snowy\nE. Dark and rainy\nF. Bright and sunny",
+        "Question": "As Jesse Pinkman storms out of Saul Goodman's office and into the parking lot, what are the prevailing weather conditions described in the scene?"
+      }
+    ]
+  },
+  "1128": {
+    "L2_time": "S3#0006-00:10:58.658_S3#0006-00:11:58.927",
+    "L2_frame": "S3#0006-15792_S3#0006-17237",
+    "L3_time": "S3#0006-00:04:19.593_S3#0006-00:11:58.927",
+    "L3_frame": "S3#0006-06224_S3#0006-17237",
+    "L4_time": "S3#0006-00:04:19.593_S3#0006-00:26:50.818",
+    "L4_frame": "S3#0006-06224_S3#0006-38621",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. A digital tablet\nB. A notepad\nC. A voice recorder\nD. A small notebook\nE. His smartphone\nF. A laptop computer",
+        "Question": "While watching Badger and Skinny Pete from his SUV, what object was Hank Schrader using to record information?"
+      }
+    ]
+  },
+  "1151": {
+    "L2_time": "S3#0006-00:32:16.643_S3#0006-00:32:57.184",
+    "L2_frame": "S3#0006-46433_S3#0006-47405",
+    "L3_time": "S3#0006-00:31:31.139_S3#0006-00:40:06.654",
+    "L3_frame": "S3#0006-45342_S3#0006-57702",
+    "L4_time": "S3#0006-00:26:50.859_S3#0007-00:26:55.030",
+    "L4_frame": "S3#0006-38622_S3#0007-38722",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Motion",
+        "Options": "A. He leaves them open\nB. He struggles to close them\nC. He locks them\nD. He closes them\nE. He slams them shut\nF. He removes one from its hinges",
+        "Question": "After Walter rummages through the overhead cabinets in the RV, what motion does he perform with the cabinet doors?"
+      }
+    ]
+  },
+  "1169": {
+    "L2_time": "S3#0007-00:01:54.197_S3#0007-00:03:01.223",
+    "L2_frame": "S3#0007-02738_S3#0007-04345",
+    "L3_time": "S3#0006-00:44:04.684_S3#0007-00:03:01.223",
+    "L3_frame": "S3#0006-63409_S3#0007-04345",
+    "L4_time": "S3#0006-00:26:50.859_S3#0007-00:26:55.030",
+    "L4_frame": "S3#0006-38622_S3#0007-38722",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "State Transition",
+        "Options": "A. Cold and unconscious\nB. Unharmed and angry\nC. Drenched and terrified\nD. Dry and calm\nE. Warm and relaxed\nF. Clean and happy",
+        "Question": "In the sun-drenched backyard scene, what is the state of the rescued boy after being pulled from the cooler?"
+      }
+    ]
+  },
+  "1188": {
+    "L2_time": "S3#0007-00:20:57.006_S3#0007-00:21:55.189",
+    "L2_frame": "S3#0007-30138_S3#0007-31533",
+    "L3_time": "S3#0007-00:15:54.495_S3#0007-00:21:55.189",
+    "L3_frame": "S3#0007-22885_S3#0007-31533",
+    "L4_time": "S3#0006-00:26:50.859_S3#0007-00:26:55.030",
+    "L4_frame": "S3#0006-38622_S3#0007-38722",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. The person who supplied the solvent\nB. Walter White\nC. A junior chemist\nD. The quality control inspector\nE. The head of the operation via phone\nF. Gale Boetticher",
+        "Question": "Following the confirmation about the trays, who continues the professional line of questioning by asking if the solvent has been filtered?"
+      }
+    ]
+  },
+  "1192": {
+    "L2_time": "S3#0007-00:24:50.322_S3#0007-00:25:49.339",
+    "L2_frame": "S3#0007-35732_S3#0007-37147",
+    "L3_time": "S3#0007-00:21:55.231_S3#0007-00:26:55.030",
+    "L3_frame": "S3#0007-31534_S3#0007-38722",
+    "L4_time": "S3#0006-00:26:50.859_S3#0007-00:26:55.030",
+    "L4_frame": "S3#0006-38622_S3#0007-38722",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. 85 C\nB. 90 C\nC. 75 C\nD. 105 C\nE. 70 C\nF. 100 C",
+        "Question": "In the clandestine laboratory, what temperature does Walter White state was the correct setting for Station Five?"
+      }
+    ]
+  },
+  "1214": {
+    "L2_time": "S3#0008-00:00:44.628_S3#0008-00:01:36.221",
+    "L2_frame": "S3#0008-01070_S3#0008-02307",
+    "L3_time": "S3#0008-00:00:00.000_S3#0008-00:03:29.793",
+    "L3_frame": "S3#0008-00000_S3#0008-05030",
+    "L4_time": "S3#0007-00:26:55.072_S3#0008-00:07:41.169",
+    "L4_frame": "S3#0007-38723_S3#0008-11057",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Event Summary",
+        "Options": "A. He asks how much he owes\nB. He complains about the pain\nC. He asks for a drink of water\nD. He says he can wait alone\nE. He asks what time it is\nF. He asks for a cigarette",
+        "Question": "What is the first thing Jesse says to the orderly after the orderly stops and speaks to him at the pick-up point?"
+      }
+    ]
+  },
+  "1260": {
+    "L2_time": "S3#0009-00:01:47.274_S3#0009-00:02:21.099",
+    "L2_frame": "S3#0009-02572_S3#0009-03383",
+    "L3_time": "S3#0008-00:42:59.702_S3#0009-00:02:21.099",
+    "L3_frame": "S3#0008-61851_S3#0009-03383",
+    "L4_time": "S3#0008-00:33:08.695_S3#0009-00:20:11.627",
+    "L4_frame": "S3#0008-47681_S3#0009-29050",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Motion",
+        "Options": "A. It remains stationary\nB. It detaches\nC. It rolls up\nD. It swings open\nE. It closes\nF. It slides to the side",
+        "Question": "At the loading bay, after the man with the bandana steps back, what is the motion of the truck's large door?"
+      }
+    ]
+  },
+  "1268": {
+    "L2_time": "S3#0009-00:07:44.255_S3#0009-00:08:41.479",
+    "L2_frame": "S3#0009-11131_S3#0009-12503",
+    "L3_time": "S3#0009-00:02:21.141_S3#0009-00:10:15.865",
+    "L3_frame": "S3#0009-03384_S3#0009-14766",
+    "L4_time": "S3#0008-00:33:08.695_S3#0009-00:20:11.627",
+    "L4_frame": "S3#0008-47681_S3#0009-29050",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Event Summary",
+        "Options": "A. The caller hung up immediately.\nB. The caller used a disposable phone.\nC. The caller sent a text message.\nD. The caller used a voice scrambler.\nE. The caller used a payphone.\nF. The caller spoke in a foreign language.",
+        "Question": "In Hank Schrader's dimly lit hospital room, after Hank reveals he received a warning call, what specific detail does he provide about the caller's method, making them untraceable?"
+      }
+    ]
+  },
+  "1279": {
+    "L2_time": "S3#0009-00:18:56.636_S3#0009-00:20:11.627",
+    "L2_frame": "S3#0009-27252_S3#0009-29050",
+    "L3_time": "S3#0009-00:16:19.687_S3#0009-00:20:11.627",
+    "L3_frame": "S3#0009-23489_S3#0009-29050",
+    "L4_time": "S3#0008-00:33:08.695_S3#0009-00:20:11.627",
+    "L4_frame": "S3#0008-47681_S3#0009-29050",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Event Summary",
+        "Options": "A. A nail salon\nB. A car wash\nC. A vending machine company\nD. A laser tag arena\nE. An online retail store\nF. A fast-food restaurant\nG. A real estate agency",
+        "Question": "In the massage parlor, what specific business does Saul Goodman use as a tangible model for his proposed money-laundering scheme for Jesse?"
+      }
+    ]
+  },
+  "1285": {
+    "L2_time": "S3#0009-00:25:10.426_S3#0009-00:26:15.240",
+    "L2_frame": "S3#0009-36214_S3#0009-37768",
+    "L3_time": "S3#0009-00:24:29.635_S3#0009-00:31:07.491",
+    "L3_frame": "S3#0009-35236_S3#0009-44775",
+    "L4_time": "S3#0009-00:20:11.669_S3#0009-00:46:26.492",
+    "L4_frame": "S3#0009-29051_S3#0009-66809",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Event Summary",
+        "Options": "A. Past 90 and towards 100 MPH\nB. Past 100 and towards 110 MPH\nC. Past 80 and towards 90 MPH\nD. Past 40 and towards 50 MPH\nE. Past 50 and towards 60 MPH\nF. Past 60 and towards 70 MPH\nG. Past 70 and towards 80 MPH",
+        "Question": "As Walter White accelerates furiously on the desert highway, at the moment the first car flashes by, what speed range does the speedometer needle surge past and move towards?"
+      }
+    ]
+  },
+  "1296": {
+    "L2_time": "S3#0009-00:35:24.205_S3#0009-00:36:47.997",
+    "L2_frame": "S3#0009-50930_S3#0009-52939",
+    "L3_time": "S3#0009-00:34:41.288_S3#0009-00:37:44.345",
+    "L3_frame": "S3#0009-49901_S3#0009-54290",
+    "L4_time": "S3#0009-00:20:11.669_S3#0009-00:46:26.492",
+    "L4_frame": "S3#0009-29051_S3#0009-66809",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Recipient",
+        "Options": "A. Walter White via a hidden microphone\nB. He is speaking to himself\nC. The police listening in\nD. A potential investor on the phone\nE. His friends, Skinny Pete and Badger\nF. The diner waitress",
+        "Question": "At the conclusion of the diner scene, when Jesse speaks of focusing only on the meth itself, who is the intended audience for this new, focused vision?"
+      }
+    ]
+  },
+  "1299": {
+    "L2_time": "S3#0009-00:37:44.387_S3#0009-00:39:15.645",
+    "L2_frame": "S3#0009-54291_S3#0009-56479",
+    "L3_time": "S3#0009-00:37:44.387_S3#0009-00:46:26.492",
+    "L3_frame": "S3#0009-54291_S3#0009-66809",
+    "L4_time": "S3#0009-00:20:11.669_S3#0009-00:46:26.492",
+    "L4_frame": "S3#0009-29051_S3#0009-66809",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. He apologizes to the group again\nB. He denies using the drug\nC. He describes the horrific effects of the drug\nD. He announces the meth is back\nE. He urges Badger to stay strong\nF. He mourns the absence of the drug\nG. He falls silent and looks ashamed",
+        "Question": "In the support group, what is Skinny Pete's action immediately following Badger's confirmation that they both used the blue meth?"
+      }
+    ]
+  },
+  "1343": {
+    "L2_time": "S3#0010-00:37:04.931_S3#0010-00:37:58.026",
+    "L2_frame": "S3#0010-53345_S3#0010-54618",
+    "L3_time": "S3#0010-00:34:20.725_S3#0010-00:40:19.876",
+    "L3_frame": "S3#0010-49408_S3#0010-58019",
+    "L4_time": "S3#0010-00:28:36.298_S3#0011-00:10:57.448",
+    "L4_frame": "S3#0010-41150_S3#0011-15763",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. He begins to breathe heavily.\nB. He whispers his wish to have died.\nC. He closes his eyes.\nD. He looks away from Jesse.\nE. He lets go of the metal pole.",
+        "Question": "In the lab scene, what is Walter's physical reaction when he imagines the scene and mentions 'being able to hear the lullaby'?"
+      }
+    ]
+  },
+  "1355": {
+    "L2_time": "S3#0011-00:02:59.262_S3#0011-00:03:51.356",
+    "L2_frame": "S3#0011-04298_S3#0011-05547",
+    "L3_time": "S3#0010-00:45:16.923_S3#0011-00:03:51.356",
+    "L3_frame": "S3#0010-65141_S3#0011-05547",
+    "L4_time": "S3#0010-00:28:36.298_S3#0011-00:10:57.448",
+    "L4_frame": "S3#0010-41150_S3#0011-15763",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A radio host\nB. Georgia O’Keeffe\nC. An unnamed narrator\nD. Jesse Pinkman\nE. A character mentioned in a book\nF. A passing stranger\nG. Jane Margolis\nH. Vince Gilligan",
+        "Question": "During the discussion about Georgia O’Keeffe in the parked car, who passionately argues that O’Keeffe kept repainting her door until it was perfect, reflecting a belief in pursuing perfection?"
+      }
+    ]
+  },
+  "1366": {
+    "L2_time": "S3#0011-00:12:46.391_S3#0011-00:13:47.285",
+    "L2_frame": "S3#0011-18375_S3#0011-19835",
+    "L3_time": "S3#0011-00:10:57.490_S3#0011-00:14:32.914",
+    "L3_frame": "S3#0011-15764_S3#0011-20929",
+    "L4_time": "S3#0011-00:10:57.490_S3#0011-00:44:43.639",
+    "L4_frame": "S3#0011-15764_S3#0011-64343",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Body Movement",
+        "Options": "A. She seals it shut.\nB. She places it on the table.\nC. She tears it open.\nD. She hides it.\nE. She hands it to Walter.\nF. She opens an envelope.",
+        "Question": "When Skyler demands to know about 'Ice Station Zebra Associates' in the dining room, what action does she perform with an envelope?"
+      }
+    ]
+  },
+  "1375": {
+    "L2_time": "S3#0011-00:21:34.084_S3#0011-00:22:38.983",
+    "L2_frame": "S3#0011-31027_S3#0011-32583",
+    "L3_time": "S3#0011-00:18:27.273_S3#0011-00:22:38.983",
+    "L3_frame": "S3#0011-26548_S3#0011-32583",
+    "L4_time": "S3#0011-00:10:57.490_S3#0011-00:44:43.639",
+    "L4_frame": "S3#0011-15764_S3#0011-64343",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. She started to laugh.\nB. She silently left the apartment.\nC. She asked Jesse a direct question.\nD. Jesse stood up to greet her.\nE. Brock started playing with his toys.\nF. Andrea tried to convince her further.",
+        "Question": "In Andrea Cantillo’s modest apartment, what happened immediately after the grandmother stood with crossed arms and a stern, unimpressed gaze?"
+      }
+    ]
+  },
+  "1379": {
+    "L2_time": "S3#0011-00:26:25.709_S3#0011-00:27:45.706",
+    "L2_frame": "S3#0011-38019_S3#0011-39937",
+    "L3_time": "S3#0011-00:22:39.024_S3#0011-00:27:45.706",
+    "L3_frame": "S3#0011-32584_S3#0011-39937",
+    "L4_time": "S3#0011-00:10:57.490_S3#0011-00:44:43.639",
+    "L4_frame": "S3#0011-15764_S3#0011-64343",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Skinny Pete\nB. Brock\nC. Tomás\nD. Andrea Cantillo\nE. Jesse\nF. Badger",
+        "Question": "Inside TACO SAL MEXICAN FOOD CARRY-OUT, after Brock asks about firecracker tricks, who is caught off guard and repeats the word 'firecrackers'?"
+      }
+    ]
+  },
+  "1383": {
+    "L2_time": "S3#0011-00:31:10.327_S3#0011-00:32:26.486",
+    "L2_frame": "S3#0011-44843_S3#0011-46669",
+    "L3_time": "S3#0011-00:27:45.747_S3#0011-00:34:19.099",
+    "L3_frame": "S3#0011-39938_S3#0011-49369",
+    "L4_time": "S3#0011-00:10:57.490_S3#0011-00:44:43.639",
+    "L4_frame": "S3#0011-15764_S3#0011-64343",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Body Movement",
+        "Options": "A. She kneels on the floor by the bed.\nB. She pulls the blanket up over him.\nC. She gestures for him to come closer.\nD. She sits beside Jesse.\nE. She walks over and touches his shoulder.\nF. She hands him a glass of water.",
+        "Question": "What physical action does Andrea take in her bedroom that closes the distance between her and Jesse, signaling the beginning of their reconciliation?"
+      }
+    ]
+  },
+  "1406": {
+    "L2_time": "S3#0012-00:10:55.071_S3#0012-00:12:01.846",
+    "L2_frame": "S3#0012-15706_S3#0012-17307",
+    "L3_time": "S3#0012-00:07:42.879_S3#0012-00:14:26.949",
+    "L3_frame": "S3#0012-11098_S3#0012-20786",
+    "L4_time": "S3#0011-00:44:43.681_S3#0012-00:21:59.568",
+    "L4_frame": "S3#0011-64344_S3#0012-31638",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. Less than\nB. Equal to\nC. Greater than\nD. Much less than\nE. Cannot be determined\nF. Much greater than\nG. Slightly less than\nH. Significantly greater than",
+        "Question": "In the quiet bar scene, is the number of people Jesse wants to eliminate greater than, less than, or equal to the number of people who receive hamburgers from that Woman?"
+      }
+    ]
+  },
+  "1423": {
+    "L2_time": "S3#0012-00:27:53.213_S3#0012-00:28:47.017",
+    "L2_frame": "S3#0012-40117_S3#0012-41407",
+    "L3_time": "S3#0012-00:27:10.546_S3#0012-00:30:57.397",
+    "L3_frame": "S3#0012-39094_S3#0012-44533",
+    "L4_time": "S3#0012-00:21:59.610_S3#0012-00:43:22.767",
+    "L4_frame": "S3#0012-31639_S3#0012-62404",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Wendy\nB. Victor\nC. An unknown voice\nD. Jesse Pinkman himself\nE. Mike Ehrmantraut\nF. One of the targets",
+        "Question": "Inside the red car, when Jesse Pinkman questioned where their targets were, who casually replied that they’re always around?"
+      }
+    ]
+  },
+  "1427": {
+    "L2_time": "S3#0012-00:32:06.216_S3#0012-00:33:06.776",
+    "L2_frame": "S3#0012-46183_S3#0012-47635",
+    "L3_time": "S3#0012-00:30:57.439_S3#0012-00:35:47.145",
+    "L3_frame": "S3#0012-44534_S3#0012-51480",
+    "L4_time": "S3#0012-00:21:59.610_S3#0012-00:43:22.767",
+    "L4_frame": "S3#0012-31639_S3#0012-62404",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Jesse says 'No' -> Walter panics -> Mike shows surprise\nB. Jesse appears broken -> Jesse says 'No' -> Walter panics\nC. Jesse says 'No' -> Jesse makes accusation -> Gus challenges him\nD. Mike shows surprise -> Jesse says 'No' -> Walter panics\nE. Jesse appears broken -> Walter panics -> Jesse says 'No'\nF. Walter panics -> Jesse says 'No' -> Mike shows surprise",
+        "Question": "After Gus delivers his ultimatum for peace in the trailer, what is the correct sequence of the next three described events?"
+      }
+    ]
+  },
+  "1429": {
+    "L2_time": "S3#0012-00:34:13.468_S3#0012-00:35:47.145",
+    "L2_frame": "S3#0012-49234_S3#0012-51480",
+    "L3_time": "S3#0012-00:30:57.439_S3#0012-00:35:47.145",
+    "L3_frame": "S3#0012-44534_S3#0012-51480",
+    "L4_time": "S3#0012-00:21:59.610_S3#0012-00:43:22.767",
+    "L4_frame": "S3#0012-31639_S3#0012-62404",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Scene and Location",
+        "Options": "A. Inside a warehouse\nB. In an underground parking garage\nC. Inside a dimly lit trailer\nD. In the back room of a laundromat\nE. At a secluded desert meeting spot\nF. In a restaurant kitchen",
+        "Question": "Where does the opening scene take place, in which Gus Fring forces a handshake between Jesse and the rival dealers?"
+      }
+    ]
+  },
+  "143": {
+    "L2_time": "S1#0003-00:40:01.816_S1#0003-00:40:54.744",
+    "L2_frame": "S1#0003-57586_S1#0003-58855",
+    "L3_time": "S1#0003-00:32:51.136_S1#0003-00:42:16.576",
+    "L3_frame": "S1#0003-47260_S1#0003-60817",
+    "L4_time": "S1#0003-00:20:05.538_S1#0004-00:01:59.453",
+    "L4_frame": "S1#0003-28904_S1#0004-02864",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. The elderly man\nB. One of the elderly women\nC. Jesse Pinkman\nD. An unknown driver\nE. Krazy-8\nF. Walter White",
+        "Question": "After deciding to act, who steers a dark red vintage car through ornate gates and onto a dusty driveway?"
+      }
+    ]
+  },
+  "1443": {
+    "L2_time": "S3#0013-00:02:10.005_S3#0013-00:03:15.946",
+    "L2_frame": "S3#0013-03117_S3#0013-04698",
+    "L3_time": "S3#0012-00:43:22.809_S3#0013-00:05:29.496",
+    "L3_frame": "S3#0012-62405_S3#0013-07900",
+    "L4_time": "S3#0012-00:43:22.809_S3#0013-00:19:24.038",
+    "L4_frame": "S3#0012-62405_S3#0013-27909",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A six-car garage\nB. A wine cellar\nC. A home theater\nD. A tennis court\nE. A panic room\nF. A bowling alley\nG. A swimming pool",
+        "Question": "After Walter dismisses the house and walks away from the bedroom, what luxurious and unnecessary feature does Skyler sarcastically suggest they cannot live without?"
+      }
+    ]
+  },
+  "1472": {
+    "L2_time": "S3#0013-00:31:29.388_S3#0013-00:32:12.806",
+    "L2_frame": "S3#0013-45300_S3#0013-46341",
+    "L3_time": "S3#0013-00:30:32.789_S3#0013-00:37:32.250",
+    "L3_frame": "S3#0013-43943_S3#0013-54000",
+    "L4_time": "S3#0013-00:19:24.080_S3#0013-00:46:25.825",
+    "L4_frame": "S3#0013-27910_S3#0013-66793",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Character Change",
+        "Options": "A. Walter shows signs of approval.\nB. Walter becomes visibly annoyed.\nC. Walter becomes more engaged and talkative.\nD. Walter expresses amusement.\nE. Walter remains silent.\nF. Walter starts to question Saul's humor.",
+        "Question": "When Saul Goodman is making cynical remarks about laser tag, how does Walter White's reaction compare to his initial unimpressed stance in the parking lot?"
+      }
+    ]
+  },
+  "1503": {
+    "L2_time": "S4#0001-00:18:40.786_S4#0001-00:19:52.817",
+    "L2_frame": "S4#0001-26872_S4#0001-28599",
+    "L3_time": "S4#0001-00:16:19.103_S4#0001-00:22:24.635",
+    "L3_frame": "S4#0001-23475_S4#0001-32239",
+    "L4_time": "S4#0001-00:00:00.000_S4#0001-00:22:24.635",
+    "L4_frame": "S4#0001-00000_S4#0001-32239",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Causal Inference",
+        "Options": "A. She hung up the phone\nB. She mentioned Policeman\nC. She threatened to take legal action\nD. She pleaded for Walter's safety\nE. She discovered his location\nF. She knew his real name",
+        "Question": "In the scene at the payphone, after talking with Skyler, what specific information that she mentioned prompts Saul to immediately signal his plan to flee by asking about a passport?"
+      }
+    ]
+  },
+  "1522": {
+    "L2_time": "S4#0001-00:37:47.974_S4#0001-00:38:39.526",
+    "L2_frame": "S4#0001-54377_S4#0001-55613",
+    "L3_time": "S4#0001-00:35:02.684_S4#0001-00:40:24.464",
+    "L3_frame": "S4#0001-50414_S4#0001-58129",
+    "L4_time": "S4#0001-00:22:24.635_S4#0002-00:04:55.921",
+    "L4_frame": "S4#0001-32239_S4#0002-07095",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Spatial Location",
+        "Options": "A. Towards the stainless steel equipment\nB. Underneath a table\nC. Towards the entrance\nD. To the center of the room\nE. Into a large plastic barrel\nF. Away, out of the immediate area\nG. To a drain in the floor",
+        "Question": "In the superlab, after the person in the red hazmat suit grabs Victor, where do they drag the body?"
+      }
+    ]
+  },
+  "1529": {
+    "L2_time": "S4#0001-00:44:57.945_S4#0001-00:45:59.382",
+    "L2_frame": "S4#0001-64686_S4#0001-66159",
+    "L3_time": "S4#0001-00:40:24.505_S4#0001-00:45:59.382",
+    "L3_frame": "S4#0001-58130_S4#0001-66159",
+    "L4_time": "S4#0001-00:22:24.635_S4#0002-00:04:55.921",
+    "L4_frame": "S4#0001-32239_S4#0002-07095",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Skyler White\nB. Walter White\nC. Marie Schrader\nD. A neighbor\nE. Walter Jr.\nF. The bearded musician on the t-shirt",
+        "Question": "In the confrontation that takes place in front of their suburban garage, who breaks the weighted silence by uttering the cryptic phrase 'Kenny Rogers'?"
+      }
+    ]
+  },
+  "1541": {
+    "L2_time": "S4#0002-00:11:29.439_S4#0002-00:12:31.918",
+    "L2_frame": "S4#0002-16530_S4#0002-18028",
+    "L3_time": "S4#0002-00:08:38.685_S4#0002-00:12:31.918",
+    "L3_frame": "S4#0002-12436_S4#0002-18028",
+    "L4_time": "S4#0002-00:04:55.962_S4#0002-00:22:59.378",
+    "L4_frame": "S4#0002-07096_S4#0002-33072",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Event Outcome",
+        "Options": "A. He is revived and takes on the role of the party's DJ\nB. He wakes up and joins Jesse on the couch in silence\nC. He gets into an argument with Skinny Pete and leaves\nD. He remains asleep for the entire duration of the party\nE. He is carried out of the room by other partygoers\nF. He is never seen again after the opening shot",
+        "Question": "What becomes of Badger after he is first seen passed out on the beanbag chair?"
+      }
+    ]
+  },
+  "1544": {
+    "L2_time": "S4#0002-00:14:26.115_S4#0002-00:15:51.826",
+    "L2_frame": "S4#0002-20766_S4#0002-22821",
+    "L3_time": "S4#0002-00:12:31.960_S4#0002-00:17:32.218",
+    "L3_frame": "S4#0002-18029_S4#0002-25228",
+    "L4_time": "S4#0002-00:04:55.962_S4#0002-00:22:59.378",
+    "L4_frame": "S4#0002-07096_S4#0002-33072",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Motion",
+        "Options": "A. He puts it down\nB. He closes it\nC. He focuses on arranging its contents\nD. He opens it wider\nE. He throws it away\nF. He ignores it",
+        "Question": "In the kitchen scene, after Walter White picks up the red apple, what is his next action regarding the brown paper bag?"
+      }
+    ]
+  },
+  "1551": {
+    "L2_time": "S4#0002-00:21:48.098_S4#0002-00:22:59.378",
+    "L2_frame": "S4#0002-31363_S4#0002-33072",
+    "L3_time": "S4#0002-00:17:32.260_S4#0002-00:22:59.378",
+    "L3_frame": "S4#0002-25229_S4#0002-33072",
+    "L4_time": "S4#0002-00:04:55.962_S4#0002-00:22:59.378",
+    "L4_frame": "S4#0002-07096_S4#0002-33072",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. Interior vacuuming\nB. Engine cleaning\nC. Tire rotation\nD. A hand wax\nE. A standard wash\nF. Window tinting",
+        "Question": "After observing the car wash from her vehicle and seeing the silver Toyota Corolla, what specific service does Skyler finally record for that car?"
+      }
+    ]
+  },
+  "1574": {
+    "L2_time": "S4#0003-00:00:58.850_S4#0003-00:01:48.317",
+    "L2_frame": "S4#0003-01411_S4#0003-02597",
+    "L3_time": "S4#0002-00:42:16.117_S4#0003-00:01:48.317",
+    "L3_frame": "S4#0002-60806_S4#0003-02597",
+    "L4_time": "S4#0002-00:22:59.420_S4#0003-00:12:43.179",
+    "L4_frame": "S4#0002-33073_S4#0003-18298",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Distinctive Features",
+        "Options": "A. A cut on his lip\nB. A bruised face\nC. A scar on his forehead\nD. A swollen cheek\nE. A burn mark on his chin\nF. A bandaged nose\nG. A black eye",
+        "Question": "When Walter White pauses on the blood-red floor to look directly at the surveillance camera for the first time, what specific facial injury is highlighted in a later close-up shot?"
+      }
+    ]
+  },
+  "1580": {
+    "L2_time": "S4#0003-00:08:14.869_S4#0003-00:09:12.260",
+    "L2_frame": "S4#0003-11865_S4#0003-13241",
+    "L3_time": "S4#0003-00:06:28.221_S4#0003-00:12:43.179",
+    "L3_frame": "S4#0003-09308_S4#0003-18298",
+    "L4_time": "S4#0002-00:22:59.420_S4#0003-00:12:43.179",
+    "L4_frame": "S4#0002-33073_S4#0003-18298",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "State Transition",
+        "Options": "A. From not religious to individual attention.\nB. From social development to academic focus.\nC. From individual attention to social awkwardness.\nD. From individual attention to religious reasons.\nE. From religious to academic focus.\nF. From not religious to social awkwardness.\nG. From social awkwardness to religious reasons.\nH. From academic focus to social development.",
+        "Question": "How does Marie Schrader's stated reason for homeschooling Eli change during her conversation with Michael Kilbourne at the open house?"
+      }
+    ]
+  },
+  "1591": {
+    "L2_time": "S4#0003-00:19:32.797_S4#0003-00:20:54.170",
+    "L2_frame": "S4#0003-28119_S4#0003-30070",
+    "L3_time": "S4#0003-00:12:43.221_S4#0003-00:20:54.170",
+    "L3_frame": "S4#0003-18299_S4#0003-30070",
+    "L4_time": "S4#0003-00:12:43.221_S4#0003-00:35:27.584",
+    "L4_frame": "S4#0003-18299_S4#0003-51011",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Appearance",
+        "Options": "A. Travertine\nB. Soapstone\nC. Formica\nD. Slate\nE. Granite\nF. Marble\nG. Quartz",
+        "Question": "When Marie asks about renovations in the kitchen, what specific material does she astutely identify the new countertops as being made from?"
+      }
+    ]
+  },
+  "1594": {
+    "L2_time": "S4#0003-00:22:53.539_S4#0003-00:23:52.973",
+    "L2_frame": "S4#0003-32932_S4#0003-34357",
+    "L3_time": "S4#0003-00:20:54.211_S4#0003-00:25:23.439",
+    "L3_frame": "S4#0003-30071_S4#0003-36526",
+    "L4_time": "S4#0003-00:12:43.221_S4#0003-00:35:27.584",
+    "L4_frame": "S4#0003-18299_S4#0003-51011",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Spatial Location",
+        "Options": "A. 2000s\nB. 1950s\nC. 1970s\nD. 1960s\nE. 1980s\nF. 1990s",
+        "Question": "When Marie Schrader is fabricating her past, in what decade does she claim to have been stationed at Upwood in London?"
+      }
+    ]
+  },
+  "1595": {
+    "L2_time": "S4#0003-00:23:53.015_S4#0003-00:24:44.858",
+    "L2_frame": "S4#0003-34358_S4#0003-35601",
+    "L3_time": "S4#0003-00:20:54.211_S4#0003-00:25:23.439",
+    "L3_frame": "S4#0003-30071_S4#0003-36526",
+    "L4_time": "S4#0003-00:12:43.221_S4#0003-00:35:27.584",
+    "L4_frame": "S4#0003-18299_S4#0003-51011",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. 'My daughter is a true fighter.'\nB. 'They are very lucky.'\nC. 'I am so grateful for your kindness.'\nD. 'It was a very difficult time.'\nE. 'We must cherish every moment.'\nF. 'You can't imagine what we went through.'\nG. 'The doctors were miracle workers.'",
+        "Question": "After seeing the homeowners' sympathetic reaction to her story, what did Marie say to them while feigning humility?"
+      }
+    ]
+  },
+  "1599": {
+    "L2_time": "S4#0003-00:28:10.188_S4#0003-00:29:11.792",
+    "L2_frame": "S4#0003-40524_S4#0003-42001",
+    "L3_time": "S4#0003-00:25:23.439_S4#0003-00:30:59.066",
+    "L3_frame": "S4#0003-36526_S4#0003-44573",
+    "L4_time": "S4#0003-00:12:43.221_S4#0003-00:35:27.584",
+    "L4_frame": "S4#0003-18299_S4#0003-51011",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Event Background",
+        "Options": "A. Purple\nB. Red\nC. Blue\nD. Black\nE. Green\nF. Orange\nG. Yellow",
+        "Question": "At the start of the inspection scene at the desolate car wash, a chemical test is performed. What color does the clear liquid in the glass vial turn, signaling the result?"
+      }
+    ]
+  },
+  "1606": {
+    "L2_time": "S4#0003-00:34:04.751_S4#0003-00:35:27.584",
+    "L2_frame": "S4#0003-49025_S4#0003-51011",
+    "L3_time": "S4#0003-00:30:59.107_S4#0003-00:35:27.584",
+    "L3_frame": "S4#0003-44574_S4#0003-51011",
+    "L4_time": "S4#0003-00:12:43.221_S4#0003-00:35:27.584",
+    "L4_frame": "S4#0003-18299_S4#0003-51011",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Character Clothing",
+        "Options": "A. A plain white dress shirt\nB. A black turtleneck\nC. A solid blue t-shirt\nD. A checkered flannel shirt\nE. A light beige shirt\nF. A striped button-down",
+        "Question": "In Hank's recovery room, when Detective Roberts presents the case file, what type of shirt is he wearing beneath his suit?"
+      }
+    ]
+  },
+  "1607": {
+    "L2_time": "S4#0003-00:35:27.626_S4#0003-00:36:47.163",
+    "L2_frame": "S4#0003-51012_S4#0003-52919",
+    "L3_time": "S4#0003-00:35:27.626_S4#0003-00:39:25.905",
+    "L3_frame": "S4#0003-51012_S4#0003-56725",
+    "L4_time": "S4#0003-00:35:27.626_S4#0004-00:15:34.225",
+    "L4_frame": "S4#0003-51012_S4#0004-22399",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Event Background",
+        "Options": "A. Red\nB. Blue\nC. Orange\nD. Black\nE. Yellow\nF. Green\nG. White",
+        "Question": "At the table where Skyler White is meticulously organizing financial papers, what color is the mug that is part of the clutter of household items?"
+      }
+    ]
+  },
+  "1610": {
+    "L2_time": "S4#0003-00:38:26.012_S4#0003-00:39:25.905",
+    "L2_frame": "S4#0003-55289_S4#0003-56725",
+    "L3_time": "S4#0003-00:35:27.626_S4#0003-00:39:25.905",
+    "L3_frame": "S4#0003-51012_S4#0003-56725",
+    "L4_time": "S4#0003-00:35:27.626_S4#0004-00:15:34.225",
+    "L4_frame": "S4#0003-51012_S4#0004-22399",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Appearance",
+        "Options": "A. Yellow\nB. White\nC. Blue\nD. Green\nE. Black\nF. Beige\nG. Red",
+        "Question": "In the tense negotiation scene in the dining room, in the Whites' dining room, what is the specified color of the binder on the table with Skyler's paperwork?"
+      }
+    ]
+  },
+  "1614": {
+    "L2_time": "S4#0003-00:42:21.289_S4#0003-00:43:37.323",
+    "L2_frame": "S4#0003-60930_S4#0003-62753",
+    "L3_time": "S4#0003-00:39:25.947_S4#0003-00:44:48.227",
+    "L3_frame": "S4#0003-56726_S4#0003-64453",
+    "L4_time": "S4#0003-00:35:27.626_S4#0004-00:15:34.225",
+    "L4_frame": "S4#0003-51012_S4#0004-22399",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Recipient",
+        "Options": "A. The mortgage company\nB. The phone company\nC. The credit card company\nD. The water company\nE. The power company\nF. The gas company",
+        "Question": "While listing the ways she has maintained their broke appearance, Skyler mentions asking which specific type of company for an extension?"
+      }
+    ]
+  },
+  "1642": {
+    "L2_time": "S4#0004-00:21:54.939_S4#0004-00:22:27.137",
+    "L2_frame": "S4#0004-31527_S4#0004-32299",
+    "L3_time": "S4#0004-00:21:54.939_S4#0004-00:28:17.404",
+    "L3_frame": "S4#0004-31527_S4#0004-40697",
+    "L4_time": "S4#0004-00:15:34.267_S4#0004-00:40:27.425",
+    "L4_frame": "S4#0004-22400_S4#0004-58200",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. They happen simultaneously\nB. Hank points to the map while talking about composting\nC. Walter finds the hiking map first\nD. The order is not specified\nE. Hank finds the hiking map while Walter mentions composting\nF. Walter mentions composting after finding the map\nG. Hank mentions the composting tips first",
+        "Question": "In the flow of the conversation in Hank's bedroom, which event occurs first: Hank mentioning the indoor composting tips or Walter finding the '21 Day Trek' hiking map?"
+      }
+    ]
+  },
+  "1654": {
+    "L2_time": "S4#0004-00:34:06.002_S4#0004-00:35:19.826",
+    "L2_frame": "S4#0004-49055_S4#0004-50825",
+    "L3_time": "S4#0004-00:28:17.446_S4#0004-00:36:18.134",
+    "L3_frame": "S4#0004-40698_S4#0004-52223",
+    "L4_time": "S4#0004-00:15:34.267_S4#0004-00:40:27.425",
+    "L4_frame": "S4#0004-22400_S4#0004-58200",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Counting",
+        "Options": "A. Three\nB. Two\nC. One\nD. Four\nE. Zero\nF. It is not mentioned",
+        "Question": "When Jesse enters the dim bedroom to get the duffel bag, how many people are already present in that room?"
+      }
+    ]
+  },
+  "1677": {
+    "L2_time": "S4#0005-00:12:51.604_S4#0005-00:13:29.809",
+    "L2_frame": "S4#0005-18500_S4#0005-19416",
+    "L3_time": "S4#0005-00:10:21.663_S4#0005-00:15:07.532",
+    "L3_frame": "S4#0005-14905_S4#0005-21759",
+    "L4_time": "S4#0004-00:40:27.467_S4#0005-00:15:07.532",
+    "L4_frame": "S4#0004-58201_S4#0005-21759",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Body Movement",
+        "Options": "A. Tapping on the notepad\nB. Holding the notepad still\nC. Writing in the notepad\nD. Closing the notepad\nE. Tearing a page out of the notepad\nF. Flipping through the notepad",
+        "Question": "In the close-up shot at the start of the bedroom scene, what specific action is the hand shown performing with the yellow notepad?"
+      }
+    ]
+  },
+  "1699": {
+    "L2_time": "S4#0005-00:33:00.854_S4#0005-00:34:59.431",
+    "L2_frame": "S4#0005-47493_S4#0005-50336",
+    "L3_time": "S4#0005-00:33:00.854_S4#0005-00:39:38.918",
+    "L3_frame": "S4#0005-47493_S4#0005-57037",
+    "L4_time": "S4#0005-00:15:07.573_S4#0006-00:03:39.302",
+    "L4_frame": "S4#0005-21760_S4#0006-05258",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Event Outcome",
+        "Options": "A. The pickup arrived, but Mike sent it away.\nB. The pickup arrived and both Mike and Jesse got in.\nC. The pickup was cancelled by Mike after Jesse appeared.\nD. The call was disconnected before he could finish.\nE. The pickup never showed up.\nF. The pickup arrived and he left before Jesse got there.\nG. The pickup was a trap set by the armed men.",
+        "Question": "What was the result of Mike's phone call to arrange a pickup from Garcia's on Central?"
+      }
+    ]
+  },
+  "1703": {
+    "L2_time": "S4#0005-00:38:37.982_S4#0005-00:39:38.918",
+    "L2_frame": "S4#0005-55576_S4#0005-57037",
+    "L3_time": "S4#0005-00:33:00.854_S4#0005-00:39:38.918",
+    "L3_frame": "S4#0005-47493_S4#0005-57037",
+    "L4_time": "S4#0005-00:15:07.573_S4#0006-00:03:39.302",
+    "L4_frame": "S4#0005-21760_S4#0006-05258",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. The sedan continuing on\nB. Mike confirming the robbery unfolded as planned\nC. Gus asking about injuries\nD. Gus listening in silence\nE. Mike calling Jesse 'the kid’s a hero'\nF. Gus promising reimbursement for vehicle damages\nG. Mike responding cynically about questions\nH. Mike twisting his ankle",
+        "Question": "In the silver sedan scene, which happens first: Gus promising reimbursement for vehicle damages or Mike responding cynically about questions?"
+      }
+    ]
+  },
+  "171": {
+    "L2_time": "S1#0004-00:21:07.892_S1#0004-00:22:14.708",
+    "L2_frame": "S1#0004-30399_S1#0004-32001",
+    "L3_time": "S1#0004-00:15:48.239_S1#0004-00:22:14.708",
+    "L3_frame": "S1#0004-22735_S1#0004-32001",
+    "L4_time": "S1#0004-00:01:59.494_S1#0004-00:22:14.708",
+    "L4_frame": "S1#0004-02865_S1#0004-32001",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Appearance",
+        "Options": "A. Wood\nB. Golden\nC. Bronze\nD. Silver\nE. Plastic\nF. Steel",
+        "Question": "What color is the plaque engraved with the brand name 'TAMPICO' on the white wooden crib?"
+      }
+    ]
+  },
+  "1723": {
+    "L2_time": "S4#0006-00:11:33.401_S4#0006-00:12:54.232",
+    "L2_frame": "S4#0006-16625_S4#0006-18563",
+    "L3_time": "S4#0006-00:07:59.354_S4#0006-00:12:54.232",
+    "L3_frame": "S4#0006-11493_S4#0006-18563",
+    "L4_time": "S4#0006-00:03:39.344_S4#0006-00:29:18.256",
+    "L4_frame": "S4#0006-05259_S4#0006-42156",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. A photograph on the wall\nB. The sounds from the car wash bay\nC. The keys to the car wash\nD. The papers in his hand\nE. Staring intently at Bogdan\nF. The gooseneck lamp on the desk\nG. His mobile phone",
+        "Question": "While Bogdan is delivering his lecture on the hard work of being a boss, what is Walter primarily focused on?"
+      }
+    ]
+  },
+  "1737": {
+    "L2_time": "S4#0006-00:25:03.293_S4#0006-00:26:29.963",
+    "L2_frame": "S4#0006-36043_S4#0006-38121",
+    "L3_time": "S4#0006-00:25:03.293_S4#0006-00:29:18.256",
+    "L3_frame": "S4#0006-36043_S4#0006-42156",
+    "L4_time": "S4#0006-00:03:39.344_S4#0006-00:29:18.256",
+    "L4_frame": "S4#0006-05259_S4#0006-42156",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Body Movement",
+        "Options": "A. Urgently\nB. Reluctantly\nC. Slowly and cautiously\nD. Casually\nE. Secretively\nF. Angrily",
+        "Question": "When Walter White is in the laundry facility, how does he approach the three women folding sheets?"
+      }
+    ]
+  },
+  "1749": {
+    "L2_time": "S4#0006-00:37:05.598_S4#0006-00:37:43.970",
+    "L2_frame": "S4#0006-53361_S4#0006-54281",
+    "L3_time": "S4#0006-00:35:55.987_S4#0006-00:40:47.278",
+    "L3_frame": "S4#0006-51692_S4#0006-58676",
+    "L4_time": "S4#0006-00:29:18.298_S4#0007-00:05:44.553",
+    "L4_frame": "S4#0006-42157_S4#0007-08261",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Appearance",
+        "Options": "A. Plastic\nB. Glass\nC. Stone\nD. Ceramic\nE. Wood\nF. Metal\nG. Rubber",
+        "Question": "In the scene where Jesse's ally intervenes, what is the material of the blue object used to knock Skell forward?"
+      }
+    ]
+  },
+  "1752": {
+    "L2_time": "S4#0006-00:39:28.950_S4#0006-00:40:47.278",
+    "L2_frame": "S4#0006-56798_S4#0006-58676",
+    "L3_time": "S4#0006-00:35:55.987_S4#0006-00:40:47.278",
+    "L3_frame": "S4#0006-51692_S4#0006-58676",
+    "L4_time": "S4#0006-00:29:18.298_S4#0007-00:05:44.553",
+    "L4_frame": "S4#0006-42157_S4#0007-08261",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A diner patron\nB. Gus Fring\nC. An unseen character\nD. Jesse Pinkman\nE. The rivals\nF. Mike Ehrmantraut",
+        "Question": "In the dimly lit diner, after Mike reports on the hijacking and the message, who proposes hiring more personnel to retaliate aggressively?"
+      }
+    ]
+  },
+  "1774": {
+    "L2_time": "S4#0007-00:13:27.932_S4#0007-00:14:10.683",
+    "L2_frame": "S4#0007-19371_S4#0007-20396",
+    "L3_time": "S4#0007-00:10:31.673_S4#0007-00:14:57.188",
+    "L3_frame": "S4#0007-15145_S4#0007-21511",
+    "L4_time": "S4#0007-00:05:44.594_S4#0007-00:30:23.572",
+    "L4_frame": "S4#0007-08262_S4#0007-43722",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Character Clothing",
+        "Options": "A. Green\nB. Yellow\nC. Silver\nD. Black\nE. Blue\nF. Red\nG. Purple",
+        "Question": "In the scene of the conversation at the A1A Car Wash, when Marie suggested a grand opening party, what was the primary color of the purse she was carrying?"
+      }
+    ]
+  },
+  "1786": {
+    "L2_time": "S4#0007-00:25:17.307_S4#0007-00:26:22.706",
+    "L2_frame": "S4#0007-36379_S4#0007-37947",
+    "L3_time": "S4#0007-00:25:17.307_S4#0007-00:30:23.572",
+    "L3_frame": "S4#0007-36379_S4#0007-43722",
+    "L4_time": "S4#0007-00:05:44.594_S4#0007-00:30:23.572",
+    "L4_frame": "S4#0007-08262_S4#0007-43722",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Event Summary",
+        "Options": "A. A discussion about Jesse's future\nB. A review of past events\nC. A personal conversation\nD. Financial negotiations\nE. A plan for distributing a product\nF. A detailed security plan",
+        "Question": "In the pragmatic conference room, while Jesse is occupied with his task in the service area, what is the primary subject of the high-stakes discussion between Mike and Gus?"
+      }
+    ]
+  },
+  "1789": {
+    "L2_time": "S4#0007-00:28:23.076_S4#0007-00:29:26.974",
+    "L2_frame": "S4#0007-40833_S4#0007-42365",
+    "L3_time": "S4#0007-00:25:17.307_S4#0007-00:30:23.572",
+    "L3_frame": "S4#0007-36379_S4#0007-43722",
+    "L4_time": "S4#0007-00:05:44.594_S4#0007-00:30:23.572",
+    "L4_frame": "S4#0007-08262_S4#0007-43722",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. He closed the blinds on the window\nB. He showed Gaff a series of photographs\nC. He looked over at Mike for approval\nD. He took a sip of water\nE. He stood up from his chair\nF. He referenced their prior relationship",
+        "Question": "During the formal negotiation, what did Gus Fring do right before he declared his proposal of fifty-five million dollars?"
+      }
+    ]
+  },
+  "1815": {
+    "L2_time": "S4#0008-00:06:29.556_S4#0008-00:07:46.675",
+    "L2_frame": "S4#0008-09340_S4#0008-11189",
+    "L3_time": "S4#0008-00:03:13.110_S4#0008-00:07:46.675",
+    "L3_frame": "S4#0008-04630_S4#0008-11189",
+    "L4_time": "S4#0007-00:30:23.613_S4#0008-00:14:09.307",
+    "L4_frame": "S4#0007-43723_S4#0008-20363",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. For his patience\nB. For his silence\nC. For his understanding\nD. For his honesty\nE. For his assistance\nF. For his cooperation\nG. For his coming\nH. For his time",
+        "Question": "In the brightly lit interrogation room of the police station, what does ASAC George Merkert thank Gus Fring for?"
+      }
+    ]
+  },
+  "1825": {
+    "L2_time": "S4#0008-00:15:48.573_S4#0008-00:17:09.278",
+    "L2_frame": "S4#0008-22743_S4#0008-24678",
+    "L3_time": "S4#0008-00:14:09.348_S4#0008-00:18:56.385",
+    "L3_frame": "S4#0008-20364_S4#0008-27246",
+    "L4_time": "S4#0008-00:14:09.348_S4#0008-00:31:40.398",
+    "L4_frame": "S4#0008-20364_S4#0008-45564",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Character Change",
+        "Options": "A. It falls off the hook\nB. It makes a creaking sound\nC. It breaks completely and crashes to the floor\nD. It remains perfectly stable\nE. It becomes loose\nF. It bends slightly\nG. It detaches from the wall\nH. It gets stuck",
+        "Question": "In Skyler White's bedroom, what physical change occurs to the clothes rail as she tries to hang the heavy sealed bags?"
+      }
+    ]
+  },
+  "1839": {
+    "L2_time": "S4#0008-00:29:22.844_S4#0008-00:30:24.990",
+    "L2_frame": "S4#0008-42266_S4#0008-43756",
+    "L3_time": "S4#0008-00:27:27.771_S4#0008-00:31:40.398",
+    "L3_frame": "S4#0008-39507_S4#0008-45564",
+    "L4_time": "S4#0008-00:14:09.348_S4#0008-00:31:40.398",
+    "L4_frame": "S4#0008-20364_S4#0008-45564",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Causal Inference",
+        "Options": "A. Hank is close to Gus Fring\nB. Hank already knows Jesse's identity\nC. Hank is asking about Mike\nD. Hank is leaving town\nE. Hank is about to make an arrest\nF. Hank is working with the DEA",
+        "Question": "What is the specific reason Walter White gives to Jesse Pinkman for the urgency of informing Mike about Hank Schrader's investigation?"
+      }
+    ]
+  },
+  "1842": {
+    "L2_time": "S4#0008-00:31:40.440_S4#0008-00:33:18.788",
+    "L2_frame": "S4#0008-45565_S4#0008-47923",
+    "L3_time": "S4#0008-00:31:40.440_S4#0008-00:35:53.818",
+    "L3_frame": "S4#0008-45565_S4#0008-51640",
+    "L4_time": "S4#0008-00:31:40.440_S4#0009-00:08:56.119",
+    "L4_frame": "S4#0008-45565_S4#0009-12854",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. The loyalty of his employees\nB. The status of Walter White\nC. The location of the tracking device\nD. The cartel's recent activities\nE. His past in Chile\nF. The financial state of the business",
+        "Question": "During the phone conversation, what subject does Gus inquire about immediately after Mike advises that cautious operations will be sufficient to handle Hank?"
+      }
+    ]
+  },
+  "1845": {
+    "L2_time": "S4#0008-00:35:02.934_S4#0008-00:35:53.818",
+    "L2_frame": "S4#0008-50420_S4#0008-51640",
+    "L3_time": "S4#0008-00:31:40.440_S4#0008-00:35:53.818",
+    "L3_frame": "S4#0008-45565_S4#0008-51640",
+    "L4_time": "S4#0008-00:31:40.440_S4#0009-00:08:56.119",
+    "L4_frame": "S4#0008-45565_S4#0009-12854",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Recipient",
+        "Options": "A. Both Gus and Max\nB. Hector 'Tio' Salamanca\nC. Max Arciniega\nD. The entire group\nE. Gus Fring\nF. The house staff",
+        "Question": "When Juan Bolsa emerged from the hacienda-style house, who was the recipient of his furious warning about the boss's intolerance for insolence?"
+      }
+    ]
+  },
+  "1850": {
+    "L2_time": "S4#0008-00:39:30.702_S4#0008-00:40:42.231",
+    "L2_frame": "S4#0008-56840_S4#0008-58555",
+    "L3_time": "S4#0008-00:35:53.860_S4#0008-00:41:37.286",
+    "L3_frame": "S4#0008-51641_S4#0008-59875",
+    "L4_time": "S4#0008-00:31:40.440_S4#0009-00:08:56.119",
+    "L4_frame": "S4#0008-45565_S4#0009-12854",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Presence",
+        "Options": "A. Yes, heroin\nB. Yes, cocaine\nC. Yes, tobacco\nD. Yes, coca leaves\nE. Yes, opium poppies\nF. No, a specific crop is not mentioned\nG. Yes, marijuana",
+        "Question": "In the scene where Gus Fring critiques the cartel's business model, is there any mention of a specific crop that the cartel is dependent on?"
+      }
+    ]
+  },
+  "1851": {
+    "L2_time": "S4#0008-00:40:42.273_S4#0008-00:41:37.286",
+    "L2_frame": "S4#0008-58556_S4#0008-59875",
+    "L3_time": "S4#0008-00:35:53.860_S4#0008-00:41:37.286",
+    "L3_frame": "S4#0008-51641_S4#0008-59875",
+    "L4_time": "S4#0008-00:31:40.440_S4#0009-00:08:56.119",
+    "L4_frame": "S4#0008-45565_S4#0009-12854",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Counting",
+        "Options": "A. More than 5\nB. 2\nC. 3\nD. Not specified\nE. 1\nF. 5\nG. 4\nH. 0",
+        "Question": "During the poolside meeting under the late afternoon sun, when Don Eladio is lounging and listening to the proposal, how many specific cartel associates are mentioned by name as being present with Don Eladio?"
+      }
+    ]
+  },
+  "1918": {
+    "L2_time": "S4#0010-00:17:57.702_S4#0010-00:18:54.634",
+    "L2_frame": "S4#0010-25839_S4#0010-27204",
+    "L3_time": "S4#0010-00:16:50.510_S4#0010-00:21:10.853",
+    "L3_frame": "S4#0010-24228_S4#0010-30470",
+    "L4_time": "S4#0010-00:11:16.092_S4#0010-00:46:26.826",
+    "L4_frame": "S4#0010-16210_S4#0010-66817",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Event Outcome",
+        "Options": "A. 87.2\nB. 75.0\nC. 88.5\nD. 99.0\nE. 99.1\nF. 46.3",
+        "Question": "During the final moments of the described test, which of the following is one of the specific climbing temperature readings shown in digits on the chromatograph's display?"
+      }
+    ]
+  },
+  "1919": {
+    "L2_time": "S4#0010-00:18:54.675_S4#0010-00:19:32.088",
+    "L2_frame": "S4#0010-27205_S4#0010-28102",
+    "L3_time": "S4#0010-00:16:50.510_S4#0010-00:21:10.853",
+    "L3_frame": "S4#0010-24228_S4#0010-30470",
+    "L4_time": "S4#0010-00:11:16.092_S4#0010-00:46:26.826",
+    "L4_frame": "S4#0010-16210_S4#0010-66817",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Recipient",
+        "Options": "A. Gaff himself\nB. Saul Goodman\nC. Benicio Fuentes\nD. Jesse Pinkman\nE. Mike Ehrmantraut\nF. Gus Fring",
+        "Question": "In the industrial laboratory, who was the subject of the chilling verdict delivered by Gaff, declaring their new affiliation with the cartel?"
+      }
+    ]
+  },
+  "1938": {
+    "L2_time": "S4#0010-00:37:19.696_S4#0010-00:38:52.413",
+    "L2_frame": "S4#0010-53699_S4#0010-55922",
+    "L3_time": "S4#0010-00:34:11.841_S4#0010-00:40:30.928",
+    "L3_frame": "S4#0010-49195_S4#0010-58284",
+    "L4_time": "S4#0010-00:11:16.092_S4#0010-00:46:26.826",
+    "L4_frame": "S4#0010-16210_S4#0010-66817",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Spatial Location",
+        "Options": "A. Standing on a balcony overlooking the scene\nB. Leaning against a bar\nC. Lounging on a poolside chair\nD. Pacing around the patio\nE. Standing by a table\nF. Standing by the edge of the pool",
+        "Question": "At his estate, where is Don Eladio located when checking in for the wine box?"
+      }
+    ]
+  },
+  "1943": {
+    "L2_time": "S4#0010-00:42:46.564_S4#0010-00:43:48.668",
+    "L2_frame": "S4#0010-61536_S4#0010-63025",
+    "L3_time": "S4#0010-00:40:30.970_S4#0010-00:46:26.826",
+    "L3_frame": "S4#0010-58285_S4#0010-66817",
+    "L4_time": "S4#0010-00:11:16.092_S4#0010-00:46:26.826",
+    "L4_frame": "S4#0010-16210_S4#0010-66817",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Distinctive Features",
+        "Options": "A. He adjusts his glasses\nB. He checks his watch\nC. He buttons his jacket\nD. He slicks back his hair\nE. He straightens his tie\nF. He cleans his fingernails",
+        "Question": "In the dimly lit bathroom, what is the final, subtle act Gus Fring performs to restore his composed public persona?"
+      }
+    ]
+  },
+  "1947": {
+    "L2_time": "S4#0011-00:00:00.000_S4#0011-00:00:51.093",
+    "L2_frame": "S4#0011-00000_S4#0011-01225",
+    "L3_time": "S4#0011-00:00:00.000_S4#0011-00:04:24.139",
+    "L3_frame": "S4#0011-00000_S4#0011-06333",
+    "L4_time": "S4#0011-00:00:00.000_S4#0011-00:17:18.329",
+    "L4_frame": "S4#0011-00000_S4#0011-24895",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Character Clothing",
+        "Options": "A. A scarf\nB. A stethoscope\nC. A headset\nD. A surgical mask\nE. A name tag\nF. A towel",
+        "Question": "When Dr. Barry Goodman makes a brief phone call before signaling his team, what is he wearing around his neck?"
+      }
+    ]
+  },
+  "1965": {
+    "L2_time": "S4#0011-00:17:18.371_S4#0011-00:18:33.237",
+    "L2_frame": "S4#0011-24896_S4#0011-26691",
+    "L3_time": "S4#0011-00:17:18.371_S4#0011-00:21:04.305",
+    "L3_frame": "S4#0011-24896_S4#0011-30313",
+    "L4_time": "S4#0011-00:17:18.371_S4#0011-00:39:08.596",
+    "L4_frame": "S4#0011-24896_S4#0011-56310",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Season and Weather",
+        "Options": "A. Under fluorescent lights\nB. Under a spotlight\nC. Under sunlight filtered through blinds\nD. Under moonlight",
+        "Question": "In the care facility, when Gus Fring sits down in front of Tio, under what lighting condition does he unbutton his suit jacket?"
+      }
+    ]
+  },
+  "197": {
+    "L2_time": "S1#0005-00:00:45.671_S1#0005-00:01:47.983",
+    "L2_frame": "S1#0005-01095_S1#0005-02589",
+    "L3_time": "S1#0005-00:00:00.000_S1#0005-00:03:15.112",
+    "L3_frame": "S1#0005-00000_S1#0005-04678",
+    "L4_time": "S1#0004-00:22:14.750_S1#0005-00:03:15.112",
+    "L4_frame": "S1#0004-32002_S1#0005-04678",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Presence",
+        "Options": "A. It's an optional preference\nB. It's implied but not stated\nC. No\nD. Only for specific cases\nE. It's explicitly stated as not required\nF. Yes",
+        "Question": "In the dimly lit office, when the Manager lists requirements for a sales role, is a license mentioned as a requirement?"
+      }
+    ]
+  },
+  "1974": {
+    "L2_time": "S4#0011-00:25:52.426_S4#0011-00:26:37.930",
+    "L2_frame": "S4#0011-37221_S4#0011-38312",
+    "L3_time": "S4#0011-00:24:38.936_S4#0011-00:30:39.796",
+    "L3_frame": "S4#0011-35459_S4#0011-44111",
+    "L4_time": "S4#0011-00:17:18.371_S4#0011-00:39:08.596",
+    "L4_frame": "S4#0011-24896_S4#0011-56310",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. They are equal, both are one.\nB. Yes, one on crutches and two grey t-shirts.\nC. No, one on crutches and one grey t-shirt.\nD. Yes, one on crutches and zero grey t-shirts.\nE. They are equal, both are zero.\nF. No, zero on crutches and one grey t-shirt.\nG. No, two on crutches and zero grey t-shirts.\nH. Yes, two on crutches and one grey t-shirt.",
+        "Question": "During the family discussion in Hank Schrader's bedroom, is the number of people on crutches greater than the number of people wearing a blue t-shirt?"
+      }
+    ]
+  },
+  "1978": {
+    "L2_time": "S4#0011-00:29:02.741_S4#0011-00:29:53.333",
+    "L2_frame": "S4#0011-41784_S4#0011-42997",
+    "L3_time": "S4#0011-00:24:38.936_S4#0011-00:30:39.796",
+    "L3_frame": "S4#0011-35459_S4#0011-44111",
+    "L4_time": "S4#0011-00:17:18.371_S4#0011-00:39:08.596",
+    "L4_frame": "S4#0011-24896_S4#0011-56310",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "H",
+        "Dimension": "Action Recipient",
+        "Options": "A. Skyler White\nB. A bank teller\nC. Huell\nD. A lawyer\nE. An unknown person\nF. Kuby\nG. A notary public\nH. Benick",
+        "Question": "In Benick's spacious home, when Kuby carefully inspects the check, who wrote the check?"
+      }
+    ]
+  },
+  "198": {
+    "L2_time": "S1#0005-00:01:48.025_S1#0005-00:02:32.027",
+    "L2_frame": "S1#0005-02590_S1#0005-03645",
+    "L3_time": "S1#0005-00:00:00.000_S1#0005-00:03:15.112",
+    "L3_frame": "S1#0005-00000_S1#0005-04678",
+    "L4_time": "S1#0004-00:22:14.750_S1#0005-00:03:15.112",
+    "L4_frame": "S1#0004-32002_S1#0005-04678",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Badger demonstrates the 'helicopter' move.\nB. Jesse gives Badger a cigarette.\nC. They happen simultaneously.",
+        "Question": "During the interaction in the alleyway, which of these actions occurs first: Badger demonstrating the 'helicopter' move or Jesse giving Badger a cigarette?"
+      }
+    ]
+  },
+  "1984": {
+    "L2_time": "S4#0011-00:34:26.439_S4#0011-00:35:23.496",
+    "L2_frame": "S4#0011-49545_S4#0011-50913",
+    "L3_time": "S4#0011-00:30:39.838_S4#0011-00:35:23.496",
+    "L3_frame": "S4#0011-44112_S4#0011-50913",
+    "L4_time": "S4#0011-00:17:18.371_S4#0011-00:39:08.596",
+    "L4_frame": "S4#0011-24896_S4#0011-56310",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Causal Inference",
+        "Options": "A. Being shot with a tranquilizer dart\nB. A severe emotional breakdown\nC. Tripping over a lawn sprinkler\nD. Being struck by a blunt object\nE. Being shocked by a taser\nF. A sudden heart attack from the stress",
+        "Question": "What is the direct cause of Walter White convulsing violently and collapsing onto the grass after his confrontation with Jesse in the outdoor scene?"
+      }
+    ]
+  },
+  "200": {
+    "L2_time": "S1#0005-00:03:15.153_S1#0005-00:04:32.939",
+    "L2_frame": "S1#0005-04679_S1#0005-06544",
+    "L3_time": "S1#0005-00:03:15.153_S1#0005-00:08:57.078",
+    "L3_frame": "S1#0005-04679_S1#0005-12877",
+    "L4_time": "S1#0005-00:03:15.153_S1#0005-00:46:15.815",
+    "L4_frame": "S1#0005-04679_S1#0005-66553",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. Greater, there are 3 shirt colors and 1 dice color\nB. Less, there is 1 dice color and 2 shirt colors\nC. Equal, both are 2\nD. Greater, there are 2 shirt colors and 1 dice color\nE. Equal, both are 0\nF. Less, there is 1 dice color and 3 shirt colors\nG. Equal, both are 1",
+        "Question": "In the scene where Jesse Pinkman is in his car, is the number of colors mentioned for his shirt greater than the number of colors mentioned for the fuzzy dice?"
+      }
+    ]
+  },
+  "2002": {
+    "L2_time": "S4#0012-00:04:10.041_S4#0012-00:05:24.282",
+    "L2_frame": "S4#0012-05995_S4#0012-07775",
+    "L3_time": "S4#0012-00:04:10.041_S4#0012-00:09:39.204",
+    "L3_frame": "S4#0012-05995_S4#0012-13887",
+    "L4_time": "S4#0011-00:39:08.638_S4#0012-00:20:06.997",
+    "L4_frame": "S4#0011-56311_S4#0012-28939",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Position Comparison",
+        "Options": "A. Lying on a lounge chair next to the pool\nB. Mowing the lawn near the pool\nC. Swimming in the pool\nD. Sitting at the glass-top patio table with Walter\nE. Sitting in a patio chair at the far end of the pool\nF. Sitting inside the house, looking out at the pool\nG. Standing at the edge of the pool, looking in",
+        "Question": "In the backyard scene following the title sequence, where is the bald man located in relation to the pool?"
+      }
+    ]
+  },
+  "2006": {
+    "L2_time": "S4#0012-00:08:10.323_S4#0012-00:09:39.204",
+    "L2_frame": "S4#0012-11756_S4#0012-13887",
+    "L3_time": "S4#0012-00:04:10.041_S4#0012-00:09:39.204",
+    "L3_frame": "S4#0012-05995_S4#0012-13887",
+    "L4_time": "S4#0011-00:39:08.638_S4#0012-00:20:06.997",
+    "L4_frame": "S4#0011-56311_S4#0012-28939",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Counting",
+        "Options": "A. 3\nB. 5\nC. 1\nD. 0\nE. 2\nF. 4",
+        "Question": "In the safe house scene where Hank's theory is discussed, how many specific business locations does Hank mention as being connected to Gus Fring's alleged operation?"
+      }
+    ]
+  },
+  "2007": {
+    "L2_time": "S4#0012-00:09:39.245_S4#0012-00:10:27.669",
+    "L2_frame": "S4#0012-13888_S4#0012-15049",
+    "L3_time": "S4#0012-00:09:39.245_S4#0012-00:16:20.521",
+    "L3_frame": "S4#0012-13888_S4#0012-23509",
+    "L4_time": "S4#0011-00:39:08.638_S4#0012-00:20:06.997",
+    "L4_frame": "S4#0011-56311_S4#0012-28939",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Body Movement",
+        "Options": "A. That he has a search warrant\nB. That it's none of your business\nC. That they received an anonymous tip\nD. That it's just a routine check\nE. That his boss sent them\nF. That they will be quick",
+        "Question": "After revealing he is with the DEA, what does Gomez say to Denise to try and calm him down, even while insisting on the inspection?"
+      }
+    ]
+  },
+  "2017": {
+    "L2_time": "S4#0012-00:20:07.039_S4#0012-00:20:45.411",
+    "L2_frame": "S4#0012-28940_S4#0012-29860",
+    "L3_time": "S4#0012-00:20:07.039_S4#0012-00:25:44.626",
+    "L3_frame": "S4#0012-28940_S4#0012-37034",
+    "L4_time": "S4#0012-00:20:07.039_S4#0013-00:13:28.182",
+    "L4_frame": "S4#0012-28940_S4#0013-19377",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Jesse Pinkman\nB. Gus Fring\nC. Walter White\nD. Hank Schrader\nE. Mike Ehrmantraut",
+        "Question": "At the very beginning of the clip, who is seen from an over-the-shoulder perspective watching the security feeds of the superlab on a laptop?"
+      }
+    ]
+  },
+  "203": {
+    "L2_time": "S1#0005-00:06:17.168_S1#0005-00:07:37.123",
+    "L2_frame": "S1#0005-09043_S1#0005-10960",
+    "L3_time": "S1#0005-00:03:15.153_S1#0005-00:08:57.078",
+    "L3_frame": "S1#0005-04679_S1#0005-12877",
+    "L4_time": "S1#0005-00:03:15.153_S1#0005-00:46:15.815",
+    "L4_frame": "S1#0005-04679_S1#0005-66553",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Counting",
+        "Options": "A. 6\nB. 5\nC. 2\nD. 1\nE. 3\nF. 4",
+        "Question": "When Walter observes the memorabilia in the library, how many different categories of framed items celebrating Elliott’s achievements are mentioned?"
+      }
+    ]
+  },
+  "2042": {
+    "L2_time": "S4#0012-00:44:36.591_S4#0012-00:45:12.376",
+    "L2_frame": "S4#0012-64174_S4#0012-65032",
+    "L3_time": "S4#0012-00:41:47.714_S4#0013-00:00:31.365",
+    "L3_frame": "S4#0012-60125_S4#0013-00752",
+    "L4_time": "S4#0012-00:20:07.039_S4#0013-00:13:28.182",
+    "L4_frame": "S4#0012-28940_S4#0013-19377",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Event Background",
+        "Options": "A. Black\nB. White\nC. Brown\nD. Gray\nE. Red\nF. Blue",
+        "Question": "In the scene where Walter White is on the gravelly rooftop, observing the parking garage, what was the specific color of the jacket he was wearing over a green shirt?"
+      }
+    ]
+  },
+  "2062": {
+    "L2_time": "S4#0013-00:18:04.417_S4#0013-00:19:02.683",
+    "L2_frame": "S4#0013-26000_S4#0013-27397",
+    "L3_time": "S4#0013-00:16:59.685_S4#0013-00:24:17.748",
+    "L3_frame": "S4#0013-24448_S4#0013-34951",
+    "L4_time": "S4#0013-00:13:28.224_S4#0013-00:35:18.491",
+    "L4_frame": "S4#0013-19378_S4#0013-50793",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Counting",
+        "Options": "A. Zero, the board was already there\nB. Two binders, one red and one blue\nC. Three small notebooks\nD. One black binder\nE. One large portfolio\nF. A stack of several binders",
+        "Question": "In the hospital setting, how many binders does the caregiver retrieve from the counter to use as a communication board?"
+      }
+    ]
+  },
+  "2066": {
+    "L2_time": "S4#0013-00:22:05.115_S4#0013-00:23:20.733",
+    "L2_frame": "S4#0013-31771_S4#0013-33584",
+    "L3_time": "S4#0013-00:16:59.685_S4#0013-00:24:17.748",
+    "L3_frame": "S4#0013-24448_S4#0013-34951",
+    "L4_time": "S4#0013-00:13:28.224_S4#0013-00:35:18.491",
+    "L4_frame": "S4#0013-19378_S4#0013-50793",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Counting",
+        "Options": "A. Four\nB. Two\nC. Five\nD. Three\nE. Six\nF. One",
+        "Question": "According to Hank's research, which he explains to Gomez in the White's dining area, how many high-capacity service panels does the industrial laundry facility have?"
+      }
+    ]
+  },
+  "2068": {
+    "L2_time": "S4#0013-00:24:17.790_S4#0013-00:25:10.300",
+    "L2_frame": "S4#0013-34952_S4#0013-36211",
+    "L3_time": "S4#0013-00:24:17.790_S4#0013-00:29:28.433",
+    "L3_frame": "S4#0013-34952_S4#0013-42400",
+    "L4_time": "S4#0013-00:13:28.224_S4#0013-00:35:18.491",
+    "L4_frame": "S4#0013-19378_S4#0013-50793",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. A slide projector\nB. A fax machine\nC. A recorder\nD. An audio mixer\nE. A stenograph machine\nF. A polygraph machine\nG. A computer for transcription",
+        "Question": "In the DEA interrogation room, what specific piece of equipment is the Deputy Director operating?"
+      }
+    ]
+  },
+  "2074": {
+    "L2_time": "S4#0013-00:29:28.475_S4#0013-00:31:19.002",
+    "L2_frame": "S4#0013-42401_S4#0013-45051",
+    "L3_time": "S4#0013-00:29:28.475_S4#0013-00:35:18.491",
+    "L3_frame": "S4#0013-42401_S4#0013-50793",
+    "L4_time": "S4#0013-00:13:28.224_S4#0013-00:35:18.491",
+    "L4_frame": "S4#0013-19378_S4#0013-50793",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Recipient",
+        "Options": "A. Hector Salamanca\nB. Bald Driver\nC. Gus Fring\nD. A Nurse\nE. A security guard\nF. Tyrus Kitt\nG. Jesse Pinkman",
+        "Question": "While hiding in the stucco recess, at whom did Walter White peer through the window before giving a quiet signal?"
+      }
+    ]
+  },
+  "2075": {
+    "L2_time": "S4#0013-00:31:19.044_S4#0013-00:32:02.963",
+    "L2_frame": "S4#0013-45052_S4#0013-46105",
+    "L3_time": "S4#0013-00:29:28.475_S4#0013-00:35:18.491",
+    "L3_frame": "S4#0013-42401_S4#0013-50793",
+    "L4_time": "S4#0013-00:13:28.224_S4#0013-00:35:18.491",
+    "L4_frame": "S4#0013-19378_S4#0013-50793",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Counting",
+        "Options": "A. 1\nB. 0\nC. 4\nD. 5\nE. 2\nF. 3",
+        "Question": "How many items does Jesse physically handle or clutch from the moment he leaves the interrogation room to the end of the description?"
+      }
+    ]
+  },
+  "2082": {
+    "L2_time": "S4#0013-00:38:19.756_S4#0013-00:39:27.282",
+    "L2_frame": "S4#0013-55139_S4#0013-56758",
+    "L3_time": "S4#0013-00:35:18.533_S4#0013-00:40:19.417",
+    "L3_frame": "S4#0013-50794_S4#0013-58008",
+    "L4_time": "S4#0013-00:35:18.533_S4#0013-00:49:41.437",
+    "L4_frame": "S4#0013-50794_S4#0013-71483",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. Offers a brief condolence\nB. Plays a station identification jingle\nC. Gives the current time and temperature\nD. Announces the next scheduled program\nE. Asks for eyewitnesses to call in\nF. Repeats the headline one last time\nG. Reads a list of road closures",
+        "Question": "Following the detailed report on the chaotic scene at Casa Tranquila, what does the radio announcer do just before the station returns to playing music?"
+      }
+    ]
+  },
+  "2083": {
+    "L2_time": "S4#0013-00:39:27.282_S4#0013-00:40:19.417",
+    "L2_frame": "S4#0013-56758_S4#0013-58008",
+    "L3_time": "S4#0013-00:35:18.533_S4#0013-00:40:19.417",
+    "L3_frame": "S4#0013-50794_S4#0013-58008",
+    "L4_time": "S4#0013-00:35:18.533_S4#0013-00:49:41.437",
+    "L4_frame": "S4#0013-50794_S4#0013-71483",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Todd Alquist\nB. Walter White over an intercom\nC. Saul Goodman\nD. A cartel member\nE. The bald operative\nF. The lab foreman\nG. Gus's subordinate",
+        "Question": "After a tense pause during the dismantling of the superlab, who asserts authority by announcing the next step is CO2 and commanding another person to 'Do it'?"
+      }
+    ]
+  },
+  "2086": {
+    "L2_time": "S4#0013-00:41:53.678_S4#0013-00:42:41.142",
+    "L2_frame": "S4#0013-60268_S4#0013-61406",
+    "L3_time": "S4#0013-00:40:19.417_S4#0013-00:44:26.622",
+    "L3_frame": "S4#0013-58008_S4#0013-63935",
+    "L4_time": "S4#0013-00:35:18.533_S4#0013-00:49:41.437",
+    "L4_frame": "S4#0013-50794_S4#0013-71483",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Position Comparison",
+        "Options": "A. To the main workbench\nB. To the center of the room\nC. To a control panel on the wall\nD. To the stainless steel tanks in the background\nE. To Jesse's location to assist him\nF. To the exit door\nG. To the body of Gus's operative",
+        "Question": "After Walter White finishes puncturing all the barrels with his axe, to which specific area of the superlab does he move to perform his next action?"
+      }
+    ]
+  },
+  "2090": {
+    "L2_time": "S4#0013-00:45:07.830_S4#0013-00:46:03.761",
+    "L2_frame": "S4#0013-64923_S4#0013-66264",
+    "L3_time": "S4#0013-00:44:26.664_S4#0013-00:49:41.437",
+    "L3_frame": "S4#0013-63936_S4#0013-71483",
+    "L4_time": "S4#0013-00:35:18.533_S4#0013-00:49:41.437",
+    "L4_frame": "S4#0013-50794_S4#0013-71483",
+    "L5_time": "S4#0001-00:00:00.000_S4#0013-00:49:41.437",
+    "L5_frame": "S4#0001-00000_S4#0013-71483",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Distinctive Features",
+        "Options": "A. Black\nB. White\nC. Green\nD. Blue\nE. Yellow",
+        "Question": "When Jesse explains how children can be accidentally poisoned by lily of the valley, what color is Walter's shirt?"
+      }
+    ]
+  },
+  "2095": {
+    "L2_time": "S5#0001-00:00:00.000_S5#0001-00:00:58.225",
+    "L2_frame": "S5#0001-00000_S5#0001-01396",
+    "L3_time": "S5#0001-00:00:00.000_S5#0001-00:04:05.912",
+    "L3_frame": "S5#0001-00000_S5#0001-05896",
+    "L4_time": "S5#0001-00:00:00.000_S5#0001-00:18:47.251",
+    "L4_frame": "S5#0001-00000_S5#0001-27027",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Appearance",
+        "Options": "A. A menu booklet\nB. A promotional flyer\nC. A salt and pepper shaker set\nD. A paper placemat\nE. A sugar caddy\nF. A napkin dispenser",
+        "Question": "At the beginning of the scene in the quiet Denny's diner, what item is prominently displayed on the light-colored tabletop, promoting colorful smoothies?"
+      }
+    ]
+  },
+  "2096": {
+    "L2_time": "S5#0001-00:00:58.267_S5#0001-00:02:03.248",
+    "L2_frame": "S5#0001-01397_S5#0001-02955",
+    "L3_time": "S5#0001-00:00:00.000_S5#0001-00:04:05.912",
+    "L3_frame": "S5#0001-00000_S5#0001-05896",
+    "L4_time": "S5#0001-00:00:00.000_S5#0001-00:18:47.251",
+    "L4_frame": "S5#0001-00000_S5#0001-27027",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Counting",
+        "Options": "A. One person\nB. Two people\nC. A family of three\nD. A group of five\nE. The description does not specify\nF. A group of four friends",
+        "Question": "Immediately after Walter leaves his seat at the diner counter, a new party arrives to take the spot. How many people are in this new party?"
+      }
+    ]
+  },
+  "2098": {
+    "L2_time": "S5#0001-00:03:05.352_S5#0001-00:04:05.912",
+    "L2_frame": "S5#0001-04444_S5#0001-05896",
+    "L3_time": "S5#0001-00:00:00.000_S5#0001-00:04:05.912",
+    "L3_frame": "S5#0001-00000_S5#0001-05896",
+    "L4_time": "S5#0001-00:00:00.000_S5#0001-00:18:47.251",
+    "L4_frame": "S5#0001-00000_S5#0001-27027",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. He checks the tires.\nB. He looks around for witnesses.\nC. He gets into the driver's seat.\nD. He starts the engine.\nE. He unlocks the trunk.\nF. He cleans the rear window.\nG. He puts on a red beanie.",
+        "Question": "Upon reaching the white Volvo in the Denny's parking lot, what is the first thing Walter White does before taking out his duffel bag?"
+      }
+    ]
+  },
+  "2107": {
+    "L2_time": "S5#0001-00:12:51.229_S5#0001-00:13:34.981",
+    "L2_frame": "S5#0001-18491_S5#0001-19540",
+    "L3_time": "S5#0001-00:08:37.392_S5#0001-00:13:34.981",
+    "L3_frame": "S5#0001-12405_S5#0001-19540",
+    "L4_time": "S5#0001-00:00:00.000_S5#0001-00:18:47.251",
+    "L4_frame": "S5#0001-00000_S5#0001-27027",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Position Comparison",
+        "Options": "A. Towards Gomez\nB. Towards Hank\nC. Towards the floor\nD. Towards the wreckage\nE. Towards the ceiling\nF. Towards the evidence markers\nG. Towards the entrance\nH. Towards the work lamps",
+        "Question": "In the subterranean crime scene, where does another investigator glance after Mike suggests the wreckage might be a camera?"
+      }
+    ]
+  },
+  "2109": {
+    "L2_time": "S5#0001-00:14:50.765_S5#0001-00:16:00.460",
+    "L2_frame": "S5#0001-21357_S5#0001-23028",
+    "L3_time": "S5#0001-00:13:35.023_S5#0001-00:18:47.251",
+    "L3_frame": "S5#0001-19541_S5#0001-27027",
+    "L4_time": "S5#0001-00:00:00.000_S5#0001-00:18:47.251",
+    "L4_frame": "S5#0001-00000_S5#0001-27027",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Body Movement",
+        "Options": "A. The driver's seat\nB. The trunk\nC. Underneath the car\nD. The hood\nE. The passenger seat\nF. The back seat",
+        "Question": "From which part of the car does Jesse Pinkman rush out to intervene in the desolate grassland confrontation?"
+      }
+    ]
+  },
+  "2114": {
+    "L2_time": "S5#0001-00:19:38.719_S5#0001-00:20:56.380",
+    "L2_frame": "S5#0001-28261_S5#0001-30123",
+    "L3_time": "S5#0001-00:18:47.293_S5#0001-00:23:22.067",
+    "L3_frame": "S5#0001-27028_S5#0001-33616",
+    "L4_time": "S5#0001-00:18:47.293_S5#0002-00:14:15.188",
+    "L4_frame": "S5#0001-27028_S5#0002-20504",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Event Background",
+        "Options": "A. A nearby mailbox\nB. The security cameras\nC. A police car\nD. Branches\nE. The evidence they were after\nF. The front door of the station",
+        "Question": "According to Mike's story about the failed Fort Worth crew, what was the only thing they managed to destroy in their attempt?"
+      }
+    ]
+  },
+  "2131": {
+    "L2_time": "S5#0001-00:36:32.315_S5#0001-00:37:34.919",
+    "L2_frame": "S5#0001-52563_S5#0001-54064",
+    "L3_time": "S5#0001-00:34:45.208_S5#0001-00:42:12.905",
+    "L3_frame": "S5#0001-49995_S5#0001-60729",
+    "L4_time": "S5#0001-00:18:47.293_S5#0002-00:14:15.188",
+    "L4_frame": "S5#0001-27028_S5#0002-20504",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Causal Inference",
+        "Options": "A. Because the splatter on the glass was identified as blood\nB. Because the case number on the bag was incorrect\nC. Because the photo inside was of a known criminal\nD. Because the frame was more expensive than anticipated\nE. Because he recognized one of the men in the photo\nF. Because the evidence bag's integrity was compromised",
+        "Question": "Why does the technician become visibly concerned and issue instructions to his colleagues after inspecting the framed photograph?"
+      }
+    ]
+  },
+  "2132": {
+    "L2_time": "S5#0001-00:37:34.961_S5#0001-00:38:53.122",
+    "L2_frame": "S5#0001-54065_S5#0001-55939",
+    "L3_time": "S5#0001-00:34:45.208_S5#0001-00:42:12.905",
+    "L3_frame": "S5#0001-49995_S5#0001-60729",
+    "L4_time": "S5#0001-00:18:47.293_S5#0002-00:14:15.188",
+    "L4_frame": "S5#0001-27028_S5#0002-20504",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Presence",
+        "Options": "A. There is no matting.\nB. Yes, it is white.\nC. No, it is colored.\nD. No, it is black.\nE. No, it is gray.\nF. It is transparent.",
+        "Question": "In the dimly lit police evidence room, when the technician inspects the framed photograph, is the matting around the photo white?"
+      }
+    ]
+  },
+  "2136": {
+    "L2_time": "S5#0002-00:00:00.000_S5#0002-00:00:52.261",
+    "L2_frame": "S5#0002-00000_S5#0002-01253",
+    "L3_time": "S5#0002-00:00:00.000_S5#0002-00:05:38.630",
+    "L3_frame": "S5#0002-00000_S5#0002-08119",
+    "L4_time": "S5#0001-00:18:47.293_S5#0002-00:14:15.188",
+    "L4_frame": "S5#0001-27028_S5#0002-20504",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Spatial Location",
+        "Options": "A. On a reflective plate\nB. On a white ceramic spoon\nC. In a plastic squeeze bottle\nD. In a small glass jar\nE. In a large mixing bowl\nF. On a piece of bread",
+        "Question": "At the beginning of the tasting session, where is the vibrant yellow dollop of honey mustard sauce placed for presentation?"
+      }
+    ]
+  },
+  "214": {
+    "L2_time": "S1#0005-00:21:35.669_S1#0005-00:22:35.396",
+    "L2_frame": "S1#0005-31065_S1#0005-32497",
+    "L3_time": "S1#0005-00:17:33.928_S1#0005-00:22:35.396",
+    "L3_frame": "S1#0005-25269_S1#0005-32497",
+    "L4_time": "S1#0005-00:03:15.153_S1#0005-00:46:15.815",
+    "L4_frame": "S1#0005-04679_S1#0005-66553",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Character Clothing",
+        "Options": "A. White\nB. Green\nC. Grey\nD. Red\nE. Blue\nF. Black",
+        "Question": "What is the primary color of the T-shirt worn by the man who refuses Walter White Jr.'s request in the convenience store parking lot?"
+      }
+    ]
+  },
+  "2140": {
+    "L2_time": "S5#0002-00:03:30.419_S5#0002-00:04:10.083",
+    "L2_frame": "S5#0002-05045_S5#0002-05996",
+    "L3_time": "S5#0002-00:00:00.000_S5#0002-00:05:38.630",
+    "L3_frame": "S5#0002-00000_S5#0002-08119",
+    "L4_time": "S5#0001-00:18:47.293_S5#0002-00:14:15.188",
+    "L4_frame": "S5#0001-27028_S5#0002-20504",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Event Background",
+        "Options": "A. Blue\nB. Stark white\nC. Bright yellow\nD. Emergency orange\nE. Red\nF. Forest green\nG. Metallic grey",
+        "Question": "In the Madrigal hallway where Peter Schuler is first seen, what is the specific color of the text 'AED'?"
+      }
+    ]
+  },
+  "2143": {
+    "L2_time": "S5#0002-00:05:38.672_S5#0002-00:06:26.344",
+    "L2_frame": "S5#0002-08120_S5#0002-09263",
+    "L3_time": "S5#0002-00:05:38.672_S5#0002-00:10:00.600",
+    "L3_frame": "S5#0002-08120_S5#0002-14400",
+    "L4_time": "S5#0001-00:18:47.293_S5#0002-00:14:15.188",
+    "L4_frame": "S5#0001-27028_S5#0002-20504",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Appearance",
+        "Options": "A. Purple and silver\nB. Green and gold\nC. Orange and brown\nD. Yellow and black\nE. Blue and white\nF. Red and white\nG. Black and silver",
+        "Question": "In the living room scene, when Walter pours the contents of the salt shaker onto the table, what are the two specified colors of the cigarette pack he later examines?"
+      }
+    ]
+  },
+  "2183": {
+    "L2_time": "S5#0003-00:00:00.000_S5#0003-00:01:09.152",
+    "L2_frame": "S5#0003-00000_S5#0003-01658",
+    "L3_time": "S5#0002-00:43:31.317_S5#0003-00:03:57.654",
+    "L3_frame": "S5#0002-62609_S5#0003-05698",
+    "L4_time": "S5#0002-00:43:31.317_S5#0003-00:16:13.347",
+    "L4_frame": "S5#0002-62609_S5#0003-23337",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Recipient",
+        "Options": "A. Sarah\nB. Mike\nC. The name is not mentioned\nD. Dennis\nE. Markowski\nF. Darla",
+        "Question": "When Dan Wachsberger greets someone at the service window, who is the uniformed guard he addresses by name?"
+      }
+    ]
+  },
+  "2185": {
+    "L2_time": "S5#0003-00:02:04.791_S5#0003-00:02:45.123",
+    "L2_frame": "S5#0003-02992_S5#0003-03959",
+    "L3_time": "S5#0002-00:43:31.317_S5#0003-00:03:57.654",
+    "L3_frame": "S5#0002-62609_S5#0003-05698",
+    "L4_time": "S5#0002-00:43:31.317_S5#0003-00:16:13.347",
+    "L4_frame": "S5#0002-62609_S5#0003-23337",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Presence",
+        "Options": "A. Yes, he reveals the identity of the new leader.\nB. Yes, he reveals he has something new.\nC. Yes, he reveals the location of a new lab.\nD. No, the conversation ends without new information.\nE. No, he only reiterates old information.\nF. Yes, he reveals the names of more arrested associates.",
+        "Question": "At the conclusion of the discussion in the prison meeting room, does Mike Ehrmantraut reveal any new information to Denise Markowski?"
+      }
+    ]
+  },
+  "2193": {
+    "L2_time": "S5#0003-00:09:04.127_S5#0003-00:10:00.391",
+    "L2_frame": "S5#0003-13046_S5#0003-14395",
+    "L3_time": "S5#0003-00:07:18.855_S5#0003-00:10:48.148",
+    "L3_frame": "S5#0003-10522_S5#0003-15540",
+    "L4_time": "S5#0002-00:43:31.317_S5#0003-00:16:13.347",
+    "L4_frame": "S5#0002-62609_S5#0003-23337",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Object Presence",
+        "Options": "A. Jesse Pinkman leads the tour.\nB. No one is leading a tour.\nC. Mike Ehrmantraut leads the tour.\nD. Yes, Saul Goodman leads a tour.\nE. No, he is just observing.\nF. Walter White leads the tour.",
+        "Question": "In the tortilla factory, does the description mention Saul Goodman leading a tour?"
+      }
+    ]
+  },
+  "2198": {
+    "L2_time": "S5#0003-00:13:33.771_S5#0003-00:14:39.796",
+    "L2_frame": "S5#0003-19511_S5#0003-21094",
+    "L3_time": "S5#0003-00:10:48.189_S5#0003-00:16:13.347",
+    "L3_frame": "S5#0003-15541_S5#0003-23337",
+    "L4_time": "S5#0002-00:43:31.317_S5#0003-00:16:13.347",
+    "L4_frame": "S5#0002-62609_S5#0003-23337",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. A guitar stand\nB. A microphone\nC. A new amplifier\nD. A set of drumsticks\nE. A pedalboard\nF. A roadie case",
+        "Question": "After the jam session concludes and the salesman approaches, what specific type of item does Skinny Pete say they are looking for?"
+      }
+    ]
+  },
+  "2210": {
+    "L2_time": "S5#0003-00:25:38.370_S5#0003-00:27:05.958",
+    "L2_frame": "S5#0003-36884_S5#0003-38984",
+    "L3_time": "S5#0003-00:25:38.370_S5#0003-00:30:58.523",
+    "L3_frame": "S5#0003-36884_S5#0003-44560",
+    "L4_time": "S5#0003-00:16:13.389_S5#0003-00:36:44.411",
+    "L4_frame": "S5#0003-23338_S5#0003-52853",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Body Movement",
+        "Options": "A. He looks away dismissively.\nB. He expresses strong disagreement.\nC. He agrees with quiet affirmation.\nD. He changes the subject immediately.\nE. He offers a sarcastic remark.\nF. He laughs loudly.",
+        "Question": "After Jesse smiles at the idea of an instant family, how does Walter respond to Jesse's moment of optimism?"
+      }
+    ]
+  },
+  "2225": {
+    "L2_time": "S5#0003-00:39:39.335_S5#0003-00:41:15.223",
+    "L2_frame": "S5#0003-57047_S5#0003-59346",
+    "L3_time": "S5#0003-00:36:44.452_S5#0003-00:41:15.223",
+    "L3_frame": "S5#0003-52854_S5#0003-59346",
+    "L4_time": "S5#0003-00:36:44.452_S5#0004-00:22:48.367",
+    "L4_frame": "S5#0003-52854_S5#0004-32808",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Recipient",
+        "Options": "A. Walter White\nB. Mike Ehrmantraut\nC. Ira\nD. The methylamine supplier\nE. Jesse Pinkman\nF. Goodman",
+        "Question": "During the methodical profit division in the office, who is repaid the $120,000 that they had previously fronted for the operation?"
+      }
+    ]
+  },
+  "2230": {
+    "L2_time": "S5#0003-00:44:36.465_S5#0003-00:45:58.714",
+    "L2_frame": "S5#0003-64171_S5#0003-66143",
+    "L3_time": "S5#0003-00:41:15.264_S5#0003-00:46:31.706",
+    "L3_frame": "S5#0003-59347_S5#0003-66934",
+    "L4_time": "S5#0003-00:36:44.452_S5#0004-00:22:48.367",
+    "L4_frame": "S5#0003-52854_S5#0004-32808",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. Jesse mentions that he will still pay Andrea's rent.\nB. Jesse confesses to breaking up with Andrea.\nC. Jesse confidently declares that he and Walter are 'owners, not employees.'\nD. Jesse slumps in defeat after Walter mentions Brock.\nE. Jesse asks for a larger share of the money.\nF. Walter asks Jesse how he feels about their money.",
+        "Question": "In the Vamonos Pest garage, what happens immediately before Walter begins his story about Victor?"
+      }
+    ]
+  },
+  "2238": {
+    "L2_time": "S5#0004-00:06:08.118_S5#0004-00:07:50.470",
+    "L2_frame": "S5#0004-08826_S5#0004-11280",
+    "L3_time": "S5#0004-00:00:00.000_S5#0004-00:07:50.470",
+    "L3_frame": "S5#0004-00000_S5#0004-11280",
+    "L4_time": "S5#0003-00:36:44.452_S5#0004-00:22:48.367",
+    "L4_frame": "S5#0003-52854_S5#0004-32808",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Character Clothing",
+        "Options": "A. Olive green\nB. Black\nC. Grey\nD. Navy\nE. Khaki\nF. Brown\nG. White",
+        "Question": "During the tense confrontation at the far end of the Madrigal warehouse, what color are the pants worn by Ron Forenall, which match Lydia's prior description?"
+      }
+    ]
+  },
+  "2259": {
+    "L2_time": "S5#0004-00:27:11.380_S5#0004-00:28:03.974",
+    "L2_frame": "S5#0004-39114_S5#0004-40375",
+    "L3_time": "S5#0004-00:22:48.409_S5#0004-00:28:49.311",
+    "L3_frame": "S5#0004-32809_S5#0004-41462",
+    "L4_time": "S5#0004-00:22:48.409_S5#0005-00:01:44.896",
+    "L4_frame": "S5#0004-32809_S5#0005-02515",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Jesse accepts her reasoning\nB. Lydia points out barrel 22356",
+        "Question": "In the industrial warehouse, after Lydia Rodarte-Quayle explains her caution, what is the next action: Jesse accepting her reasoning or Lydia pointing out barrel 22356?"
+      }
+    ]
+  },
+  "2304": {
+    "L2_time": "S5#0005-00:25:37.494_S5#0005-00:26:29.713",
+    "L2_frame": "S5#0005-36863_S5#0005-38115",
+    "L3_time": "S5#0005-00:20:13.712_S5#0005-00:27:22.516",
+    "L3_frame": "S5#0005-29100_S5#0005-39381",
+    "L4_time": "S5#0005-00:01:44.938_S5#0005-00:33:43.063",
+    "L4_frame": "S5#0005-02516_S5#0005-48505",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. They are equal in number.\nB. Distance call-outs are 2, 'We do it here' statements are 3.\nC. The description does not provide enough information.\nD. Yes, there are more distance call-outs.\nE. Distance call-outs are 4, 'We do it here' statements are 1.\nF. No, there are fewer distance call-outs.\nG. Distance call-outs are 3, 'We do it here' statements are 1.",
+        "Question": "Is the number of specific distance call-outs made by Jesse greater than the number of times he explicitly states 'We do it here' or 'We do it right here'?"
+      }
+    ]
+  },
+  "2308": {
+    "L2_time": "S5#0005-00:29:36.316_S5#0005-00:30:31.121",
+    "L2_frame": "S5#0005-42589_S5#0005-43903",
+    "L3_time": "S5#0005-00:27:22.558_S5#0005-00:33:43.063",
+    "L3_frame": "S5#0005-39382_S5#0005-48505",
+    "L4_time": "S5#0005-00:01:44.938_S5#0005-00:33:43.063",
+    "L4_frame": "S5#0005-02516_S5#0005-48505",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Counting",
+        "Options": "A. 1\nB. 6\nC. 2\nD. 3\nE. 4\nF. 0\nG. 7\nH. 5",
+        "Question": "In the White family home, how many times does Walter White explicitly use the phrase about kicking out in his conversation with Walter White Jr.?"
+      }
+    ]
+  },
+  "2357": {
+    "L2_time": "S5#0006-00:30:02.009_S5#0006-00:31:52.702",
+    "L2_frame": "S5#0006-43205_S5#0006-45859",
+    "L3_time": "S5#0006-00:28:27.497_S5#0006-00:37:09.894",
+    "L3_frame": "S5#0006-40939_S5#0006-53464",
+    "L4_time": "S5#0005-00:33:43.104_S5#0006-00:42:40.391",
+    "L4_frame": "S5#0005-48506_S5#0006-61388",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Walter Jr.\nB. Marie Schrader\nC. Hank Schrader\nD. Jesse Pinkman\nE. Walter White\nF. Skyler White\nG. Saul Goodman",
+        "Question": "Following Walter's stunning revelation about the value of Gray Matter in his living room, who admits to being bewildered and unable to fully grasp the scale of his partner's ambition?"
+      }
+    ]
+  },
+  "2366": {
+    "L2_time": "S5#0006-00:40:47.946_S5#0006-00:42:40.391",
+    "L2_frame": "S5#0006-58692_S5#0006-61388",
+    "L3_time": "S5#0006-00:37:09.936_S5#0006-00:42:40.391",
+    "L3_frame": "S5#0006-53465_S5#0006-61388",
+    "L4_time": "S5#0005-00:33:43.104_S5#0006-00:42:40.391",
+    "L4_frame": "S5#0005-48506_S5#0006-61388",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Causal Inference",
+        "Options": "A. It fell during an earthquake.\nB. A stray bullet from a fight hit it.\nC. He pulled it with force.\nD. He knocked it over while dragging the radiator.\nE. He threw a piece of the radiator at it.\nF. He kicked it over while struggling.\nG. The heat from the hot plate caused it to crack.",
+        "Question": "In the Vamonos Pest office, what action by Walter directly caused the glass coffee pot to roll to a position far from him?"
+      }
+    ]
+  },
+  "2382": {
+    "L2_time": "S5#0007-00:12:00.261_S5#0007-00:13:06.619",
+    "L2_frame": "S5#0007-17269_S5#0007-18860",
+    "L3_time": "S5#0007-00:11:05.415_S5#0007-00:16:41.417",
+    "L3_frame": "S5#0007-15954_S5#0007-24010",
+    "L4_time": "S5#0006-00:42:40.433_S5#0007-00:23:31.660",
+    "L4_frame": "S5#0006-61389_S5#0007-33846",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Appearance",
+        "Options": "A. Painted iron\nB. Lacquered wood\nC. Aluminum\nD. Copper\nE. Brass\nF. Stainless steel",
+        "Question": "Inside the vault at the Cradock Marine Bank, what material are the numerous safe-deposit boxes that line the walls made of?"
+      }
+    ]
+  },
+  "2417": {
+    "L2_time": "S5#0008-00:00:00.000_S5#0008-00:00:46.546",
+    "L2_frame": "S5#0008-00000_S5#0008-01116",
+    "L3_time": "S5#0008-00:00:00.000_S5#0008-00:04:17.174",
+    "L3_frame": "S5#0008-00000_S5#0008-06166",
+    "L4_time": "S5#0007-00:41:24.399_S5#0008-00:23:54.016",
+    "L4_frame": "S5#0007-59566_S5#0008-34382",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A cockroach\nB. A praying mantis\nC. A house gecko\nD. A small spider\nE. A black fly\nF. The older man\nG. A moth",
+        "Question": "In the opening scene set in the dimly lit room, which specific subject is shown in an extreme close-up meticulously rubbing its front legs together?"
+      }
+    ]
+  },
+  "2418": {
+    "L2_time": "S5#0008-00:00:46.588_S5#0008-00:02:27.230",
+    "L2_frame": "S5#0008-01117_S5#0008-03530",
+    "L3_time": "S5#0008-00:00:00.000_S5#0008-00:04:17.174",
+    "L3_frame": "S5#0008-00000_S5#0008-06166",
+    "L4_time": "S5#0007-00:41:24.399_S5#0008-00:23:54.016",
+    "L4_frame": "S5#0007-59566_S5#0008-34382",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Recipient",
+        "Options": "A. Walter White\nB. His reflection in the window\nC. The workers in the garage\nD. Joe\nE. The person on the other end of a call\nF. The security camera",
+        "Question": "When Todd makes his naive comment about turning a car into a cube, who is the intended audience that offers no response?"
+      }
+    ]
+  },
+  "2459": {
+    "L2_time": "S5#0008-00:40:44.192_S5#0008-00:42:04.147",
+    "L2_frame": "S5#0008-58602_S5#0008-60519",
+    "L3_time": "S5#0008-00:40:06.195_S5#0008-00:45:01.866",
+    "L3_frame": "S5#0008-57691_S5#0008-64780",
+    "L4_time": "S5#0008-00:23:54.058_S5#0009-00:08:49.362",
+    "L4_frame": "S5#0008-34383_S5#0009-12692",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. The shoulder strap\nB. The metal zipper\nC. The brand logo tag\nD. The bottom corner\nE. The fabric handle\nF. The side pocket",
+        "Question": "When Jesse extends his hands towards the black duffel bag on his porch, what specific part of the bag does he grip before opening it?"
+      }
+    ]
+  },
+  "2473": {
+    "L2_time": "S5#0009-00:08:49.404_S5#0009-00:09:37.160",
+    "L2_frame": "S5#0009-12693_S5#0009-13838",
+    "L3_time": "S5#0009-00:08:49.404_S5#0009-00:11:59.719",
+    "L3_frame": "S5#0009-12693_S5#0009-17256",
+    "L4_time": "S5#0009-00:08:49.404_S5#0009-00:38:55.208",
+    "L4_frame": "S5#0009-12693_S5#0009-55989",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Character Change",
+        "Options": "A. Making an official phone call to his office.\nB. Tearing up his hospital discharge papers.\nC. Putting on his DEA jacket.\nD. Deliberately flipping through the case file.\nE. Starting a new evidence board on the wall.\nF. Cleaning his service weapon.",
+        "Question": "What specific action symbolizes Hank's mental shift from being a patient to resuming his role as an investigator in the garage?"
+      }
+    ]
+  },
+  "2475": {
+    "L2_time": "S5#0009-00:10:12.403_S5#0009-00:11:09.168",
+    "L2_frame": "S5#0009-14683_S5#0009-16044",
+    "L3_time": "S5#0009-00:08:49.404_S5#0009-00:11:59.719",
+    "L3_frame": "S5#0009-12693_S5#0009-17256",
+    "L4_time": "S5#0009-00:08:49.404_S5#0009-00:38:55.208",
+    "L4_frame": "S5#0009-12693_S5#0009-55989",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Character Motivation",
+        "Options": "A. Bottled water\nB. Candy bars\nC. Energy drinks\nD. Magazines\nE. Maps\nF. Sunglasses\nG. Phone chargers",
+        "Question": "In the car wash scene, in Walter's plan to optimize sales at the car wash, he suggests placing the best-selling pine air freshener by the cash register. What other type of product does he propose placing alongside it?"
+      }
+    ]
+  },
+  "248": {
+    "L2_time": "S1#0006-00:06:50.410_S1#0006-00:07:31.242",
+    "L2_frame": "S1#0006-09840_S1#0006-10819",
+    "L3_time": "S1#0006-00:04:19.718_S1#0006-00:09:07.005",
+    "L3_frame": "S1#0006-06227_S1#0006-13115",
+    "L4_time": "S1#0005-00:46:15.856_S1#0006-00:21:02.094",
+    "L4_frame": "S1#0005-66554_S1#0006-30260",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Event Background",
+        "Options": "A. Cream-colored\nB. Forest green\nC. Pale pink\nD. Black\nE. Light grey\nF. Dark blue",
+        "Question": "Based on the description of the support group scene, what color is the knit top worn by Skyler as she voices her worries?"
+      }
+    ]
+  },
+  "2524": {
+    "L2_time": "S5#0010-00:13:05.284_S5#0010-00:14:06.304",
+    "L2_frame": "S5#0010-18828_S5#0010-20291",
+    "L3_time": "S5#0010-00:10:22.580_S5#0010-00:19:03.225",
+    "L3_frame": "S5#0010-14927_S5#0010-27410",
+    "L4_time": "S5#0009-00:38:55.250_S5#0010-00:37:11.020",
+    "L4_frame": "S5#0009-55990_S5#0010-53491",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A facility maintenance worker\nB. Hank Schrader\nC. Huell\nD. An unseen third accomplice\nE. Patrick Kuby\nF. Skyler White",
+        "Question": "When Huell and Kuby enter a storage facility, who is specifically described as demonstrating practiced skill by picking a heavy-duty padlock?"
+      }
+    ]
+  },
+  "2544": {
+    "L2_time": "S5#0010-00:34:26.523_S5#0010-00:35:27.125",
+    "L2_frame": "S5#0010-49547_S5#0010-51000",
+    "L3_time": "S5#0010-00:33:26.588_S5#0010-00:37:11.020",
+    "L3_frame": "S5#0010-48110_S5#0010-53491",
+    "L4_time": "S5#0009-00:38:55.250_S5#0010-00:37:11.020",
+    "L4_frame": "S5#0009-55990_S5#0010-53491",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Counting",
+        "Options": "A. One\nB. Two\nC. Five\nD. Four\nE. Three\nF. Zero",
+        "Question": "How many lone figures are mentioned watching from a rooftop as Declan and Lydia move through the desert junkyard?"
+      }
+    ]
+  },
+  "2547": {
+    "L2_time": "S5#0010-00:37:11.062_S5#0010-00:38:22.842",
+    "L2_frame": "S5#0010-53492_S5#0010-55213",
+    "L3_time": "S5#0010-00:37:11.062_S5#0010-00:43:14.884",
+    "L3_frame": "S5#0010-53492_S5#0010-62215",
+    "L4_time": "S5#0010-00:37:11.062_S5#0011-00:26:18.660",
+    "L4_frame": "S5#0010-53492_S5#0011-37850",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. The stylus pen\nB. The physical keyboard\nC. The touch screen\nD. The camera lens\nE. The side buttons\nF. The voice command microphone",
+        "Question": "When Lydia is typing her clandestine message, what part of the smartphone is she interacting with?"
+      }
+    ]
+  },
+  "255": {
+    "L2_time": "S1#0006-00:12:51.396_S1#0006-00:13:56.753",
+    "L2_frame": "S1#0006-18495_S1#0006-20062",
+    "L3_time": "S1#0006-00:09:07.046_S1#0006-00:15:04.612",
+    "L3_frame": "S1#0006-13116_S1#0006-21689",
+    "L4_time": "S1#0005-00:46:15.856_S1#0006-00:21:02.094",
+    "L4_frame": "S1#0005-66554_S1#0006-30260",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Appearance",
+        "Options": "A. White\nB. Grey\nC. Blue\nD. Yellow\nE. Black\nF. Brown",
+        "Question": "In the motel parking lot, Gomez hands Hank a bag. What is the color of this paper bag?"
+      }
+    ]
+  },
+  "256": {
+    "L2_time": "S1#0006-00:13:56.794_S1#0006-00:15:04.612",
+    "L2_frame": "S1#0006-20063_S1#0006-21689",
+    "L3_time": "S1#0006-00:09:07.046_S1#0006-00:15:04.612",
+    "L3_frame": "S1#0006-13116_S1#0006-21689",
+    "L4_time": "S1#0005-00:46:15.856_S1#0006-00:21:02.094",
+    "L4_frame": "S1#0005-66554_S1#0006-30260",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Character Clothing",
+        "Options": "A. Green\nB. Red and Black\nC. Yellow\nD. Grey\nE. Blue\nF. Black\nG. Orange",
+        "Question": "While walking through the motel corridor towards room 129, what color beanie is Jesse Pinkman wearing?"
+      }
+    ]
+  },
+  "2561": {
+    "L2_time": "S5#0011-00:03:42.180_S5#0011-00:04:33.732",
+    "L2_frame": "S5#0011-05327_S5#0011-06563",
+    "L3_time": "S5#0011-00:00:00.000_S5#0011-00:04:33.732",
+    "L3_frame": "S5#0011-00000_S5#0011-06563",
+    "L4_time": "S5#0010-00:37:11.062_S5#0011-00:26:18.660",
+    "L4_frame": "S5#0010-53492_S5#0011-37850",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. The man who stepped out of the stall\nB. Todd\nC. Uncle Jack\nD. The man who lit a cigarette outside\nE. Kenny\nF. The man who finished a monologue",
+        "Question": "In the restroom scene after the monologue, who performed the deliberate and ritualistic action of carefully adjusting their mustache?"
+      }
+    ]
+  },
+  "2614": {
+    "L2_time": "S5#0012-00:10:01.267_S5#0012-00:11:13.339",
+    "L2_frame": "S5#0012-14416_S5#0012-16144",
+    "L3_time": "S5#0012-00:07:47.092_S5#0012-00:12:48.101",
+    "L3_frame": "S5#0012-11199_S5#0012-18416",
+    "L4_time": "S5#0011-00:26:18.702_S5#0012-00:20:40.531",
+    "L4_frame": "S5#0011-37851_S5#0012-29743",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. In the garage\nB. In the backyard\nC. On the living room rug\nD. On the kitchen floor\nE. In the bathroom\nF. In the car\nG. In the laundry basket\nH. On his bed",
+        "Question": "According to Walter White's explanation in the dimly lit kitchen, where were his gasoline-soaked clothes left that caused the lingering smell in the house?"
+      }
+    ]
+  },
+  "2626": {
+    "L2_time": "S5#0012-00:23:49.553_S5#0012-00:24:40.896",
+    "L2_frame": "S5#0012-34275_S5#0012-35506",
+    "L3_time": "S5#0012-00:20:40.573_S5#0012-00:24:40.896",
+    "L3_frame": "S5#0012-29744_S5#0012-35506",
+    "L4_time": "S5#0012-00:20:40.573_S5#0012-00:42:19.203",
+    "L4_frame": "S5#0012-29744_S5#0012-60880",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A psychologist\nB. Walter White\nC. Jesse Pinkman\nD. Dave\nE. A lawyer\nF. Saul Goodman\nG. Hank Schrader",
+        "Question": "In the scene that abruptly shifts to a dimly lit indoor setting, who is shown in close-up making a measured observation that Mary is angry?"
+      }
+    ]
+  },
+  "2634": {
+    "L2_time": "S5#0012-00:33:05.734_S5#0012-00:33:42.312",
+    "L2_frame": "S5#0012-47610_S5#0012-48487",
+    "L3_time": "S5#0012-00:30:56.271_S5#0012-00:37:22.782",
+    "L3_frame": "S5#0012-44506_S5#0012-53773",
+    "L4_time": "S5#0012-00:20:40.573_S5#0012-00:42:19.203",
+    "L4_frame": "S5#0012-29744_S5#0012-60880",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. Greater than, 3 people in Santa photo, 2 people in Marie's photo.\nB. Less than, 2 people in Santa photo, 3 people in Marie's photo.\nC. Equal to, 2 people in Santa photo, 2 people in Marie's photo.\nD. Less than, 2 people in Santa photo, 2 people in Marie's photo.\nE. Greater than, 2 people in Santa photo, 1 person in Marie's photo.\nF. Equal to, 1 person in Santa photo, 1 person in Marie's photo.\nG. Greater than, 2 people in Santa photo, 2 people in Marie's photo.\nH. Less than, 1 person in Santa photo, 2 people in Marie's photo.",
+        "Question": "In the bedroom scene, is the number of people in the Santa photo greater than, less than, or equal to the number of people in the Marie Schrader photo?"
+      }
+    ]
+  },
+  "2655": {
+    "L2_time": "S5#0013-00:08:09.572_S5#0013-00:09:09.924",
+    "L2_frame": "S5#0013-11738_S5#0013-13185",
+    "L3_time": "S5#0013-00:08:09.572_S5#0013-00:14:03.593",
+    "L3_frame": "S5#0013-11738_S5#0013-20226",
+    "L4_time": "S5#0012-00:42:19.245_S5#0013-00:26:11.361",
+    "L4_frame": "S5#0012-60881_S5#0013-37675",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Van Oster\nB. A delivery person\nC. Hank Schrader\nD. A kitchen assistant\nE. Jesse Pinkman\nF. The captive's associate\nG. Steven Gomez",
+        "Question": "Following the conversation about the operation's risks, who brings out a white plate with a large, raw, bloody piece of meat, initiating a disturbing new task?"
+      }
+    ]
+  },
+  "2664": {
+    "L2_time": "S5#0013-00:17:56.867_S5#0013-00:18:39.577",
+    "L2_frame": "S5#0013-25819_S5#0013-26843",
+    "L3_time": "S5#0013-00:14:03.634_S5#0013-00:20:44.994",
+    "L3_frame": "S5#0013-20227_S5#0013-29850",
+    "L4_time": "S5#0012-00:42:19.245_S5#0013-00:26:11.361",
+    "L4_frame": "S5#0012-60881_S5#0013-37675",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Appearance",
+        "Options": "A. Dark-colored\nB. Red\nC. Light-colored\nD. Brightly-colored\nE. Multi-colored\nF. Black",
+        "Question": "When Walter arrives at Andria's home, what is the general color characteristic of the jacket he is wearing?"
+      }
+    ]
+  },
+  "2681": {
+    "L2_time": "S5#0013-00:32:55.640_S5#0013-00:33:41.603",
+    "L2_frame": "S5#0013-47368_S5#0013-48470",
+    "L3_time": "S5#0013-00:31:45.445_S5#0013-00:38:45.281",
+    "L3_frame": "S5#0013-45685_S5#0013-55751",
+    "L4_time": "S5#0013-00:26:11.403_S5#0014-00:21:48.474",
+    "L4_frame": "S5#0013-37676_S5#0014-31372",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Character Clothing",
+        "Options": "A. Green\nB. Black\nC. White\nD. Blue\nE. Brown\nF. Red\nG. Grey",
+        "Question": "When Jack's crew is seen mobilizing in the armory, what is the primary color of the V-neck shirt that Uncle Jack is wearing?"
+      }
+    ]
+  },
+  "2690": {
+    "L2_time": "S5#0013-00:42:07.608_S5#0013-00:43:31.442",
+    "L2_frame": "S5#0013-60602_S5#0013-62612",
+    "L3_time": "S5#0013-00:38:45.323_S5#0013-00:45:26.891",
+    "L3_frame": "S5#0013-55752_S5#0013-65380",
+    "L4_time": "S5#0013-00:26:11.403_S5#0014-00:21:48.474",
+    "L4_frame": "S5#0013-37676_S5#0014-31372",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Uncle Jack\nB. Walter White\nC. Steven Gomez\nD. Jesse Pinkman\nE. Todd\nF. Kenny\nG. Lester",
+        "Question": "During the initial moments of the desert confrontation, after his crew members disembark and take cover, which character is specifically described as leveling his gun from the pickup truck?"
+      }
+    ]
+  },
+  "2708": {
+    "L2_time": "S5#0014-00:14:23.112_S5#0014-00:15:10.701",
+    "L2_frame": "S5#0014-20694_S5#0014-21835",
+    "L3_time": "S5#0014-00:10:08.149_S5#0014-00:15:10.701",
+    "L3_frame": "S5#0014-14581_S5#0014-21835",
+    "L4_time": "S5#0013-00:26:11.403_S5#0014-00:21:48.474",
+    "L4_frame": "S5#0013-37676_S5#0014-31372",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Counting",
+        "Options": "A. 2\nB. 5\nC. 3\nD. 1\nE. 0\nF. 4",
+        "Question": "In the desert scene, how many rhetorical statements or questions does Jack use to frame his actions as acceptable business practice?"
+      }
+    ]
+  },
+  "2718": {
+    "L2_time": "S5#0014-00:22:59.128_S5#0014-00:23:45.132",
+    "L2_frame": "S5#0014-33066_S5#0014-34169",
+    "L3_time": "S5#0014-00:21:48.516_S5#0014-00:26:50.609",
+    "L3_frame": "S5#0014-31373_S5#0014-38616",
+    "L4_time": "S5#0014-00:21:48.516_S5#0014-00:46:25.866",
+    "L4_frame": "S5#0014-31373_S5#0014-66794",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Character Clothing",
+        "Options": "A. A yellow sweater\nB. A green polo shirt\nC. A white t-shirt\nD. A red tank top\nE. A purple blouse\nF. A black top\nG. A grey hoodie",
+        "Question": "As Marie Schrader walks purposefully across the parking lot toward the A1A Car Wash, what color top is she wearing?"
+      }
+    ]
+  },
+  "2726": {
+    "L2_time": "S5#0014-00:31:39.356_S5#0014-00:32:53.555",
+    "L2_frame": "S5#0014-45539_S5#0014-47318",
+    "L3_time": "S5#0014-00:31:39.356_S5#0014-00:37:29.581",
+    "L3_frame": "S5#0014-45539_S5#0014-53936",
+    "L4_time": "S5#0014-00:21:48.516_S5#0014-00:46:25.866",
+    "L4_frame": "S5#0014-31373_S5#0014-66794",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Character Clothing",
+        "Options": "A. Camouflage\nB. Striped\nC. Plaid\nD. Floral\nE. Solid color\nF. Polka-dotted",
+        "Question": "During the tense car ride with his mother, what is the pattern of the shirt Flynn wears under his dark jacket?"
+      }
+    ]
+  },
+  "2739": {
+    "L2_time": "S5#0014-00:44:51.856_S5#0014-00:45:33.606",
+    "L2_frame": "S5#0014-64540_S5#0014-65541",
+    "L3_time": "S5#0014-00:42:52.862_S5#0014-00:46:25.866",
+    "L3_frame": "S5#0014-61687_S5#0014-66794",
+    "L4_time": "S5#0014-00:21:48.516_S5#0014-00:46:25.866",
+    "L4_frame": "S5#0014-31373_S5#0014-66794",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "State Transition",
+        "Options": "A. Purple\nB. Black\nC. White\nD. Yellow\nE. Blue\nF. Green",
+        "Question": "Inside Albuquerque Fire Station Twenty, what is the main color of the firefighters' shirts?"
+      }
+    ]
+  },
+  "2752": {
+    "L2_time": "S5#0015-00:12:44.097_S5#0015-00:13:28.266",
+    "L2_frame": "S5#0015-18320_S5#0015-19379",
+    "L3_time": "S5#0015-00:07:50.595_S5#0015-00:14:25.198",
+    "L3_frame": "S5#0015-11283_S5#0015-20744",
+    "L4_time": "S5#0015-00:00:00.000_S5#0015-00:35:11.443",
+    "L4_frame": "S5#0015-00000_S5#0015-50624",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A federal judge\nB. Saul Goodman's secretary\nC. SAC Ramey\nD. A female prosecutor\nE. The Public Defender\nF. Skyler White",
+        "Question": "In the brightly lit office scene that follows the basement confrontation, who is identified as the central figure, dressed in a white blazer and sitting with a rigid posture?"
+      }
+    ]
+  },
+  "276": {
+    "L2_time": "S1#0006-00:35:01.474_S1#0006-00:35:42.223",
+    "L2_frame": "S1#0006-50385_S1#0006-51362",
+    "L3_time": "S1#0006-00:33:27.672_S1#0006-00:39:39.168",
+    "L3_frame": "S1#0006-48136_S1#0006-57043",
+    "L4_time": "S1#0006-00:21:02.136_S1#0006-00:47:09.744",
+    "L4_frame": "S1#0006-30261_S1#0006-67846",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Skyler White\nB. Walter White\nC. Marie Schrader\nD. Saul Goodman\nE. Walter Jr.\nF. Jesse Pinkman\nG. Hank Schrader",
+        "Question": "In the dimly lit bathroom scene following the poker game, who is shown standing under a heavy shower with their head bowed in an attempt to cope with their feelings?"
+      }
+    ]
+  },
+  "2762": {
+    "L2_time": "S5#0015-00:21:47.264_S5#0015-00:23:04.049",
+    "L2_frame": "S5#0015-31343_S5#0015-33184",
+    "L3_time": "S5#0015-00:19:52.983_S5#0015-00:25:10.718",
+    "L3_frame": "S5#0015-28603_S5#0015-36221",
+    "L4_time": "S5#0015-00:00:00.000_S5#0015-00:35:11.443",
+    "L4_frame": "S5#0015-00000_S5#0015-50624",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Event Background",
+        "Options": "A. 50-amp\nB. 20-amp\nC. 30-amp\nD. 100-amp\nE. 15-amp\nF. 10-amp",
+        "Question": "In the room, after explaining the generator's fuel source, what is the limited electrical capacity Ed Galbraith states it has?"
+      }
+    ]
+  },
+  "279": {
+    "L2_time": "S1#0006-00:37:25.535_S1#0006-00:38:25.303",
+    "L2_frame": "S1#0006-53839_S1#0006-55272",
+    "L3_time": "S1#0006-00:33:27.672_S1#0006-00:39:39.168",
+    "L3_frame": "S1#0006-48136_S1#0006-57043",
+    "L4_time": "S1#0006-00:21:02.136_S1#0006-00:47:09.744",
+    "L4_frame": "S1#0006-30261_S1#0006-67846",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Position Comparison",
+        "Options": "A. On a carpet\nB. On the bathroom floor\nC. On the bed\nD. Under the mirror\nE. Next to the countertop\nF. In the hallway\nG. On the window sill\nH. In the closet",
+        "Question": "In the indoor scene, where are the slippers located when Walter appears in the frame?"
+      }
+    ]
+  },
+  "2795": {
+    "L2_time": "S5#0016-00:00:59.643_S5#0016-00:01:51.653",
+    "L2_frame": "S5#0016-01430_S5#0016-02677",
+    "L3_time": "S5#0016-00:00:00.000_S5#0016-00:05:07.557",
+    "L3_frame": "S5#0016-00000_S5#0016-07374",
+    "L4_time": "S5#0015-00:35:11.484_S5#0016-00:05:07.557",
+    "L4_frame": "S5#0015-50625_S5#0016-07374",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Motion",
+        "Options": "A. A drilling motion\nB. A sawing motion\nC. A hammering motion\nD. A scraping motion\nE. A twisting motion\nF. A prying motion",
+        "Question": "When Walter White uses the screwdriver on the sun visor's mounting bracket, what type of motion is he applying with the tool?"
+      }
+    ]
+  },
+  "2798": {
+    "L2_time": "S5#0016-00:03:36.925_S5#0016-00:05:07.557",
+    "L2_frame": "S5#0016-05201_S5#0016-07374",
+    "L3_time": "S5#0016-00:00:00.000_S5#0016-00:05:07.557",
+    "L3_frame": "S5#0016-00000_S5#0016-07374",
+    "L4_time": "S5#0015-00:35:11.484_S5#0016-00:05:07.557",
+    "L4_frame": "S5#0015-50625_S5#0016-07374",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "State Transition",
+        "Options": "A. They are on\nB. One is on, one is off\nC. They are on high-beam\nD. They are broken\nE. They are flickering\nF. They are off",
+        "Question": "When the camera moves in on the Volvo after it has stopped at the gas pump, what is the status of its headlights?"
+      }
+    ]
+  },
+  "2801": {
+    "L2_time": "S5#0016-00:06:40.066_S5#0016-00:07:48.343",
+    "L2_frame": "S5#0016-09592_S5#0016-11229",
+    "L3_time": "S5#0016-00:05:07.599_S5#0016-00:11:29.480",
+    "L3_frame": "S5#0016-07375_S5#0016-16531",
+    "L4_time": "S5#0016-00:05:07.599_S5#0016-00:23:31.660",
+    "L4_frame": "S5#0016-07375_S5#0016-33846",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Textual Content",
+        "Options": "A. A News Reporter\nB. Elliott\nC. Walter White's own voice\nD. An unknown person\nE. A Policeman\nF. Gretchen Schwartz",
+        "Question": "After Walter White recedes from the payphone at the gas station, whose voice is heard making a dismissive remark?"
+      }
+    ]
+  },
+  "2804": {
+    "L2_time": "S5#0016-00:09:38.161_S5#0016-00:10:17.826",
+    "L2_frame": "S5#0016-13862_S5#0016-14813",
+    "L3_time": "S5#0016-00:05:07.599_S5#0016-00:11:29.480",
+    "L3_frame": "S5#0016-07375_S5#0016-16531",
+    "L4_time": "S5#0016-00:05:07.599_S5#0016-00:23:31.660",
+    "L4_frame": "S5#0016-07375_S5#0016-33846",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Event Background",
+        "Options": "A. The Sangre De Cristos mountains\nB. The Jemez Mountains\nC. The Sierra Nevada\nD. The Sandia Mountains\nE. The Appalachian Mountains\nF. The Cascade Range\nG. The Rocky Mountains",
+        "Question": "During the tense confrontation where Walter White appears uninvited, what specific mountain does he comment on while looking out the large glass windows of Elliott and Gretchen's modern living room?"
+      }
+    ]
+  },
+  "2815": {
+    "L2_time": "S5#0016-00:19:51.148_S5#0016-00:20:15.464",
+    "L2_frame": "S5#0016-28559_S5#0016-29142",
+    "L3_time": "S5#0016-00:16:53.304_S5#0016-00:20:15.464",
+    "L3_frame": "S5#0016-24295_S5#0016-29142",
+    "L4_time": "S5#0016-00:05:07.599_S5#0016-00:23:31.660",
+    "L4_frame": "S5#0016-07375_S5#0016-33846",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Character Clothing",
+        "Options": "A. Orange\nB. Black\nC. Yellow\nD. Green\nE. Blue\nF. White\nG. Red",
+        "Question": "In the opening scene showing Jesse Pinkman's captivity in the industrial meth lab, what color is the apron he is forced to wear over his shirt?"
+      }
+    ]
+  },
+  "2822": {
+    "L2_time": "S5#0016-00:25:45.753_S5#0016-00:26:29.046",
+    "L2_frame": "S5#0016-37061_S5#0016-38099",
+    "L3_time": "S5#0016-00:23:31.702_S5#0016-00:31:36.269",
+    "L3_frame": "S5#0016-33847_S5#0016-45465",
+    "L4_time": "S5#0016-00:23:31.702_S5#0016-00:54:24.178",
+    "L4_frame": "S5#0016-33847_S5#0016-78262",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Presence",
+        "Options": "A. Yes, Walter is actively using it.\nB. Yes, a blue one is visible.\nC. No, only a power drill is mentioned.\nD. No, the tools consist only of hand tools.\nE. Yes, it is mentioned as being part of the workshop.\nF. No, there is a circular saw instead.",
+        "Question": "In the desert scene where Walter White builds his device, is a reciprocating saw shown among the tools in his makeshift workshop?"
+      }
+    ]
+  },
+  "2828": {
+    "L2_time": "S5#0016-00:31:36.311_S5#0016-00:33:02.314",
+    "L2_frame": "S5#0016-45466_S5#0016-47528",
+    "L3_time": "S5#0016-00:31:36.311_S5#0016-00:36:01.868",
+    "L3_frame": "S5#0016-45466_S5#0016-51833",
+    "L4_time": "S5#0016-00:23:31.702_S5#0016-00:54:24.178",
+    "L4_frame": "S5#0016-33847_S5#0016-78262",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Object Appearance",
+        "Options": "A. 'LUCKY'\nB. 'WINNER'\nC. 'JACKPOT'\nD. 'VOID'\nE. 'STRAIGHT'\nF. 'BONUS'",
+        "Question": "What specific marking is printed on the rows of numbers on the lottery slip that Skyler observes?"
+      }
+    ]
+  },
+  "283": {
+    "L2_time": "S1#0006-00:40:26.090_S1#0006-00:41:38.746",
+    "L2_frame": "S1#0006-58168_S1#0006-59910",
+    "L3_time": "S1#0006-00:39:39.210_S1#0006-00:47:09.744",
+    "L3_frame": "S1#0006-57044_S1#0006-67846",
+    "L4_time": "S1#0006-00:21:02.136_S1#0006-00:47:09.744",
+    "L4_frame": "S1#0006-30261_S1#0006-67846",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Body Movement",
+        "Options": "A. He points a finger\nB. He laughs loudly\nC. He clenches his fists\nD. He looks away\nE. He starts pacing\nF. He takes a step forward",
+        "Question": "During the initial standoff between Walter White and Lookout, what action does Lookout eventually take that indicates he has compromised?"
+      }
+    ]
+  },
+  "2833": {
+    "L2_time": "S5#0016-00:37:27.203_S5#0016-00:38:21.633",
+    "L2_frame": "S5#0016-53879_S5#0016-55184",
+    "L3_time": "S5#0016-00:36:01.910_S5#0016-00:42:37.555",
+    "L3_frame": "S5#0016-51834_S5#0016-61320",
+    "L4_time": "S5#0016-00:23:31.702_S5#0016-00:54:24.178",
+    "L4_frame": "S5#0016-33847_S5#0016-78262",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. A guard on duty\nB. Kenny\nC. An automated system\nD. The associate\nE. Walter White\nF. A third, unidentified man",
+        "Question": "At the very end of the described sequence, after the sedan disappears into the darkness of the compound, who performs the final action of walking to the gate and closing it?"
+      }
+    ]
+  },
+  "2834": {
+    "L2_time": "S5#0016-00:38:21.674_S5#0016-00:39:24.445",
+    "L2_frame": "S5#0016-55185_S5#0016-56690",
+    "L3_time": "S5#0016-00:36:01.910_S5#0016-00:42:37.555",
+    "L3_frame": "S5#0016-51834_S5#0016-61320",
+    "L4_time": "S5#0016-00:23:31.702_S5#0016-00:54:24.178",
+    "L4_frame": "S5#0016-33847_S5#0016-78262",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Object Presence",
+        "Options": "A. Frankie is observing from a distance.\nB. Yes, Frankie is one of the four men.\nC. Frankie is not mentioned in this specific encirclement.\nD. Frankie is inside the building.\nE. No, Frankie arrives later.\nF. Frankie is the driver.",
+        "Question": "When Walter White is first encircled by the men near the beige building, is Frankie among them?"
+      }
+    ]
+  },
+  "2835": {
+    "L2_time": "S5#0016-00:39:24.487_S5#0016-00:41:14.972",
+    "L2_frame": "S5#0016-56691_S5#0016-59340",
+    "L3_time": "S5#0016-00:36:01.910_S5#0016-00:42:37.555",
+    "L3_frame": "S5#0016-51834_S5#0016-61320",
+    "L4_time": "S5#0016-00:23:31.702_S5#0016-00:54:24.178",
+    "L4_frame": "S5#0016-33847_S5#0016-78262",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Event Summary",
+        "Options": "A. The return of Walter's wallet and keys\nB. The presence of the green-felt pool table\nC. Todd's verbal betrayal of Walter\nD. Jack's revelation of the new methylamine source\nE. Jack's initial mockery of Walter's hair\nF. Walter's formal greeting to Jack",
+        "Question": "What is the pivotal event inside the clubhouse that completely extinguishes any hope for Walter's proposal and seals his fate?"
+      }
+    ]
+  },
+  "2845": {
+    "L2_time": "S5#0016-00:50:27.566_S5#0016-00:51:19.368",
+    "L2_frame": "S5#0016-72589_S5#0016-73831",
+    "L3_time": "S5#0016-00:49:28.632_S5#0016-00:54:24.178",
+    "L3_frame": "S5#0016-71176_S5#0016-78262",
+    "L4_time": "S5#0016-00:23:31.702_S5#0016-00:54:24.178",
+    "L4_frame": "S5#0016-33847_S5#0016-78262",
+    "L5_time": "S5#0001-00:00:00.000_S5#0016-00:54:24.178",
+    "L5_frame": "S5#0001-00000_S5#0016-78262",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Object Appearance",
+        "Options": "A. Yellow\nB. Green\nC. Red\nD. Blue\nE. White\nF. Silver\nG. Black",
+        "Question": "In the scene depicting the aftermath of the massacre, what is the specified color of the El Camino that Walter and Jesse interact with?"
+      }
+    ]
+  },
+  "289": {
+    "L2_time": "S1#0007-00:00:00.000_S1#0007-00:00:49.049",
+    "L2_frame": "S1#0007-00000_S1#0007-01176",
+    "L3_time": "S1#0007-00:00:00.000_S1#0007-00:03:18.990",
+    "L3_frame": "S1#0007-00000_S1#0007-04771",
+    "L4_time": "S1#0007-00:00:00.000_S1#0007-00:24:23.003",
+    "L4_frame": "S1#0007-00000_S1#0007-35077",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Event Summary",
+        "Options": "A. An assault on a teacher\nB. The sale of marijuana on campus\nC. An instance of student vandalism\nD. The discovery of a meth lab in the basement\nE. The theft of lab equipment\nF. A series of student locker break-ins\nG. The hacking of school computers",
+        "Question": "In addition to the general drug problem, what specific crime that occurred at the school does the police officer address in his opening statement at the press briefing?"
+      }
+    ]
+  },
+  "310": {
+    "L2_time": "S1#0007-00:22:06.700_S1#0007-00:24:23.003",
+    "L2_frame": "S1#0007-31809_S1#0007-35077",
+    "L3_time": "S1#0007-00:12:43.888_S1#0007-00:24:23.003",
+    "L3_frame": "S1#0007-18315_S1#0007-35077",
+    "L4_time": "S1#0007-00:00:00.000_S1#0007-00:24:23.003",
+    "L4_frame": "S1#0007-00000_S1#0007-35077",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Skyler deciding to return it - Skyler mentioning the tiara - Walter questioning Skyler\nB. Walter questioning Skyler - Skyler deciding to return it - Skyler mentioning the tiara\nC. Skyler deciding to return it - Walter questioning Skyler - Skyler mentioning the tiara\nD. Walter questioning Skyler - Skyler mentioning the tiara - Skyler deciding to return it\nE. Skyler mentioning the tiara - Skyler deciding to return it - Walter questioning Skyler\nF. Skyler mentioning the tiara - Walter questioning Skyler - Skyler deciding to return it",
+        "Question": "During the conversation between Walter and Skyler in their bedroom, what is the sequence of events regarding the baby tiara: Skyler mentioning the tiara, Walter questioning Skyler about returning it, and Skyler deciding to return it?"
+      }
+    ]
+  },
+  "318": {
+    "L2_time": "S1#0007-00:31:26.134_S1#0007-00:33:11.907",
+    "L2_frame": "S1#0007-45222_S1#0007-47758",
+    "L3_time": "S1#0007-00:29:29.226_S1#0007-00:35:03.476",
+    "L3_frame": "S1#0007-42419_S1#0007-50433",
+    "L4_time": "S1#0007-00:24:23.045_S1#0007-00:47:13.247",
+    "L4_frame": "S1#0007-35078_S1#0007-67930",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Quantity Comparison",
+        "Options": "A. No, there were more security guards.\nB. There was one person breaking in and two security guards.\nC. Yes, there were more people breaking in.\nD. There were no security guards present.\nE. The description does not specify the number of security guards.\nF. The description does not specify the number of people breaking in.\nG. The number was equal.",
+        "Question": "During the break-in at the chemical storage area, was the number of people involved in the break-in greater than the number of security guards present?"
+      }
+    ]
+  },
+  "391": {
+    "L2_time": "S2#0002-00:15:00.066_S2#0002-00:15:48.948",
+    "L2_frame": "S2#0002-21580_S2#0002-22752",
+    "L3_time": "S2#0002-00:14:15.605_S2#0002-00:18:02.039",
+    "L3_frame": "S2#0002-20514_S2#0002-25943",
+    "L4_time": "S2#0002-00:09:35.700_S2#0002-00:42:20.455",
+    "L4_frame": "S2#0002-13803_S2#0002-60910",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. He explains his alias after Tuco takes the meth\nB. He explains his alias 'Heisenberg' first\nC. He doesn't have a family photo\nD. He has his family photo discovered first\nE. He does both actions simultaneously\nF. He never explains his alias",
+        "Question": "In the scene where Tuco confronts Walter and Jesse, which action does Walter perform first: explaining his alias or having his family photo discovered?"
+      }
+    ]
+  },
+  "4": {
+    "L2_time": "S1#0001-00:04:31.646_S1#0001-00:05:10.435",
+    "L2_frame": "S1#0001-06513_S1#0001-07443",
+    "L3_time": "S1#0001-00:00:00.000_S1#0001-00:05:10.435",
+    "L3_frame": "S1#0001-00000_S1#0001-07443",
+    "L4_time": "S1#0001-00:00:00.000_S1#0001-00:20:02.451",
+    "L4_frame": "S1#0001-00000_S1#0001-28830",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Presence",
+        "Options": "A. Yes\nB. The description does not specify\nC. It is mentioned in a separate document\nD. Only his individual contribution is mentioned\nE. No, only his teaching career is mentioned\nF. It is implied but not explicitly stated",
+        "Question": "In the quiet space displaying relics of Walter's past, is there his role as a project leader for Nobel Prize-winning work?"
+      }
+    ]
+  },
+  "41": {
+    "L2_time": "S1#0001-00:42:39.390_S1#0001-00:43:56.551",
+    "L2_frame": "S1#0001-61364_S1#0001-63214",
+    "L3_time": "S1#0001-00:42:39.390_S1#0001-00:51:50.608",
+    "L3_frame": "S1#0001-61364_S1#0001-74580",
+    "L4_time": "S1#0001-00:20:02.493_S1#0002-00:04:41.323",
+    "L4_frame": "S1#0001-28831_S1#0002-06745",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. The scene transitions to the gym\nB. Walter humbly accepts the praise and thanks him\nC. Walter rises from his armchair\nD. Walter establishes the 'no using' rule\nE. Jesse suggests they cook again the next day\nF. Jesse decides to sample the product\nG. Jesse inspects a crystal with tweezers",
+        "Question": "In the RV scene, what happens immediately after Jesse compares Walter to the 'goddamn Iron Chef'?"
+      }
+    ]
+  },
+  "424": {
+    "L2_time": "S2#0003-00:02:37.074_S2#0003-00:03:50.480",
+    "L2_frame": "S2#0003-03766_S2#0003-05526",
+    "L3_time": "S2#0003-00:00:00.000_S2#0003-00:04:47.287",
+    "L3_frame": "S2#0003-00000_S2#0003-06888",
+    "L4_time": "S2#0002-00:42:20.496_S2#0003-00:34:22.769",
+    "L4_frame": "S2#0002-60911_S2#0003-49457",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Event Background",
+        "Options": "A. Green\nB. Blue\nC. White\nD. Yellow\nE. Red\nF. Brown\nG. Black\nH. Gray",
+        "Question": "What is the color of the shoes that Waiter picks up from the floor of the HI-LO MARKET as part of the trail of clothing?"
+      }
+    ]
+  },
+  "449": {
+    "L2_time": "S2#0003-00:28:19.865_S2#0003-00:29:11.208",
+    "L2_frame": "S2#0003-40756_S2#0003-41987",
+    "L3_time": "S2#0003-00:27:31.483_S2#0003-00:34:22.769",
+    "L3_frame": "S2#0003-39596_S2#0003-49457",
+    "L4_time": "S2#0002-00:42:20.496_S2#0003-00:34:22.769",
+    "L4_frame": "S2#0002-60911_S2#0003-49457",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Position Comparison",
+        "Options": "A. Sitting next to Tio\nB. Standing behind Tio\nC. Next to Steven Gomez\nD. Leaning against the wall\nE. Near the door\nF. By the window blinds\nG. Opposite Jesse Pinkman\nH. At the table with Jesse",
+        "Question": "In the tense interrogation room, when Tio Salamanca is present, where is his nurse positioned?"
+      }
+    ]
+  },
+  "47": {
+    "L2_time": "S1#0001-00:49:17.621_S1#0001-00:49:58.370",
+    "L2_frame": "S1#0001-70912_S1#0001-71889",
+    "L3_time": "S1#0001-00:42:39.390_S1#0001-00:51:50.608",
+    "L3_frame": "S1#0001-61364_S1#0001-74580",
+    "L4_time": "S1#0001-00:20:02.493_S1#0002-00:04:41.323",
+    "L4_frame": "S1#0001-28831_S1#0002-06745",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Object Appearance",
+        "Options": "A. Black\nB. Green\nC. Silver\nD. Blue\nE. Red\nF. White",
+        "Question": "In the cramped RV laboratory, what is the color of the pan placed on the camping stove by Walter White?"
+      }
+    ]
+  },
+  "483": {
+    "L2_time": "S2#0004-00:15:41.065_S2#0004-00:16:30.823",
+    "L2_frame": "S2#0004-22563_S2#0004-23756",
+    "L3_time": "S2#0004-00:08:20.667_S2#0004-00:16:30.823",
+    "L3_frame": "S2#0004-12004_S2#0004-23756",
+    "L4_time": "S2#0003-00:34:22.811_S2#0004-00:20:31.397",
+    "L4_frame": "S2#0003-49458_S2#0004-29524",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Body Movement",
+        "Options": "A. He politely declines\nB. He looks at Louis before deciding\nC. He accepts enthusiastically\nD. He makes a face of disgust\nE. He ignores the offer\nF. He asks for seconds\nG. He tastes it and compliments it",
+        "Question": "After Walter White offers omelets in his sunlit kitchen, how does Walter White Jr. respond to his father's offer?"
+      }
+    ]
+  },
+  "490": {
+    "L2_time": "S2#0004-00:21:26.118_S2#0004-00:22:37.231",
+    "L2_frame": "S2#0004-30836_S2#0004-32541",
+    "L3_time": "S2#0004-00:20:31.439_S2#0004-00:25:47.713",
+    "L3_frame": "S2#0004-29525_S2#0004-37108",
+    "L4_time": "S2#0004-00:20:31.439_S2#0005-00:04:54.669",
+    "L4_frame": "S2#0004-29525_S2#0005-07065",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Temporal Sequence",
+        "Options": "A. She starts talking to Ben\nB. She asks Paul to help her with the shopping bags\nC. She sits down at the dining table\nD. She takes off her cardigan\nE. She leaves the room\nF. She goes to the kitchen",
+        "Question": "In the townhouse scene, after Sara Tyree enters carrying shopping bags and Jesse Pinkman greets her, what action does Sara take immediately after acknowledging Jesse with a reserved greeting?"
+      }
+    ]
+  },
+  "492": {
+    "L2_time": "S2#0004-00:23:24.403_S2#0004-00:24:13.911",
+    "L2_frame": "S2#0004-33672_S2#0004-34859",
+    "L3_time": "S2#0004-00:20:31.439_S2#0004-00:25:47.713",
+    "L3_frame": "S2#0004-29525_S2#0004-37108",
+    "L4_time": "S2#0004-00:20:31.439_S2#0005-00:04:54.669",
+    "L4_frame": "S2#0004-29525_S2#0005-07065",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Body Movement",
+        "Options": "A. 'Where is it?'\nB. 'That's terrible!'\nC. 'Leave me alone.'\nD. 'You're in trouble.'\nE. 'Thank you!'\nF. 'I don't have a bike.'",
+        "Question": "What is the homeless man's verbal response to Jesse's story about the stolen motorcycle?"
+      }
+    ]
+  },
+  "519": {
+    "L2_time": "S2#0005-00:06:34.936_S2#0005-00:07:47.592",
+    "L2_frame": "S2#0005-09469_S2#0005-11211",
+    "L3_time": "S2#0005-00:04:54.711_S2#0005-00:09:50.256",
+    "L3_frame": "S2#0005-07066_S2#0005-14152",
+    "L4_time": "S2#0005-00:04:54.711_S2#0005-00:22:13.791",
+    "L4_frame": "S2#0005-07066_S2#0005-31979",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Spatial Location",
+        "Options": "A. In Walter's shirt pocket\nB. In the sink\nC. On the floor next to the toilet\nD. On the bathroom counter\nE. In the trash can\nF. Floating in the filthy water of the toilet bowl\nG. On top of the toilet tank",
+        "Question": "In the scene where Walter is struggling with the toilet, where is the pack of Morley cigarettes located?"
+      }
+    ]
+  },
+  "522": {
+    "L2_time": "S2#0005-00:09:50.340_S2#0005-00:10:50.984",
+    "L2_frame": "S2#0005-14154_S2#0005-15608",
+    "L3_time": "S2#0005-00:09:50.340_S2#0005-00:13:26.931",
+    "L3_frame": "S2#0005-14154_S2#0005-19347",
+    "L4_time": "S2#0005-00:04:54.711_S2#0005-00:22:13.791",
+    "L4_frame": "S2#0005-07066_S2#0005-31979",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Position Comparison",
+        "Options": "A. In his pocket\nB. On his pants\nC. On the control panel\nD. On his head\nE. On his face\nF. On the elevator wall\nG. On his chest",
+        "Question": "In the elevator, where was Hank's hand positioned during his panic attack, relative to his body?"
+      }
+    ]
+  },
+  "545": {
+    "L2_time": "S2#0005-00:34:17.138_S2#0005-00:35:24.372",
+    "L2_frame": "S2#0005-49322_S2#0005-50934",
+    "L3_time": "S2#0005-00:34:17.138_S2#0005-00:40:26.341",
+    "L3_frame": "S2#0005-49322_S2#0005-58174",
+    "L4_time": "S2#0005-00:22:13.832_S2#0006-00:01:11.196",
+    "L4_frame": "S2#0005-31980_S2#0006-01707",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Tattooed man dragging - Robbing meth crystals - Gang fighting\nB. Tattooed man dragging and robbing meth crystals happened simultaneously, then gang fighting\nC. Robbing meth crystals - Tattooed man dragging - Gang fighting\nD. Gang fighting - Robbing meth crystals - Tattooed man dragging\nE. Gang fighting - Tattooed man dragging - Robbing meth crystals\nF. Tattooed man dragging - Gang fighting - Robbing meth crystals\nG. Robbing meth crystals - Gang fighting - Tattooed man dragging\nH. Gang fighting and robbing meth crystals happened simultaneously, then tattooed man dragging",
+        "Question": "When the gang initiated violence against Jesse's dealers, what was the order of the following events: the gang fighting under harsh green light, the tattooed man dragging someone up the stairs, and the gang robbing the dealer of meth crystals?"
+      }
+    ]
+  },
+  "572": {
+    "L2_time": "S2#0006-00:17:07.860_S2#0006-00:18:06.627",
+    "L2_frame": "S2#0006-24644_S2#0006-26053",
+    "L3_time": "S2#0006-00:14:35.041_S2#0006-00:18:55.551",
+    "L3_frame": "S2#0006-20980_S2#0006-27226",
+    "L4_time": "S2#0006-00:01:11.238_S2#0006-00:41:13.221",
+    "L4_frame": "S2#0006-01708_S2#0006-59298",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Causal Inference",
+        "Options": "A. He was cleaning up the kitchen.\nB. He was throwing it away.\nC. He was trying to hide it.\nD. He was preparing to give it to the boy\nE. He was going to eat it himself.\nF. He was using it as a weapon.\nG. He was taking it to the couple.\nH. He was just moving it out of the way.",
+        "Question": "Why does Jesse Pinkman pick up a plate of food before carrying the boy out of the kitchen?"
+      }
+    ]
+  },
+  "574": {
+    "L2_time": "S2#0006-00:18:55.593_S2#0006-00:19:48.938",
+    "L2_frame": "S2#0006-27227_S2#0006-28506",
+    "L3_time": "S2#0006-00:18:55.593_S2#0006-00:23:27.323",
+    "L3_frame": "S2#0006-27227_S2#0006-33742",
+    "L4_time": "S2#0006-00:01:11.238_S2#0006-00:41:13.221",
+    "L4_frame": "S2#0006-01708_S2#0006-59298",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Event Outcome",
+        "Options": "A. He seems disturbed\nB. He changes the subject\nC. He questions the logistics\nD. He angrily dismisses it\nE. He calmly approves\nF. He laughs loudly",
+        "Question": "After Walter Jr. suggests using scorpions during their conversation in the car, how does Walter White react to this idea?"
+      }
+    ]
+  },
+  "577": {
+    "L2_time": "S2#0006-00:21:39.840_S2#0006-00:22:36.939",
+    "L2_frame": "S2#0006-31165_S2#0006-32534",
+    "L3_time": "S2#0006-00:18:55.593_S2#0006-00:23:27.323",
+    "L3_frame": "S2#0006-27227_S2#0006-33742",
+    "L4_time": "S2#0006-00:01:11.238_S2#0006-00:41:13.221",
+    "L4_frame": "S2#0006-01708_S2#0006-59298",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "State Transition",
+        "Options": "A. Polite -> Warm -> Unaware\nB. Agitated -> Soft -> Insistent\nC. Angry -> Desperate -> Defeated\nD. Forced smile -> Soft\nE. Happy -> Sad -> Angry\nF. Confused -> Calm -> Determined",
+        "Question": "How does Walter White's demeanor change from the moment Gretchen closes the door until he decides to walk her to her car at the White residence?"
+      }
+    ]
+  },
+  "615": {
+    "L2_time": "S2#0007-00:16:50.468_S2#0007-00:17:35.930",
+    "L2_frame": "S2#0007-24227_S2#0007-25317",
+    "L3_time": "S2#0007-00:15:39.147_S2#0007-00:22:07.326",
+    "L3_frame": "S2#0007-22517_S2#0007-31824",
+    "L4_time": "S2#0006-00:41:13.262_S2#0007-00:22:07.326",
+    "L4_frame": "S2#0006-59299_S2#0007-31824",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Recipient",
+        "Options": "A. Badger\nB. Combo\nC. A museum guard\nD. Jesse\nE. Skinny Pete\nF. Himself",
+        "Question": "At the National Atomic Museum, who is the recipient of Walter White's dry retort, 'Real cool,' after commenting on the product?"
+      }
+    ]
+  },
+  "618": {
+    "L2_time": "S2#0007-00:19:18.824_S2#0007-00:21:01.594",
+    "L2_frame": "S2#0007-27784_S2#0007-30248",
+    "L3_time": "S2#0007-00:15:39.147_S2#0007-00:22:07.326",
+    "L3_frame": "S2#0007-22517_S2#0007-31824",
+    "L4_time": "S2#0006-00:41:13.262_S2#0007-00:22:07.326",
+    "L4_frame": "S2#0006-59299_S2#0007-31824",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Character Hairstyle",
+        "Options": "A. Gray\nB. Blonde\nC. Black\nD. Red\nE. Auburn\nF. Brown",
+        "Question": "When Receptionist Margaret begins to recall Skyler's employment history at Beneke Fabricators, what is the color of her hair?"
+      }
+    ]
+  },
+  "625": {
+    "L2_time": "S2#0007-00:26:48.440_S2#0007-00:27:59.595",
+    "L2_frame": "S2#0007-38564_S2#0007-40270",
+    "L3_time": "S2#0007-00:26:48.440_S2#0007-00:31:18.835",
+    "L3_frame": "S2#0007-38564_S2#0007-45047",
+    "L4_time": "S2#0007-00:22:07.368_S2#0007-00:46:27.076",
+    "L4_frame": "S2#0007-31825_S2#0007-66823",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Distinctive Features",
+        "Options": "A. Mariano Rivera\nB. Mickey Mantle\nC. Joe DiMaggio\nD. Babe Ruth\nE. Alex Rodriguez\nF. Derek Jeter",
+        "Question": "In the dimly lit, smoke-filled hotel room, who is the famous athlete whose signature is on the commemorative baseball the Turtle demands?"
+      }
+    ]
+  },
+  "638": {
+    "L2_time": "S2#0007-00:38:37.398_S2#0007-00:40:00.898",
+    "L2_frame": "S2#0007-55562_S2#0007-57564",
+    "L3_time": "S2#0007-00:38:37.398_S2#0007-00:43:11.422",
+    "L3_frame": "S2#0007-55562_S2#0007-62132",
+    "L4_time": "S2#0007-00:22:07.368_S2#0007-00:46:27.076",
+    "L4_frame": "S2#0007-31825_S2#0007-66823",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Counting",
+        "Options": "A. One\nB. Two\nC. Five\nD. Four\nE. Six\nF. Three",
+        "Question": "Excluding Jesse Pinkman himself, how many members of his crew are explicitly mentioned as exploring other military displays at the museum?"
+      }
+    ]
+  },
+  "69": {
+    "L2_time": "S1#0002-00:12:29.582_S1#0002-00:13:41.571",
+    "L2_frame": "S1#0002-17972_S1#0002-19698",
+    "L3_time": "S1#0002-00:11:40.992_S1#0002-00:14:52.683",
+    "L3_frame": "S1#0002-16807_S1#0002-21403",
+    "L4_time": "S1#0002-00:04:41.364_S1#0002-00:25:54.261",
+    "L4_frame": "S1#0002-06746_S1#0002-37265",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Scene and Location",
+        "Options": "A. On a pedestrian crossing\nB. In a ditch\nC. On the sidewalk\nD. On a driveway\nE. In a park\nF. In the middle of the road",
+        "Question": "When Walter White spots Crazy-8, what is the specific location where Crazy-8 is stumbling?"
+      }
+    ]
+  },
+  "696": {
+    "L2_time": "S2#0009-00:03:45.100_S2#0009-00:04:43.492",
+    "L2_frame": "S2#0009-05397_S2#0009-06797",
+    "L3_time": "S2#0009-00:01:32.342_S2#0009-00:05:56.898",
+    "L3_frame": "S2#0009-02214_S2#0009-08557",
+    "L4_time": "S2#0009-00:01:32.342_S2#0009-00:37:25.368",
+    "L4_frame": "S2#0009-02214_S2#0009-53835",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Temporal Comparison",
+        "Options": "A. Saul mocks Walter about the Subaru\nB. Saul calculates the money\nC. Walter states $16,000\nD. Saul asks how much money needs laundering\nE. Walter's expression hardens into resolve\nF. Saul calls it his 'legal opinion' and encourages Walter\nG. Walter White admits his prognosis\nH. Saul expresses disappointment",
+        "Question": "In Saul Goodman's flamboyant office, what happens after Saul's condescending amusement shifts to intrigued approval?"
+      }
+    ]
+  },
+  "7": {
+    "L2_time": "S1#0001-00:06:46.865_S1#0001-00:07:57.852",
+    "L2_frame": "S1#0001-09755_S1#0001-11457",
+    "L3_time": "S1#0001-00:05:10.477_S1#0001-00:10:05.230",
+    "L3_frame": "S1#0001-07444_S1#0001-14511",
+    "L4_time": "S1#0001-00:00:00.000_S1#0001-00:20:02.451",
+    "L4_frame": "S1#0001-00000_S1#0001-28830",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Position Comparison",
+        "Options": "A. Outside the classroom.\nB. On the chalkboard.\nC. On the floor.\nD. On a shelf.\nE. On one of the long black tables where students sit.\nF. On the demonstration table.\nG. In the cluttered equipment area.\nH. In a cupboard.",
+        "Question": "In the chemistry classroom, where is the Bunsen burner located when Walter White ignites it?"
+      }
+    ]
+  },
+  "704": {
+    "L2_time": "S2#0009-00:11:48.541_S2#0009-00:12:34.337",
+    "L2_frame": "S2#0009-16988_S2#0009-18086",
+    "L3_time": "S2#0009-00:10:02.769_S2#0009-00:13:18.214",
+    "L3_frame": "S2#0009-14452_S2#0009-19138",
+    "L4_time": "S2#0009-00:01:32.342_S2#0009-00:37:25.368",
+    "L4_frame": "S2#0009-02214_S2#0009-53835",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Textual Content",
+        "Options": "A. 'Stop'\nB. 'Baggage'\nC. 'Set'\nD. 'Arrival'\nE. 'Ticketing'\nF. 'Cars'",
+        "Question": "When Walter White is waiting at the curbside, there is a string of letters above the airport door behind him. What are these letters?"
+      }
+    ]
+  },
+  "74": {
+    "L2_time": "S1#0002-00:16:37.038_S1#0002-00:18:09.130",
+    "L2_frame": "S1#0002-23905_S1#0002-26113",
+    "L3_time": "S1#0002-00:14:52.725_S1#0002-00:19:46.268",
+    "L3_frame": "S1#0002-21404_S1#0002-28442",
+    "L4_time": "S1#0002-00:04:41.364_S1#0002-00:25:54.261",
+    "L4_frame": "S1#0002-06746_S1#0002-37265",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Causal Inference",
+        "Options": "A. Walter had forgotten to tie Krazy-8 up\nB. Walter was unaware of the danger Krazy-8 posed\nC. Walter was trying to calm Jesse down\nD. Walter was too busy arguing with Jesse to tie him up\nE. Walter genuinely believed the captive was unconscious and didn't need tying\nF. Walter was afraid of Krazy-8 and didn't want to get close\nG. Walter was trying to deflect blame from himself\nH. Walter was still lost in thought and confused",
+        "Question": "In the living room, after the sudden noise from the vent, why does Walter weakly insist the captive was unconscious when Jesse berates him for not tying the captive up?"
+      }
+    ]
+  },
+  "744": {
+    "L2_time": "S2#0010-00:04:18.133_S2#0010-00:04:58.340",
+    "L2_frame": "S2#0010-06189_S2#0010-07153",
+    "L3_time": "S2#0010-00:03:34.548_S2#0010-00:10:35.885",
+    "L3_frame": "S2#0010-05144_S2#0010-15246",
+    "L4_time": "S2#0009-00:37:25.410_S2#0010-00:15:44.402",
+    "L4_frame": "S2#0009-53836_S2#0010-22643",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "E",
+        "Dimension": "Action Recipient",
+        "Options": "A. Himself\nB. The diner manager\nC. His lawyer\nD. His son, Walter Jr.\nE. Jesse Pinkman\nF. His wife on the phone",
+        "Question": "In the diner, after Walter reveals his diagnosis, who is the person Walter attempts to reassure by telling them the condition is not as bad as it sounds?"
+      }
+    ]
+  },
+  "77": {
+    "L2_time": "S1#0002-00:19:46.310_S1#0002-00:20:54.795",
+    "L2_frame": "S1#0002-28443_S1#0002-30085",
+    "L3_time": "S1#0002-00:19:46.310_S1#0002-00:25:54.261",
+    "L3_frame": "S1#0002-28443_S1#0002-37265",
+    "L4_time": "S1#0002-00:04:41.364_S1#0002-00:25:54.261",
+    "L4_frame": "S1#0002-06746_S1#0002-37265",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. An unseen character\nB. Jesse Pinkman\nC. A police officer\nD. The captive\nE. Walter White\nF. A neighbor",
+        "Question": "In the dimly lit living room, after the fierce argument, when Jesse Pinkman is pacing restlessly, who tentatively suggests that the phosphine gas might still kill their captive?"
+      }
+    ]
+  },
+  "818": {
+    "L2_time": "S2#0011-00:30:32.706_S2#0011-00:31:56.873",
+    "L2_frame": "S2#0011-43941_S2#0011-45959",
+    "L3_time": "S2#0011-00:29:14.294_S2#0011-00:35:39.679",
+    "L3_frame": "S2#0011-42061_S2#0011-51301",
+    "L4_time": "S2#0011-00:23:54.642_S2#0012-00:17:20.540",
+    "L4_frame": "S2#0011-34397_S2#0012-24948",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Appearance",
+        "Options": "A. Green\nB. Brown\nC. Black\nD. Purple\nE. Red\nF. Blue",
+        "Question": "When the focus shifts to a close-up of a financial ledger, what color pen is used to write 'Keller' next to an amount?"
+      }
+    ]
+  },
+  "832": {
+    "L2_time": "S2#0011-00:45:19.759_S2#0011-00:46:25.992",
+    "L2_frame": "S2#0011-65209_S2#0011-66797",
+    "L3_time": "S2#0011-00:43:05.541_S2#0012-00:02:50.379",
+    "L3_frame": "S2#0011-61991_S2#0012-04085",
+    "L4_time": "S2#0011-00:23:54.642_S2#0012-00:17:20.540",
+    "L4_frame": "S2#0011-34397_S2#0012-24948",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Spatial Location",
+        "Options": "A. He goes into the basement to hide the bag\nB. He goes out the front door to his car\nC. He goes down a dark hallway\nD. He goes to the garage\nE. He climbs out a window into the backyard\nF. He goes into an adjacent bedroom",
+        "Question": "Immediately after hoisting the heavy bag of meth onto his shoulder and leaving the kitchen, where does Walter go?"
+      }
+    ]
+  },
+  "839": {
+    "L2_time": "S2#0012-00:05:31.623_S2#0012-00:06:27.095",
+    "L2_frame": "S2#0012-07951_S2#0012-09281",
+    "L3_time": "S2#0012-00:02:50.420_S2#0012-00:07:39.960",
+    "L3_frame": "S2#0012-04086_S2#0012-11028",
+    "L4_time": "S2#0011-00:23:54.642_S2#0012-00:17:20.540",
+    "L4_frame": "S2#0011-34397_S2#0012-24948",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Causal Inference",
+        "Options": "A. She is trying to make an excuse for being late.\nB. She genuinely overslept and was in the shower.\nC. She wants to make him worry less about her.\nD. She wants to avoid telling him she was with Jesse Pinkman.\nE. She is trying to get out of a commitment.\nF. She is testing her father's trust.\nG. She is trying to hide her emotional distress.\nH. She is trying to buy more time before leaving.",
+        "Question": "Why does Jane Margolis lie to her father about being in the shower and overslept?"
+      }
+    ]
+  },
+  "845": {
+    "L2_time": "S2#0012-00:11:45.455_S2#0012-00:12:34.796",
+    "L2_frame": "S2#0012-16914_S2#0012-18097",
+    "L3_time": "S2#0012-00:07:40.001_S2#0012-00:13:18.965",
+    "L3_frame": "S2#0012-11029_S2#0012-19156",
+    "L4_time": "S2#0011-00:23:54.642_S2#0012-00:17:20.540",
+    "L4_frame": "S2#0011-34397_S2#0012-24948",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "C",
+        "Dimension": "Action Recipient",
+        "Options": "A. The baby\nB. The takeout chicken\nC. Hank Schrader\nD. Walter White\nE. Herself\nF. Walter Jr.\nG. Skyler White",
+        "Question": "During the family gathering when Hank Schrader voiced his objection to breastfeeding, who was the target of Marie Schrader's defense and her comment calling him 'provincial'?"
+      }
+    ]
+  },
+  "848": {
+    "L2_time": "S2#0012-00:14:14.979_S2#0012-00:15:13.287",
+    "L2_frame": "S2#0012-20499_S2#0012-21897",
+    "L3_time": "S2#0012-00:13:19.007_S2#0012-00:17:20.540",
+    "L3_frame": "S2#0012-19157_S2#0012-24948",
+    "L4_time": "S2#0011-00:23:54.642_S2#0012-00:17:20.540",
+    "L4_frame": "S2#0011-34397_S2#0012-24948",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Position Comparison",
+        "Options": "A. To the left of the washing machine.\nB. Inside the dryer.\nC. On top of the dryer.\nD. Above the washing machine.\nE. Underneath the washing machine.\nF. Behind the washing machine.\nG. Inside the washing machine.\nH. To the right of the washing machine.",
+        "Question": "When Walter White is in the garage with Holly, where is the hiding spot for the first bundle of cash located relative to the washing machine?"
+      }
+    ]
+  },
+  "87": {
+    "L2_time": "S1#0002-00:30:28.076_S1#0002-00:31:21.421",
+    "L2_frame": "S1#0002-43830_S1#0002-45109",
+    "L3_time": "S1#0002-00:30:28.076_S1#0002-00:34:15.720",
+    "L3_frame": "S1#0002-43830_S1#0002-49288",
+    "L4_time": "S1#0002-00:25:54.303_S1#0002-00:44:14.986",
+    "L4_frame": "S1#0002-37266_S1#0002-63656",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Object Counting",
+        "Options": "A. 3\nB. 1\nC. It is not mentioned\nD. 4\nE. 2\nF. 0",
+        "Question": "When Walter lights his cigarette in the kitchen, how many lighters does he use to accomplish this task?"
+      }
+    ]
+  },
+  "870": {
+    "L2_time": "S2#0012-00:36:50.166_S2#0012-00:37:45.346",
+    "L2_frame": "S2#0012-52991_S2#0012-54314",
+    "L3_time": "S2#0012-00:35:56.780_S2#0012-00:41:11.386",
+    "L3_frame": "S2#0012-51711_S2#0012-59254",
+    "L4_time": "S2#0012-00:17:20.581_S2#0012-00:46:37.670",
+    "L4_frame": "S2#0012-24949_S2#0012-67077",
+    "L5_time": "S2#0001-00:00:00.000_S2#0012-00:46:37.670",
+    "L5_frame": "S2#0001-00000_S2#0012-67077",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Walter White\nB. An anonymous person\nC. Jesse Pinkman\nD. A drug dealer\nE. A bank teller\nF. Jane Margolis",
+        "Question": "After Walter White exits Jane’s apartment, who is the character that pulls out a large stack of cash from a bag?"
+      }
+    ]
+  },
+  "88": {
+    "L2_time": "S1#0002-00:31:21.463_S1#0002-00:32:35.996",
+    "L2_frame": "S1#0002-45110_S1#0002-46897",
+    "L3_time": "S1#0002-00:30:28.076_S1#0002-00:34:15.720",
+    "L3_frame": "S1#0002-43830_S1#0002-49288",
+    "L4_time": "S1#0002-00:25:54.303_S1#0002-00:44:14.986",
+    "L4_frame": "S1#0002-37266_S1#0002-63656",
+    "L5_time": "S1#0001-00:00:00.000_S1#0007-00:47:13.247",
+    "L5_frame": "S1#0001-00000_S1#0007-67930",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Object Presence",
+        "Options": "A. Yes, he proposes dismembering the body\nB. No, he suggests burying it whole\nC. No, he suggests burning it\nD. No, he suggests dissolving it\nE. Yes, but only the limbs\nF. Yes, but only the head",
+        "Question": "Does Walter White's proposed solution for body disposal involve dismemberment?"
+      }
+    ]
+  },
+  "907": {
+    "L2_time": "S3#0001-00:23:37.207_S3#0001-00:24:51.782",
+    "L2_frame": "S3#0001-33979_S3#0001-35767",
+    "L3_time": "S3#0001-00:22:45.364_S3#0001-00:29:14.962",
+    "L3_frame": "S3#0001-32736_S3#0001-42077",
+    "L4_time": "S3#0001-00:22:45.364_S3#0001-00:46:27.910",
+    "L4_frame": "S3#0001-32736_S3#0001-66843",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "G",
+        "Dimension": "Character Change",
+        "Options": "A. Grey and brown\nB. Pink and purple\nC. Orange and white\nD. White and blue\nE. Bright yellow\nF. Red and black\nG. Dark blue",
+        "Question": "In the sun-soaked, dusty rural yard, after changing clothes, what color coat is Leonel wearing?"
+      }
+    ]
+  },
+  "916": {
+    "L2_time": "S3#0001-00:32:57.601_S3#0001-00:34:41.663",
+    "L2_frame": "S3#0001-47415_S3#0001-49910",
+    "L3_time": "S3#0001-00:29:15.003_S3#0001-00:35:17.198",
+    "L3_frame": "S3#0001-42078_S3#0001-50762",
+    "L4_time": "S3#0001-00:22:45.364_S3#0001-00:46:27.910",
+    "L4_frame": "S3#0001-32736_S3#0001-66843",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Action Claim Subject",
+        "Options": "A. Jesse Pinkman\nB. Walter White\nC. The family lawyer\nD. Skyler White\nE. Skyler's therapist\nF. Hank Schrader",
+        "Question": "During the emotional exchange at the wooden table, after reading the contents of the folder, who looks up wounded and incredulous, asking why this is happening?"
+      }
+    ]
+  },
+  "937": {
+    "L2_time": "S3#0002-00:07:38.750_S3#0002-00:08:46.067",
+    "L2_frame": "S3#0002-10999_S3#0002-12613",
+    "L3_time": "S3#0002-00:04:12.752_S3#0002-00:08:46.067",
+    "L3_frame": "S3#0002-06060_S3#0002-12613",
+    "L4_time": "S3#0002-00:00:00.000_S3#0002-00:21:03.971",
+    "L4_frame": "S3#0002-00000_S3#0002-30305",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "A",
+        "Dimension": "Human-Object Relation",
+        "Options": "A. Time magazine\nB. Better Homes and Gardens\nC. The Wall Street Journal\nD. Good Housekeeping\nE. Architectural Digest\nF. Forbes",
+        "Question": "In an awkward attempt to sound supportive about the house renovations, what publication did Jesse cite?"
+      }
+    ]
+  },
+  "946": {
+    "L2_time": "S3#0002-00:16:12.054_S3#0002-00:17:14.367",
+    "L2_frame": "S3#0002-23306_S3#0002-24800",
+    "L3_time": "S3#0002-00:12:18.071_S3#0002-00:21:03.971",
+    "L3_frame": "S3#0002-17696_S3#0002-30305",
+    "L4_time": "S3#0002-00:00:00.000_S3#0002-00:21:03.971",
+    "L4_frame": "S3#0002-00000_S3#0002-30305",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "D",
+        "Dimension": "Character Clothing",
+        "Options": "A. Dark blue\nB. Maroon\nC. Forest green\nD. Bright orange\nE. White\nF. Pale yellow\nG. Black",
+        "Question": "While Skyler White is attempting to make small talk about a part-time job for her son, what is the distinct color of the polo shirt worn by the withdrawn Walter White Jr.?"
+      }
+    ]
+  },
+  "970": {
+    "L2_time": "S3#0002-00:44:04.559_S3#0002-00:44:49.312",
+    "L2_frame": "S3#0002-63406_S3#0002-64479",
+    "L3_time": "S3#0002-00:41:59.809_S3#0002-00:45:29.060",
+    "L3_frame": "S3#0002-60415_S3#0002-65432",
+    "L4_time": "S3#0002-00:21:04.013_S3#0003-00:03:58.155",
+    "L4_frame": "S3#0002-30306_S3#0003-05710",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "F",
+        "Dimension": "Character Clothing",
+        "Options": "A. Tan\nB. Black\nC. Pinstripe\nD. Olive Green\nE. Navy Blue\nF. Brown\nG. Charcoal Grey",
+        "Question": "While standing in the industrial laundry facility before Victor's arrival, what is the color of the suit worn by the meticulously dressed Gus Fring?"
+      }
+    ]
+  },
+  "976": {
+    "L2_time": "S3#0003-00:02:04.333_S3#0003-00:03:02.682",
+    "L2_frame": "S3#0003-02981_S3#0003-04380",
+    "L3_time": "S3#0002-00:45:29.101_S3#0003-00:03:58.155",
+    "L3_frame": "S3#0002-65433_S3#0003-05710",
+    "L4_time": "S3#0002-00:21:04.013_S3#0003-00:03:58.155",
+    "L4_frame": "S3#0002-30306_S3#0003-05710",
+    "L5_time": "S3#0001-00:00:00.000_S3#0013-00:46:25.825",
+    "L5_frame": "S3#0001-00000_S3#0013-66793",
+    "Q&A": [
+      {
+        "Answer": "B",
+        "Dimension": "Body Movement",
+        "Options": "A. He shrugs his shoulders dramatically\nB. He gestures with his fingers\nC. He clasps his hands together\nD. He places a hand over his heart\nE. He winks at Tortuga\nF. He bows his head slightly",
+        "Question": "After Juan Bolsa theatrically apologizes for missing Turtle's birthday at the bar, what specific gesture of mock regret does he make?"
+      }
+    ]
+  }
+}
